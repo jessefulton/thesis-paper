@@ -1,0 +1,935 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass report
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+DANM MFA Thesis Proposal
+\end_layout
+
+\begin_layout Author
+Jesse Fulton
+\end_layout
+
+\begin_layout Date
+2012
+\end_layout
+
+\begin_layout Abstract
+The Internet is largely viewed as embodying and supporting democratic ideals.
+ In fact, the UN has dubbed it 
+\begin_inset Quotes eld
+\end_inset
+
+one of the most powerful instruments of the 21st century for...
+ building democtratic societies.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand cite
+key "UN Internet Rights"
+
+\end_inset
+
+ However, the majority of the most heavily-trafficked web sites are developed
+ and maintained by private companies running closed-source software systems.
+ The monopolization and privatization of the Internet 
+\emph on
+experience
+\emph default
+ counteracts many of the goals and values of the idealized democratic Internet,
+ specifically 
+\begin_inset Quotes eld
+\end_inset
+
+the freedom to hold opinions without interference and to seek, receive and
+ impart information and ideas through any media and regardless of frontiers.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand cite
+key "UN UDHR"
+
+\end_inset
+
+ This freedom is fundamental in ensuring the diversity of global cultures.
+\end_layout
+
+\begin_layout Part*
+Proposal
+\end_layout
+
+\begin_layout Chapter*
+Overview
+\end_layout
+
+\begin_layout Standard
+Like the library before it, the Internet is becoming one of the largest
+ sources of information and culture for networked societies.
+ In fact, it is such a vital source of information that the UN recently
+ declared Internet access to be a basic human right
+\begin_inset CommandInset citation
+LatexCommand cite
+key "UN Internet Rights"
+
+\end_inset
+
+.
+ However, the term 
+\emph on
+access
+\emph default
+ encompasses more than reasonable 
+\emph on
+physical access
+\emph default
+ to a computer with a broadband connection.
+ Building off of the idea of the Internet as a library of documents and
+ artifacts, 
+\emph on
+access
+\emph default
+ to information includes the ability to 
+\emph on
+find
+\emph default
+ information from a plurarility of sources, as well as the ability to 
+\emph on
+discover
+\emph default
+ information.
+\end_layout
+
+\begin_layout Standard
+The role of “information curator” has traditionally been filled by the librarian
+, who not only facilitates information retrieval, but also enables information
+ 
+\emph on
+revelation
+\emph default
+, potentially providing and exposing new sources of information and ideas.
+ Given that librarians generally adhere to a strong code of ethics enabling
+ access to a plurality of sources, it is fair to say that libraries support
+ the development of individual autonomy.
+ In comparison, the 
+\begin_inset Quotes eld
+\end_inset
+
+information curators
+\begin_inset Quotes erd
+\end_inset
+
+ of the Internet are software algorithms developed by private companies
+ such as Google, Facebook, and Amazon.
+ Given their overwhelming presence and near monoply-status, it is fair to
+ say that these companies control online access to information, social interacti
+on, and products - or to put it more succinctly, they control online access
+ to 
+\emph on
+culture
+\emph default
+.
+ This control comes in the form of software algorithms
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Google has PageRank, Facebook has EdgeRank, and Amazon has their product
+ suggestions.
+\end_layout
+
+\end_inset
+
+ which make political decisions during the process of archiving and presenting
+ these digital cultural artifacts
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+There are also political decisions clearly made by humans.
+ For example, does Google uses reCAPTCHA to digitally archive old editions
+ of the New York Times as opposed to documents with a different political
+ or cultural perspectives..
+\end_layout
+
+\end_inset
+
+.
+ In the process displaying information to Internet users, these web sites
+ are also creating new culture through selective, algorithmic re-presentation.
+\end_layout
+
+\begin_layout Standard
+As Lev Manovich explained, software controls our 
+\emph on
+experience
+\emph default
+ of 
+\emph on
+all
+\emph default
+ digital media by explicitly defining every possible interaction with digital
+ objects
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Manovich Only Software"
+
+\end_inset
+
+.
+ In this sense, an image viewed in PhotoShop is quite different from that
+ same image viewed in Preview due to the PhotoShop software allowing far
+ greater image manipulation possibilities than those present in Preview.
+ But software is not limited to the applications one runs on their own computer
+ - the Internet is software.
+ Everything - from the web servers, to the web sites they host, to the algorithm
+s and backend processes those sites implement - is all software.
+ And it is this software which we use to experience the 
+\begin_inset Quotes eld
+\end_inset
+
+digital life-world.
+\begin_inset Quotes erd
+\end_inset
+
+ Digital and networked technologies are becoming significant resources for
+ personal autonomy, but when important realms of the Internet are monopolized
+ and commoditized, the potential for content manipulation on a massive scale
+ is omnipresent.
+ These online empires have recently come under fire for a few such unjust
+ practices
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Facebook has deleted 
+\begin_inset Quotes eld
+\end_inset
+
+inappropriate
+\begin_inset Quotes erd
+\end_inset
+
+ photos of same-sex couples kissing; Google is currently under investigation
+ by the US Senate for 
+\begin_inset Quotes eld
+\end_inset
+
+cooking
+\begin_inset Quotes erd
+\end_inset
+
+ it's search results
+\end_layout
+
+\end_inset
+
+.
+ The potential for such powerful companies to engage in this type of electronic
+ colonialism is real and demands further investigation.
+\end_layout
+
+\begin_layout Chapter*
+MFA Exhibition Projects
+\end_layout
+
+\begin_layout Section*
+Description
+\end_layout
+
+\begin_layout Standard
+Below are the descriptions of the proposed projects.
+ All software developed as part of this thesis will be FLOSS.
+ In addition, the paper itself is written in LaTeX (a fairly human-readable
+ syntax) and will make user of a public version control system to track
+ changes throughout its evolution.
+\end_layout
+
+\begin_layout Subsection*
+Google Views
+\end_layout
+
+\begin_layout Standard
+Google Views is a web browser extension that provides an easily accessible
+ interface for globally modifying Google Search results by configuring advanced
+ search options (
+\begin_inset Quotes eld
+\end_inset
+
+freshness
+\begin_inset Quotes erd
+\end_inset
+
+, 
+\begin_inset Quotes eld
+\end_inset
+
+reading level
+\begin_inset Quotes erd
+\end_inset
+
+, and language), spoofing personalization parameters (bypass all, switch
+ location), and applying post-search filters (including a number of customizable
+ sorting and grouping algorithms.) It will also provide a prominent visual
+ alert to users detailing any 
+\begin_inset Quotes eld
+\end_inset
+
+customization details
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+information provided by Google regarding rough data used to personalize
+ of search results
+\end_layout
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+ used to generate the personalized search results.
+ This will constitute the functionality of the initial release.
+\end_layout
+
+\begin_layout Standard
+The second release of the Google Views extension will have options to send
+ anonymized search results and 
+\begin_inset Quotes eld
+\end_inset
+
+click
+\begin_inset Quotes erd
+\end_inset
+
+ data to the Everybody's Google web application.
+ After 
+\begin_inset Quotes eld
+\end_inset
+
+opting in
+\begin_inset Quotes erd
+\end_inset
+
+ to Everybody's Google integration, the application will supplement live
+ search results with other extension users' archived search results for
+ similar search queries.
+\end_layout
+
+\begin_layout Subsection*
+Everybody's Google
+\end_layout
+
+\begin_layout Standard
+Everybody’s Google is a web application which integrates with the Google
+ Views extension to mine anonymized
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+containing no personally identifiable information
+\end_layout
+
+\end_inset
+
+
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+given the debacle of the 
+\begin_inset Quotes eld
+\end_inset
+
+AOL search data leak
+\begin_inset Quotes erd
+\end_inset
+
+ it is still undecided as to whether users will be given anonymous IDs in
+ order to provide the ability to analyze and to track one's own histories
+\end_layout
+
+\end_inset
+
+, personalized
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+filtered by Google's personalization algorithms
+\end_layout
+
+\end_inset
+
+ Google Search data.
+ Mined search results are grouped together based upon similarity of query
+ terms.
+ The individual items in each result set are analyzed and scored for 
+\begin_inset Quotes eld
+\end_inset
+
+different-ness
+\begin_inset Quotes erd
+\end_inset
+
+ from other result sets within the same query group.
+ For example, ten sets of nearly identical search results will receive a
+ fairly low score, whereas ten sets of highly different search results will
+ receive a relatively high score.
+ The score will be calculated using an extension of Spearman's footrule
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://www.jasonmorrison.net/iakm/cited/Bar-Ilan_Judit_comparing_rankings.pdf
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+The Google Views extension will also send Everybody's Google details of
+ links clicked from the Google Search results page (also grouped by search
+ query terms.) This information will be used to build the primary interface
+ of the website, which will tell the 
+\begin_inset Quotes eld
+\end_inset
+
+story
+\begin_inset Quotes erd
+\end_inset
+
+ of search terms through the web pages visited.
+ This information will be used to generate Search Stories for Humans.
+ The website will also have various views to browse the various resultset
+ data (sans clicks) such as: 
+\begin_inset Quotes eld
+\end_inset
+
+most recent
+\begin_inset Quotes erd
+\end_inset
+
+, 
+\begin_inset Quotes eld
+\end_inset
+
+most different
+\begin_inset Quotes erd
+\end_inset
+
+, and 
+\begin_inset Quotes eld
+\end_inset
+
+by query terms.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection*
+Web Pages for Humans/Search Stories for Humans
+\end_layout
+
+\begin_layout Standard
+Web Pages for Humans is a web application which creates a version of the
+ Internet which is only readable by humans.
+ Screen-scraping technology will be used to generate images of web pages
+ which are then processed by OCR software to find machine-readable text
+ on the page.
+ This text is then manipulated and distorted using CAPTCHA algorithms to
+ create a machine-
+\emph on
+un
+\emph default
+readable version of that web page.
+ Search Stories for Humans is a series of prints depicting a selection of
+ 
+\begin_inset Quotes eld
+\end_inset
+
+stories
+\begin_inset Quotes erd
+\end_inset
+
+ from Everybody's Google modified by this software.
+\end_layout
+
+\begin_layout Section*
+Rationale
+\end_layout
+
+\begin_layout Standard
+I'm interested in exploring issues of transparency, autonomy, and agency
+ with regards to technology, specifically the Internet or networked devices.
+ As the power, affordability, and ubiquity of digital technologies exponentially
+ increases, so does the necessity to study the cultural impact of these
+ systems.
+ While most think of these technologies as 
+\emph on
+things
+\emph default
+, I view them primarily as software and software systems.
+ Without hardware to run on, software as we know it would not exist; yet
+ without software, hardware (and the infrastructures required to build and
+ run them) would be useless.
+ We only experience the digital through software.
+ While there are systems of policies, guidelines, and reviews of hardware
+ technologies and infrastructures, only recently have software algorithms
+ been seriously called into question, primarily due to monoplistic practices
+ and unfair market influence
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Lee vs. Google"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+The work for my MFA project largely focuses around Google, primarily because
+ it is such a large part of my own personal Internet experience.
+ I'm constantly connected to my Gmail, Google Calendar, Google Search not
+ just on my computer, but also on my Android phone.
+ I also route all of my phone calls through Google voice.
+ I love the services Google provides, but sometimes it feels like Google
+ knows me better than does my own mother.
+\end_layout
+
+\begin_layout Standard
+For a while now, Google has been a target of privacy advocate, scholars,
+ and artists.
+ At Transmediale 2010, F.A.T.
+ lab initiated FuckGoogle, 
+\begin_inset Quotes eld
+\end_inset
+
+a collection of browser add-ons, open source software, theoretical musings
+ and direct actions aimed at creating an awareness of the role Google plays
+ in our daily lives.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://fffff.at/fuck-google/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+.
+ One of the notable projects to come out of this effort was Jamie Wilkinson's
+ Google Alarm extension for Firefox
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://jamiedubs.com/googlealarm/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+.
+ Whenever personal information is sent to Google servers through tracking
+ cookies, an alarm horn sound clip is played over the user's computer speakers,
+ transforming a normally silent intrusion of privacy into an extremely visceral
+ and prominent event.
+ The project also elucidates the omni-presence of Google - Google is constantly
+ tracking individual behavior in order to personalize the web (and to serve
+ hyper-targeted advertisements.) Google Views & Everybody's Google attempt
+ give power of personalization back to the user, and to create a story of
+ the various life-worlds Google presents through its personalization algorithms.
+ Personalization algorithms are important not just because of the curated
+ information they present, but also because of the information which they
+ omit.
+\end_layout
+
+\begin_layout Standard
+Another related project is Newstweek
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://newstweek.com/overview
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ by Julian Oliver and Danja Vasiliev.
+ Newstweek is a device which hijacks 
+\begin_inset Quotes eld
+\end_inset
+
+Free WiFi
+\begin_inset Quotes erd
+\end_inset
+
+ Hotspots by posing as the Hotspot's router.
+ It then allows the Newstweek administrator to transparently manipulate
+ web page content from news sites before they reach a user's web browser.
+ While the target of these subversive attacks is news media rather than
+ software algorithms, the project clearly demonstrates the necessity to
+ just question the content itself or its sources, but also how it gets to
+ your screen.
+\end_layout
+
+\begin_layout Standard
+With regards to the 
+\begin_inset Quotes eld
+\end_inset
+
+performance
+\begin_inset Quotes erd
+\end_inset
+
+ aspect of Everybody's Google (users becoming actors in the story), there
+ are two online pieces which I am reminded of: I'm Here and There
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://imhereandthere.com/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ by Jonas Lund and KeyTweeter
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://kylemcdonald.net/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ by Kyle McDonald.
+ Both of these break down the barrier between the private space of one's
+ home or office and the public space of the Internet by posting personal
+ user interactions or activities directly to the web in real time.
+ This creates a transparency of computer use, but also blurs the lines between
+ public/private and real/virtual.
+\end_layout
+
+\begin_layout Standard
+Web Pages for Humans addresses the codification of culture.
+ reCAPTCHA is a project (now run by Google) used to help 
+\begin_inset Quotes eld
+\end_inset
+
+digitize
+\begin_inset Quotes erd
+\end_inset
+
+ books, newspapers, and documents by exploiting human labour to decipher
+ words which OCR algorithms are unable of 
+\begin_inset Quotes eld
+\end_inset
+
+understanding.
+\begin_inset Quotes erd
+\end_inset
+
+ These cultural artifacts are thus transformed into machine-readable files.
+ Web Pages for Humans flips this model around, taking machine-generated,
+ machine-readable documents and manipulating them with the CAPTCHA distortion
+ algorithms to ensure that computers can no longer read their own content.
+ Taken a step further, the physical prints of Search Stories for Humans
+ remove the digital representation, creating a format that can truly only
+ be read by humans.
+\end_layout
+
+\begin_layout Standard
+Aram Barthol did something related with his project Are you Human?
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://datenform.de/areyouhumaneng.html
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ In essence, CAPTCHAs demonstrate the human intervention and cultural knowledge
+ required to decipher signs of written language.
+ By placing physical CAPTCHAs on walls heavily covered by graffiti tags,
+ Barthol is making a connection from the process of deciphering and interpretati
+on of digital signs to the signs used in graffiti culture.
+ A graffiti tag is a sign for tagger as well a a representation of the tagging
+ process itself.
+ Similarly, CAPTCHAs signify not so much the underlying meaning of the word
+ depicted, but rather the processes of scanning, distorting, and deciphering.
+\end_layout
+
+\begin_layout Standard
+Finally, Bicycle Built for Two Thousand
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://www.bicyclebuiltfortwothousand.com/info.html
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ by Aaron Koblin and Daniel Massey is a great example of reintroducing the
+ human element back into a computer's representation culture.
+ Users of Amazon's Mechanical Turk recorded their interpretations sound
+ clips from computer singing 
+\begin_inset Quotes eld
+\end_inset
+
+Daisy Bell
+\begin_inset Quotes erd
+\end_inset
+
+ (the first song ever sung by a computer.) These samples were then combined
+ together to reproduce the original track using human voices as opposed
+ to computer-synthesized sounds creating a human-ized version of a digital
+ artifact.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "Free Software Free Society"
+
+\end_inset
+
+Richard M.
+ Stallman, Free Software, Free Society, 2nd Edition (Boston, MA: Free Software
+ Foundation, 2010).
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "UN UDHR"
+
+\end_inset
+
+UN Universal Declaration on Human Rights http://www.un.org/en/documents/udhr/index.
+shtml#a19
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "Rieder"
+
+\end_inset
+
+Rieder, Bernhard.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Democratizing Search?
+\begin_inset Quotes erd
+\end_inset
+
+ Deep Search: The Politics of Search beyond Google.
+ Ed.
+ Konrad Becker & Felix Stalder.
+ Piscataway, NJ: Transaction Publishers, 2009.
+ 133-151.
+ Print
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "Manovich Only Software"
+
+\end_inset
+
+Manovich, Lev.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+There is Only Software.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "UN Internet Rights"
+
+\end_inset
+
+The United Nations Human Rights Council, "Report of the Special Rapporteur
+ on the promotion and protection of the right to freedom of opinion and
+ expression," (2011).
+ http://documents.latimes.com/un-report-internet-rights/ (accessed 11 November
+ 2011)
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "Lee vs. Google"
+
+\end_inset
+
+Mike Zapler, Mike Lee calls for closer look at Google, 3 11, 2011, http://www.pol
+itico.com/news/stories/0311/51152.html (accessed 11 1, 2011).
+\end_layout
+
+\end_body
+\end_document
