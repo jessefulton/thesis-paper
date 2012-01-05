@@ -291,101 +291,29 @@ cooking
 \end_layout
 
 \begin_layout Chapter*
-MFA Exhibition Projects
+Projects & Rationale
+\end_layout
+
+\begin_layout Standard
+I'm interested in exploring issues of transparency, autonomy, and agency
+ with regards to technology, specifically web-based software and information
+ systems.
+ As the power, affordability, and ubiquity of digital technologies exponentially
+ increases, so does the necessity to study the cultural impact of these
+ systems.
+ The projects for my MFA project largely focuses around Google, not just
+ because it dominates own personal Internet experience, but also because
+ Google's infiltration of third-party websites through embedded search,
+ advertising, and analytics functionality.
 \end_layout
 
 \begin_layout Section*
-Description
-\end_layout
-
-\begin_layout Standard
-Below are the descriptions of the proposed projects.
- All software developed as part of this thesis will be FLOSS.
- In addition, the paper itself is written in LaTeX (a fairly human-readable
- syntax) and will make user of a public version control system to track
- changes throughout its evolution.
-\end_layout
-
-\begin_layout Subsection*
-Google Views
-\end_layout
-
-\begin_layout Standard
-Google Views is a web browser extension that provides an easily accessible
- interface for globally modifying Google Search results by configuring advanced
- search options (
-\begin_inset Quotes eld
-\end_inset
-
-freshness
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-reading level
-\begin_inset Quotes erd
-\end_inset
-
-, and language), spoofing personalization parameters (bypass all, switch
- location), and applying post-search filters (including a number of customizable
- sorting and grouping algorithms.) It will also provide a prominent visual
- alert to users detailing any 
-\begin_inset Quotes eld
-\end_inset
-
-customization details
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-information provided by Google regarding rough data used to personalize
- of search results
-\end_layout
-
-\end_inset
-
-
-\begin_inset Quotes erd
-\end_inset
-
- used to generate the personalized search results.
- This will constitute the functionality of the initial release.
-\end_layout
-
-\begin_layout Standard
-The second release of the Google Views extension will have options to send
- anonymized search results and 
-\begin_inset Quotes eld
-\end_inset
-
-click
-\begin_inset Quotes erd
-\end_inset
-
- data to the Everybody's Google web application.
- After 
-\begin_inset Quotes eld
-\end_inset
-
-opting in
-\begin_inset Quotes erd
-\end_inset
-
- to Everybody's Google integration, the application will supplement live
- search results with other extension users' archived search results for
- similar search queries.
-\end_layout
-
-\begin_layout Subsection*
-Everybody's Google
+Everybody's Google & Google Views
 \end_layout
 
 \begin_layout Standard
 Everybody’s Google is a web application which integrates with the Google
- Views extension to mine anonymized
+ Views browser extension to mine anonymized
 \begin_inset Foot
 status collapsed
 
@@ -424,104 +352,10 @@ filtered by Google's personalization algorithms
 
 \end_inset
 
- Google Search data.
- Mined search results are grouped together based upon similarity of query
+ Google Search data, as well as details of links clicked from the Google
+ Search results page, all of which are grouped together by search query
  terms.
- The individual items in each result set are analyzed and scored for 
-\begin_inset Quotes eld
-\end_inset
-
-different-ness
-\begin_inset Quotes erd
-\end_inset
-
- from other result sets within the same query group.
- For example, ten sets of nearly identical search results will receive a
- fairly low score, whereas ten sets of highly different search results will
- receive a relatively high score.
- The score will be calculated using an extension of Spearman's footrule
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-\begin_inset Flex URL
-status collapsed
-
-\begin_layout Plain Layout
-
-http://www.jasonmorrison.net/iakm/cited/Bar-Ilan_Judit_comparing_rankings.pdf
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-.
-\end_layout
-
-\begin_layout Standard
-The Google Views extension will also send Everybody's Google details of
- links clicked from the Google Search results page (also grouped by search
- query terms.) This information will be used to build the primary interface
- of the website, which will tell the 
-\begin_inset Quotes eld
-\end_inset
-
-story
-\begin_inset Quotes erd
-\end_inset
-
- of search terms through the web pages visited.
- This information will be used to generate Search Stories for Humans.
- The website will also have various views to browse the various resultset
- data (sans clicks) such as: 
-\begin_inset Quotes eld
-\end_inset
-
-most recent
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-most different
-\begin_inset Quotes erd
-\end_inset
-
-, and 
-\begin_inset Quotes eld
-\end_inset
-
-by query terms.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Subsection*
-Web Pages for Humans/Search Stories for Humans
-\end_layout
-
-\begin_layout Standard
-Web Pages for Humans is a web application which creates a version of the
- Internet which is only readable by humans.
- Screen-scraping technology will be used to generate images of web pages
- which are then processed by OCR software to find machine-readable text
- on the page.
- This text is then manipulated and distorted using CAPTCHA algorithms to
- create a machine-
-\emph on
-un
-\emph default
-readable version of that web page.
- Search Stories for Humans is a series of prints depicting a selection of
- 
+ This information will then be used to tell the 
 \begin_inset Quotes eld
 \end_inset
 
@@ -529,66 +363,56 @@ stories
 \begin_inset Quotes erd
 \end_inset
 
- from Everybody's Google modified by this software.
-\end_layout
-
-\begin_layout Section*
-Rationale
+ of search terms through the personalized results which are returned as
+ well as the web pages those users visit.
 \end_layout
 
 \begin_layout Standard
-I'm interested in exploring issues of transparency, autonomy, and agency
- with regards to technology, specifically the Internet or networked devices.
- As the power, affordability, and ubiquity of digital technologies exponentially
- increases, so does the necessity to study the cultural impact of these
- systems.
- While most think of these technologies as 
-\emph on
-things
-\emph default
-, I view them primarily as software and software systems.
- Without hardware to run on, software as we know it would not exist; yet
- without software, hardware (and the infrastructures required to build and
- run them) would be useless.
- We only experience the digital through software.
- While there are systems of policies, guidelines, and reviews of hardware
- technologies and infrastructures, only recently have software algorithms
- been seriously called into question, primarily due to monopolistic practices
- and unfair market influence
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Lee vs. Google"
-
-\end_inset
-
-.
-\end_layout
-
-\begin_layout Standard
-The work for my MFA project largely focuses around Google, primarily because
- it is such a large part of my own personal Internet experience.
- I'm constantly connected to my Gmail, Google Calendar, Google Search not
- just on my computer, but also on my Android phone.
- I also route all of my phone calls through Google voice.
- I love the services Google provides, but sometimes it feels like Google
- knows me better than does my own mother.
-\end_layout
-
-\begin_layout Standard
-For a while now, Google has been a target of privacy advocate, scholars,
- and artists.
- At Transmediale 2010, F.A.T.
- lab initiated FuckGoogle, 
+Google Views is a web browser extension that modifies the Google search
+ results page to include an easily accessible interface for globally modifying
+ Google Search results by configuring advanced search options, spoofing
+ personalization parameters, and applying post-search filters (including
+ a number of customizable sorting and grouping algorithms.) It will also
+ inject a prominent visual alert into the page detailing any 
 \begin_inset Quotes eld
 \end_inset
 
-a collection of browser add-ons, open source software, theoretical musings
- and direct actions aimed at creating an awareness of the role Google plays
- in our daily lives.
-\begin_inset Quotes erd
+customization details
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+information provided by Google regarding rough data used to personalize
+ of search results
+\end_layout
+
 \end_inset
 
 
+\begin_inset Quotes erd
+\end_inset
+
+ used to generate the personalized search results.
+ There will also be an option to integrate with the Everybody's Google web
+ application.
+ This option will not only send anonymized search results and 
+\begin_inset Quotes eld
+\end_inset
+
+click
+\begin_inset Quotes erd
+\end_inset
+
+ data to the web application, but will also supplement live search results
+ with other extension users' archived search results for similar search
+ queries.
+\end_layout
+
+\begin_layout Standard
+Google is constantly tracking individual behavior in order to personalize
+ the web (and to serve hyper-targeted advertisements.) In line with previous
+ work done at F.A.T.
+ Lab these two projects attempt to elucidate that omnipresence
 \begin_inset Foot
 status collapsed
 
@@ -608,9 +432,7 @@ http://fffff.at/fuck-google/
 
 \end_inset
 
-.
- One of the notable projects to come out of this effort was Jamie Wilkinson's
- Google Alarm extension for Firefox
+
 \begin_inset Foot
 status collapsed
 
@@ -631,124 +453,52 @@ http://jamiedubs.com/googlealarm/
 \end_inset
 
 .
- Whenever personal information is sent to Google servers through tracking
- cookies, an alarm horn sound clip is played over the user's computer speakers,
- transforming a normally silent intrusion of privacy into an extremely visceral
- and prominent event.
- The project also elucidates the omni-presence of Google - Google is constantly
- tracking individual behavior in order to personalize the web (and to serve
- hyper-targeted advertisements.) Google Views & Everybody's Google attempt
- give power of personalization back to the user, and to create a story of
- the various life-worlds Google presents through its personalization algorithms.
- Personalization algorithms are important not just because of the curated
- information they present, but also because of the information which they
- omit.
-\end_layout
-
-\begin_layout Standard
-Another related project is Newstweek
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-\begin_inset Flex URL
-status collapsed
-
-\begin_layout Plain Layout
-
-http://newstweek.com/overview
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
- by Julian Oliver and Danja Vasiliev.
- Newstweek is a device which hijacks 
+ They also actualize the various digital life-worlds Google presents through
+ its personalization algorithms through the digital artifacts (
 \begin_inset Quotes eld
 \end_inset
 
-Free WiFi
+stories
 \begin_inset Quotes erd
 \end_inset
 
- Hotspots by posing as the Hotspot's router.
- It then allows the Newstweek administrator to transparently manipulate
- web page content from news sites before they reach a user's web browser.
- While the target of these subversive attacks is news media rather than
- software algorithms, the project clearly demonstrates the necessity to
- just question the content itself or its sources, but also how it gets to
- your screen.
+) generated through browsing actions.
+\end_layout
+
+\begin_layout Section*
+Web Pages for Humans/Search Stories for Humans
 \end_layout
 
 \begin_layout Standard
-With regards to the 
+Web Pages for Humans is a web application which creates a version of the
+ Internet which is only readable by humans.
+ Screen-scraping technology is used to generate images of web pages which
+ are then processed by OCR software to find machine-readable text on the
+ page.
+ This text is then manipulated and distorted within the image using CAPTCHA
+ algorithms to create a machine-
+\emph on
+un
+\emph default
+readable version of that web page.
+ Search Stories for Humans is a series of prints depicting a selection of
+ 
 \begin_inset Quotes eld
 \end_inset
 
-performance
+stories
 \begin_inset Quotes erd
 \end_inset
 
- aspect of Everybody's Google (users becoming actors in the story), there
- are two online pieces which I am reminded of: I'm Here and There
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-\begin_inset Flex URL
-status collapsed
-
-\begin_layout Plain Layout
-
-http://imhereandthere.com/
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
- by Jonas Lund and KeyTweeter
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-\begin_inset Flex URL
-status collapsed
-
-\begin_layout Plain Layout
-
-http://kylemcdonald.net/
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
- by Kyle McDonald.
- Both of these break down the barrier between the private space of one's
- home or office and the public space of the Internet by posting personal
- user interactions or activities directly to the web in real time.
- This creates a transparency of computer use, but also blurs the lines between
- public/private and real/virtual.
+ from Everybody's Google modified by this software.
 \end_layout
 
 \begin_layout Standard
-Web Pages for Humans addresses the codification of culture.
- reCAPTCHA is a project (now run by Google) used to help 
+Google's reCAPTCHA project 
 \begin_inset Quotes eld
 \end_inset
 
-digitize
+digitizes
 \begin_inset Quotes erd
 \end_inset
 
@@ -761,17 +511,17 @@ understanding.
 \begin_inset Quotes erd
 \end_inset
 
- These cultural artifacts are thus transformed into machine-readable files.
+ These cultural artifacts are thus transformed into machine-readable computer
+ files.
  Web Pages for Humans flips this model around, taking machine-generated,
  machine-readable documents and manipulating them with the CAPTCHA distortion
  algorithms to ensure that computers can no longer read their own content.
  Taken a step further, the physical prints of Search Stories for Humans
  remove the digital representation, creating a format that can truly only
  be read by humans.
-\end_layout
-
-\begin_layout Standard
-Aram Barthol did something related with his project Are you Human?
+ Although they take different approaches, two other projects which address
+ the codification of culture come to mind when discussing Web Pages for
+ Humans/Search Stories for Humans: Are you Human?
 \begin_inset Foot
 status collapsed
 
@@ -791,19 +541,7 @@ http://datenform.de/areyouhumaneng.html
 
 \end_inset
 
- In essence, CAPTCHAs demonstrate the human intervention and cultural knowledge
- required to decipher signs of written language.
- By placing physical CAPTCHAs on walls heavily covered by graffiti tags,
- Barthol is making a connection from the process of deciphering and interpretati
-on of digital signs to the signs used in graffiti culture.
- A graffiti tag is a sign for tagger as well a a representation of the tagging
- process itself.
- Similarly, CAPTCHAs signify not so much the underlying meaning of the word
- depicted, but rather the processes of scanning, distorting, and deciphering.
-\end_layout
-
-\begin_layout Standard
-Finally, Bicycle Built for Two Thousand
+ by Aram Barthol and Bicycle Built for Two Thousand
 \begin_inset Foot
 status collapsed
 
@@ -823,21 +561,30 @@ http://www.bicyclebuiltfortwothousand.com/info.html
 
 \end_inset
 
- by Aaron Koblin and Daniel Massey is a great example of reintroducing the
- human element back into a computer's representation culture.
- Users of Amazon's Mechanical Turk recorded their interpretations sound
- clips from computer singing 
-\begin_inset Quotes eld
+ by by Aaron Koblin and Daniel Massey.
+ 
+\end_layout
+
+\begin_layout Chapter*
+Appendix
+\end_layout
+
+\begin_layout Standard
+In line with the Free Software philosophy, everything developed as part
+ of this thesis (including all writings) will be made publicly available
+ at 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+https://github.com/jessefulton
+\end_layout
+
 \end_inset
 
-Daisy Bell
-\begin_inset Quotes erd
-\end_inset
-
- (the first song ever sung by a computer.) These samples were then combined
- together to reproduce the original track using human voices as opposed
- to computer-synthesized sounds creating a human-ized version of a digital
- artifact.
+ throughout development process.
+ All software developed will be FLOSS.
 \end_layout
 
 \begin_layout Bibliography
