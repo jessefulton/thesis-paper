@@ -1,0 +1,223 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Enumerate
+What topic/issue/area does this artwork explore, and why?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+EG
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+digital life
+\end_layout
+
+\begin_layout Enumerate
+(privatization of) information
+\end_layout
+
+\begin_layout Enumerate
+knowledge/autonomy
+\end_layout
+
+\begin_layout Enumerate
+digital democracy & 
+\begin_inset Quotes eld
+\end_inset
+
+net neutrality
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+OCR
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+digital culture
+\end_layout
+
+\begin_layout Enumerate
+digitization of cultural artifacts
+\end_layout
+
+\begin_layout Enumerate
+the cyclical nature of those two
+\end_layout
+
+\begin_layout Enumerate
+free labour
+\end_layout
+
+\begin_layout Enumerate
+appropriation
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Enumerate
+What are the expected outcomes of the artwork (e.g.
+ consciousness raising, community change, technical innovation, humor, interacti
+ve collaboration, quiet reception, etc.)?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+EG
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+raise awareness of search (& web) personalization - that there are 
+\begin_inset Quotes eld
+\end_inset
+
+multiple googles
+\begin_inset Quotes erd
+\end_inset
+
+ or multiple views of the same internet regardless of whether we ask for
+ it
+\end_layout
+
+\begin_layout Enumerate
+a new media literacy, questioning Google's black-box - responsibility to
+ be more transparent, to offer different methods of ranking?
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+OCR
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+light-hearted
+\end_layout
+
+\begin_layout Enumerate
+exposure to reCAPTCHA process
+\end_layout
+
+\begin_layout Enumerate
+question how companies are using computers to 
+\begin_inset Quotes eld
+\end_inset
+
+learn
+\begin_inset Quotes erd
+\end_inset
+
+ (/summarize/define), and create culture
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Enumerate
+Why is this artwork significant or important (i.e.
+ why should anyone care about it)? 
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Cuz it's fucking awesome
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+Privatized public space - who owns the internet? We do? No, there's a gateway
+ - we must access the internet through these other intermediaries - they
+ control our experience.
+ They suggest and control what we can see, they open the door to possibilities
+ - they reveal information.
+ yet in the same sense they limit us and withhold information.
+ Necessary evil.
+\end_layout
+
+\begin_layout Standard
+space-time collapsed.
+ Near-present archiving and documentation.
+ This is what's different about historical archiving and the current method
+ of experiencing and spreading culture digitally.
+ Historical culture vs.
+ contemporary culture.
+ The immediacy lends itself to the cyclical nature of internet culture,
+ memes, etc.
+ infiltrating and meshing with contemporary life.
+\end_layout
+
+\begin_layout Standard
+TOOLS: a means to an end (see rambling in UCSC folder)........
+ TV culture, radio culture, the mere presence of these technologies changed
+ the way people interacted (which came first?) Electricity? Fire? Farming/agricu
+lture? Internet as a tool?
+\end_layout
+
+\end_body
+\end_document

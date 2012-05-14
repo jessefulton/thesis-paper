@@ -1,0 +1,464 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Section*
+Introduction
+\end_layout
+
+\begin_layout Enumerate
+What topic/issue/area does this artwork explore, and why?
+\end_layout
+
+\begin_layout Enumerate
+What are the expected outcomes of the artwork (e.g.
+ consciousness raising, community change, technical innovation, humor, interacti
+ve collaboration, quiet reception, etc.)?
+\end_layout
+
+\begin_layout Enumerate
+Why is this artwork significant or important (i.e.
+ why should anyone care about it)? 
+\end_layout
+
+\begin_layout Section*
+Literature Review/Historical Context
+\end_layout
+
+\begin_layout Standard
+The literature review should describe 4-6 artworks that are conceptually,
+ materially, formally or technically related to the thesis project.
+ These should be considered significant precedents that influence or shape
+ the final project, intellectually or procedurally.
+ Devote 2 pages to each of these examples, first carefully describing the
+ artwork (1.5 pages) and then articulating how it relates to the student's
+ thesis project (.5 pages).
+\end_layout
+
+\begin_layout Enumerate
+The Politics of Search
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+The Library of Babel
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Synopsis
+\end_layout
+
+\begin_layout Enumerate
+Nothing was found
+\end_layout
+
+\begin_layout Enumerate
+The internet - truly infinite
+\end_layout
+
+\begin_layout Enumerate
+The need for search engines
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+How code works (Reas, Lessig, Manovich)
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+no room for interpretation - it is explicit
+\end_layout
+
+\begin_layout Enumerate
+code is not found, it is designed, and it is designed by a person
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Quotes eld
+\end_inset
+
+its architecture is its politics
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+code as law
+\end_layout
+
+\begin_layout Enumerate
+Read/Write access and permissions (user, administrator/root)
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+The politics of search/coding/software
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Internet + Culture
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Internet as space
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Public sphere (free speech? - Soraya's paper)
+\end_layout
+
+\begin_layout Enumerate
+Internet access a basic human right (UN, philosophical ideas of autonomy,
+ access, education, etc.)
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+why?
+\end_layout
+
+\begin_layout Enumerate
+importance of networked technologies
+\end_layout
+
+\begin_layout Enumerate
+Internet/digital prevalence and importance
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Enumerate
+software as body (software as prosthetic?)
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Interactions in the digital occur through software
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Internet as privatized public space
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Privatization is a necessity
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+information overload - 
+\begin_inset Quotes eld
+\end_inset
+
+white out
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Software interfaces/selective retrieval (or filtering) - privatized, code;
+ hardware infrastructures/censorship - governments, geographies, construction
+ and building new lines & server farms, etc...
+ [does this relate to government influence, lobbying, etc.? Network neutrality
+ & slowing down bit torrent, VOIP, etc.?]
+\end_layout
+
+\begin_layout Enumerate
+Not focusing on government's role (or censorship) - focusing on privatized
+ internet
+\end_layout
+
+\begin_layout Enumerate
+Not addressing privacy concerns
+\end_layout
+
+\begin_layout Enumerate
+Privatized public space
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Privatized commons?
+\end_layout
+
+\begin_layout Enumerate
+Privatizing natural resources (water, sunlight, air quality)? What about
+ food industry? (Govt...
+ Borders & Boundaries - international waters, airspace, web servers?)
+\end_layout
+
+\end_deeper
+\end_deeper
+\end_deeper
+\begin_layout Enumerate
+Internet Economics
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Economics of the internet (The Political Economy of the Internet)
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+The Cognitive Economy
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Advertising
+\end_layout
+
+\begin_layout Enumerate
+Ranking algorithms --> attention economy
+\end_layout
+
+\begin_layout Enumerate
+privacy/surveillance + lack of transparency + monopoly
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Enumerate
+Finding information - search, filtering, news feeds, social circles, etc.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Privatized technologies --> control of access
+\end_layout
+
+\begin_layout Enumerate
+Filtering algorithms --> limitations of access
+\end_layout
+
+\begin_layout Enumerate
+Privatized filtering algorithms --> black box --> lack of agency
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Personalization Algorithms
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Privatized technologies --> cultural imperialism --> lack of plurality (personal
+ization)
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Enumerate
+Privatization, Power and Influence
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Power Structures
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Privatization of information
+\end_layout
+
+\begin_layout Enumerate
+Cultural Imperialism (tie into personalization)
+\end_layout
+
+\begin_layout Enumerate
+Abuses of power/subversion (Google Bomb, Google Bowling, Overzealous Spam
+ Flagging) and 
+\begin_inset Quotes eld
+\end_inset
+
+real=world
+\begin_inset Quotes erd
+\end_inset
+
+ implications
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Power of the default
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+presentation of options vs.
+ awareness of ability to change/customize settings
+\end_layout
+
+\begin_layout Enumerate
+Power is not having an increasing number of available choices, it's...
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Section*
+Overview of Thesis Project
+\end_layout
+
+\begin_layout Subsection*
+Everybody's Google
+\end_layout
+
+\begin_layout Standard
+blah blah blah
+\end_layout
+
+\begin_layout Subsection*
+Ocular Character Recognition (Webpages for Humans, CAPTCHA-fy!, Serendipity
+ Engine)
+\end_layout
+
+\begin_layout Standard
+blah blah blah
+\end_layout
+
+\begin_layout Standard
+Webpages for Humans questions our notion of archiving and digital culture.
+ Physical objects -> digital representations -> ? What happens to the digital
+ represetnations.
+ People forget about the physicality of the digital - web sites and data
+ are transmitted over cables, applications are run from servers in warehouses
+ full of servers (data farms.) When power goes down in silicon valley or
+ a bomb is detonated at a server farm, what happens to not just our data,
+ but our lives? As we come to live and exeperience more through the digital,
+ having a single point of failure can drastically change blah blah blah.
+ As we forget about the physical or replace/supplant it with digital representat
+ions, how do we prepare for the inevitable evolution (of technology mediated
+ communication) or disappearance of the current digital form?
+\end_layout
+
+\begin_layout Standard
+The webpages we view are visual representations of an underlying structure,
+ and underlying code, syntax, and semantics.
+ A parser/interpreter takes codes and turns it into a visual form.
+ Webpages for Humans manipulates both of these forms simultaneously in replacing
+ the machine-readable text, both in the presentation layer 
+\series bold
+and
+\series default
+ in the underlying code, and replacing it with images/DataURIs.
+\end_layout
+
+\begin_layout Standard
+(NOTES: The overview should give readers a clear sense of the thesis project
+ and develop in greater depth the ideas mentioned in the introduction.
+ 1.
+ Formal description of the project: 2 pages a.
+ what does it look like? b.
+ how does it work? c.
+ how will it function and be seen in the gallery or online? 2.
+ Conceptual description of the project: 4 pages a.
+ what ideas is it exploring? b.
+ what theoretical vocabularies is it engaging? c.
+ what intellectual and artistic traditions is it expanding? 3.
+ Procedural/technical description of the project: 4 pages a.
+ what were the technical obstacles overcome? b.
+ how was the artwork built/designed? c.
+ were there any important innovations in the construction of the work? d.
+ what were the mechanical challenges and how were they met? 4.
+ Goals of the project and expected outcomes: 2-4 pages a.
+ who/where is the ideal audience? (i.e.
+ online, offline, art gallery, specific ethnic community, bloggers, etc.)?
+ b.
+ how will they (hopefully) engage the artwork (i.e.
+ once, multiple times, tactile contact, keyboard, observation, participation,
+ etc.)? c.
+ what will the audience get from the experience (i.e.
+ feeling of community membership, laughter, anger, pleasure, information
+ about a critical social issue, all of the above, etc.) )
+\end_layout
+
+\begin_layout Section*
+Conclusion
+\end_layout
+
+\begin_layout Standard
+The conclusion is the place to reflect on the artwork as implemented in
+ the MFA exhibition.
+ Did it succeed? How could it have been improved? What were the challenges
+ that were overcome (or not) at the last minute? What was the difference
+ between the desired audience response and actual audience response? What
+ will the next iteration of this project look like? How does this work relate
+ to the student's repertoire and larger body of work, both in the past and
+ potentially in the future? What other general conclusions about this artwork
+ (or other artworks) can be drawn from the ideas explored during the thesis
+ project?
+\end_layout
+
+\end_body
+\end_document

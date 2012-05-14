@@ -1,0 +1,1037 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Part
+Overview2
+\end_layout
+
+\begin_layout Standard
+Freedom of expression and application to libraries
+\end_layout
+
+\begin_layout Standard
+why is this important? (Freedom of expression --> moral autonomy; culture;
+ political empowerment)
+\end_layout
+
+\begin_layout Standard
+Internet access as a human right
+\end_layout
+
+\begin_layout Standard
+who runs the internet?/how does the internet work?
+\end_layout
+
+\begin_layout Standard
+internet as space (just as a reader creates a mental space while traversing
+ the pages of a book, the surfer does the same while traversing the pages
+ of the web.)
+\end_layout
+
+\begin_layout Standard
+code as interface to internet space
+\end_layout
+
+\begin_layout Standard
+internet important to human development (tie back to introduction)
+\end_layout
+
+\begin_layout Subsection*
+Evolution of Information Access (and Retrieval) - Codifying Culture
+\end_layout
+
+\begin_layout Standard
+In 1948, the United Nations adopted the Universal Declaration on Human Rights,
+ declaring that "everyone has the right to freedom of opinion and expression;
+ this right includes freedom to hold opinions without interference and to
+ seek, receive and impart information and ideas through any media and regardless
+ of frontiers."
+\begin_inset CommandInset citation
+LatexCommand cite
+key "UN UDHR"
+
+\end_inset
+
+ At the time, libraries were fundamental in ensuring this right and upholding
+ these values (ALA ethics guidelines, etc.) (right to *receive*)
+\end_layout
+
+\begin_layout Standard
+This is important because plurality of sources, access to information, education
+, etc.
+ all requirements for moral autonomy.
+\end_layout
+
+\begin_layout Standard
+In 2011, the UN declared Internet access a fundamental human right - fundamental
+ly due it enabling access to information.
+ (Connect back to 
+\begin_inset Quotes eld
+\end_inset
+
+freedom of expression
+\begin_inset Quotes erd
+\end_inset
+
+)
+\end_layout
+
+\begin_layout Standard
+Internet has a plethora of information - how do we find it? News aggregators,
+ news sites, web search, social networks, etc.
+\end_layout
+
+\begin_layout Subsection*
+Codifying Culture
+\end_layout
+
+\begin_layout Standard
+Like the library before it, the Internet is becoming one of the largest
+ sources of information for networked societies and Internet access has
+ recently been declared a human right by the UN.
+ (information ->).
+\end_layout
+
+\begin_layout Standard
+However, access does not mean the ability to purchase a computer and affordable
+ broadband access.
+ Building off of the idea of the Internet as a Library, access entails the
+ ability to find what is being searched for, from a plurarility of sources
+ (and cultures) along with the ability to find what is not being searched
+ for, or what one didn't know existed.
+ This role was once fulfilled by librarians (goverened by a code of ethics)
+ and is now fulfilled by private companies (Google, Facebook, Twitter, etc.)
+ These companies control information, news, culture online.
+\end_layout
+
+\begin_layout Standard
+UNESCO Convention on the Protection and Promotion of the Diversity of Cultural
+ Expressions
+\end_layout
+
+\begin_layout Standard
+Access to information is a core value of librarians, the UN, and UNESCO.
+ This means not just being able to find what one wants, but also to find
+ what one does not want or what one does not know exists.
+ Unfiltered access to a plurality of information sources is fundamental
+ in guaranteeing individual moral autonomy.
+\end_layout
+
+\begin_layout Standard
+Libraries archive culture - encyclopedic information, novels, art, historical
+ artifacts, current and archived news, films, music, etc.
+ And they are often places of social engagement for community members.
+ All of these functionalites are things which exist (arguably better) by
+ the Internet.
+\end_layout
+
+\begin_layout Standard
+Librarians have a code of ethics to guarantee access, whereas privatized
+ companies have 
+\begin_inset Quotes eld
+\end_inset
+
+trade secrets.
+\begin_inset Quotes erd
+\end_inset
+
+ This is important because these websites are not just archiving culture,
+ but they are also creating culture - (through functionality - facebook
+ sharing, google +1, twitter, etc...)
+\end_layout
+
+\begin_layout Subsection*
+Internet as Space
+\end_layout
+
+\begin_layout Standard
+Public space for discourse is critical in enabling freedom of opinion &
+ expression, which in turn are highly influential in .
+ However, with expansion of Internet access and resources, this public space
+ is becoming digital space (which has also lead to the UN declaring Internet
+ access a basic human right.) In order to guarantee that freedom of opinion
+ and expression remain in the digital space, it is necessary to understand
+ the power structures of Internet systems and their influence and control
+ of our online experiences.
+\end_layout
+
+\begin_layout Standard
+Public discourse is critical for democracy.
+ Digital spaces supplant, support, replace, add to physical public spaces
+ for this discourse.
+ As Internet access expands, some of the needs no longer satisfied by the
+ public spaces can be fulfilled online.
+ Through the World Wide Web, public interactions and conversations now take
+ place while sitting in the comfort of our homes or offices.
+ The time we used to spend on the streets or at the playgrounds is now being
+ spent in our living rooms and at our desks, connecting through the digital.
+ In this regard, it is important to keep the Internet a safe place for free
+ speech, untainted by corporate interests.
+\end_layout
+
+\begin_layout Subsection*
+Software as Body/Prosthetic
+\end_layout
+
+\begin_layout Standard
+If we experience and understand our life-world through a lived body, then
+ our traversal through the Internet is 
+\emph on
+only
+\emph default
+ enabled by 
+\begin_inset Quotes eld
+\end_inset
+
+software prosthetics.
+\begin_inset Quotes erd
+\end_inset
+
+ Without software, there would be no way to make use of the hardware and
+ infrastructures which many people tend to think of as 
+\begin_inset Quotes eld
+\end_inset
+
+the Internet.
+\begin_inset Quotes erd
+\end_inset
+
+ Or, as Lev Manovich said 
+\begin_inset Quotes eld
+\end_inset
+
+There is Only Software.
+\begin_inset Quotes erd
+\end_inset
+
+ Software is code, and codes run web sites.
+ Web sites are the Internet.
+ (software (code, functions, algorithms) is what controls our experience
+ of all digital media.
+ For example, the photo editor one uses defines all possible interactions
+ with images, and in that sense, an image opened in Photoshop is not the
+ same thing as an image opened in Preview..)
+\end_layout
+
+\begin_layout Standard
+Software constructs the virtual public space - therefore closed-source software
+ creates privatized virtual public space.
+ The proportion of internet activity conducted in these spaces - imagine
+ spending x% of your time IRL in a privatized public space, and how that
+ would influence your worldview, and your ability to take particular actions.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+The Internet
+\begin_inset Quotes erd
+\end_inset
+
+ is a void; it is a large, physical network of communications infrastructure,
+ server farms, and something.
+ But it doesn't exist until we see it - until we fire up a browser and connect
+ to it.
+\end_layout
+
+\begin_layout Standard
+As our experience of the 
+\begin_inset Quotes eld
+\end_inset
+
+real world
+\begin_inset Quotes erd
+\end_inset
+
+ is goverened by the law of physics, the Internet is a public space governed
+ by the laws of code, written by private companies.
+ While these are a necessary evil (information overload), a critical evaluation
+ of their control of our digital life-world.
+\end_layout
+
+\begin_layout Standard
+The internet is a mass medium, but it is also 
+\begin_inset Quotes eld
+\end_inset
+
+a huge library, a repository for cultural representation [and] a tool for
+ education.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Rieder"
+
+\end_inset
+
+ (reasonable) plurality, autonomy, and access
+\end_layout
+
+\begin_layout Standard
+Is software a filter or syphon enabling particular (one shared) plane of
+ existence (which in turn is only intersected by yet the plane of each individua
+l interacting with it?)
+\end_layout
+
+\begin_layout Standard
+While signs are interpreted by individuals independently (thorugh their
+ own bodies - when I say 
+\begin_inset Quotes eld
+\end_inset
+
+apple
+\begin_inset Quotes erd
+\end_inset
+
+ you and I may not have the same ideas) these signs are broken down into
+ machine codes (with *no* ambiguity) by *software designers and programmers.*
+ They are the architects of digital signification.
+ <Ummm...
+ is this actually important?>
+\end_layout
+
+\begin_layout Standard
+the Internet experience is extremely privatized (and hidden) power dynamics
+ inherent in the monopoly of the of privatized software systems dominating
+ the Internet experience, blah blah blah...
+ 
+\end_layout
+
+\begin_layout Standard
+The monopolization of the Internet experience through privatized corporate
+ software systems.
+\end_layout
+
+\begin_layout Standard
+privatization of hardware infrastructures and software systems is inherently
+ geared to hinder those things rather than embrace them.
+ The power dynamics are shifted...
+ Cultural Imperialism
+\end_layout
+
+\begin_layout Standard
+According to Richard Stallman, all software should be free (as in 
+\begin_inset Quotes eld
+\end_inset
+
+libre
+\begin_inset Quotes erd
+\end_inset
+
+) - in essence to counteract the potential for abuse of political and legal
+ power by large corporations.
+\end_layout
+
+\begin_layout Standard
+According to DeCertau, 
+\begin_inset Quotes eld
+\end_inset
+
+space is a practiced place.
+ Thus the street geometrically defined by urban planning is transformed
+ into a space by walkers.
+ In the same way, an act of reading is the space produced by the practice
+ of a particular place: a written text, i.e., a place constitued by a system
+ of signs.
+\begin_inset Quotes erd
+\end_inset
+
+ (117) Or rather more simply, movement is what makes a place a space.
+ With this idea, we can identifiy the virtual space of the Web as being
+ constructed through the movement of browsing from site to site, or place
+ to place.
+ (Saco, p.
+ 8) 
+\end_layout
+
+\begin_layout Standard
+We do not have access to all of the information out there if it is unfindable,
+ and these corporations overload us with what *they* think would be relevant
+ to us largely based upon inferred information.
+\end_layout
+
+\begin_layout Standard
+THis is important because we wouldn't allow the privatization of culture
+ IRL - it was largely done by libraries, and a variety of museums.
+ How are the preserving culture? Whose culture (Google Books, Electronic
+ COlonialism)? And how does this in turn affect existing/create new cultures?
+ These companies are partaking in a type of electronic colonialism.
+\end_layout
+
+\begin_layout Standard
+If we experience and understand our life-world through a lived body, then
+ our traversal through the Internet is 
+\emph on
+only
+\emph default
+ enabled by 
+\begin_inset Quotes eld
+\end_inset
+
+software prosthetics.
+\begin_inset Quotes erd
+\end_inset
+
+ Without software, there would be no way to make use of the hardware and
+ infrastructures which many people tend to think of as 
+\begin_inset Quotes eld
+\end_inset
+
+the Internet.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Part
+Overview3
+\end_layout
+
+\begin_layout Standard
+Technology is an inciting factor in improving access, education, autonomy,
+ etc., the privatization of software and hardware systems has much more power
+ to inhibit these rather than encourage and foster their growth.
+ Technology is seen as a liberating tool, specifically the web.
+ However, the privatization of hardware and software systems through the
+ cognitive economy blah blah blah.
+\end_layout
+
+\begin_layout Standard
+Technology is largely seen as a facilitator of democracy, however the privatizat
+ion of hardware infrastructures and software systems is inherently geared
+ to hinder those things rather than embrace them.
+ The power dynamics are shifted...
+ Cultural Imperialism
+\end_layout
+
+\begin_layout Standard
+cognitive economy --> attention economy --> celebrity-ism.
+\end_layout
+
+\begin_layout Standard
+Specifically digital media.
+ Digital media can only be accessed through software (There is only Code)
+\end_layout
+
+\begin_layout Standard
+Is it about privatization (hardware and software) or is it about not being
+ able to understand algorithms? Or rather, the fact that algorithms are
+ not transparent, as they are in law? Compare law of code in software to
+ law of society (in plain language)
+\end_layout
+
+\begin_layout Standard
+Software as 
+\begin_inset Quotes eld
+\end_inset
+
+lived body
+\begin_inset Quotes erd
+\end_inset
+
+ - internet as space (public, privatized)...
+ Software as cerebral prosthetic/code as a cognitive prosthetic.
+ If lived body allows us all to experience the world uniquely, individually,
+ etc., then what does it do to experience the world of the internet through
+ the exact same 
+\begin_inset Quotes eld
+\end_inset
+
+body
+\begin_inset Quotes erd
+\end_inset
+
+ of software (code is exact, compiled...
+ a computer can only do what software tells it to do.) What does this do
+ to individuality? Autonomy?
+\end_layout
+
+\begin_layout Standard
+Cognitive economy - google does not pay web content producers, or users
+ of its systems (searches, translates, etc., only help make those systems
+ *better*), BUT the users also do not pay to use the services.
+ There is a transaction of knowledge/cognitive production/value.
+ Yet these are still sold to advertising companies, traded on the stock
+ markets, etc., SO, they *must* be a commodity, right? x commodity A = y
+ commodity B?
+\end_layout
+
+\begin_layout Standard
+Information overload - patterns in the noise; 
+\emph on
+white-out
+\end_layout
+
+\begin_layout Standard
+Privatized code and software is not necessarily a bad thing - in fact it
+ is necessary - however, Google being so ubiquitous, it *is* the gateway
+ to the internet.
+ It is a cognitive prosthetic which allows us to comprehend the virtual
+ space of the Internet.
+\end_layout
+
+\begin_layout Standard
+Google page rank.
+ Facebook EdgeRank (http://techcrunch.com/2010/04/22/facebook-edgerank/)
+\end_layout
+
+\begin_layout Standard
+Read/Write permissions - user, root/admin, group, etc...
+\end_layout
+
+\begin_layout Standard
+Advertising - if it is never seen, it has no impact; advertisers (billboards)
+ are not trying to get the physical landscape, but the landscape of the
+ visual cortex (every person's).
+ Similar to search, if something's not seen, it doesn't exist, it won't
+ have any impact.
+\end_layout
+
+\begin_layout Standard
+Advertising algorithms - not just random ads; they are *extremely* targeted.
+ Largely by the same companies controlling the filtering algorithms (Google,
+ Facebook, etc.)
+\end_layout
+
+\begin_layout Part
+Projects
+\end_layout
+
+\begin_layout Subsection*
+Everybody's Google
+\end_layout
+
+\begin_layout Standard
+This functionality will give each user more individual control over their
+ search experience while also making Google's personalization algoritihms
+ a bit more prominent.
+\end_layout
+
+\begin_layout Standard
+However, these features are primarily implemented to give the user a 
+\begin_inset Quotes eld
+\end_inset
+
+benefit
+\begin_inset Quotes erd
+\end_inset
+
+ to installing the plugin and encouraging them to send data to Everybody's
+ Google.
+\end_layout
+
+\begin_layout Standard
+Traditionally, the internet has been run as an 
+\begin_inset Quotes eld
+\end_inset
+
+attention economy
+\begin_inset Quotes erd
+\end_inset
+
+ - the more popular something is, the easier it is to find (rich get richer.)
+ These algorithms are changing.
+ PageRank, EdgeRank, sponsored listings (paid), 
+\begin_inset Quotes eld
+\end_inset
+
+Most Popular
+\begin_inset Quotes erd
+\end_inset
+
+ has long been the rule.
+ It is slowly moving to more of a network analysis (friends of friends,
+ actions taken, previous histories, global trends, etc.)
+\end_layout
+
+\begin_layout Standard
+By enabling this functionality, hopefully users can gain an insight (and
+ 
+\begin_inset Quotes eld
+\end_inset
+
+reverse engineer
+\begin_inset Quotes erd
+\end_inset
+
+ in a ssnse) allowing users to see the various perspectives Google creates
+ of its own “world model.”
+\end_layout
+
+\begin_layout Standard
+Also offers links for people to add their own search (plugs the extension)
+\end_layout
+
+\begin_layout Standard
+A broad, yet extremely detailed view of the codification of culture - telling
+ the story of individuals across cultures through search results.
+ (Can we track link clicks? Should this be about the pages visited, and
+ *not* the search results? These will then be presented as physical prints.
+ See 
+\begin_inset Quotes eld
+\end_inset
+
+Search Results for Humans
+\begin_inset Quotes erd
+\end_inset
+
+)
+\end_layout
+
+\begin_layout Standard
+is a web browser extension which mines personalized Google search results
+ and redistributes them to extension users when new queries are executed,
+ allowing users to see the various perspectives Google creates of its own
+ “world model.”
+\end_layout
+
+\begin_layout Standard
+Notes from Psych paper:
+\end_layout
+
+\begin_layout Standard
+Most web users are not aware that their Internet experience is personalized
+ and different from that of other users.
+ Even those who are aware of this do not realize to what extent it occurs.
+ The primary goal of this project is to raise awareness of web personalization
+ by explicitly showing the physical evidence of its existence in a visible
+ and visceral way.
+\end_layout
+
+\begin_layout Standard
+A secondary goal of this project is to allow users to gain insight into
+ Google’s “user model” of themselves – in a sense, allowing every-day users
+ to explore the data gathered and gain a very broad overview of how Google
+ views them.
+ I believe that providing a large overview of this data will allow people
+ to “reverse-engineer” their personal user models at a very broad level,
+ enabling them to see trends in what types of search results they are being
+ served.
+ (Reverse engineering actual, detailed user models from this data will likely
+ be impossible, but it should clearly demonstrate some of the things Google
+ knows about each individual.)
+\end_layout
+
+\begin_layout Standard
+Google makes money by serving personalized advertisements - subvert Google's
+ personalization algorithms, get a larger world view?
+\end_layout
+
+\begin_layout Itemize
+Using free labor to OCR *english* books - let's undo that
+\end_layout
+
+\begin_layout Itemize
+Can: convert existing web page, or create new through a POST request or
+ a file upload
+\end_layout
+
+\begin_layout Itemize
+web2mail.com, emailtheweb.com, pdfmyurl, browsershots.org, url2png (used to
+ bypass censorhip filters)
+\end_layout
+
+\begin_layout Subsection*
+Webpages for Humans
+\end_layout
+
+\begin_layout Standard
+Webpages for Humans is a web application that creates a version of the Internet
+ which is only readable by humans.
+ Screen-scraping technology is used to generate images of webpages which
+ are then processed by Optical Character Recognition software to find machine-re
+adable text on the page.
+ This text is then "CAPTCHA-fied" to create a distorted and manipulated
+ rendering of that webpage.
+ This previously machine-readable text, is distorted using the same algorithms
+ used in CAPTCHA tests to ensure the computer programs can no longer decipher
+ them.
+\end_layout
+
+\begin_layout Standard
+This site is part of a larger project which explores our relationship with
+ digital representations of physical and cultural artifacts.
+\end_layout
+
+\begin_layout Standard
+CAPTCHAs are the images of distorted text you must translate to do things
+ like sign up for an account or post a comment on a website.
+ They're used to prevent spam by determining if the user of a site is a
+ human, or a computer program (often referred to as a "bot.")
+\end_layout
+
+\begin_layout Standard
+A CAPTCHA test generally consists of two text-based images: a word which
+ could not be deciphered by OCR software (the "unknown" word); and a second
+ word which the OCR software could decipher (the "known" word.) The user
+ is then prompted to type in both words, with the assumption being that
+ if the known word is correctly identified, then the identification of the
+ unknown word is also likely to be correct source.
+ This human translation for the unknown word is then added to the original
+ OCR translation.
+\end_layout
+
+\begin_layout Standard
+When Google digitizes physical books (as part of its Google Books project),
+ OCR software is used to "read" the scanned pages and make it searchable
+ and indexable.
+ However, the computer algorithms fail occasionally due to scan irregularites,
+ low print quality, or similar problems.
+ When this happens, the only way to decipher these portions of the digitized
+ text is with a human eye.
+\end_layout
+
+\begin_layout Standard
+Google's massive attempt to digitize every book in existence requires an
+ enourmous amount of human labour.
+ reCAPTCHA, the most popular CAPTCHA service on the Internet, fulfills this
+ need by distributing this labour as micro-tasks across the Internet.
+ In exchange for access to enhanced functionality, web users provide the
+ labour required to translate that which computers cannot.
+\end_layout
+
+\begin_layout Subsection*
+MFA Show responses
+\end_layout
+
+\begin_layout Standard
+Everybody's Google - people seemed to be very interested in the concepts
+ behind the two projects.
+ Either they 
+\begin_inset Quotes eld
+\end_inset
+
+got it
+\begin_inset Quotes erd
+\end_inset
+
+ immediately, or after I explained it, they became very intrigued.
+\end_layout
+
+\begin_layout Standard
+Interaction with the pieces was less than I had hoped.
+ A few people interacted with Everybody's Google, but far less than I had
+ expected.
+ Part of this may be due to the fact that cell phone reception was not very
+ good in the building, and cruznet blocked the website due to it running
+ on a 
+\begin_inset Quotes eld
+\end_inset
+
+nonstandard
+\begin_inset Quotes erd
+\end_inset
+
+ port.
+\end_layout
+
+\begin_layout Standard
+Even with the addition of the web page URLs on the wall text, few people
+ seemed to realize that these were both products or manifestations of softare/we
+bsites.
+\end_layout
+
+\begin_layout Standard
+Serendipity engine - people tended to either ignore the papers on the floor,
+ or thought something got knocked over, and stacked them together into a
+ neat pile.
+ Visitors were reluctant to take any of the takeaways.
+ A few times we timed the printer to dispense paper as people were walking
+ by using a remote control and got great reactions.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Silly, but in a good way.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+WpfH - books were never intended to be read by machines.
+ Webpages are both - designed for machine readibility (code) but presented
+ to humans (presentation/webpage) - how do the two tie together? Interpretation
+ to get from written word to digital translation (underlying meaning VS
+ physical representation/appearance.) Can a computer 
+\begin_inset Quotes eld
+\end_inset
+
+understand
+\begin_inset Quotes erd
+\end_inset
+
+ a book? The book as the first mass-produced physical medium for data/memory
+ storage.
+ Indexed, organized, dessimated through direct human labour - literaries,
+ librarians
+\end_layout
+
+\begin_layout Part*
+Notes & Ideas
+\end_layout
+
+\begin_layout Section*
+Notes from Warren
+\end_layout
+
+\begin_layout Standard
+(1) The last version proposed mentioned just one project (Everybody's Google)
+ and this version contains that project and four more.
+ My thinking, when we had the review, was that you would conceive of a set
+ of smaller projects rather than append more projects onto the large one
+ you already have underway.
+ This is potentially a problem because, as I noted to you earlier, I think
+ one of the thesis committee's most important jobs is to help you hone the
+ work down to something doable -- not egg you on to blow it up into giant
+ proportions!
+\end_layout
+
+\begin_layout Standard
+I would suggest the following: think about these five projects together.
+ What makes them similar? Could they be discussed as variants of one issue
+ or technology? Or, could they be envisioned as a series of works that have
+ a logical progression to them? The first few paragraphs of the proposal
+ do create a large "tent" under which all of these projects could be sheltered,
+ but I am asking for something more detailed.
+ If you hit the right level of detail, it should change the description
+ of the overall project.
+ It shouldn't be possible to do what you did in rewriting your proposal
+ but keeping the first two paragraphs the same.
+ And, I think the title should reflect this more detailed explanation of
+ what you are doing: "The Politics of the Internet" is a very abstract title.
+\end_layout
+
+\begin_layout Standard
+For example, is there some kind of complementarity or symmetry that connects
+ what users *find* on the net with what users *put* on the net that would
+ explain how Everybody's Google is related to Triter? Explaining how the
+ proposed projects are connected together will help you to determine what
+ is most important about each work; and, it will help your committee to
+ better understand the direction you are headed with these five projects.
+\end_layout
+
+\begin_layout Standard
+(2) Related to the first suggestion is my second suggestion: expand your
+ list of related artists and artworks into a discussion.
+ What are you doing, in your proposed five projects, that is different from
+ or similar to the works of the artists you list? What themes or directions
+ do these artists follow? Are you headed towards the same goals? Or, is
+ your work headed somewhere new? This will take at least a couple of paragraphs.
+ These paragraphs are also important to more firmly connect you to the worlds
+ of art, rather than just to the literature of library and information science
+ that your current version draws so heavily from.
+\end_layout
+
+\begin_layout Section*
+Human Rights
+\end_layout
+
+\begin_layout Standard
+"Everyone has the right to freedom of opinion and expression; this right
+ includes freedom to hold opinions without interference and to seek, receive
+ and impart information and ideas through any media and regardless of frontiers."
+ (UN Universal Declaration on Human Rights http://www.un.org/en/documents/udhr/ind
+ex.shtml#a19)
+\end_layout
+
+\begin_layout Standard
+In the summer of 2011, the United Nations released a report declaring Internet
+ access a basic human right, largely based upon the notion that “the Internet
+ is one of the most powerful instruments of the 21st century for increasing
+ transparency in the conduct of the powerful, access to information, and
+ for facilitating active citizen participation in building democratic societies.”
+ With regards to these points, it is the increased access to information
+ that is the primary driving force behind the other two factors.
+ However, simple access to a plethora of information is useless if one cannot
+ make sense of it.
+ Mechanisms are needed to filter out the relevant information from the irrelevan
+t.
+ This role of “information curator” has traditionally been filled by the
+ librarian, who not only facilitates information retrieval, but also enables
+ information revelation, potentially exposing new sources of information
+ and ideas.
+ Given that librarians generally adhere to a strong code of ethics, one
+ could argue that libraries, by enabling access to a plurality of sources,
+ support the development of individual autonomy.
+ The Internet’s “information curators” are its search engines, and to a
+ lesser extent, its aggregated news feeds and social networking sites (although
+ I’ll later argue that the parallel to the library is the search engine,
+ whereas news feeds and social networking fall more in line with entertainment
+ and “infotainment.”) These systems (search engines, news aggregators, and
+ social networks) filter through enormous amounts of data using computer
+ algorithms designed to return “relevant” information to users.
+ However in these privatized systems, the definition of “relevant” often
+ exists in a gray area between “important” and “profitable.” 
+\end_layout
+
+\begin_layout Subsection*
+Democracy
+\end_layout
+
+\begin_layout Standard
+If access to diverse and uncensored information is an essential ingredient
+ for creating and sustaining a free and democratic society; and the Internet
+ is becoming a primary source of information for industrialized world; then
+ it follows that the Internet itself must also, in essence, be a “free society.”
+\end_layout
+
+\begin_layout Standard
+The internet is not democratic - democracy requires public discourse in
+ which everyone is equal and everybody's voice can be heard.
+ Like a public space.
+ In a functioning democracy, this doesn't mean every person can speak their
+ voice to everyone else (n-n network) - that would be unreasonable.
+ This is why we have elected public officials.
+ THey are elected not because they are a proxy or a puppet, but rather because
+ they represent the ideals and morals of their constituencey.
+ Unlike public officials, the means through which we voice our opinions
+ (while maybe "elected" by a user base initially) are usurp that power to
+ avoid ever having any more elections in the future.
+ Like a monarch.
+\end_layout
+
+\begin_layout Section*
+Law
+\end_layout
+
+\begin_layout Standard
+To summarize Lawrence Lessig in the foreword to Free Software, Free Society
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Free Software Free Society"
+
+\end_inset
+
+: free societies are governed by laws, and no society which kept its laws
+ secret could ever be free.
+ The “source code” of American law is open and free for anyone to take.
+ To be successful, the ideals of free society require openness and transparency
+ and this applies to worlds governed by the code of law as well as those
+ governed by the code of software.
+\end_layout
+
+\begin_layout Section*
+Code
+\end_layout
+
+\begin_layout Standard
+Code is law.
+ If Google is our gateway to the world of the Internet, it’s laws and rules
+ influence how we can interact with the Internet – it directly shapes our
+ understanding of the space of the Internet.
+\end_layout
+
+\begin_layout Standard
+The physical effects of cultural digitization (of codifying culture – replacing
+ sources with computer algorithms) (autonomy)
+\end_layout
+
+\begin_layout Section*
+Privatization of Public Space
+\end_layout
+
+\begin_layout Standard
+There is no such thing as a public space online.
+ The Internet is inherently a privatized public space at best.
+ ISPs have access to every bit of data flowing to and from one’s computer.
+ Companies like Google not only track search histories, but also analyze
+ online behaviors as users move from site to site.
+ Combined with supplied and inferred data collected by Google, users are,
+ in essence, involuntarily participating in massive market research simply
+ by browsing the Internet.
+\end_layout
+
+\begin_layout Section*
+Internet Economy
+\end_layout
+
+\begin_layout Section*
+Search/Filtering (Library)
+\end_layout
+
+\begin_layout Standard
+given a library of information, one needs tools to find the relevant information.
+ one does not simply find information on their own.
+\end_layout
+
+\begin_layout Standard
+Similarly, it is this requirement of returning significant, personalized
+ results in combination with the need to support a corporation, which ultimately
+ limits the plurality of information sources.
+ Without this filtering, the overload of information would render it useless,
+ however, how can an algorithm possibly return exactly what is relevant
+ to each individual user at each individual point in time?
+\end_layout
+
+\begin_layout Standard
+The problem is not just access to information, but access to a wide variety
+ of views (for content consumers), and the possibility of making those views
+ heard (for content producers.) 
+\end_layout
+
+\end_body
+\end_document
