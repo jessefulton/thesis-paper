@@ -76,7 +76,7 @@ Abstract
 \end_layout
 
 \begin_layout Standard
-...insert Abstract
+...
 \end_layout
 
 \begin_layout Section*
@@ -84,7 +84,7 @@ Dedication
 \end_layout
 
 \begin_layout Standard
-...should we have one?
+...
 \end_layout
 
 \begin_layout Section*
@@ -92,7 +92,7 @@ Acknowledgements
 \end_layout
 
 \begin_layout Standard
-...thank yous
+...
 \end_layout
 
 \begin_layout Section*
@@ -188,221 +188,6 @@ its architecture is its politics
 
 \end_deeper
 \begin_layout Section*
-Projects
-\end_layout
-
-\begin_layout Enumerate
-What topic/issue/area does this artwork explore, and why?
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-Privatization of information (connection between two projects)
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-Why? As digital media become more accessible and more ubiquitous, it is
- quickly becoming a primary source for (information, communication, etc.)
- -
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-technology-mediated-communication = software mediated communication...
- If AT&T were analyzing your phone calls and providing that information
- to marketers, you'd be pissed right? Why do we give a free pass to FB &
- Gmail? Free services?
-\end_layout
-
-\end_deeper
-\end_deeper
-\begin_layout Enumerate
-EG - control & access to information
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-digital life
-\end_layout
-
-\begin_layout Enumerate
-(privatization of) information
-\end_layout
-
-\begin_layout Enumerate
-knowledge/autonomy
-\end_layout
-
-\begin_layout Enumerate
-digital democracy & 
-\begin_inset Quotes eld
-\end_inset
-
-net neutrality
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-OCR - political decisions - what is a cultural artifact? What is valuable?
- What is worth archiving? Who decides?
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-Problems with having singular authority for deciding this (curators of culture)
-\end_layout
-
-\begin_layout Enumerate
-digital culture
-\end_layout
-
-\begin_layout Enumerate
-digitization of cultural artifacts
-\end_layout
-
-\begin_layout Enumerate
-the cyclical nature of those two
-\end_layout
-
-\begin_layout Enumerate
-free labour
-\end_layout
-
-\begin_layout Enumerate
-appropriation
-\end_layout
-
-\end_deeper
-\end_deeper
-\begin_layout Enumerate
-What are the expected outcomes of the artwork (e.g.
- consciousness raising, community change, technical innovation, humor, interacti
-ve collaboration, quiet reception, etc.)?
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-EG
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-raise awareness of search (& web) personalization - that there are 
-\begin_inset Quotes eld
-\end_inset
-
-multiple googles
-\begin_inset Quotes erd
-\end_inset
-
- or multiple views of the same internet regardless of whether we ask for
- it
-\end_layout
-
-\begin_layout Enumerate
-a new media literacy, questioning Google's black-box - responsibility to
- be more transparent, to offer different methods of ranking?
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-OCR
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-light-hearted
-\end_layout
-
-\begin_layout Enumerate
-exposure to reCAPTCHA process
-\end_layout
-
-\begin_layout Enumerate
-question how companies are using computers to 
-\begin_inset Quotes eld
-\end_inset
-
-learn
-\begin_inset Quotes erd
-\end_inset
-
- (/summarize/define), and create culture
-\end_layout
-
-\end_deeper
-\end_deeper
-\begin_layout Enumerate
-Why is this artwork significant or important (i.e.
- why should anyone care about it)? 
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-Cuz it's fucking awesome
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-Form
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-These projects deal with the internet.
- The internet is the content, and the internet is the medium.
- They take their form as websites, and equally important is the mindset
- in which someone encounters them.
- Ideally, a person encountering these projects would be coming from a google
- search, or perhaps had just filled out a CAPTCHA shortly beforehand.
- They are not meant to be contemplated or taken in isolation, they are meant
- to be experienced; they are meant to be integrated into one's own internet
- experience.
-\end_layout
-
-\end_deeper
-\begin_layout Standard
-Privatized public space - who owns the internet? We do? No, there's a gateway
- - we must access the internet through intermediaries which ultimately control
- our experience through the content they supply/present and that which they
- omit, AND 
-\series bold
-how
-\series default
- they present the content which they do.
- They suggest and control what we can see, they open the door to possibilities
- - they reveal information.
- yet in the same sense they limit us and withhold information.
- Necessary evil.
-\end_layout
-
-\begin_layout Standard
-Cultural influence: digital communications represent the closest thing we
- have yet seen to the collapse spacetime.
- space-time collapsed.
- Near-present archiving and documentation.
- This is what's different about historical archiving and the current method
- of experiencing and spreading culture digitally.
- Historical culture vs.
- contemporary culture.
- The immediacy lends itself to the cyclical nature of internet culture,
- memes, etc.
- infiltrating and meshing with contemporary life.
-\end_layout
-
-\begin_layout Standard
-TOOLS: a means to an end (see rambling in UCSC folder)........
- TV culture, radio culture, the mere presence of these technologies changed
- the way people interacted (which came first?) Electricity? Fire? Farming/agricu
-lture? Internet as a tool?
-\end_layout
-
-\begin_layout Section*
 Context
 \end_layout
 
@@ -414,6 +199,28 @@ Rationale
 Internet + Culture
 \end_layout
 
+\begin_deeper
+\begin_layout Enumerate
+Cultural influence: digital communications represent the closest thing we
+ have yet seen to the collapse of spacetime.
+ space-time collapsed.
+ Near-present archiving and documentation.
+ This is what's different about historical archiving and the current method
+ of experiencing and spreading culture digitally.
+ Historical culture vs.
+ contemporary culture.
+ The immediacy lends itself to the cyclical nature of internet culture,
+ memes, etc.
+ infiltrating and meshing with contemporary life.
+\end_layout
+
+\begin_layout Enumerate
+TV culture, radio culture, the mere presence of these technologies changed
+ the way people interacted (which came first?) Electricity? Fire? Farming/agricu
+lture? Internet as a tool? (See Gere notes)
+\end_layout
+
+\end_deeper
 \begin_layout Enumerate
 Internet as space
 \end_layout
@@ -445,7 +252,7 @@ Internet/digital prevalence and importance
 \end_deeper
 \end_deeper
 \begin_layout Enumerate
-software as body (software as prosthetic?)
+software as body (software as prosthetic?) [probably a bit too much]
 \end_layout
 
 \begin_deeper
@@ -486,12 +293,20 @@ Software interfaces/selective retrieval (or filtering) - privatized, code;
 \end_layout
 
 \begin_layout Enumerate
-Not focusing on government's role (or censorship) - focusing on privatized
+
+\series bold
+Not
+\series default
+ focusing on government's role (or censorship) - focusing on privatized
  internet
 \end_layout
 
 \begin_layout Enumerate
-Not addressing privacy concerns
+
+\series bold
+Not
+\series default
+ addressing privacy concerns
 \end_layout
 
 \begin_layout Enumerate
@@ -509,20 +324,74 @@ Privatizing natural resources (water, sunlight, air quality)? What about
  Borders & Boundaries - international waters, airspace, web servers?)
 \end_layout
 
+\begin_layout Enumerate
+Physicality of digital media [here?]
+\end_layout
+
 \end_deeper
 \end_deeper
 \end_deeper
 \begin_layout Enumerate
-Internet Economics
+Electronic Colonialism
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-The Global Economy
+Privatization, Power and Influence
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
+Power Structures
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Privatization of information
+\end_layout
+
+\begin_layout Enumerate
+Cultural Imperialism (tie into personalization)
+\end_layout
+
+\begin_layout Enumerate
+Abuses of power/subversion (Google Bomb, Google Bowling, Overzealous Spam
+ Flagging) and 
+\begin_inset Quotes eld
+\end_inset
+
+real=world
+\begin_inset Quotes erd
+\end_inset
+
+ implications
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Enumerate
+Power of the default
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+presentation of options vs.
+ awareness of ability to change/customize settings
+\end_layout
+
+\begin_layout Enumerate
+Power is not having an increasing number of available choices, it's...
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Enumerate
+Internet Economics/An Information Economy
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+The Global Economy: 
 \begin_inset Quotes eld
 \end_inset
 
@@ -538,10 +407,9 @@ global culture
 \begin_inset Quotes erd
 \end_inset
 
-
+ (no boundaries in the digital)
 \end_layout
 
-\end_deeper
 \begin_layout Enumerate
 Economics of the internet (The Political Economy of the Internet)
 \end_layout
@@ -607,58 +475,6 @@ ization)
 
 \end_deeper
 \end_deeper
-\begin_layout Enumerate
-Privatization, Power and Influence
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-Power Structures
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-Privatization of information
-\end_layout
-
-\begin_layout Enumerate
-Cultural Imperialism (tie into personalization)
-\end_layout
-
-\begin_layout Enumerate
-Abuses of power/subversion (Google Bomb, Google Bowling, Overzealous Spam
- Flagging) and 
-\begin_inset Quotes eld
-\end_inset
-
-real=world
-\begin_inset Quotes erd
-\end_inset
-
- implications
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-Power of the default
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-presentation of options vs.
- awareness of ability to change/customize settings
-\end_layout
-
-\begin_layout Enumerate
-Power is not having an increasing number of available choices, it's...
-\end_layout
-
-\end_deeper
-\end_deeper
-\begin_layout Enumerate
-Physicality of digital media
-\end_layout
-
 \begin_layout Subsection*
 Dialogue
 \end_layout
@@ -682,14 +498,282 @@ Newstweek? Shaved Beieber? (culture jamming, censorshop through selective
 \end_layout
 
 \begin_layout Section*
+Projects
+\end_layout
+
+\begin_layout Enumerate
+What topic/issue/area does this artwork explore, and why?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Privatization of information (connection between two projects)
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Why? As digital media become more accessible and more ubiquitous, it is
+ quickly becoming a primary source for (information, communication, etc.)
+ -
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+technology-mediated-communication = software mediated communication...
+ If AT&T were analyzing your phone calls and providing that information
+ to marketers, you'd be pissed right? Why do we give a free pass to FB &
+ Gmail? Free services?
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Enumerate
+PROCESSES
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+how does the information we find online get there? Why do we see what we
+ see?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+search/indexing algorithms
+\end_layout
+
+\begin_layout Enumerate
+personalization
+\end_layout
+
+\begin_layout Enumerate
+machine learning
+\end_layout
+
+\begin_layout Enumerate
+image analysis
+\end_layout
+
+\begin_layout Enumerate
+etc.
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Enumerate
+EG - control & access to information
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+digital life
+\end_layout
+
+\begin_layout Enumerate
+(privatization of) information
+\end_layout
+
+\begin_layout Enumerate
+the search for knowledge/autonomy
+\end_layout
+
+\begin_layout Enumerate
+digital democracy (& 
+\begin_inset Quotes eld
+\end_inset
+
+net neutrality
+\begin_inset Quotes erd
+\end_inset
+
+)
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+OCR - political decisions - what is a cultural artifact? What is valuable?
+ What is worth archiving? Who decides?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Problems with having singular authority for deciding this (curators of culture)
+\end_layout
+
+\begin_layout Enumerate
+digital culture; digitization of cultural artifacts; and the cyclical nature
+ of those two
+\end_layout
+
+\begin_layout Enumerate
+free labour/exploitation ?
+\end_layout
+
+\begin_layout Enumerate
+appropriation
+\end_layout
+
+\begin_layout Enumerate
+expectations of interactions with digital objects
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Enumerate
+What are the expected outcomes of the artwork (e.g.
+ consciousness raising, community change, technical innovation, humor, interacti
+ve collaboration, quiet reception, etc.)?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Interaction (online) - MFA show = different form (one of many)
+\end_layout
+
+\begin_layout Enumerate
+EG
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+raise awareness of search (& web) personalization - that there are 
+\begin_inset Quotes eld
+\end_inset
+
+multiple googles
+\begin_inset Quotes erd
+\end_inset
+
+ or multiple views of the same internet regardless of whether we ask for
+ it
+\end_layout
+
+\begin_layout Enumerate
+a new media literacy, questioning Google's black-box - responsibility to
+ be more transparent, to offer different methods of ranking?
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+OCR
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+light-hearted
+\end_layout
+
+\begin_layout Enumerate
+exposure to reCAPTCHA process
+\end_layout
+
+\begin_layout Enumerate
+question how companies are using computers to 
+\begin_inset Quotes eld
+\end_inset
+
+learn
+\begin_inset Quotes erd
+\end_inset
+
+ (/summarize/define), and create culture
+\end_layout
+
+\begin_layout Enumerate
+defamiliarize the familiar
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Enumerate
+Why is this artwork significant or important (i.e.
+ why should anyone care about it)? 
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+EG
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Experiment/Research
+\end_layout
+
+\begin_layout Enumerate
+Demonstrates the various 
+\begin_inset Quotes eld
+\end_inset
+
+lifeworlds
+\begin_inset Quotes erd
+\end_inset
+
+/personalization
+\end_layout
+
+\begin_layout Enumerate
+interactive/explorable/visualized
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+OCR
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+script to generate visual objects
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Enumerate
+Form (& evolution of projects)
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+These projects deal with the internet.
+ The internet is the content, and the internet is the medium.
+ They take their form as websites, and equally important is the mindset
+ in which someone encounters them.
+ Ideally, a person encountering these projects would be coming from a google
+ search, or perhaps had just filled out a CAPTCHA shortly beforehand.
+ They are not meant to be contemplated or taken in isolation, they are meant
+ to be integrated into/encountered during one's own (personal) internet
+ experience.
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+Privatized public space - who owns the internet? We do? No, there's a gateway
+ - we must access the internet through intermediaries which ultimately control
+ our experience through the content they supply/present and that which they
+ omit, AND 
+\series bold
+how
+\series default
+ they present the content which they do.
+ They suggest and control what we can see, they open the door to possibilities
+ - they reveal information.
+ yet in the same sense they limit us and withhold information.
+ Necessary evil.
+\end_layout
+
+\begin_layout Section*
 Project Overview
 \end_layout
 
 \begin_layout Standard
-The 
+Focus on the 
 \series bold
 \emph on
-Idea
+Ideas
+\series default
+\emph default
+.
+ 
 \end_layout
 
 \begin_layout Subsection*
