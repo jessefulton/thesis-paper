@@ -188,11 +188,7 @@ its architecture is its politics
 
 \end_deeper
 \begin_layout Section*
-Context
-\end_layout
-
-\begin_layout Subsection*
-Rationale
+Context/Rationale
 \end_layout
 
 \begin_layout Enumerate
@@ -220,6 +216,24 @@ TV culture, radio culture, the mere presence of these technologies changed
 lture? Internet as a tool? (See Gere notes)
 \end_layout
 
+\begin_layout Enumerate
+Digitization
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+reCAPTCHA/Google Books
+\end_layout
+
+\begin_layout Enumerate
+digital museums
+\end_layout
+
+\begin_layout Enumerate
+decline of film/music/concerts? [bowling alone?]
+\end_layout
+
+\end_deeper
 \end_deeper
 \begin_layout Enumerate
 Internet as space
@@ -475,30 +489,19 @@ ization)
 
 \end_deeper
 \end_deeper
-\begin_layout Subsection*
-Dialogue
-\end_layout
-
-\begin_layout Standard
-Aram Bartholl - Are you Human (Physicality of digital artifacts)
-\end_layout
-
-\begin_layout Standard
-Bicycle built for 2000 (Humanification/appropriation of digital culture,
- or artifacts created specifically for digital media, transformed)
-\end_layout
-
-\begin_layout Standard
-Google Alarm/Ffffuck Google (surveillance economy)
-\end_layout
-
-\begin_layout Standard
-Newstweek? Shaved Beieber? (culture jamming, censorshop through selective
- filtering)
-\end_layout
-
 \begin_layout Section*
 Projects
+\end_layout
+
+\begin_layout Standard
+Focus on the 
+\series bold
+\emph on
+Ideas
+\series default
+\emph default
+.
+ 
 \end_layout
 
 \begin_layout Enumerate
@@ -520,9 +523,16 @@ Why? As digital media become more accessible and more ubiquitous, it is
 \begin_deeper
 \begin_layout Enumerate
 technology-mediated-communication = software mediated communication...
- If AT&T were analyzing your phone calls and providing that information
- to marketers, you'd be pissed right? Why do we give a free pass to FB &
- Gmail? Free services?
+ connection back to electronic colonialism, cognitive economy, code as law
+ (
+\begin_inset Quotes eld
+\end_inset
+
+politics are its architecture
+\begin_inset Quotes erd
+\end_inset
+
+)
 \end_layout
 
 \end_deeper
@@ -746,42 +756,26 @@ These projects deal with the internet.
 \end_layout
 
 \end_deeper
-\begin_layout Standard
-Privatized public space - who owns the internet? We do? No, there's a gateway
- - we must access the internet through intermediaries which ultimately control
- our experience through the content they supply/present and that which they
- omit, AND 
-\series bold
-how
-\series default
- they present the content which they do.
- They suggest and control what we can see, they open the door to possibilities
- - they reveal information.
- yet in the same sense they limit us and withhold information.
- Necessary evil.
-\end_layout
-
-\begin_layout Section*
-Project Overview
+\begin_layout Subsection*
+Dialogue
 \end_layout
 
 \begin_layout Standard
-Focus on the 
-\series bold
-\emph on
-Ideas
-\series default
-\emph default
-.
- 
+Aram Bartholl - Are you Human (Physicality of digital artifacts)
 \end_layout
 
-\begin_layout Subsection*
-Everybody's Google
+\begin_layout Standard
+Bicycle built for 2000 (Humanification/appropriation of digital culture,
+ or artifacts created specifically for digital media, transformed)
 \end_layout
 
-\begin_layout Subsection*
-Ocular Character Recognition
+\begin_layout Standard
+Google Alarm/Ffffuck Google (surveillance economy)
+\end_layout
+
+\begin_layout Standard
+Newstweek? Shaved Beieber? (culture jamming, censorshop through selective
+ filtering)
 \end_layout
 
 \begin_layout Section*
@@ -789,7 +783,7 @@ Conclusion
 \end_layout
 
 \begin_layout Standard
-MFA show reception and possible next steps
+MFA show reception, documentation, and possible next steps
 \end_layout
 
 \end_body
