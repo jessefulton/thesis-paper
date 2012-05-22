@@ -60,7 +60,7 @@
 \begin_body
 
 \begin_layout Title
-The Politics of the Internet
+Paper Title
 \end_layout
 
 \begin_layout Author
@@ -103,6 +103,301 @@ Table of Contents
 \begin_inset CommandInset toc
 LatexCommand tableofcontents
 
+\end_inset
+
+
+\end_layout
+
+\begin_layout Part*
+Thesis Projects
+\end_layout
+
+\begin_layout Standard
+Societal impact of large-scale information-based software systems.
+\end_layout
+
+\begin_layout Standard
+What is software? Software is what makes hardware run.
+ Hardware without software is just scrap, physical objects which don't do
+ anything.
+ Software is the experience of using a computer.
+ Software controls our experience with the digital.
+ Files become something totally different depending upon host software (photosho
+p) - the experience of using a computer.
+ Defines what is possible in the virtual world.
+\end_layout
+
+\begin_layout Standard
+Ideal setting - user's daily browsing behavior.
+ Doesn't make sense to have the websites in a gallery setting.
+ I want each visitor to be coming from the 
+\begin_inset Quotes eld
+\end_inset
+
+internet mindset
+\begin_inset Quotes erd
+\end_inset
+
+ - having just performed a google search, or filled out a CAPTCHA.
+ Decontextualizing the experience of being 
+\series bold
+on
+\series default
+ the internet, and moving that to a gallery space would radically change
+ the mindset and the overall interaction with the pieces.
+\end_layout
+
+\begin_layout Standard
+Decontextualizing...
+ expectations in a gallery or museum.
+ Norms which are adhered to.
+ Object of contemplation.
+ I don't want to force people to contemplate or think about these ideas,
+ I want these ideas to force people to contemplate in general and think
+ of these issues on a larger scale.
+ On a more personal/private level/setting.
+ Creating 
+\series bold
+pieces
+\series default
+ for the MFA show, separate yet related to the 
+\series bold
+projects
+\series default
+.
+ The two projects are the experience and the engagement with the ideas.
+ The pieces for the MFA show are the condensation of the idea - phyiscal
+ objects/images which you can simply look at and get the gist of the idea.
+\end_layout
+
+\begin_layout Section*
+Everybody's Google
+\end_layout
+
+\begin_layout Standard
+Search personalization - Google is presenting a different view of the world
+ to each individual user.
+ This is used by *lots* of websites - Amazon markets specific items to users
+ based upon voluntarily contributed demographic information (age, gender,
+ location), but also infers much through users' behavoiurs.
+ So, if you look at a lot of juicers, Amazon will make recommendations to
+ you based on the assumption that you like making your own juice for various
+ reasons - this then flows into other areas: books about juicing, seeds/gardenin
+g products, health equipment, etc.
+ Clearly, Amazon is trying to maximize its conversion rate, and sell as
+ many products as possible.
+ This is how they make money - each sale generates revenue for the company.
+ Their product is sales.
+\end_layout
+
+\begin_layout Standard
+Google's product is information.
+ Google places what it *thinks* are relevant to each user higher int he
+ search results.
+ This is based upon previous browsing history, search history, and web browsing
+ behaviour.
+ Each user can potentially be shown a very different set of results for
+ the same search request.
+ Romney vs.
+ Santorum queries
+\end_layout
+
+\begin_layout Standard
+Library - freedom to explore and roam.
+ Find information you're looking for, but also information you weren't necessari
+ly looking for.
+ Personalization is black-boxed algorithms, built by privatized companies.
+ Access to information is not the phyiscal ability to acquire informaiton,
+ but the ability to explore and find new information.
+ These software algorithms in essence are limiting the informaiton you are
+ exposed to online.
+\end_layout
+
+\begin_layout Standard
+New Google search? Personalization, search + your world, search objects/web/netw
+ork.
+\end_layout
+
+\begin_layout Standard
+As digital technologies become increasingly ubiquitous and accessible, digital
+ resources are quickly becoming the primary resources for information and
+ knowledge gathering.
+ While the Internet is largely viewed as embracing democratic ideals and
+ guaranteeing equal access for all, to all, the fact that our Internet experienc
+e is mediated almost exclusively through privatized companies, is inherently
+ undemocratic.
+ In order to provide "relevant" information to individual users (and increase
+ revenues), companies like Google and Amazon filter content and information
+ through black box algorithms.
+ End users have little to no control over which items or information are
+ shown to them, or in what order; and because these algorithms are trade
+ secrets, users also cannot have an understanding of the filtering and selection
+ process.
+\end_layout
+
+\begin_layout Standard
+Black box - nobody really knows what's going on, including Google engineers.
+ And that's been their response - we're looking at 1000's of different things.
+ Play it off as a 
+\begin_inset Quotes eld
+\end_inset
+
+trade secrte
+\begin_inset Quotes erd
+\end_inset
+
+ - the don't 
+\series bold
+have
+\series default
+ to tell anybody what they're doing behind the scenes.
+\end_layout
+
+\begin_layout Standard
+Everybody's Google explores these ideas and systems by programmatically
+ controlling a set of Google user accounts.
+ In an effort to hyper-personalize their Google Search results, these accounts
+ have been scripted to navigate the web biased towards specific cultural
+ interests or political orientations.
+ The visualization shows each account's top 10 results for particular Google
+ Search queries.
+\end_layout
+
+\begin_layout Standard
+Character development takes the form of purely web navigation
+\end_layout
+
+\begin_layout Standard
+casperjs + phantomjs.
+ Program user interactions with a web page.
+ Authenticate as a user, navigate to a 
+\begin_inset Quotes eld
+\end_inset
+
+seed
+\begin_inset Quotes erd
+\end_inset
+
+ page, and click on specific links (ie., 
+\begin_inset Quotes eld
+\end_inset
+
+featured
+\begin_inset Quotes erd
+\end_inset
+
+ area on a page.) Not spoofing anything - simply browsing the internet.
+ This runs for 4 personas every 10-15 minutes (for one person, one seed.)
+\end_layout
+
+\begin_layout Standard
+Internet as a medium - web pages, services which can be hacked apart and
+ mashed together.
+ Repurposing tools and using them for unintended uses.
+\end_layout
+
+\begin_layout Subsubsection*
+wall text
+\end_layout
+
+\begin_layout Standard
+Google uses widgets on external websites to track our web browsing behaviour
+ and to generate our "user interest" model.
+ These inferred data models are then used to personalize Google Search,
+ prioritizing results which its personalization algorithms deem relevant
+ to each individual user.
+\end_layout
+
+\begin_layout Standard
+Everybody's Google programmatically controls a set of Google user accounts.
+ In an effort to hyper-personalize their Google Search results, these accounts
+ have been scripted to navigate the web biased towards specific cultural
+ interests or political orientations.
+ This visualization shows each account's top 10 results for particular Google
+ Search queries.
+ 
+\end_layout
+
+\begin_layout Section*
+Ocular Character Recognition
+\end_layout
+
+\begin_layout Standard
+Ocular Character Recognition consists of three separate, but related projects:
+ Webpages for Humans - a web application used to CAPTCHA-fy machine-readable
+ HTML documents; CAPTCHA-fy! - handmade booklets expressing the underlying
+ goals and ideas under the OCR umbrella (a manifesto); and The Serendipity
+ Engine - a modified printer used to serendipitously dispense/produce CAPTCHA-fi
+ed pages from eBooks digitized through Google's book/library project.
+\end_layout
+
+\begin_layout Subsubsection*
+webpages for humans wall text
+\end_layout
+
+\begin_layout Standard
+A CAPTCHA test determines if you're human by asking you to decipher text
+ which has been distorted to the point that it cannot be parsed by computer
+ vision algorithms, yet is still readable to the human eye.
+ These prints were generated by replacing the text on webpages with CAPTCHAs,
+ transforming a digital document specifically designed for machine readability
+ into a physical document which can no longer be "read" by a computer.
+\end_layout
+
+\begin_layout Subsection*
+Background
+\end_layout
+
+\begin_layout Standard
+CAPTCHA
+\end_layout
+
+\begin_layout Standard
+Google Books
+\end_layout
+
+\begin_layout Standard
+Webpages for Humans questions our notion of archiving and digital culture.
+ Physical objects -> digital representations -> ? What happens to the digital
+ represetnations.
+ People forget about the physicality of the digital - web sites and data
+ are transmitted over cables, applications are run from servers in warehouses
+ full of servers (data farms.) When power goes down in silicon valley or
+ a bomb is detonated at a server farm, what happens to not just our data,
+ but our lives? As we come to live and exeperience more through the digital,
+ having a single point of failure can drastically change blah blah blah.
+ As we forget about the physical or replace/supplant it with digital representat
+ions, how do we prepare for the inevitable evolution (of technology mediated
+ communication) or disappearance of the current digital form?
+\end_layout
+
+\begin_layout Standard
+The webpages we view are visual representations of an underlying structure,
+ and underlying code, syntax, and semantics.
+ A parser/interpreter takes codes and turns it into a visual form.
+ Webpages for Humans manipulates both of these forms simultaneously in replacing
+ the machine-readable text, both in the presentation layer 
+\series bold
+and
+\series default
+ in the underlying code, and replacing it with images/DataURIs.
+\end_layout
+
+\begin_layout Subsection*
+Concept & Execution
+\end_layout
+
+\begin_layout Subsection*
+Technical description
+\end_layout
+
+\begin_layout Standard
+physical form - prints/
+\begin_inset Quotes erd
+\end_inset
+
+screens
+\begin_inset Quotes erd
 \end_inset
 
 
