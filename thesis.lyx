@@ -174,32 +174,258 @@ projects
 Everybody's Google
 \end_layout
 
-\begin_layout Standard
-1.
- Formal Description (what does it look like? how does it work? how will
- it function in a gallery or online?)
+\begin_layout Subsection*
+Conceptual Description
 \end_layout
 
 \begin_layout Standard
-2.
- Conceptual Description (what ideas is it exploring? what theoretical vocabulari
-es is it engaging? intellectual and artistic traditions is it expanding?)
+(what ideas is it exploring? what theoretical vocabularies is it engaging?
+ intellectual and artistic traditions is it expanding?)
 \end_layout
 
 \begin_layout Standard
-3.
- Technical description (how was it built designed? any technical innovations?
- technical obstacles?)
+As digital technologies become increasingly ubiquitous and accessible, digital
+ resources are quickly becoming the primary resources for information and
+ knowledge gathering.
+ While the Internet is largely viewed as embracing democratic ideals and
+ guaranteeing equal access for all, to all, the fact that our Internet experienc
+e is mediated almost exclusively through privatized companies, is inherently
+ undemocratic.
+ In order to provide "relevant" information to individual users (and increase
+ revenues), companies like Google and Amazon filter content and information
+ through black box algorithms.
+ End users have little to no control over which items or information are
+ shown to them, or in what order; and because these algorithms are trade
+ secrets, users also cannot have an understanding of the filtering and selection
+ process.
 \end_layout
 
 \begin_layout Standard
-4.
- Goals and expected outcomes (audience, how do they engage?, what do they
- get out of it?)
+Everybody's Google explores these ideas and systems by programmatically
+ controlling a set of Google user accounts.
+ In an effort to hyper-personalize their Google Search results, these accounts
+ have been scripted to navigate the web biased towards specific cultural
+ interests or political orientations.
+ The visualization shows each account's top 10 results for particular Google
+ Search queries.
+\end_layout
+
+\begin_layout Standard
+Character development takes the form of purely web navigation
+\end_layout
+
+\begin_layout Standard
+Internet as a medium - web pages, services which can be hacked apart and
+ mashed together.
+ Repurposing tools and using them for unintended uses.
 \end_layout
 
 \begin_layout Subsection*
-Background
+Formal Description
+\end_layout
+
+\begin_layout Standard
+(what does it look like? how does it work? how will it function in a gallery
+ or online?)
+\end_layout
+
+\begin_layout Standard
+Google uses widgets on external websites to track our web browsing behaviour
+ and to generate our "user interest" model.
+ These inferred data models are then used to personalize Google Search,
+ prioritizing results which its personalization algorithms deem relevant
+ to each individual user.
+\end_layout
+
+\begin_layout Standard
+Everybody's Google is a piece of software which programmatically controls
+ a set of Google user accounts.
+ In an effort to hyper-personalize their Google Search results, these accounts
+ have been scripted to navigate the web biased towards specific cultural
+ interests or political orientations.
+ In a sense, their 
+\begin_inset Quotes eld
+\end_inset
+
+character development
+\begin_inset Quotes erd
+\end_inset
+
+ (from Google's perspective) is generated through their scripted browsing
+ behaviours.
+ The more they browse the web and view sites with Google's tracking cookies,
+ the more Google 
+\begin_inset Quotes eld
+\end_inset
+
+knows
+\begin_inset Quotes erd
+\end_inset
+
+ about them (in a certain area), and the 
+\begin_inset Quotes eld
+\end_inset
+
+better
+\begin_inset Quotes erd
+\end_inset
+
+ they can hone in on personalized search.
+ For example, one of the accounts is constantly reading MTV hip hop blogs
+ - Google is likely to assume that this person is very interested in hip
+ hop music and news.
+\end_layout
+
+\begin_layout Standard
+In its current form, the project is engaged with through a web interface.
+ Rather than exploring raw data in a traditional format, visitors to the
+ website may engage with the data by entering a search query which will
+ then be executed by each of the 4 personas.
+ Their search results are then saved and compared in a visualization.
+ The data is stored in a database and visualized on the website as a series
+ of rotating cubes showing each account's top 10 results for particular
+ Google Search queries.
+ Each cube face in the visualization represents one of four personas, each
+ representing a particular stereotype: a young man living in the UK who
+ is interested in sports and gambling; a teenage girl from Atlanta interested
+ in fashion, celebrities, and pop music; a middle-aged conservative Christian
+ businessman from rural Virgina; and a liberal, Californian mom-to-be, intereste
+d in women’s rights.
+\end_layout
+
+\begin_layout Standard
+The personas have been constructed by programmatically directing each to
+ visit relevant websites in their areas of interest which also make use
+ of Google advertising or analytics services.
+ 
+\end_layout
+
+\begin_layout Subsection*
+Technical description
+\end_layout
+
+\begin_layout Standard
+(how was it built designed? any technical innovations? technical obstacles?)
+\end_layout
+
+\begin_layout Standard
+casperjs + phantomjs.
+ Program user interactions with a web page.
+ Authenticate as a user, navigate to a 
+\begin_inset Quotes eld
+\end_inset
+
+seed
+\begin_inset Quotes erd
+\end_inset
+
+ page, and click on specific links (ie., 
+\begin_inset Quotes eld
+\end_inset
+
+featured
+\begin_inset Quotes erd
+\end_inset
+
+ area on a page.) Not spoofing anything - simply browsing the internet.
+ This runs for 4 personas every 10-15 minutes (for one person, one seed.)
+\end_layout
+
+\begin_layout Standard
+Knowyourmeme.com spam
+\end_layout
+
+\begin_layout Subsection*
+Goals and expected outcomes 
+\end_layout
+
+\begin_layout Standard
+(audience, how do they engage?, what do they get out of it?)
+\end_layout
+
+\begin_layout Subsection*
+Background - move this to context/rationale section of paper?
+\end_layout
+
+\begin_layout Standard
+Notes
+\end_layout
+
+\begin_layout Standard
+Traditionally, the internet has been run as an 
+\begin_inset Quotes eld
+\end_inset
+
+attention economy
+\begin_inset Quotes erd
+\end_inset
+
+ - the more popular something is, the easier it is to find (rich get richer.)
+ These algorithms are changing.
+ PageRank, EdgeRank, sponsored listings (paid), 
+\begin_inset Quotes eld
+\end_inset
+
+Most Popular
+\begin_inset Quotes erd
+\end_inset
+
+ has long been the rule.
+ It is slowly moving to more of a network analysis (friends of friends,
+ actions taken, previous histories, global trends, etc.)
+\end_layout
+
+\begin_layout Standard
+By enabling this functionality, hopefully users can gain an insight (and
+ 
+\begin_inset Quotes eld
+\end_inset
+
+reverse engineer
+\begin_inset Quotes erd
+\end_inset
+
+ in a ssnse) allowing users to see the various perspectives Google creates
+ of its own “world model.”
+\end_layout
+
+\begin_layout Standard
+A broad, yet extremely detailed view of the codification of culture - telling
+ the story of individuals across cultures through search results.
+ Allows users to see the various perspectives Google creates of its own
+ “world model.”
+\end_layout
+
+\begin_layout Standard
+Notes from Psych paper:
+\end_layout
+
+\begin_layout Standard
+Most web users are not aware that their Internet experience is personalized
+ and different from that of other users.
+ Even those who are aware of this do not realize to what extent it occurs.
+ The primary goal of this project is to raise awareness of web personalization
+ by explicitly showing the physical evidence of its existence in a visible
+ and visceral way.
+\end_layout
+
+\begin_layout Standard
+A secondary goal of this project is to allow users to gain insight into
+ Google’s “user model” of themselves – in a sense, allowing every-day users
+ to explore the data gathered and gain a very broad overview of how Google
+ views them.
+ I believe that providing a large overview of this data will allow people
+ to “reverse-engineer” their personal user models at a very broad level,
+ enabling them to see trends in what types of search results they are being
+ served.
+ (Reverse engineering actual, detailed user models from this data will likely
+ be impossible, but it should clearly demonstrate some of the things Google
+ knows about each individual.)
+\end_layout
+
+\begin_layout Standard
+Google makes money by serving personalized advertisements - subvert Google's
+ personalization algorithms, get a larger world view?
 \end_layout
 
 \begin_layout Subsubsection*
@@ -410,7 +636,7 @@ Black box - nobody really knows what's going on, including Google engineers.
 \begin_inset Quotes eld
 \end_inset
 
-trade secrte
+trade secret
 \begin_inset Quotes erd
 \end_inset
 
@@ -421,234 +647,26 @@ have
  to tell anybody what they're doing behind the scenes.
 \end_layout
 
-\begin_layout Subsection*
-Project Concept
-\end_layout
-
-\begin_layout Standard
-Everybody's Google explores these ideas and systems by programmatically
- controlling a set of Google user accounts.
- In an effort to hyper-personalize their Google Search results, these accounts
- have been scripted to navigate the web biased towards specific cultural
- interests or political orientations.
- The visualization shows each account's top 10 results for particular Google
- Search queries.
-\end_layout
-
-\begin_layout Standard
-Character development takes the form of purely web navigation
-\end_layout
-
-\begin_layout Subsection*
-Technical Description & Implementation
-\end_layout
-
-\begin_layout Standard
-casperjs + phantomjs.
- Program user interactions with a web page.
- Authenticate as a user, navigate to a 
-\begin_inset Quotes eld
-\end_inset
-
-seed
-\begin_inset Quotes erd
-\end_inset
-
- page, and click on specific links (ie., 
-\begin_inset Quotes eld
-\end_inset
-
-featured
-\begin_inset Quotes erd
-\end_inset
-
- area on a page.) Not spoofing anything - simply browsing the internet.
- This runs for 4 personas every 10-15 minutes (for one person, one seed.)
-\end_layout
-
-\begin_layout Standard
-Internet as a medium - web pages, services which can be hacked apart and
- mashed together.
- Repurposing tools and using them for unintended uses.
-\end_layout
-
-\begin_layout Standard
-Notes
-\end_layout
-
-\begin_layout Standard
-This functionality will give each user more individual control over their
- search experience while also making Google's personalization algoritihms
- a bit more prominent.
-\end_layout
-
-\begin_layout Standard
-However, these features are primarily implemented to give the user a 
-\begin_inset Quotes eld
-\end_inset
-
-benefit
-\begin_inset Quotes erd
-\end_inset
-
- to installing the plugin and encouraging them to send data to Everybody's
- Google.
-\end_layout
-
-\begin_layout Standard
-Traditionally, the internet has been run as an 
-\begin_inset Quotes eld
-\end_inset
-
-attention economy
-\begin_inset Quotes erd
-\end_inset
-
- - the more popular something is, the easier it is to find (rich get richer.)
- These algorithms are changing.
- PageRank, EdgeRank, sponsored listings (paid), 
-\begin_inset Quotes eld
-\end_inset
-
-Most Popular
-\begin_inset Quotes erd
-\end_inset
-
- has long been the rule.
- It is slowly moving to more of a network analysis (friends of friends,
- actions taken, previous histories, global trends, etc.)
-\end_layout
-
-\begin_layout Standard
-By enabling this functionality, hopefully users can gain an insight (and
- 
-\begin_inset Quotes eld
-\end_inset
-
-reverse engineer
-\begin_inset Quotes erd
-\end_inset
-
- in a ssnse) allowing users to see the various perspectives Google creates
- of its own “world model.”
-\end_layout
-
-\begin_layout Standard
-Also offers links for people to add their own search (plugs the extension)
-\end_layout
-
-\begin_layout Standard
-A broad, yet extremely detailed view of the codification of culture - telling
- the story of individuals across cultures through search results.
- (Can we track link clicks? Should this be about the pages visited, and
- *not* the search results? These will then be presented as physical prints.
- See 
-\begin_inset Quotes eld
-\end_inset
-
-Search Results for Humans
-\begin_inset Quotes erd
-\end_inset
-
-)
-\end_layout
-
-\begin_layout Standard
-is a web browser extension which mines personalized Google search results
- and redistributes them to extension users when new queries are executed,
- allowing users to see the various perspectives Google creates of its own
- “world model.”
-\end_layout
-
-\begin_layout Standard
-Notes from Psych paper:
-\end_layout
-
-\begin_layout Standard
-Most web users are not aware that their Internet experience is personalized
- and different from that of other users.
- Even those who are aware of this do not realize to what extent it occurs.
- The primary goal of this project is to raise awareness of web personalization
- by explicitly showing the physical evidence of its existence in a visible
- and visceral way.
-\end_layout
-
-\begin_layout Standard
-A secondary goal of this project is to allow users to gain insight into
- Google’s “user model” of themselves – in a sense, allowing every-day users
- to explore the data gathered and gain a very broad overview of how Google
- views them.
- I believe that providing a large overview of this data will allow people
- to “reverse-engineer” their personal user models at a very broad level,
- enabling them to see trends in what types of search results they are being
- served.
- (Reverse engineering actual, detailed user models from this data will likely
- be impossible, but it should clearly demonstrate some of the things Google
- knows about each individual.)
-\end_layout
-
-\begin_layout Standard
-Google makes money by serving personalized advertisements - subvert Google's
- personalization algorithms, get a larger world view?
-\end_layout
-
-\begin_layout Itemize
-Using free labor to OCR *english* books - let's undo that
-\end_layout
-
-\begin_layout Itemize
-Can: convert existing web page, or create new through a POST request or
- a file upload
-\end_layout
-
-\begin_layout Itemize
-web2mail.com, emailtheweb.com, pdfmyurl, browsershots.org, url2png (used to
- bypass censorhip filters)
-\end_layout
-
-\begin_layout Subsubsection*
-wall text
-\end_layout
-
-\begin_layout Standard
-Google uses widgets on external websites to track our web browsing behaviour
- and to generate our "user interest" model.
- These inferred data models are then used to personalize Google Search,
- prioritizing results which its personalization algorithms deem relevant
- to each individual user.
-\end_layout
-
-\begin_layout Standard
-Everybody's Google programmatically controls a set of Google user accounts.
- In an effort to hyper-personalize their Google Search results, these accounts
- have been scripted to navigate the web biased towards specific cultural
- interests or political orientations.
- This visualization shows each account's top 10 results for particular Google
- Search queries.
-\end_layout
-
-\begin_layout Standard
-Each cube face in the visualization represents one of four personas, each
- representing a particular stereotype: a young man living in the UK who
- is interested in sports and gambling; a teenage girl from Atlanta interested
- in fashion, celebrities, and pop music; a middle-aged conservative Christian
- businessman from rural Virgina; and a liberal, Californian mom-to-be, intereste
-d in women’s rights.
-\end_layout
-
-\begin_layout Standard
-The personas have been constructed by programmatically directing each to
- visit relevant websites in their areas of interest which also make use
- of Google advertising or analytics services.
- 
-\end_layout
-
 \begin_layout Section*
 Ocular Character Recognition
 \end_layout
 
 \begin_layout Subsection*
-Background
+Conceptual Description
+\end_layout
+
+\begin_layout Standard
+(what ideas is it exploring? what theoretical vocabularies is it engaging?
+ intellectual and artistic traditions is it expanding?)
+\end_layout
+
+\begin_layout Standard
+Ocular Character Recognition consists of three separate, but related projects:
+ Webpages for Humans - a web application used to CAPTCHA-fy machine-readable
+ HTML documents; CAPTCHA-fy! - handmade booklets expressing the underlying
+ goals and ideas under the OCR umbrella (a manifesto); and The Serendipity
+ Engine - a modified printer used to serendipitously dispense/produce CAPTCHA-fi
+ed pages from eBooks digitized through Google's book/library project.
 \end_layout
 
 \begin_layout Standard
@@ -700,17 +718,64 @@ outages
  affect us culturally?
 \end_layout
 
-\begin_layout Subsection*
-Project Concept
+\begin_layout Standard
+The Bible is by far the most-read book in the world.
+ When searching for eBook versions of the bible, the three main resources
+ for eBooks produce very different results, based upon price, and version
+ of the bible: Project Gutenberg returns the King James Version as the top
+ hit, Amazon returns the English Standard Version, and Google Play returns
+ a different publisher's ESV.
+ (Note, these are all free versions of the books as well - prices range
+ from $1 - $10 for other digital copies of the Bible.) So why is this important?
+ Not necessarily because books are dead and will be replaced by iPads and
+ Kindles anytime soon (especially in the context of Churches AND especially
+ given navigation difficulties in digital books as large as the Bible),
+ but for people researching Biblical stories, these may likely be a highly
+ valuable resource.
+ But more importantly, these eBooks are the digital versions of the physical
+ books.
+ And this means they are being indexed, searched, and analyzed by various
+ software services (search, language analysis/machine learning, sentiment
+ analysis, etc.) Project Gutenberg makes the content available much more
+ easily for machine consumption, and is much more easily accessible for
+ humans as well.
+ Link analysis, weight, reputation/reliability...
 \end_layout
 
 \begin_layout Standard
-Ocular Character Recognition consists of three separate, but related projects:
- Webpages for Humans - a web application used to CAPTCHA-fy machine-readable
- HTML documents; CAPTCHA-fy! - handmade booklets expressing the underlying
- goals and ideas under the OCR umbrella (a manifesto); and The Serendipity
- Engine - a modified printer used to serendipitously dispense/produce CAPTCHA-fi
-ed pages from eBooks digitized through Google's book/library project.
+This is just one example.
+ I did not use this as an example in the MFA show because I was trying to
+ avoid as much as possible making the project about the content of the pages.
+ Producing/re-producing pages from the Bible would've made the project about
+ religion moreso than digitization and digital culture.
+\end_layout
+
+\begin_layout Subsection*
+Technical description
+\end_layout
+
+\begin_layout Standard
+(how was it built designed? any technical innovations? technical obstacles?)
+\end_layout
+
+\begin_layout Standard
+Webpages for Humans is a set of JavaScript code which generates text in
+ the style of CAPTCHAs and replaces the text on webpages with those images.
+\end_layout
+
+\begin_layout Standard
+The Serendipity Engine consisted of a modified printer which was used to
+ dispense sheets of paper at set time intervals.
+ The pages it was producing were pre-printed, modified versions of free
+ Google E-Books
+\end_layout
+
+\begin_layout Subsection*
+Goals and expected outcomes 
+\end_layout
+
+\begin_layout Standard
+(audience, how do they engage?, what do they get out of it?)
 \end_layout
 
 \begin_layout Subsection*
