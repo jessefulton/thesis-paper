@@ -661,6 +661,23 @@ Conceptual Description
 \end_layout
 
 \begin_layout Standard
+Many people rely on Google search to find information, and often-times the
+ Wikipedia page for a particular subject is one of the top three search
+ results (or now is often being integrated into Google's Knowledge Graph
+ results.)
+\end_layout
+
+\begin_layout Standard
+Difference between web pages & traditional resources (TV, newspaper, magazine,
+ radio) is that the web is always there, always available, yet is always
+ changing.
+ It is accessible, static, and yet extremely dynamic at the same time.
+ Instead of merely consuming culture (TV, radio, film) we are now producing
+ culture as well, thanks to the elimination of spacetime made possible by
+ high speed internet and wide accessibility to the Internet.
+\end_layout
+
+\begin_layout Standard
 Ocular Character Recognition consists of three separate, but related projects:
  Webpages for Humans - a web application used to CAPTCHA-fy machine-readable
  HTML documents; CAPTCHA-fy! - handmade booklets expressing the underlying
