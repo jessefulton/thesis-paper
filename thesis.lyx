@@ -175,6 +175,97 @@ Everybody's Google
 \end_layout
 
 \begin_layout Standard
+1.
+ Formal Description (what does it look like? how does it work? how will
+ it function in a gallery or online?)
+\end_layout
+
+\begin_layout Standard
+2.
+ Conceptual Description (what ideas is it exploring? what theoretical vocabulari
+es is it engaging? intellectual and artistic traditions is it expanding?)
+\end_layout
+
+\begin_layout Standard
+3.
+ Technical description (how was it built designed? any technical innovations?
+ technical obstacles?)
+\end_layout
+
+\begin_layout Standard
+4.
+ Goals and expected outcomes (audience, how do they engage?, what do they
+ get out of it?)
+\end_layout
+
+\begin_layout Subsection*
+Background
+\end_layout
+
+\begin_layout Subsubsection*
+Why Google?
+\end_layout
+
+\begin_layout Standard
+Code is law.
+ If Google is our gateway to the world of the Internet, it’s laws and rules
+ influence how we can interact with the Internet – it directly shapes our
+ understanding of the space of the Internet.
+\end_layout
+
+\begin_layout Standard
+There is no “public space” on the Internet – everything is privatized public
+ space.
+ On the Internet, the gatekeepers of information are search engines, the
+ most prominent being Google (as of July, 2011, Google was responsible for
+ ~65% of all web searches – over 4x more than its nearest competitor.) However,
+ search engines exploit the bidirectional communication inherent in web
+ browsing to silently capture vast amounts of personal data and behavioral
+ information from Internet users in order to “personalize” their web browsing
+ experience.
+ This personalization, in combination with the “black-boxed” ranking algorithms
+ employed by these software systems have the ability to radically the informatio
+n we encounter on the Internet.
+ If we experience and know the world through our bodies, blah blah blah
+ through Google.
+\end_layout
+
+\begin_layout Subsubsection*
+What is Google?
+\end_layout
+
+\begin_layout Standard
+(search, gmail, ads, analytics, Google+) - they are everywhere.
+ If a site has these installed, your are actually sending data to Google
+ which they use to tune and train their algorithms.
+ This is how they make money.
+\end_layout
+
+\begin_layout Subsubsection*
+How Google search works
+\end_layout
+
+\begin_layout Standard
+citation analysis
+\end_layout
+
+\begin_layout Subsubsection*
+Indexing
+\end_layout
+
+\begin_layout Subsubsection*
+Search
+\end_layout
+
+\begin_layout Subsubsection*
+Profit
+\end_layout
+
+\begin_layout Subsubsection*
+Personalization
+\end_layout
+
+\begin_layout Standard
 When I search for 
 \begin_inset Quotes eld
 \end_inset
@@ -330,6 +421,10 @@ have
  to tell anybody what they're doing behind the scenes.
 \end_layout
 
+\begin_layout Subsection*
+Project Concept
+\end_layout
+
 \begin_layout Standard
 Everybody's Google explores these ideas and systems by programmatically
  controlling a set of Google user accounts.
@@ -342,6 +437,10 @@ Everybody's Google explores these ideas and systems by programmatically
 
 \begin_layout Standard
 Character development takes the form of purely web navigation
+\end_layout
+
+\begin_layout Subsection*
+Technical Description & Implementation
 \end_layout
 
 \begin_layout Standard
@@ -371,6 +470,140 @@ featured
 Internet as a medium - web pages, services which can be hacked apart and
  mashed together.
  Repurposing tools and using them for unintended uses.
+\end_layout
+
+\begin_layout Standard
+Notes
+\end_layout
+
+\begin_layout Standard
+This functionality will give each user more individual control over their
+ search experience while also making Google's personalization algoritihms
+ a bit more prominent.
+\end_layout
+
+\begin_layout Standard
+However, these features are primarily implemented to give the user a 
+\begin_inset Quotes eld
+\end_inset
+
+benefit
+\begin_inset Quotes erd
+\end_inset
+
+ to installing the plugin and encouraging them to send data to Everybody's
+ Google.
+\end_layout
+
+\begin_layout Standard
+Traditionally, the internet has been run as an 
+\begin_inset Quotes eld
+\end_inset
+
+attention economy
+\begin_inset Quotes erd
+\end_inset
+
+ - the more popular something is, the easier it is to find (rich get richer.)
+ These algorithms are changing.
+ PageRank, EdgeRank, sponsored listings (paid), 
+\begin_inset Quotes eld
+\end_inset
+
+Most Popular
+\begin_inset Quotes erd
+\end_inset
+
+ has long been the rule.
+ It is slowly moving to more of a network analysis (friends of friends,
+ actions taken, previous histories, global trends, etc.)
+\end_layout
+
+\begin_layout Standard
+By enabling this functionality, hopefully users can gain an insight (and
+ 
+\begin_inset Quotes eld
+\end_inset
+
+reverse engineer
+\begin_inset Quotes erd
+\end_inset
+
+ in a ssnse) allowing users to see the various perspectives Google creates
+ of its own “world model.”
+\end_layout
+
+\begin_layout Standard
+Also offers links for people to add their own search (plugs the extension)
+\end_layout
+
+\begin_layout Standard
+A broad, yet extremely detailed view of the codification of culture - telling
+ the story of individuals across cultures through search results.
+ (Can we track link clicks? Should this be about the pages visited, and
+ *not* the search results? These will then be presented as physical prints.
+ See 
+\begin_inset Quotes eld
+\end_inset
+
+Search Results for Humans
+\begin_inset Quotes erd
+\end_inset
+
+)
+\end_layout
+
+\begin_layout Standard
+is a web browser extension which mines personalized Google search results
+ and redistributes them to extension users when new queries are executed,
+ allowing users to see the various perspectives Google creates of its own
+ “world model.”
+\end_layout
+
+\begin_layout Standard
+Notes from Psych paper:
+\end_layout
+
+\begin_layout Standard
+Most web users are not aware that their Internet experience is personalized
+ and different from that of other users.
+ Even those who are aware of this do not realize to what extent it occurs.
+ The primary goal of this project is to raise awareness of web personalization
+ by explicitly showing the physical evidence of its existence in a visible
+ and visceral way.
+\end_layout
+
+\begin_layout Standard
+A secondary goal of this project is to allow users to gain insight into
+ Google’s “user model” of themselves – in a sense, allowing every-day users
+ to explore the data gathered and gain a very broad overview of how Google
+ views them.
+ I believe that providing a large overview of this data will allow people
+ to “reverse-engineer” their personal user models at a very broad level,
+ enabling them to see trends in what types of search results they are being
+ served.
+ (Reverse engineering actual, detailed user models from this data will likely
+ be impossible, but it should clearly demonstrate some of the things Google
+ knows about each individual.)
+\end_layout
+
+\begin_layout Standard
+Google makes money by serving personalized advertisements - subvert Google's
+ personalization algorithms, get a larger world view?
+\end_layout
+
+\begin_layout Itemize
+Using free labor to OCR *english* books - let's undo that
+\end_layout
+
+\begin_layout Itemize
+Can: convert existing web page, or create new through a POST request or
+ a file upload
+\end_layout
+
+\begin_layout Itemize
+web2mail.com, emailtheweb.com, pdfmyurl, browsershots.org, url2png (used to
+ bypass censorhip filters)
 \end_layout
 
 \begin_layout Subsubsection*
@@ -414,6 +647,29 @@ The personas have been constructed by programmatically directing each to
 Ocular Character Recognition
 \end_layout
 
+\begin_layout Subsection*
+Background
+\end_layout
+
+\begin_layout Standard
+Webpages for Humans questions our notion of archiving and digital culture.
+ Physical objects -> digital representations -> ? What happens to the digital
+ represetnations.
+ People forget about the physicality of the digital - web sites and data
+ are transmitted over cables, applications are run from servers in warehouses
+ full of servers (data farms.) When power goes down in silicon valley or
+ a bomb is detonated at a server farm, what happens to not just our data,
+ but our lives? As we come to live and exeperience more through the digital,
+ having a single point of failure can drastically change blah blah blah.
+ As we forget about the physical or replace/supplant it with digital representat
+ions, how do we prepare for the inevitable evolution (of technology mediated
+ communication) or disappearance of the current digital form?
+\end_layout
+
+\begin_layout Subsection*
+Project Concept
+\end_layout
+
 \begin_layout Standard
 Ocular Character Recognition consists of three separate, but related projects:
  Webpages for Humans - a web application used to CAPTCHA-fy machine-readable
@@ -421,6 +677,10 @@ Ocular Character Recognition consists of three separate, but related projects:
  goals and ideas under the OCR umbrella (a manifesto); and The Serendipity
  Engine - a modified printer used to serendipitously dispense/produce CAPTCHA-fi
 ed pages from eBooks digitized through Google's book/library project.
+\end_layout
+
+\begin_layout Subsection*
+Technical Description & Implementations
 \end_layout
 
 \begin_layout Subsubsection*
@@ -446,21 +706,6 @@ CAPTCHA
 
 \begin_layout Standard
 Google Books
-\end_layout
-
-\begin_layout Standard
-Webpages for Humans questions our notion of archiving and digital culture.
- Physical objects -> digital representations -> ? What happens to the digital
- represetnations.
- People forget about the physicality of the digital - web sites and data
- are transmitted over cables, applications are run from servers in warehouses
- full of servers (data farms.) When power goes down in silicon valley or
- a bomb is detonated at a server farm, what happens to not just our data,
- but our lives? As we come to live and exeperience more through the digital,
- having a single point of failure can drastically change blah blah blah.
- As we forget about the physical or replace/supplant it with digital representat
-ions, how do we prepare for the inevitable evolution (of technology mediated
- communication) or disappearance of the current digital form?
 \end_layout
 
 \begin_layout Standard
@@ -495,8 +740,200 @@ screens
 
 \end_layout
 
+\begin_layout Subsection*
+From 
+\begin_inset Quotes eld
+\end_inset
+
+thesis-notes.lyx
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Webpages for Humans is a web application that creates a version of the Internet
+ which is only readable by humans.
+ Screen-scraping technology is used to generate images of webpages which
+ are then processed by Optical Character Recognition software to find machine-re
+adable text on the page.
+ This text is then "CAPTCHA-fied" to create a distorted and manipulated
+ rendering of that webpage.
+ This previously machine-readable text, is distorted using the same algorithms
+ used in CAPTCHA tests to ensure the computer programs can no longer decipher
+ them.
+\end_layout
+
+\begin_layout Standard
+This site is part of a larger project which explores our relationship with
+ digital representations of physical and cultural artifacts.
+\end_layout
+
+\begin_layout Standard
+CAPTCHAs are the images of distorted text you must translate to do things
+ like sign up for an account or post a comment on a website.
+ They're used to prevent spam by determining if the user of a site is a
+ human, or a computer program (often referred to as a "bot.")
+\end_layout
+
+\begin_layout Standard
+A CAPTCHA test generally consists of two text-based images: a word which
+ could not be deciphered by OCR software (the "unknown" word); and a second
+ word which the OCR software could decipher (the "known" word.) The user
+ is then prompted to type in both words, with the assumption being that
+ if the known word is correctly identified, then the identification of the
+ unknown word is also likely to be correct source.
+ This human translation for the unknown word is then added to the original
+ OCR translation.
+\end_layout
+
+\begin_layout Standard
+When Google digitizes physical books (as part of its Google Books project),
+ OCR software is used to "read" the scanned pages and make it searchable
+ and indexable.
+ However, the computer algorithms fail occasionally due to scan irregularites,
+ low print quality, or similar problems.
+ When this happens, the only way to decipher these portions of the digitized
+ text is with a human eye.
+\end_layout
+
+\begin_layout Standard
+Google's massive attempt to digitize every book in existence requires an
+ enourmous amount of human labour.
+ reCAPTCHA, the most popular CAPTCHA service on the Internet, fulfills this
+ need by distributing this labour as micro-tasks across the Internet.
+ In exchange for access to enhanced functionality, web users provide the
+ labour required to translate that which computers cannot.
+\end_layout
+
 \begin_layout Part*
-The Politics of the Internet
+Literary Review/Context/Why does this matter?
+\end_layout
+
+\begin_layout Section*
+Digitization
+\end_layout
+
+\begin_layout Section*
+Digital Interface
+\end_layout
+
+\begin_layout Section*
+Software
+\end_layout
+
+\begin_layout Section*
+Search & Algorithms
+\end_layout
+
+\begin_layout Standard
+Search engines are software.
+ Their main algorithm is a function which filters information from a database.
+ In Lev Manovich’s terms, the search engine is the narrative (the algorithm)
+ through which we experience the world of the Internet (the database.)
+\begin_inset CommandInset citation
+LatexCommand cite
+key "key-1"
+
+\end_inset
+
+ It is this algorithm which decides whether we are a radical anarchist,
+ scholarly researcher, or a promising political candidate.
+ But search engines are privatized so we cannot see the algorithm.
+\end_layout
+
+\begin_layout Quote
+Search engines constitute a powerful source of access and accessibility
+ within the Web.
+ [Previous research has shown] how access to the Web is preconfigured in
+ subtle but politically important ways, resulting in exclusion of significant
+ voices… The politics of search engines thus represents the broader struggle
+ to sustain the democratic potential of traditional media, the Internet,
+ and the World Wide Web in particular.
+ (Introna and Nissenbaum 3-4) 
+\end_layout
+
+\begin_layout Standard
+This algorithm was written by a software engineer, or more likely a team
+ of software engineers.
+ I’m exploring the database of the Internet through their narrative.
+ This is not my Internet, this is Google’s Internet, and therein lies one
+ of the major problems.
+ My experience of the Internet is filtered through privatized companies
+ controlling the flow of information (search engines, ISPs, etc.) which already
+ hints that the democratic potential of the World Wide Web has already been
+ compromised.
+ 
+\end_layout
+
+\begin_layout Section*
+Democracy in the Digital Age (Digital Democracy)
+\end_layout
+
+\begin_layout Section*
+Autonomy in the Digital Age (Digital Autonomy)
+\end_layout
+
+\begin_layout Section*
+Culture in the Digital Age (Digital Culture/Digitization of Culture)
+\end_layout
+
+\begin_layout Part*
+Dialogue
+\end_layout
+
+\begin_layout Standard
+Newstweek by Julian Oliver & Danja Vasiliev Newstweek is a “tactical device
+ for altering reality on a per-network basis” by enabling the manipulation
+ of news sites and articles being read on WiFi hotspots.
+ This project directly addresses issues of content generation and distribution
+ and illustrates the relative ease of subversive content manipulation.
+ 
+\end_layout
+
+\begin_layout Standard
+Google Alarm by Jamie Wilkinson Google Alarm is a web browser extension
+ which visually and audibly alerts users every time their personal information
+ is sent to Google’s servers.
+ This piece clearly highlights events which are otherwise nearly imperceptible
+ giving users a tiny glimpse into the wide influence of one the Internet’s
+ largest corporations.
+\end_layout
+
+\begin_layout Standard
+The Injunction Generator by UBERMORGEN.COM The Injunction Generator allows
+ users to generate and send authentic-looking cease-and-desist letters to
+ domain owners.
+ At a time when the RIAA and MPAA effectively censored many websites and
+ users under the guise of the Digital Millenium Copyright Act, this piece
+ gave some power back to the anonymous user through subversion and confusion.
+ This is a great example of electronic civil disobedience and really illustrates
+ how much power can be attained with software.
+\end_layout
+
+\begin_layout Standard
+No Fun by Eva and Franco Mattes aka 0100101110101101.ORG Chat Roulette is
+ a website which randomly pairs anonymous users together in one-on-one video
+ chats.
+ In the online performance No Fun, Chat Roulette users randomly paired with
+ Evan and Franco Mattes were presented with a live video stream of an apparent
+ suicide.
+ This piece is very powerful and through somewhat questionable means, forces
+ users to want to question the veracity of the content on the screen.
+ 
+\end_layout
+
+\begin_layout Standard
+The Longest Poem in the World by Andrei Gheorghe The Longest Poem in the
+ World is a continuously evolving poem created by aggregating and pairing
+ rhyming Tweets.
+ The piece is simple, elegant, and easily approachable.
+ Also, being a new media literary collage, the piece shares some ideas with
+ Dada.
+ It is a great example of cultural production and the value which open data
+ can provide.
+ 
 \end_layout
 
 \begin_layout Section*
@@ -1165,12 +1602,231 @@ Newstweek? Shaved Beieber? (culture jamming, censorshop through selective
  filtering)
 \end_layout
 
+\begin_layout Subsubsection*
+Rationale (from original proposal)
+\end_layout
+
+\begin_layout Standard
+I’m interested in exploring issues of transparency, autonomy, and agency
+ with regards to technology, speciﬁcally the Internet or networked devices.
+ As the power, aﬀordability, and ubiquity of digital technologies exponentially
+ increases, so does the necessity to study the cultural impact of these
+ systems.
+ While most think of these technologies as things, I view them primarily
+ as software and software systems.
+ Without hardware to run on, software as we know it would not exist; yet
+ without software, hardware (and the infrastructures required to build and
+ run them) would be useless.
+ We only experience the digital through software.
+ While there are systems of policies, guidelines, and reviews of hardware
+ technologies and infrastructures, only recently have software algorithms
+ been seriously called into question, primarily due to monopolistic practices
+ and unfair market inﬂuence[6].
+\end_layout
+
+\begin_layout Standard
+The work for my MFA project largely focuses around Google, primarily because
+ it is such a large part of my own personal Internet experience.
+ I’m constantly connected to my Gmail, Google Calendar, Google Search not
+ just on my computer, but also on my Android phone.
+ I also route all of my phone calls through Google voice.
+ I love the services Google provides, but sometimes it feels like Google
+ knows me better than does my own mother.
+\end_layout
+
+\begin_layout Standard
+For a while now, Google has been a target of privacy advocate, scholars,
+ and artists.
+ At Transmediale 2010, F.A.T.
+ lab initiated FuckGoogle, “a collection of 8 http://www.jasonmorrison.net/iakm/ci
+ted/Bar-Ilan_Judit_comparing_rankings.pdf 5rowser add-ons, open source software,
+ theoretical musings and direct actions aimed at creating an awareness of
+ the role Google plays in our daily lives.” 9 .
+ One of the notable projects to come out of this eﬀort was Jamie Wilkinson’s
+ Google Alarm extension for Firefox 10 .
+ Whenever personal information is sent to Google servers through tracking
+ cookies, an alarm horn sound clip is played over the user’s computer speakers,
+ transforming a normally silent intrusion of privacy into an extremely visceral
+ and prominent event.
+ The project also elucidates the omni-presence of Google - Google is constantly
+ tracking individual behavior in order to personalize the web (and to serve
+ hyper-targeted advertisements.) Google Views & Everybody’s Google attempt
+ give power of personalization back to the user, and to create a story of
+ the various life-worlds Google presents through its personalization algorithms.
+ Personalization algorithms are important not just because of the curated
+ information they present, but also because of the information which they
+ omit.
+\end_layout
+
+\begin_layout Standard
+Another related project is Newstweek 11 by Julian Oliver and Danja Vasiliev.
+ Newstweek is a device which hijacks “Free WiFi” Hotspots by posing as the
+ Hotspot’s router.
+ It then allows the Newstweek administrator to transparently manipulate
+ web page content from news sites before they reach a user’s web browser.
+ While the target of these subversive attacks is news media rather than
+ software algorithms, the project clearly demonstrates the necessity to
+ just question the content itself or its sources, but also how it gets to
+ your screen.
+\end_layout
+
+\begin_layout Standard
+With regards to the “performance” aspect of Everybody’s Google (users becoming
+ actors in the story), there are two online pieces which I am reminded of:
+ I’m Here and There 12 by Jonas Lund and KeyTweeter 13 by Kyle McDonald.
+ Both of these break down the barrier between the private space of one’s
+ home or oﬃce and the public space of the Internet by posting personal user
+ interactions or activities directly to the web in real time.
+ This creates a transparency of computer use, but also blurs the lines between
+ public/private and real/virtual.
+\end_layout
+
+\begin_layout Standard
+Web Pages for Humans addresses the codiﬁcation of culture.
+ reCAPTCHA is a project (now run by Google) used to help “digitize” books,
+ newspapers, and documents by exploiting human labour to decipher words
+ which OCR algorithms are unable of “understanding.” These cultural artifacts
+ are thus transformed into machine-readable ﬁles.
+ Web Pages for Humans ﬂips this model around, taking machine-generated,
+ machine-readable documents and manipulating them with the CAPTCHA distortion
+ algorithms to ensure that computers can no longer read their own content.
+ Taken a step further, the physical prints of Search Stories for Humans
+ remove the digital representation, creating a format that can truly only
+ be read by humans.
+\end_layout
+
+\begin_layout Standard
+Aram Barthol did something related with his project Are you Human? 14 In
+ essence, CAPTCHAs demonstrate the human intervention and cultural knowldge
+ required to decipher signs of written language.
+ By placing physical CAPTCHAs on walls heavily covered by graﬃti tags, Barthol
+ is making a connection from the process of deciphering and interpretation
+ of digital signs to the signs used in graﬃti culture.
+ A graﬃti tag is a sign for tagger as well a a representation of the tagging
+ process itself.
+ Similarly, CAPTCHAs signify not so much the underlying meaning of the word
+ depicted, but rather the processes of scanning, distorting, and deciphering.
+\end_layout
+
+\begin_layout Standard
+Finally, Bicycle Built for Two Thousand 15 by Aaron Koblin and Daniel Massey
+ is a great example of reintroducing the human element back into a computer’s
+ representation culture.
+ Users of Amazon’s Mechanical Turk recorded their interpretations sound
+ clips from computer singing “Daisy Bell” (the ﬁrst song ever sung by a
+ computer.) These samples were then combined together to reproduce the original
+ track using human voices as opposed to computersynthesized sounds creating
+ a human-ized version of a digital artifact.
+\end_layout
+
+\begin_layout Standard
+9 http://fffff.at/fuck-google/ 
+\end_layout
+
+\begin_layout Standard
+10 http://jamiedubs.com/googlealarm/ 
+\end_layout
+
+\begin_layout Standard
+11 http://newstweek.com/overview 
+\end_layout
+
+\begin_layout Standard
+12 http://imhereandthere.com/ 
+\end_layout
+
+\begin_layout Standard
+13 http://kylemcdonald.net/ 
+\end_layout
+
+\begin_layout Standard
+14 http://datenform.de/areyouhumaneng.html 
+\end_layout
+
 \begin_layout Section*
 Conclusion
 \end_layout
 
 \begin_layout Standard
 MFA show reception, documentation, and possible next steps
+\end_layout
+
+\begin_layout Subsection*
+MFA Show responses
+\end_layout
+
+\begin_layout Standard
+Everybody's Google - people seemed to be very interested in the concepts
+ behind the two projects.
+ Either they 
+\begin_inset Quotes eld
+\end_inset
+
+got it
+\begin_inset Quotes erd
+\end_inset
+
+ immediately, or after I explained it, they became very intrigued.
+\end_layout
+
+\begin_layout Standard
+Interaction with the pieces was less than I had hoped.
+ A few people interacted with Everybody's Google, but far less than I had
+ expected.
+ Part of this may be due to the fact that cell phone reception was not very
+ good in the building, and cruznet blocked the website due to it running
+ on a 
+\begin_inset Quotes eld
+\end_inset
+
+nonstandard
+\begin_inset Quotes erd
+\end_inset
+
+ port.
+\end_layout
+
+\begin_layout Standard
+Even with the addition of the web page URLs on the wall text, few people
+ seemed to realize that these were both products or manifestations of softare/we
+bsites.
+\end_layout
+
+\begin_layout Standard
+Serendipity engine - people tended to either ignore the papers on the floor,
+ or thought something got knocked over, and stacked them together into a
+ neat pile.
+ Visitors were reluctant to take any of the takeaways.
+ A few times we timed the printer to dispense paper as people were walking
+ by using a remote control and got great reactions.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Silly, but in a good way.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+WpfH - books were never intended to be read by machines.
+ Webpages are both - designed for machine readibility (code) but presented
+ to humans (presentation/webpage) - how do the two tie together? Interpretation
+ to get from written word to digital translation (underlying meaning VS
+ physical representation/appearance.) Can a computer 
+\begin_inset Quotes eld
+\end_inset
+
+understand
+\begin_inset Quotes erd
+\end_inset
+
+ a book? The book as the first mass-produced physical medium for data/memory
+ storage.
+ Indexed, organized, dessimated through direct human labour - literaries,
+ librarians
 \end_layout
 
 \begin_layout Bibliography
@@ -1180,7 +1836,9 @@ key "key-1"
 
 \end_inset
 
-Bibliography
+Lev Manovich, Database as Symbolic Form, 2001, <http://transcriptions.english.ucsb.
+edu/archive/courses/warner/english197/Schedule_files/Manovich/Database_as_symbol
+ic_form.htm>.
 \end_layout
 
 \begin_layout Bibliography
