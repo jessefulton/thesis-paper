@@ -652,6 +652,22 @@ Background
 \end_layout
 
 \begin_layout Standard
+The digital and the physical are inherently intertwined.
+ The digital largely consists of representations of physical objects, such
+ as photographs, 3d models or environments, textbooks or journals.
+ And the digital is only accessible through physical objects such as computers.
+ And the Internet does not exist in some void - it is a massive infrastructure
+ of wires, switches, and servers.
+\end_layout
+
+\begin_layout Standard
+The digital makes the districution and production on a massive scale almost
+ free.
+ Once a product is created, it can be copied over and over again, with no
+ degredation of quality.
+\end_layout
+
+\begin_layout Standard
 Webpages for Humans questions our notion of archiving and digital culture.
  Physical objects -> digital representations -> ? What happens to the digital
  represetnations.
@@ -664,6 +680,24 @@ Webpages for Humans questions our notion of archiving and digital culture.
  As we forget about the physical or replace/supplant it with digital representat
 ions, how do we prepare for the inevitable evolution (of technology mediated
  communication) or disappearance of the current digital form?
+\end_layout
+
+\begin_layout Standard
+Various extremes - experience everything digitally vs.
+ eliminate all digital.
+ But even somewhere in between (which is likely where we are /where we're
+ heading) still has this issue.
+ Server backups & redundancy? What about digital culture & communication?
+ If we can't communicate through email or text, do we communicate at all?
+ How do these 
+\begin_inset Quotes eld
+\end_inset
+
+outages
+\begin_inset Quotes erd
+\end_inset
+
+ affect us culturally?
 \end_layout
 
 \begin_layout Subsection*
@@ -705,7 +739,7 @@ CAPTCHA
 \end_layout
 
 \begin_layout Standard
-Google Books
+Google Books project & reCAPTCHA...
 \end_layout
 
 \begin_layout Standard
@@ -724,8 +758,28 @@ and
 Concept & Execution
 \end_layout
 
+\begin_layout Standard
+Webpages for Humans
+\end_layout
+
+\begin_layout Standard
+Serendipity Engine
+\end_layout
+
+\begin_layout Standard
+CAPTCHA-fy!
+\end_layout
+
 \begin_layout Subsection*
 Technical description
+\end_layout
+
+\begin_layout Standard
+software - obfuscating HTML markup directly
+\end_layout
+
+\begin_layout Standard
+software - obfuscating text through OCR
 \end_layout
 
 \begin_layout Standard
@@ -934,6 +988,169 @@ The Longest Poem in the World by Andrei Gheorghe The Longest Poem in the
  It is a great example of cultural production and the value which open data
  can provide.
  
+\end_layout
+
+\begin_layout Subsection*
+Dialogue
+\end_layout
+
+\begin_layout Standard
+Aram Bartholl - Are you Human (Physicality of digital artifacts)
+\end_layout
+
+\begin_layout Standard
+Bicycle built for 2000 (Humanification/appropriation of digital culture,
+ or artifacts created specifically for digital media, transformed)
+\end_layout
+
+\begin_layout Standard
+Google Alarm/Ffffuck Google (surveillance economy)
+\end_layout
+
+\begin_layout Standard
+Newstweek? Shaved Beieber? (culture jamming, censorshop through selective
+ filtering)
+\end_layout
+
+\begin_layout Subsubsection*
+Rationale (from original proposal)
+\end_layout
+
+\begin_layout Standard
+I’m interested in exploring issues of transparency, autonomy, and agency
+ with regards to technology, speciﬁcally the Internet or networked devices.
+ As the power, aﬀordability, and ubiquity of digital technologies exponentially
+ increases, so does the necessity to study the cultural impact of these
+ systems.
+ While most think of these technologies as things, I view them primarily
+ as software and software systems.
+ Without hardware to run on, software as we know it would not exist; yet
+ without software, hardware (and the infrastructures required to build and
+ run them) would be useless.
+ We only experience the digital through software.
+ While there are systems of policies, guidelines, and reviews of hardware
+ technologies and infrastructures, only recently have software algorithms
+ been seriously called into question, primarily due to monopolistic practices
+ and unfair market inﬂuence[6].
+\end_layout
+
+\begin_layout Standard
+The work for my MFA project largely focuses around Google, primarily because
+ it is such a large part of my own personal Internet experience.
+ I’m constantly connected to my Gmail, Google Calendar, Google Search not
+ just on my computer, but also on my Android phone.
+ I also route all of my phone calls through Google voice.
+ I love the services Google provides, but sometimes it feels like Google
+ knows me better than does my own mother.
+\end_layout
+
+\begin_layout Standard
+For a while now, Google has been a target of privacy advocate, scholars,
+ and artists.
+ At Transmediale 2010, F.A.T.
+ lab initiated FuckGoogle, “a collection of 8 http://www.jasonmorrison.net/iakm/ci
+ted/Bar-Ilan_Judit_comparing_rankings.pdf 5rowser add-ons, open source software,
+ theoretical musings and direct actions aimed at creating an awareness of
+ the role Google plays in our daily lives.” 9 .
+ One of the notable projects to come out of this eﬀort was Jamie Wilkinson’s
+ Google Alarm extension for Firefox 10 .
+ Whenever personal information is sent to Google servers through tracking
+ cookies, an alarm horn sound clip is played over the user’s computer speakers,
+ transforming a normally silent intrusion of privacy into an extremely visceral
+ and prominent event.
+ The project also elucidates the omni-presence of Google - Google is constantly
+ tracking individual behavior in order to personalize the web (and to serve
+ hyper-targeted advertisements.) Google Views & Everybody’s Google attempt
+ give power of personalization back to the user, and to create a story of
+ the various life-worlds Google presents through its personalization algorithms.
+ Personalization algorithms are important not just because of the curated
+ information they present, but also because of the information which they
+ omit.
+\end_layout
+
+\begin_layout Standard
+Another related project is Newstweek 11 by Julian Oliver and Danja Vasiliev.
+ Newstweek is a device which hijacks “Free WiFi” Hotspots by posing as the
+ Hotspot’s router.
+ It then allows the Newstweek administrator to transparently manipulate
+ web page content from news sites before they reach a user’s web browser.
+ While the target of these subversive attacks is news media rather than
+ software algorithms, the project clearly demonstrates the necessity to
+ just question the content itself or its sources, but also how it gets to
+ your screen.
+\end_layout
+
+\begin_layout Standard
+With regards to the “performance” aspect of Everybody’s Google (users becoming
+ actors in the story), there are two online pieces which I am reminded of:
+ I’m Here and There 12 by Jonas Lund and KeyTweeter 13 by Kyle McDonald.
+ Both of these break down the barrier between the private space of one’s
+ home or oﬃce and the public space of the Internet by posting personal user
+ interactions or activities directly to the web in real time.
+ This creates a transparency of computer use, but also blurs the lines between
+ public/private and real/virtual.
+\end_layout
+
+\begin_layout Standard
+Web Pages for Humans addresses the codiﬁcation of culture.
+ reCAPTCHA is a project (now run by Google) used to help “digitize” books,
+ newspapers, and documents by exploiting human labour to decipher words
+ which OCR algorithms are unable of “understanding.” These cultural artifacts
+ are thus transformed into machine-readable ﬁles.
+ Web Pages for Humans ﬂips this model around, taking machine-generated,
+ machine-readable documents and manipulating them with the CAPTCHA distortion
+ algorithms to ensure that computers can no longer read their own content.
+ Taken a step further, the physical prints of Search Stories for Humans
+ remove the digital representation, creating a format that can truly only
+ be read by humans.
+\end_layout
+
+\begin_layout Standard
+Aram Barthol did something related with his project Are you Human? 14 In
+ essence, CAPTCHAs demonstrate the human intervention and cultural knowldge
+ required to decipher signs of written language.
+ By placing physical CAPTCHAs on walls heavily covered by graﬃti tags, Barthol
+ is making a connection from the process of deciphering and interpretation
+ of digital signs to the signs used in graﬃti culture.
+ A graﬃti tag is a sign for tagger as well a a representation of the tagging
+ process itself.
+ Similarly, CAPTCHAs signify not so much the underlying meaning of the word
+ depicted, but rather the processes of scanning, distorting, and deciphering.
+\end_layout
+
+\begin_layout Standard
+Finally, Bicycle Built for Two Thousand 15 by Aaron Koblin and Daniel Massey
+ is a great example of reintroducing the human element back into a computer’s
+ representation culture.
+ Users of Amazon’s Mechanical Turk recorded their interpretations sound
+ clips from computer singing “Daisy Bell” (the ﬁrst song ever sung by a
+ computer.) These samples were then combined together to reproduce the original
+ track using human voices as opposed to computersynthesized sounds creating
+ a human-ized version of a digital artifact.
+\end_layout
+
+\begin_layout Standard
+9 http://fffff.at/fuck-google/ 
+\end_layout
+
+\begin_layout Standard
+10 http://jamiedubs.com/googlealarm/ 
+\end_layout
+
+\begin_layout Standard
+11 http://newstweek.com/overview 
+\end_layout
+
+\begin_layout Standard
+12 http://imhereandthere.com/ 
+\end_layout
+
+\begin_layout Standard
+13 http://kylemcdonald.net/ 
+\end_layout
+
+\begin_layout Standard
+14 http://datenform.de/areyouhumaneng.html 
 \end_layout
 
 \begin_layout Section*
@@ -1580,169 +1797,6 @@ These projects deal with the internet.
 \end_layout
 
 \end_deeper
-\begin_layout Subsection*
-Dialogue
-\end_layout
-
-\begin_layout Standard
-Aram Bartholl - Are you Human (Physicality of digital artifacts)
-\end_layout
-
-\begin_layout Standard
-Bicycle built for 2000 (Humanification/appropriation of digital culture,
- or artifacts created specifically for digital media, transformed)
-\end_layout
-
-\begin_layout Standard
-Google Alarm/Ffffuck Google (surveillance economy)
-\end_layout
-
-\begin_layout Standard
-Newstweek? Shaved Beieber? (culture jamming, censorshop through selective
- filtering)
-\end_layout
-
-\begin_layout Subsubsection*
-Rationale (from original proposal)
-\end_layout
-
-\begin_layout Standard
-I’m interested in exploring issues of transparency, autonomy, and agency
- with regards to technology, speciﬁcally the Internet or networked devices.
- As the power, aﬀordability, and ubiquity of digital technologies exponentially
- increases, so does the necessity to study the cultural impact of these
- systems.
- While most think of these technologies as things, I view them primarily
- as software and software systems.
- Without hardware to run on, software as we know it would not exist; yet
- without software, hardware (and the infrastructures required to build and
- run them) would be useless.
- We only experience the digital through software.
- While there are systems of policies, guidelines, and reviews of hardware
- technologies and infrastructures, only recently have software algorithms
- been seriously called into question, primarily due to monopolistic practices
- and unfair market inﬂuence[6].
-\end_layout
-
-\begin_layout Standard
-The work for my MFA project largely focuses around Google, primarily because
- it is such a large part of my own personal Internet experience.
- I’m constantly connected to my Gmail, Google Calendar, Google Search not
- just on my computer, but also on my Android phone.
- I also route all of my phone calls through Google voice.
- I love the services Google provides, but sometimes it feels like Google
- knows me better than does my own mother.
-\end_layout
-
-\begin_layout Standard
-For a while now, Google has been a target of privacy advocate, scholars,
- and artists.
- At Transmediale 2010, F.A.T.
- lab initiated FuckGoogle, “a collection of 8 http://www.jasonmorrison.net/iakm/ci
-ted/Bar-Ilan_Judit_comparing_rankings.pdf 5rowser add-ons, open source software,
- theoretical musings and direct actions aimed at creating an awareness of
- the role Google plays in our daily lives.” 9 .
- One of the notable projects to come out of this eﬀort was Jamie Wilkinson’s
- Google Alarm extension for Firefox 10 .
- Whenever personal information is sent to Google servers through tracking
- cookies, an alarm horn sound clip is played over the user’s computer speakers,
- transforming a normally silent intrusion of privacy into an extremely visceral
- and prominent event.
- The project also elucidates the omni-presence of Google - Google is constantly
- tracking individual behavior in order to personalize the web (and to serve
- hyper-targeted advertisements.) Google Views & Everybody’s Google attempt
- give power of personalization back to the user, and to create a story of
- the various life-worlds Google presents through its personalization algorithms.
- Personalization algorithms are important not just because of the curated
- information they present, but also because of the information which they
- omit.
-\end_layout
-
-\begin_layout Standard
-Another related project is Newstweek 11 by Julian Oliver and Danja Vasiliev.
- Newstweek is a device which hijacks “Free WiFi” Hotspots by posing as the
- Hotspot’s router.
- It then allows the Newstweek administrator to transparently manipulate
- web page content from news sites before they reach a user’s web browser.
- While the target of these subversive attacks is news media rather than
- software algorithms, the project clearly demonstrates the necessity to
- just question the content itself or its sources, but also how it gets to
- your screen.
-\end_layout
-
-\begin_layout Standard
-With regards to the “performance” aspect of Everybody’s Google (users becoming
- actors in the story), there are two online pieces which I am reminded of:
- I’m Here and There 12 by Jonas Lund and KeyTweeter 13 by Kyle McDonald.
- Both of these break down the barrier between the private space of one’s
- home or oﬃce and the public space of the Internet by posting personal user
- interactions or activities directly to the web in real time.
- This creates a transparency of computer use, but also blurs the lines between
- public/private and real/virtual.
-\end_layout
-
-\begin_layout Standard
-Web Pages for Humans addresses the codiﬁcation of culture.
- reCAPTCHA is a project (now run by Google) used to help “digitize” books,
- newspapers, and documents by exploiting human labour to decipher words
- which OCR algorithms are unable of “understanding.” These cultural artifacts
- are thus transformed into machine-readable ﬁles.
- Web Pages for Humans ﬂips this model around, taking machine-generated,
- machine-readable documents and manipulating them with the CAPTCHA distortion
- algorithms to ensure that computers can no longer read their own content.
- Taken a step further, the physical prints of Search Stories for Humans
- remove the digital representation, creating a format that can truly only
- be read by humans.
-\end_layout
-
-\begin_layout Standard
-Aram Barthol did something related with his project Are you Human? 14 In
- essence, CAPTCHAs demonstrate the human intervention and cultural knowldge
- required to decipher signs of written language.
- By placing physical CAPTCHAs on walls heavily covered by graﬃti tags, Barthol
- is making a connection from the process of deciphering and interpretation
- of digital signs to the signs used in graﬃti culture.
- A graﬃti tag is a sign for tagger as well a a representation of the tagging
- process itself.
- Similarly, CAPTCHAs signify not so much the underlying meaning of the word
- depicted, but rather the processes of scanning, distorting, and deciphering.
-\end_layout
-
-\begin_layout Standard
-Finally, Bicycle Built for Two Thousand 15 by Aaron Koblin and Daniel Massey
- is a great example of reintroducing the human element back into a computer’s
- representation culture.
- Users of Amazon’s Mechanical Turk recorded their interpretations sound
- clips from computer singing “Daisy Bell” (the ﬁrst song ever sung by a
- computer.) These samples were then combined together to reproduce the original
- track using human voices as opposed to computersynthesized sounds creating
- a human-ized version of a digital artifact.
-\end_layout
-
-\begin_layout Standard
-9 http://fffff.at/fuck-google/ 
-\end_layout
-
-\begin_layout Standard
-10 http://jamiedubs.com/googlealarm/ 
-\end_layout
-
-\begin_layout Standard
-11 http://newstweek.com/overview 
-\end_layout
-
-\begin_layout Standard
-12 http://imhereandthere.com/ 
-\end_layout
-
-\begin_layout Standard
-13 http://kylemcdonald.net/ 
-\end_layout
-
-\begin_layout Standard
-14 http://datenform.de/areyouhumaneng.html 
-\end_layout
-
 \begin_layout Section*
 Conclusion
 \end_layout
