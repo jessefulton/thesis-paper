@@ -60,7 +60,7 @@
 \begin_body
 
 \begin_layout Title
-Paper Title
+A Slightly Less Ambitious Paper Title
 \end_layout
 
 \begin_layout Author
@@ -71,7 +71,112 @@ Jesse Fulton
 June 2012
 \end_layout
 
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+University of California, Santa Cruz
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+A thesis paper submitted in partial satisfaction of the requirements for
+ the degree of Master of Fine Arts in Digital Arts and New Media
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status collapsed
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Graphics
+	filename media/cc.large.png
+	scale 10
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename media/by.large.png
+	scale 10
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename media/nc.large.png
+	scale 10
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename media/sa.large.png
+	scale 10
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Section*
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Part*
 Abstract
 \end_layout
 
@@ -79,7 +184,14 @@ Abstract
 ...
 \end_layout
 
-\begin_layout Section*
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Part*
 Dedication
 \end_layout
 
@@ -87,7 +199,14 @@ Dedication
 ...
 \end_layout
 
-\begin_layout Section*
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Part*
 Acknowledgements
 \end_layout
 
@@ -95,25 +214,218 @@ Acknowledgements
 ...
 \end_layout
 
-\begin_layout Section*
-Table of Contents
-\end_layout
-
 \begin_layout Standard
-\begin_inset CommandInset toc
-LatexCommand tableofcontents
-
+\begin_inset Newpage pagebreak
 \end_inset
 
 
 \end_layout
 
 \begin_layout Part*
-Thesis Projects
+Table of Contents
 \end_layout
 
 \begin_layout Standard
-Societal impact of large-scale information-based software systems.
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Part*
+Introduction
+\end_layout
+
+\begin_layout Standard
+As part of my MFA, I completed two projects.
+ Everbody's Google is an exploration of the multiple digital life-worlds
+ presented by Google's search & personalization algorithms.
+ Ocular Character Recognition investigates how we interact with and archive
+ cultural artifacts, specifically the digital representations of traditional
+ print media.
+\end_layout
+
+\begin_layout Standard
+As technology become more accessible and more ubiquitous, websites and software
+ applications are becoming a primary resource for personal development.
+ I am interested in the societal impact of these large-scale information-based
+ software systems, and specifically how they influence our human knowledge
+ (research; information retrieval; learning) and culture (preserving culture;
+ creating/influencing cultural trends; redefining the notion of a 
+\begin_inset Quotes eld
+\end_inset
+
+cultural divide.
+\begin_inset Quotes erd
+\end_inset
+
+)
+\end_layout
+
+\begin_layout Standard
+The two projects also both focus largely on Google and their practices.
+ Google is responsible for the large majority of the world's Internet searches.
+ They also provide a number of other, incredibly useful, web-based tools
+ for free.
+ They've largely defined what we think of when we think of 
+\begin_inset Quotes eld
+\end_inset
+
+the Internet.
+\begin_inset Quotes erd
+\end_inset
+
+ However, for all of the good that Google has provided, there are a few
+ business practices which I believe deserve more attention, and these projects
+ focus on the larger question of: who (or what) is responsible for curating
+ the content made available to me when I open my web browser? The answer
+ to that question is a complicated one, but for most users connect to the
+ Internet, the largest common denominator is Google.
+ And Google plays a very large role in revealing to us the possibilities
+ of the Internet.
+\end_layout
+
+\begin_layout Standard
+Everybody's Google focuses on Google's search personalization algorithms.
+ Google is profitable as a business because it makes money serving highly
+ personalized advertisements.
+ Google tracks users as they navigate the web, making judements and assumptions
+ based not just on user-supplied information, but moreso by analyzing users
+ behaviours online.
+ The sites you visit, the things you search for, the time of day and from
+ where you search - all of this information is pooled by Google and assembled
+ into a model in order to serve the most relevant advertisements to you.
+ However, this same information is also used to 
+\begin_inset Quotes eld
+\end_inset
+
+improve
+\begin_inset Quotes erd
+\end_inset
+
+ Google search results by filtering out any results which Google's algorithms
+ deem irrelevant for you, and artificially inflating the scores for pages
+ which it believes you might be interested in.
+\end_layout
+
+\begin_layout Standard
+While the Internet is largely viewed as embracing democratic ideals and
+ guaranteeing equal access for all, to all, the fact that our Internet experienc
+e is mediated almost exclusively through privatized companies, is inherently
+ undemocratic.
+ In order to provide "relevant" information to individual users (and increase
+ revenues), companies like Google and Amazon filter content and information
+ through black box algorithms.
+ End users have little to no control over which items or information are
+ shown to them, or in what order; and because these algorithms are trade
+ secrets, users also cannot have an understanding of the filtering and selection
+ process.
+\end_layout
+
+\begin_layout Standard
+Ocular Character Recognition was created as a response to frustration with
+ CAPTCHA tests generated by Google's reCAPTCHA service.
+ CAPTCHAs are the images of distorted text you must translate to do things
+ like sign up for an account on a website or post a comment in an Internet
+ forum.
+ They're used to prevent spam by determining if the user of a site is a
+ human, or a computer program (often referred to as a "bot.")
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+CAPTCHA is an acronym for 
+\begin_inset Quotes eld
+\end_inset
+
+Completely Automated Public Turing Test To Tell Computers and Humans Apart
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename media/captcha-example.png
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+A familiar CAPTCHA test
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+A CAPTCHA test generally consists of two text-based images: a word which
+ could not be deciphered by OCR software (the "unknown" word); and a second
+ word which the OCR software could decipher (the "known" word.) The user
+ is then prompted to type in both words, with the assumption being that
+ if the known word is correctly identified, then the identification of the
+ unknown word is also likely to be correct
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://www.google.com/recaptcha/learnmore
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+.
+ This human translation for the unknown word is then added to the original
+ OCR translation.
+\end_layout
+
+\begin_layout Standard
+I vew these projects largely as experiments as opposed to answers to any
+ particular questions.
+ They are intended to raise awareness of complex and important issues in
+ an approachable and easily digestable form.
+ For something that largely remains unseen, it is difficult to create a
+ physical form, but the projects detailed below represent a few of the possible
+ manifestations of the concepts presented within each project.
+\end_layout
+
+\begin_layout Part*
+Thesis Projects
 \end_layout
 
 \begin_layout Standard
@@ -211,13 +523,23 @@ Everybody's Google explores these ideas and systems by programmatically
 \end_layout
 
 \begin_layout Standard
-Character development takes the form of purely web navigation
+Google uses widgets on external websites to track our web browsing behaviour
+ and to generate our "user interest" model.
+ These inferred data models are then used to personalize Google Search,
+ prioritizing results which its personalization algorithms deem relevant
+ to each individual user.
 \end_layout
 
 \begin_layout Standard
-Internet as a medium - web pages, services which can be hacked apart and
- mashed together.
- Repurposing tools and using them for unintended uses.
+Not showing a new way to view the world, but 
+\emph on
+revealing
+\emph default
+ the way the world is (or the multiple ways it's presented?) They're making
+ assumptions & judgement calls and tellling you how you should view the
+ world - as it's relevant to you; the arbiters of taste...
+ Who owns your digital data/profile? No way to see or correct the collected
+ information.
 \end_layout
 
 \begin_layout Subsection*
@@ -230,11 +552,13 @@ Formal Description
 \end_layout
 
 \begin_layout Standard
-Google uses widgets on external websites to track our web browsing behaviour
- and to generate our "user interest" model.
- These inferred data models are then used to personalize Google Search,
- prioritizing results which its personalization algorithms deem relevant
- to each individual user.
+Character development takes the form of purely web navigation
+\end_layout
+
+\begin_layout Standard
+Internet as a medium - web pages, services which can be hacked apart and
+ mashed together.
+ Repurposing tools and using them for unintended uses.
 \end_layout
 
 \begin_layout Standard
@@ -306,6 +630,39 @@ Technical description
 
 \begin_layout Standard
 (how was it built designed? any technical innovations? technical obstacles?)
+\end_layout
+
+\begin_layout Standard
+Everybody's Google began as a website and an accompanying browser plugin.
+ The code is still available at 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+https://github.com/jessefulton/everybodys-google
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The project was then changed.
+ And moved to 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+https://github.com/jessefulton/google-views
+\end_layout
+
+\end_inset
+
+.
+ These two projects will be merged back together.
 \end_layout
 
 \begin_layout Standard
@@ -773,6 +1130,194 @@ Technical description
 
 \begin_layout Standard
 (how was it built designed? any technical innovations? technical obstacles?)
+\end_layout
+
+\begin_layout Standard
+The core functionality for these projects is a shared JavaScript library
+ I created which generates images of 
+\begin_inset Quotes eld
+\end_inset
+
+CAPTCHA-fied
+\begin_inset Quotes erd
+\end_inset
+
+ text
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+https://github.com/jessefulton/node-captchafy
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+.
+ This library was then implemented in a web site
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+https://github.com/jessefulton/node-captcha-site
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ hosted at 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://nodecaptcha.herokuapp.com/
+\end_layout
+
+\end_inset
+
+.
+ Originally, this functionality was going to be written in Java and served
+ via a separate web service
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+https://github.com/jessefulton/captcha-servlet
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+, but hosting issues made this a bit of a hassle.
+ By going with Javascript however, *much* more was able to be accomplished.
+\end_layout
+
+\begin_layout Standard
+It was also used by Webpages for Humans
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+https://github.com/jessefulton/webpages-for-humans
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ both to generate images on the server, and to create the 
+\begin_inset Quotes eld
+\end_inset
+
+Human Web
+\begin_inset Quotes erd
+\end_inset
+
+ as well as by the bookmarklet which allows a visitor to embed that functionalit
+y directly into a bookmark link/button in their web browser.
+\end_layout
+
+\begin_layout Standard
+The code to run the printer for the Serendipity Engine is very straightforward,
+ and not available online (TODO: take photos!), but the prints were generated
+ by another set of scripts using the captchafy library
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+https://github.com/jessefulton/phantomjs-hocr
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+.
+ There were two other iterations at this using C++ and OpenFrameworks
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+https://github.com/jessefulton/tesseract-pdf
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+https://github.com/jessefulton/ofxTesseract
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+, but but were a bit too much, and the simple bash script sufficed.
 \end_layout
 
 \begin_layout Standard
