@@ -238,7 +238,24 @@ Introduction
 
 \begin_layout Standard
 As part of my MFA, I completed two projects.
- Everbody's Google is an exploration of the multiple digital life-worlds
+ Everbody's Google is an exploration of the multiple 
+\begin_inset Quotes eld
+\end_inset
+
+digital life-worlds
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+This term will be explained later in the paper
+\end_layout
+
+\end_inset
+
  presented by Google's search & personalization algorithms.
  Ocular Character Recognition investigates how we interact with and archive
  cultural artifacts, specifically the digital representations of traditional
@@ -246,12 +263,12 @@ As part of my MFA, I completed two projects.
 \end_layout
 
 \begin_layout Standard
-As technology become more accessible and more ubiquitous, websites and software
- applications are becoming a primary resource for personal development.
+As technology becomes more accessible and more ubiquitous, websites and
+ software applications are becoming a primary resource for personal development.
  I am interested in the societal impact of these large-scale information-based
- software systems, and specifically how they influence our human knowledge
- (research; information retrieval; learning) and culture (preserving culture;
- creating/influencing cultural trends; redefining the notion of a 
+ software systems, and specifically how they influence human knowledge (research
+; information retrieval; learning) and culture (preserving culture; creating/inf
+luencing cultural trends; redefining the notion of a 
 \begin_inset Quotes eld
 \end_inset
 
@@ -264,25 +281,66 @@ cultural divide.
 
 \begin_layout Standard
 The two projects also both focus largely on Google and their practices.
- Google is responsible for the large majority of the world's Internet searches.
+ Google is responsible for handling the large majority of the world's Internet
+ searches
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+source?
+\end_layout
+
+\end_inset
+
+.
  They also provide a number of other, incredibly useful, web-based tools
  for free.
- They've largely defined what we think of when we think of 
+ They've defined and redefined what we think of when we hear the word 
+\emph on
+Internet
+\emph default
+.
+ However, for all of the good that Google has provided, there are a few
+ business practices which I believe deserve more attention, and these projects
+ focus on the larger question of 
 \begin_inset Quotes eld
 \end_inset
 
-the Internet.
+who (or what) is responsible for curating the content made available to
+ me when I open my web browser?
 \begin_inset Quotes erd
 \end_inset
 
- However, for all of the good that Google has provided, there are a few
- business practices which I believe deserve more attention, and these projects
- focus on the larger question of: who (or what) is responsible for curating
- the content made available to me when I open my web browser? The answer
- to that question is a complicated one, but for most users connect to the
- Internet, the largest common denominator is Google.
- And Google plays a very large role in revealing to us the possibilities
- of the Internet.
+ The answer to that question is a complicated one, but for most users connected
+ to the Internet, the largest common denominator is Google.
+ Outside of government censorship, Google plays the primary role in revealing
+ to us
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Throughout the rest of this paper, I will be using the terms 
+\begin_inset Quotes eld
+\end_inset
+
+us
+\begin_inset Quotes erd
+\end_inset
+
+ and 
+\begin_inset Quotes eld
+\end_inset
+
+we
+\begin_inset Quotes erd
+\end_inset
+
+ to refer to the majority of the connected Western world
+\end_layout
+
+\end_inset
+
+ the possibilities of the Internet.
 \end_layout
 
 \begin_layout Standard
@@ -443,8 +501,24 @@ http://www.google.com/recaptcha/learnmore
 \end_layout
 
 \begin_layout Standard
-I vew these projects largely as experiments as opposed to answers to any
- particular questions.
+When Google digitizes physical books (as part of its Google Books project),
+ OCR software is used to "read" the scanned pages and make it searchable
+ and indexable.
+ However, the computer algorithms fail occasionally due to scan irregularites,
+ low print quality, or similar problems.
+ When this happens, the only way to decipher these portions of the digitized
+ text is with a human eye.
+ Google's massive attempt to digitize every book in existence requires an
+ enourmous amount of human labour.
+ reCAPTCHA, the most popular CAPTCHA service on the Internet, fulfills this
+ need by distributing this labour as micro-tasks across the Internet.
+ In exchange for access to enhanced functionality, web users provide the
+ labour required to translate that which computers cannot.
+\end_layout
+
+\begin_layout Standard
+I vew these projects as experiments rather than as answers to any particular
+ questions.
  They are intended to raise awareness of complex and important issues in
  an approachable and easily digestable form.
  For something that largely remains unseen, it is difficult to create a
@@ -457,19 +531,76 @@ Thesis Projects
 \end_layout
 
 \begin_layout Standard
-For the MFA show, a number of works were shown.
+For the MFA show, a number of works were shown - one for Everybody's Google;
+ and three for Ocular Character Recognition.
  From my viewpoint, the main projects are the ideas.
  The software I have written is the manifestation of those ideas.
- Interacting with the corresponding websites, in a 
-\begin_inset Quotes eld
+ Interacting with the corresponding websites (in a non-gallery setting)
+ is the experience of those ideas.
+ And the pieces shown at the MFA show were a condensation of those ideas.
+\end_layout
+
+\begin_layout Standard
+\noindent
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+\noindent
+\begin_inset VSpace bigskip
 \end_inset
 
-normal
-\begin_inset Quotes erd
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename media/mfa_installation.jpg
+	width 4.75in
+
 \end_inset
 
- (non-gallery) setting is the experience of those ideas.
- The pieces shown at the MFA show were a condensation of those ideas.
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\emph on
+MFA Installation in the Digital Arts Research Center
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100col%"
+height "0.5pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -682,7 +813,14 @@ Formal Description
 \end_layout
 
 \begin_layout Standard
-Character development takes the form of purely web navigation
+\begin_inset Quotes eld
+\end_inset
+
+Character development
+\begin_inset Quotes erd
+\end_inset
+
+ is a product of basic web navigation
 \end_layout
 
 \begin_layout Standard
@@ -760,7 +898,7 @@ width "100col%"
 special "none"
 height "1in"
 height_special "totalheight"
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset VSpace bigskip
@@ -810,6 +948,10 @@ height "0.5pt"
 \end_layout
 
 \begin_layout Standard
+Google themed (fonts, colors, layout)
+\end_layout
+
+\begin_layout Standard
 The personas have been constructed by programmatically directing each to
  visit relevant websites in their areas of interest which also make use
  of Google advertising or analytics services.
@@ -821,12 +963,10 @@ Technical description
 \end_layout
 
 \begin_layout Standard
-(how was it built designed? any technical innovations? technical obstacles?)
-\end_layout
-
-\begin_layout Standard
-Everybody's Google began as a website and an accompanying browser plugin.
- The code is still available at 
+Everybody's Google began as a website and an accompanying plugin for the
+ Chrome web browser which would allow anybody to transparently upload and
+ compare their Google search results to those of all plugin users.
+ The in-progress code is still available at 
 \begin_inset Flex URL
 status collapsed
 
@@ -837,14 +977,14 @@ https://github.com/jessefulton/everybodys-google
 
 \end_inset
 
-
-\end_layout
-
-\begin_layout Standard
-The project was then changed.
- And moved to 
-\begin_inset Flex URL
+.
+ The project was then altered
+\begin_inset Foot
 status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Flex URL
+status open
 
 \begin_layout Plain Layout
 
@@ -853,35 +993,196 @@ https://github.com/jessefulton/google-views
 
 \end_inset
 
+
+\end_layout
+
+\end_inset
+
+ to create custom personas which could be controlled through code in order
+ to maximize the potential variability in search results
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+There are plans to eventually merge the plugin back into the project
+\end_layout
+
+\end_inset
+
 .
- These two projects will be merged back together.
-\end_layout
-
-\begin_layout Standard
-casperjs + phantomjs.
- Program user interactions with a web page.
- Authenticate as a user, navigate to a 
+ Initial tests were very promising - after setting up an account to crawl
+ the politics section of npr.org and another to crawl the politics section
+ of foxnews.com, the two accounts got extermely different search results
+ when Googling the term 
 \begin_inset Quotes eld
 \end_inset
 
-seed
+romney.
 \begin_inset Quotes erd
 \end_inset
 
- page, and click on specific links (ie., 
-\begin_inset Quotes eld
-\end_inset
 
-featured
-\begin_inset Quotes erd
-\end_inset
-
- area on a page.) Not spoofing anything - simply browsing the internet.
- This runs for 4 personas every 10-15 minutes (for one person, one seed.)
 \end_layout
 
 \begin_layout Standard
-Knowyourmeme.com spam
+The scripted accounts could take two actions: 
+\begin_inset Quotes eld
+\end_inset
+
+browse
+\begin_inset Quotes erd
+\end_inset
+
+ or 
+\begin_inset Quotes eld
+\end_inset
+
+search.
+\begin_inset Quotes erd
+\end_inset
+
+ All of these actions were scripted using CasperJS, 
+\begin_inset Quotes eld
+\end_inset
+
+an open source navigation scripting & testing utility written in Javascript
+ and based on PhantomJS — the scriptable headless WebKit engine.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://casperjs.org/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ The 
+\begin_inset Quotes eld
+\end_inset
+
+browse
+\begin_inset Quotes erd
+\end_inset
+
+ script was executed once every ten minutes for roughly one month before
+ & after the MFA show.
+ Each time the script ran, it would sign in as one of the four users, and
+ click on particular links of predefined webpages which correlated to that
+ personality.
+ Personas targeted to specific geographic areas connected to the internet
+ via globally distributed proxies running on Amazon EC2 
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://aws.amazon.com/ec2/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ instances.
+ There is also a 
+\begin_inset Quotes eld
+\end_inset
+
+search
+\begin_inset Quotes erd
+\end_inset
+
+ script which executes a search query for each of the four users and stores
+ their results in a MongoDB database.
+ Once each user has completed the search, a PhantomJS script was used to
+ generate a screen capture of each search result URL.
+ These images were then compressed and formatted to work as WebGL textures
+ using ImageMagick.
+ Each step in this process would broadcast events upon its completion, signaling
+ the next process to start up, and also allowing the WebGL visualization
+ to update itself in real-time.
+\end_layout
+
+\begin_layout Standard
+NodeJS
+\end_layout
+
+\begin_layout Standard
+WebGL
+\end_layout
+
+\begin_layout Standard
+Shortly after the inital 
+\begin_inset Quotes eld
+\end_inset
+
+soft-launch
+\begin_inset Quotes erd
+\end_inset
+
+ opening of the MFA show, a number of 
+\begin_inset Quotes eld
+\end_inset
+
+inappropriate
+\begin_inset Quotes erd
+\end_inset
+
+ search queries began entering the queue for Everybody's Google.
+ I assumed it was a few students having fun with the site.
+ However, the list grew to the point that the site crashed a number of times.
+ Looking through the logs, a group of people had turned the search query
+ queue into a sort of message board.
+ I finally found the source of the traffic
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+A user on 
+KnowYourMeme.com
+\lang english
+ (a popular website for generating, documenting, and discussing internet
+ memes) had visited the show the previous weekend and posted a message about
+ Everybody's Google in their forums.
+ See original forum thread at 
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://knowyourmeme.com/forums/general/topics/15561-everybodys-google
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+, and the night before the show reopened had to implement throttling, limiting
+ IP addresses to two submissions maximum.
 \end_layout
 
 \begin_layout Subsection*
@@ -892,61 +1193,52 @@ Goals and expected outcomes
 (audience, how do they engage?, what do they get out of it?)
 \end_layout
 
-\begin_layout Subsection*
-Background - move this to context/rationale section of paper?
+\begin_layout Standard
+At the MFA show, visitors could watch the visualization of these searches
+ happening in real time.
+ There were users queuing search queries who were not at the show (as mentioned
+ above, regarding the KnowYourMeme discussion), but people at the show could
+ also interact with the piece provided they had a smart phone.
+ Using the smart phone, they could visit 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://everybodysgoogle.com
 \end_layout
 
-\begin_layout Standard
-Notes
-\end_layout
+\end_inset
 
-\begin_layout Standard
-Traditionally, the internet has been run as an 
+ and add items to the search queue and see their results within a few minutes
+ (after all of the queries had been processed.) It was important for me to
+ not introduce a keyboard and mouse interface for this piece.
+ With that setup I believe it becomes very difficult for more than one person
+ to engage with the piece at a time.
+ In this situation, nobody is in a position to 
 \begin_inset Quotes eld
 \end_inset
 
-attention economy
+assume control
 \begin_inset Quotes erd
 \end_inset
 
- - the more popular something is, the easier it is to find (rich get richer.)
- These algorithms are changing.
- PageRank, EdgeRank, sponsored listings (paid), 
+ of the piece.
+ People are in charge of their own experience - whether that consists of
+ walking past, stopping and viewing the piece for a bit, or interacting
+ with it via cell phone.
+ I believe this kept the focus of the piece on the content, as opposed to
+ the interaction (or lack thereof.) By presenting the process as relatively
+ straightforward data visualization, there wasn't much 
 \begin_inset Quotes eld
 \end_inset
 
-Most Popular
+digital magic
 \begin_inset Quotes erd
 \end_inset
 
- has long been the rule.
- It is slowly moving to more of a network analysis (friends of friends,
- actions taken, previous histories, global trends, etc.)
-\end_layout
-
-\begin_layout Standard
-By enabling this functionality, hopefully users can gain an insight (and
- 
-\begin_inset Quotes eld
-\end_inset
-
-reverse engineer
-\begin_inset Quotes erd
-\end_inset
-
- in a ssnse) allowing users to see the various perspectives Google creates
- of its own “world model.”
-\end_layout
-
-\begin_layout Standard
-A broad, yet extremely detailed view of the codification of culture - telling
- the story of individuals across cultures through search results.
- Allows users to see the various perspectives Google creates of its own
- “world model.”
-\end_layout
-
-\begin_layout Standard
-Notes from Psych paper:
+ to figure out.
+ With the minimalist implementation, there wasn't much else to focus on.
 \end_layout
 
 \begin_layout Standard
@@ -954,250 +1246,43 @@ Most web users are not aware that their Internet experience is personalized
  and different from that of other users.
  Even those who are aware of this do not realize to what extent it occurs.
  The primary goal of this project is to raise awareness of web personalization
- by explicitly showing the physical evidence of its existence in a visible
- and visceral way.
-\end_layout
-
-\begin_layout Standard
-A secondary goal of this project is to allow users to gain insight into
- Google’s “user model” of themselves – in a sense, allowing every-day users
- to explore the data gathered and gain a very broad overview of how Google
- views them.
- I believe that providing a large overview of this data will allow people
- to “reverse-engineer” their personal user models at a very broad level,
- enabling them to see trends in what types of search results they are being
- served.
- (Reverse engineering actual, detailed user models from this data will likely
- be impossible, but it should clearly demonstrate some of the things Google
- knows about each individual.)
-\end_layout
-
-\begin_layout Standard
-Google makes money by serving personalized advertisements - subvert Google's
- personalization algorithms, get a larger world view?
-\end_layout
-
-\begin_layout Subsubsection*
-Why Google?
-\end_layout
-
-\begin_layout Standard
-Code is law.
- If Google is our gateway to the world of the Internet, it’s laws and rules
- influence how we can interact with the Internet – it directly shapes our
- understanding of the space of the Internet.
-\end_layout
-
-\begin_layout Standard
-There is no “public space” on the Internet – everything is privatized public
- space.
- On the Internet, the gatekeepers of information are search engines, the
- most prominent being Google (as of July, 2011, Google was responsible for
- ~65% of all web searches – over 4x more than its nearest competitor.) However,
- search engines exploit the bidirectional communication inherent in web
- browsing to silently capture vast amounts of personal data and behavioral
- information from Internet users in order to “personalize” their web browsing
- experience.
- This personalization, in combination with the “black-boxed” ranking algorithms
- employed by these software systems have the ability to radically the informatio
-n we encounter on the Internet.
- If we experience and know the world through our bodies, blah blah blah
- through Google.
-\end_layout
-
-\begin_layout Subsubsection*
-What is Google?
-\end_layout
-
-\begin_layout Standard
-(search, gmail, ads, analytics, Google+) - they are everywhere.
- If a site has these installed, your are actually sending data to Google
- which they use to tune and train their algorithms.
- This is how they make money.
-\end_layout
-
-\begin_layout Subsubsection*
-How Google search works
-\end_layout
-
-\begin_layout Standard
-citation analysis
-\end_layout
-
-\begin_layout Subsubsection*
-Indexing
-\end_layout
-
-\begin_layout Subsubsection*
-Search
-\end_layout
-
-\begin_layout Subsubsection*
-Profit
-\end_layout
-
-\begin_layout Subsubsection*
-Personalization
-\end_layout
-
-\begin_layout Standard
-When I search for 
+ by clearly and concisely showing it in action.
+ To get people to question their 
 \begin_inset Quotes eld
 \end_inset
 
-
+digital life worlds
 \begin_inset Quotes erd
 \end_inset
 
-, Google used to simply point me to web page it felt was the best match
- for that term based upon the quality and quantity of other web sites referencin
-g it (a system based largely on the existing model of citation analysis
- used to 
+ and begin thinking about how Google models the world.
+ Is it correct? Can the concept of 
 \begin_inset Quotes eld
 \end_inset
 
-rank
+correct-ness
 \begin_inset Quotes erd
 \end_inset
 
- academica and scholarly papers and journals
-\begin_inset CommandInset citation
-LatexCommand cite
-key "key-2"
-
-\end_inset
-
-.) However, as Google aims to provide more relevant information, its results
- are becoming personalized and 
-\begin_inset Quotes eld
-\end_inset
-
-user-centric.
-\begin_inset Quotes erd
-\end_inset
-
- Today, when I search for 
-\begin_inset Quotes eld
-\end_inset
-
-
-\begin_inset Quotes erd
-\end_inset
-
-, Google first takes everything it knows about me (and everything it 
-\emph on
-thinks
-\emph default
- it knows about me) and uses this information to further refine its search
- results.
- And Google knows a lot about me.
- Some of the information I have explicity given to Google while signing
- up for their services, such as my age & gender.
- But other information, Google has inferred by monitoring my browsing behaviour
- and making certain assumptions based upon how I access the internet (my
- geographic location, ISP, browser type.) They can tell if I've been waking
- up early on a regular basis and doing a lot of searches for gyms in my
- area - maybe I'm becoming more concerned about my health or getting into
- shape.
- It's safe to assume that Google has access to this information any time
- we preform a search, but Google also has access to our browsing behaviours
- across a large portion of the Internet, by providing 
-\begin_inset Quotes eld
-\end_inset
-
-free
-\begin_inset Quotes erd
-\end_inset
-
- analytics and advertising services to website owners.
- The website owners install these scripts inside of the HTML markup, and
- they get free ads and analytics software from Google.
- In exchange, Google gets access to the website users.
- And it can track individuals from page to page in order to create a more
- complex model of each Google user.
-\end_layout
-
-\begin_layout Standard
-Search personalization - Google is presenting a different view of the world
- to each individual user.
- This is used by *lots* of websites - Amazon markets specific items to users
- based upon voluntarily contributed demographic information (age, gender,
- location), but also infers much through users' behavoiurs.
- So, if you look at a lot of juicers, Amazon will make recommendations to
- you based on the assumption that you like making your own juice for various
- reasons - this then flows into other areas: books about juicing, seeds/gardenin
-g products, health equipment, etc.
- Clearly, Amazon is trying to maximize its conversion rate, and sell as
- many products as possible.
- This is how they make money - each sale generates revenue for the company.
- Their product is sales.
-\end_layout
-
-\begin_layout Standard
-Google's product is information.
- Google places what it *thinks* are relevant to each user higher int he
- search results.
- This is based upon previous browsing history, search history, and web browsing
- behaviour.
- Each user can potentially be shown a very different set of results for
- the same search request.
- Romney vs.
- Santorum queries
-\end_layout
-
-\begin_layout Standard
-Library - freedom to explore and roam.
- Find information you're looking for, but also information you weren't necessari
-ly looking for.
- Personalization is black-boxed algorithms, built by privatized companies.
- Access to information is not the phyiscal ability to acquire informaiton,
- but the ability to explore and find new information.
- These software algorithms in essence are limiting the informaiton you are
- exposed to online.
-\end_layout
-
-\begin_layout Standard
-New Google search? Personalization, search + your world, search objects/web/netw
-ork.
-\end_layout
-
-\begin_layout Standard
-As digital technologies become increasingly ubiquitous and accessible, digital
- resources are quickly becoming the primary resources for information and
- knowledge gathering.
- While the Internet is largely viewed as embracing democratic ideals and
- guaranteeing equal access for all, to all, the fact that our Internet experienc
-e is mediated almost exclusively through privatized companies, is inherently
- undemocratic.
- In order to provide "relevant" information to individual users (and increase
- revenues), companies like Google and Amazon filter content and information
- through black box algorithms.
- End users have little to no control over which items or information are
- shown to them, or in what order; and because these algorithms are trade
- secrets, users also cannot have an understanding of the filtering and selection
- process.
-\end_layout
-
-\begin_layout Standard
-Black box - nobody really knows what's going on, including Google engineers.
- And that's been their response - we're looking at 1000's of different things.
- Play it off as a 
-\begin_inset Quotes eld
-\end_inset
-
-trade secret
-\begin_inset Quotes erd
-\end_inset
-
- - the don't 
-\series bold
-have
-\series default
- to tell anybody what they're doing behind the scenes.
+ even apply here? How can anybody or anything organize the massive amounts
+ of data available on the Internet? How can it efficiently and accurately
+ sort through it all? Surely there must be compromises in this process.
 \end_layout
 
 \begin_layout Section*
 Ocular Character Recognition
+\end_layout
+
+\begin_layout Standard
+I presented three projects under the umbrella of the Ocular Character Recognitio
+n project at the MFA show.
+ These were largely experiments with materiality and exploring how we engage
+ with the digital and the process of taking a digital artifact and presenting
+ it in a physical form.
+ A CAPTCHA is something one rarely - if ever - encounters outside of a computer
+ screen.
+ While all of the pieces were generated and created through custom software,
+ none of that was on display or shown as a part of the MFA show.
 \end_layout
 
 \begin_layout Subsection*
@@ -1207,6 +1292,10 @@ Conceptual Description
 \begin_layout Standard
 (what ideas is it exploring? what theoretical vocabularies is it engaging?
  intellectual and artistic traditions is it expanding?)
+\end_layout
+
+\begin_layout Standard
+Reversing the process of digitization.
 \end_layout
 
 \begin_layout Standard
@@ -1314,6 +1403,208 @@ This is just one example.
  avoid as much as possible making the project about the content of the pages.
  Producing/re-producing pages from the Bible would've made the project about
  religion moreso than digitization and digital culture.
+\end_layout
+
+\begin_layout Subsection*
+Formal Description
+\end_layout
+
+\begin_layout Standard
+Webpages For Humans
+\end_layout
+
+\begin_layout Standard
+\noindent
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename media/webpagesforhumans_printlab.jpg
+	width 4.75in
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+Webpages for Humans
+\emph on
+ mylar prints
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100col%"
+height "0.5pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Serendipity Engine
+\end_layout
+
+\begin_layout Standard
+\noindent
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename media/serendipity-engine_captchafy.jpg
+	width 4.75in
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+Serendipity Engine
+\emph on
+ and reading area
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100col%"
+height "0.5pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+CAPTCHA-fy!
+\end_layout
+
+\begin_layout Standard
+\noindent
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename media/captchafy_covers.jpg
+	width 4.75in
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+CAPTCHA-fy!
+\emph on
+ booklet covers
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100col%"
+height "0.5pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsection*
@@ -1680,8 +1971,344 @@ Google's massive attempt to digitize every book in existence requires an
  labour required to translate that which computers cannot.
 \end_layout
 
+\begin_layout Section*
+MFA Show Response
+\end_layout
+
+\begin_layout Standard
+Everybody's Google - people seemed to be very interested in the concepts
+ behind the two projects.
+ Either they 
+\begin_inset Quotes eld
+\end_inset
+
+got it
+\begin_inset Quotes erd
+\end_inset
+
+ immediately, or after I explained it, they became very intrigued.
+\end_layout
+
+\begin_layout Standard
+Interaction with the pieces was less than I had hoped.
+ A few people interacted with Everybody's Google, but far less than I had
+ expected.
+ Part of this may be due to the fact that cell phone reception was not very
+ good in the building, and cruznet blocked the website due to it running
+ on a 
+\begin_inset Quotes eld
+\end_inset
+
+nonstandard
+\begin_inset Quotes erd
+\end_inset
+
+ port.
+\end_layout
+
+\begin_layout Standard
+Even with the addition of the web page URLs on the wall text, few people
+ seemed to realize that these were both products or manifestations of softare/we
+bsites.
+\end_layout
+
+\begin_layout Standard
+Serendipity engine - people tended to either ignore the papers on the floor,
+ or thought something got knocked over, and stacked them together into a
+ neat pile.
+ Visitors were reluctant to take any of the takeaways.
+ A few times we timed the printer to dispense paper as people were walking
+ by using a remote control and got great reactions.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Silly, but in a good way.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+WpfH - books were never intended to be read by machines.
+ Webpages are both - designed for machine readibility (code) but presented
+ to humans (presentation/webpage) - how do the two tie together? Interpretation
+ to get from written word to digital translation (underlying meaning VS
+ physical representation/appearance.) Can a computer 
+\begin_inset Quotes eld
+\end_inset
+
+understand
+\begin_inset Quotes erd
+\end_inset
+
+ a book? The book as the first mass-produced physical medium for data/memory
+ storage.
+ Indexed, organized, dessimated through direct human labour - literaries,
+ librarians
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
 \begin_layout Part*
 Literary Review/Context/Why does this matter?
+\end_layout
+
+\begin_layout Subsection*
+Background - move this to context/rationale section of paper?
+\end_layout
+
+\begin_layout Standard
+Notes
+\end_layout
+
+\begin_layout Standard
+Traditionally, the internet has been run as an 
+\begin_inset Quotes eld
+\end_inset
+
+attention economy
+\begin_inset Quotes erd
+\end_inset
+
+ - the more popular something is, the easier it is to find (rich get richer.)
+ These algorithms are changing.
+ PageRank, EdgeRank, sponsored listings (paid), 
+\begin_inset Quotes eld
+\end_inset
+
+Most Popular
+\begin_inset Quotes erd
+\end_inset
+
+ has long been the rule.
+ It is slowly moving to more of a network analysis (friends of friends,
+ actions taken, previous histories, global trends, etc.)
+\end_layout
+
+\begin_layout Subsubsection*
+Why Google?
+\end_layout
+
+\begin_layout Standard
+Code is law.
+ If Google is our gateway to the world of the Internet, it’s laws and rules
+ influence how we can interact with the Internet – it directly shapes our
+ understanding of the space of the Internet.
+\end_layout
+
+\begin_layout Standard
+There is no “public space” on the Internet – everything is privatized public
+ space.
+ On the Internet, the gatekeepers of information are search engines, the
+ most prominent being Google (as of July, 2011, Google was responsible for
+ ~65% of all web searches – over 4x more than its nearest competitor.) However,
+ search engines exploit the bidirectional communication inherent in web
+ browsing to silently capture vast amounts of personal data and behavioral
+ information from Internet users in order to “personalize” their web browsing
+ experience.
+ This personalization, in combination with the “black-boxed” ranking algorithms
+ employed by these software systems have the ability to radically the informatio
+n we encounter on the Internet.
+ If we experience and know the world through our bodies, blah blah blah
+ through Google.
+\end_layout
+
+\begin_layout Subsubsection*
+What is Google?
+\end_layout
+
+\begin_layout Standard
+(search, gmail, ads, analytics, Google+) - they are everywhere.
+ If a site has these installed, your are actually sending data to Google
+ which they use to tune and train their algorithms.
+ This is how they make money.
+\end_layout
+
+\begin_layout Subsubsection*
+How Google search works
+\end_layout
+
+\begin_layout Standard
+citation analysis
+\end_layout
+
+\begin_layout Subsubsection*
+Indexing
+\end_layout
+
+\begin_layout Subsubsection*
+Search
+\end_layout
+
+\begin_layout Subsubsection*
+Profit
+\end_layout
+
+\begin_layout Subsubsection*
+Personalization
+\end_layout
+
+\begin_layout Standard
+When I search for 
+\begin_inset Quotes eld
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+, Google used to simply point me to web page it felt was the best match
+ for that term based upon the quality and quantity of other web sites referencin
+g it (a system based largely on the existing model of citation analysis
+ used to 
+\begin_inset Quotes eld
+\end_inset
+
+rank
+\begin_inset Quotes erd
+\end_inset
+
+ academica and scholarly papers and journals
+\begin_inset CommandInset citation
+LatexCommand cite
+key "key-2"
+
+\end_inset
+
+.) However, as Google aims to provide more relevant information, its results
+ are becoming personalized and 
+\begin_inset Quotes eld
+\end_inset
+
+user-centric.
+\begin_inset Quotes erd
+\end_inset
+
+ Today, when I search for 
+\begin_inset Quotes eld
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+, Google first takes everything it knows about me (and everything it 
+\emph on
+thinks
+\emph default
+ it knows about me) and uses this information to further refine its search
+ results.
+ And Google knows a lot about me.
+ Some of the information I have explicity given to Google while signing
+ up for their services, such as my age & gender.
+ But other information, Google has inferred by monitoring my browsing behaviour
+ and making certain assumptions based upon how I access the internet (my
+ geographic location, ISP, browser type.) They can tell if I've been waking
+ up early on a regular basis and doing a lot of searches for gyms in my
+ area - maybe I'm becoming more concerned about my health or getting into
+ shape.
+ It's safe to assume that Google has access to this information any time
+ we preform a search, but Google also has access to our browsing behaviours
+ across a large portion of the Internet, by providing 
+\begin_inset Quotes eld
+\end_inset
+
+free
+\begin_inset Quotes erd
+\end_inset
+
+ analytics and advertising services to website owners.
+ The website owners install these scripts inside of the HTML markup, and
+ they get free ads and analytics software from Google.
+ In exchange, Google gets access to the website users.
+ And it can track individuals from page to page in order to create a more
+ complex model of each Google user.
+\end_layout
+
+\begin_layout Standard
+Search personalization - Google is presenting a different view of the world
+ to each individual user.
+ This is used by *lots* of websites - Amazon markets specific items to users
+ based upon voluntarily contributed demographic information (age, gender,
+ location), but also infers much through users' behavoiurs.
+ So, if you look at a lot of juicers, Amazon will make recommendations to
+ you based on the assumption that you like making your own juice for various
+ reasons - this then flows into other areas: books about juicing, seeds/gardenin
+g products, health equipment, etc.
+ Clearly, Amazon is trying to maximize its conversion rate, and sell as
+ many products as possible.
+ This is how they make money - each sale generates revenue for the company.
+ Their product is sales.
+\end_layout
+
+\begin_layout Standard
+Google's product is information.
+ Google places what it *thinks* are relevant to each user higher int he
+ search results.
+ This is based upon previous browsing history, search history, and web browsing
+ behaviour.
+ Each user can potentially be shown a very different set of results for
+ the same search request.
+ Romney vs.
+ Santorum queries
+\end_layout
+
+\begin_layout Standard
+Library - freedom to explore and roam.
+ Find information you're looking for, but also information you weren't necessari
+ly looking for.
+ Personalization is black-boxed algorithms, built by privatized companies.
+ Access to information is not the phyiscal ability to acquire informaiton,
+ but the ability to explore and find new information.
+ These software algorithms in essence are limiting the informaiton you are
+ exposed to online.
+\end_layout
+
+\begin_layout Standard
+New Google search? Personalization, search + your world, search objects/web/netw
+ork.
+\end_layout
+
+\begin_layout Standard
+As digital technologies become increasingly ubiquitous and accessible, digital
+ resources are quickly becoming the primary resources for information and
+ knowledge gathering.
+ While the Internet is largely viewed as embracing democratic ideals and
+ guaranteeing equal access for all, to all, the fact that our Internet experienc
+e is mediated almost exclusively through privatized companies, is inherently
+ undemocratic.
+ In order to provide "relevant" information to individual users (and increase
+ revenues), companies like Google and Amazon filter content and information
+ through black box algorithms.
+ End users have little to no control over which items or information are
+ shown to them, or in what order; and because these algorithms are trade
+ secrets, users also cannot have an understanding of the filtering and selection
+ process.
+\end_layout
+
+\begin_layout Standard
+Black box - nobody really knows what's going on, including Google engineers.
+ And that's been their response - we're looking at 1000's of different things.
+ Play it off as a 
+\begin_inset Quotes eld
+\end_inset
+
+trade secret
+\begin_inset Quotes erd
+\end_inset
+
+ - the don't 
+\series bold
+have
+\series default
+ to tell anybody what they're doing behind the scenes.
 \end_layout
 
 \begin_layout Section*
@@ -2628,89 +3255,68 @@ These projects deal with the internet.
 
 \end_deeper
 \begin_layout Section*
-Conclusion
+Figures
 \end_layout
 
 \begin_layout Standard
-MFA show reception, documentation, and possible next steps
-\end_layout
+\begin_inset Float figure
+wide false
+sideways false
+status open
 
-\begin_layout Subsection*
-MFA Show responses
-\end_layout
+\begin_layout Plain Layout
+\noindent
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
 
-\begin_layout Standard
-Everybody's Google - people seemed to be very interested in the concepts
- behind the two projects.
- Either they 
-\begin_inset Quotes eld
-\end_inset
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename media/webpagesforhumans_nytimes.png
+	width 4.75in
 
-got it
-\begin_inset Quotes erd
-\end_inset
-
- immediately, or after I explained it, they became very intrigued.
-\end_layout
-
-\begin_layout Standard
-Interaction with the pieces was less than I had hoped.
- A few people interacted with Everybody's Google, but far less than I had
- expected.
- Part of this may be due to the fact that cell phone reception was not very
- good in the building, and cruznet blocked the website due to it running
- on a 
-\begin_inset Quotes eld
-\end_inset
-
-nonstandard
-\begin_inset Quotes erd
-\end_inset
-
- port.
-\end_layout
-
-\begin_layout Standard
-Even with the addition of the web page URLs on the wall text, few people
- seemed to realize that these were both products or manifestations of softare/we
-bsites.
-\end_layout
-
-\begin_layout Standard
-Serendipity engine - people tended to either ignore the papers on the floor,
- or thought something got knocked over, and stacked them together into a
- neat pile.
- Visitors were reluctant to take any of the takeaways.
- A few times we timed the printer to dispense paper as people were walking
- by using a remote control and got great reactions.
- 
-\begin_inset Quotes eld
-\end_inset
-
-Silly, but in a good way.
-\begin_inset Quotes erd
 \end_inset
 
 
 \end_layout
 
-\begin_layout Standard
-WpfH - books were never intended to be read by machines.
- Webpages are both - designed for machine readibility (code) but presented
- to humans (presentation/webpage) - how do the two tie together? Interpretation
- to get from written word to digital translation (underlying meaning VS
- physical representation/appearance.) Can a computer 
-\begin_inset Quotes eld
 \end_inset
 
-understand
-\begin_inset Quotes erd
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+
+\emph on
+Webpages for Humans
+\emph default
+ screenshot
+\end_layout
+
 \end_inset
 
- a book? The book as the first mass-produced physical medium for data/memory
- storage.
- Indexed, organized, dessimated through direct human labour - literaries,
- librarians
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Bibliography
