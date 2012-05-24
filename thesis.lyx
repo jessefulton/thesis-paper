@@ -238,7 +238,7 @@ Introduction
 
 \begin_layout Standard
 As part of my MFA, I completed two projects.
- Everbody's Google is an exploration of the multiple 
+ Everybody's Google is an exploration of the multiple 
 \begin_inset Quotes eld
 \end_inset
 
@@ -347,7 +347,7 @@ we
 Everybody's Google focuses on Google's search personalization algorithms.
  Google is profitable as a business because it makes money serving highly
  personalized advertisements.
- Google tracks users as they navigate the web, making judements and assumptions
+ Google tracks users as they navigate the web, making judgements and assumptions
  based not just on user-supplied information, but moreso by analyzing users
  behaviours online.
  The sites you visit, the things you search for, the time of day and from
@@ -504,12 +504,12 @@ http://www.google.com/recaptcha/learnmore
 When Google digitizes physical books (as part of its Google Books project),
  OCR software is used to "read" the scanned pages and make it searchable
  and indexable.
- However, the computer algorithms fail occasionally due to scan irregularites,
+ However, the computer algorithms fail occasionally due to scan irregularities,
  low print quality, or similar problems.
  When this happens, the only way to decipher these portions of the digitized
  text is with a human eye.
  Google's massive attempt to digitize every book in existence requires an
- enourmous amount of human labour.
+ enormous amount of human labour.
  reCAPTCHA, the most popular CAPTCHA service on the Internet, fulfills this
  need by distributing this labour as micro-tasks across the Internet.
  In exchange for access to enhanced functionality, web users provide the
@@ -517,10 +517,10 @@ When Google digitizes physical books (as part of its Google Books project),
 \end_layout
 
 \begin_layout Standard
-I vew these projects as experiments rather than as answers to any particular
+I view these projects as experiments rather than as answers to any particular
  questions.
  They are intended to raise awareness of complex and important issues in
- an approachable and easily digestable form.
+ an approachable and easily digestible form.
  For something that largely remains unseen, it is difficult to create a
  physical form, but the projects detailed below represent a few of the possible
  manifestations of the concepts presented within each project.
@@ -739,7 +739,7 @@ projects
 \series default
 .
  The two projects are the experience and the engagement with the ideas.
- The pieces for the MFA show are the condensation of the idea - phyiscal
+ The pieces for the MFA show are the condensation of the idea - physical
  objects/images which you can simply look at and get the gist of the idea.
 \end_layout
 
@@ -797,8 +797,8 @@ Not showing a new way to view the world, but
 revealing
 \emph default
  the way the world is (or the multiple ways it's presented?) They're making
- assumptions & judgement calls and tellling you how you should view the
- world - as it's relevant to you; the arbiters of taste...
+ assumptions & judgement calls and telling you how you should view the world
+ - as it's relevant to you; the arbiters of taste...
  Who owns your digital data/profile? No way to see or correct the collected
  information.
 \end_layout
@@ -881,8 +881,8 @@ In its current form, the project is engaged with through a web interface.
  representing a particular stereotype: a young man living in the UK who
  is interested in sports and gambling; a teenage girl from Atlanta interested
  in fashion, celebrities, and pop music; a middle-aged conservative Christian
- businessman from rural Virgina; and a liberal, Californian mom-to-be, intereste
-d in women’s rights.
+ businessman from rural Virginia; and a liberal, Californian mom-to-be,
+ interested in women’s rights.
 \end_layout
 
 \begin_layout Standard
@@ -1012,7 +1012,7 @@ There are plans to eventually merge the plugin back into the project
 .
  Initial tests were very promising - after setting up an account to crawl
  the politics section of npr.org and another to crawl the politics section
- of foxnews.com, the two accounts got extermely different search results
+ of foxnews.com, the two accounts got extremely different search results
  when Googling the term 
 \begin_inset Quotes eld
 \end_inset
@@ -1143,7 +1143,7 @@ WebGL
 \end_layout
 
 \begin_layout Standard
-Shortly after the inital 
+Shortly after the initial 
 \begin_inset Quotes eld
 \end_inset
 
@@ -1343,7 +1343,7 @@ The title Ocular Character Recognition is a play on the term Optical Character
 \begin_layout Standard
 However, there are difficulties in the OCR process.
  OCR algorithms have difficulties with font changes, superscripts/subscripts,
- mathematical formulas, handwritten notes, or even full handrwitten pages
+ mathematical formulas, handwritten notes, or even full handwritten pages
  (journals, diaries, legal documents/letters)
 \begin_inset Foot
 status collapsed
@@ -2083,8 +2083,8 @@ nonstandard,
  And the wall text (for both projects) did not overly emphasize the fact
  that these were software projects living on the web.
  Even with the addition of the web page URLs on the wall text, few people
- seemed to realize that these were both products or manifestations of softare/we
-bsites.
+ seemed to realize that these were both products or manifestations of software/w
+ebsites.
 \end_layout
 
 \begin_layout Standard
@@ -2093,7 +2093,7 @@ CAPTCHA-fy! and the Serendipity Engine received mixed responses.
  long duration of the show, the Serendipity Engine only dispensed paper
  roughly ever 8 minutes.
  Nobody was in the area for that duration of time, so it was in fact extremely
- serndipitous when a sheet fell from the ceiling and 
+ serendipitous when a sheet fell from the ceiling and 
 \emph on
 was noticed
 \emph default
@@ -2282,7 +2282,7 @@ rank
 \begin_inset Quotes erd
 \end_inset
 
- academica and scholarly papers and journals
+ academic and scholarly papers and journals
 \begin_inset CommandInset citation
 LatexCommand cite
 key "key-2"
@@ -2313,7 +2313,7 @@ thinks
  it knows about me) and uses this information to further refine its search
  results.
  And Google knows a lot about me.
- Some of the information I have explicity given to Google while signing
+ Some of the information I have explicitly given to Google while signing
  up for their services, such as my age & gender.
  But other information, Google has inferred by monitoring my browsing behaviour
  and making certain assumptions based upon how I access the internet (my
@@ -2372,9 +2372,9 @@ Library - freedom to explore and roam.
  Find information you're looking for, but also information you weren't necessari
 ly looking for.
  Personalization is black-boxed algorithms, built by privatized companies.
- Access to information is not the phyiscal ability to acquire informaiton,
+ Access to information is not the physical ability to acquire information,
  but the ability to explore and find new information.
- These software algorithms in essence are limiting the informaiton you are
+ These software algorithms in essence are limiting the information you are
  exposed to online.
 \end_layout
 
@@ -2435,8 +2435,8 @@ Difference between web pages & traditional resources (TV, newspaper, magazine,
  changing.
  It is accessible, static, and yet extremely dynamic at the same time.
  Instead of merely consuming culture (TV, radio, film) we are now producing
- culture as well, thanks to the elimination of spacetime made possible by
- high speed internet and wide accessibility to the Internet.
+ culture as well, thanks to the elimination of space-time made possible
+ by high speed internet and wide accessibility to the Internet.
 \end_layout
 
 \begin_layout Standard
@@ -2452,18 +2452,18 @@ The digital and the physical are inherently intertwined.
 The digital makes the distribution and production on a massive scale almost
  free.
  Once a product is created, it can be copied over and over again, with no
- degredation of quality.
+ degradation of quality.
 \end_layout
 
 \begin_layout Standard
 Webpages for Humans questions our notion of archiving and digital culture.
  Physical objects -> digital representations -> ? What happens to the digital
- represetnations.
+ representations.
  People forget about the physicality of the digital - web sites and data
  are transmitted over cables, applications are run from servers in warehouses
  full of servers (data farms.) When power goes down in silicon valley or
  a bomb is detonated at a server farm, what happens to not just our data,
- but our lives? As we come to live and exeperience more through the digital,
+ but our lives? As we come to live and experience more through the digital,
  having a single point of failure can drastically change blah blah blah.
  As we forget about the physical or replace/supplant it with digital representat
 ions, how do we prepare for the inevitable evolution (of technology mediated
@@ -2546,7 +2546,7 @@ and
 
 \begin_layout Standard
 WpfH - books were never intended to be read by machines.
- Webpages are both - designed for machine readibility (code) but presented
+ Webpages are both - designed for machine readability (code) but presented
  to humans (presentation/webpage) - how do the two tie together? Interpretation
  to get from written word to digital translation (underlying meaning VS
  physical representation/appearance.) Can a computer 
@@ -2559,7 +2559,7 @@ understand
 
  a book? The book as the first mass-produced physical medium for data/memory
  storage.
- Indexed, organized, dessimated through direct human labour - literaries,
+ Indexed, organized, disseminated through direct human labour - literaries,
  librarians
 \end_layout
 
@@ -2721,7 +2721,7 @@ Google Alarm/Ffffuck Google (surveillance economy)
 \end_layout
 
 \begin_layout Standard
-Newstweek? Shaved Beieber? (culture jamming, censorshop through selective
+Newstweek? Shaved Beieber? (culture jamming, censorship through selective
  filtering)
 \end_layout
 
@@ -2952,7 +2952,7 @@ Internet + Culture
 \begin_deeper
 \begin_layout Enumerate
 Cultural influence: digital communications represent the closest thing we
- have yet seen to the collapse of spacetime.
+ have yet seen to the collapse of space-time.
  space-time collapsed.
  Near-present archiving and documentation.
  This is what's different about historical archiving and the current method
