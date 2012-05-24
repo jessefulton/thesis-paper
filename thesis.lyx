@@ -553,7 +553,7 @@ width "100col%"
 special "none"
 height "1in"
 height_special "totalheight"
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \noindent
@@ -2034,8 +2034,8 @@ MFA Show Response
 \end_layout
 
 \begin_layout Standard
-Everybody's Google - people seemed to be very interested in the concepts
- behind the two projects.
+People were very receptive to and interested in the concepts behind the
+ two projects.
  Either they 
 \begin_inset Quotes eld
 \end_inset
@@ -2045,10 +2045,26 @@ got it
 \end_inset
 
  immediately, or after I explained it, they became very intrigued.
+ There seemed to be a certain level of technical proficiency associated
+ with the depth at which people connected with the pieces.
+ There were a number of people who were incredibly excited by the ideas
+ who seemed to have a very solid understanding of how software in general
+ works, despite not necessarily being programmers (most simply worked with
+ software and the Internet on a daily basis.) In this sense, I believe that
+ my expectations of the primary audience being 
+\begin_inset Quotes eld
+\end_inset
+
+normal
+\begin_inset Quotes erd
+\end_inset
+
+ Internet users will be met and am looking forward to feedback received
+ after publicizing the pieces online.
 \end_layout
 
 \begin_layout Standard
-Interaction with the pieces was less than I had hoped.
+Interaction with the pieces at the show was less than I had hoped.
  A few people interacted with Everybody's Google, but far less than I had
  expected.
  Part of this may be due to the fact that cell phone reception was not very
@@ -2064,49 +2080,80 @@ nonstandard,
 \end_inset
 
  blocked port.
-\end_layout
-
-\begin_layout Standard
-Even with the addition of the web page URLs on the wall text, few people
+ And the wall text (for both projects) did not overly emphasize the fact
+ that these were software projects living on the web.
+ Even with the addition of the web page URLs on the wall text, few people
  seemed to realize that these were both products or manifestations of softare/we
 bsites.
 \end_layout
 
 \begin_layout Standard
-Serendipity engine - people tended to either ignore the papers on the floor,
- or thought something got knocked over, and stacked them together into a
- neat pile.
- Visitors were reluctant to take any of the takeaways.
- A few times we timed the printer to dispense paper as people were walking
- by using a remote control and got great reactions.
- 
+CAPTCHA-fy! and the Serendipity Engine received mixed responses.
+ Because of the limited available space in the printer mechanism and the
+ long duration of the show, the Serendipity Engine only dispensed paper
+ roughly ever 8 minutes.
+ Nobody was in the area for that duration of time, so it was in fact extremely
+ serndipitous when a sheet fell from the ceiling and 
+\emph on
+was noticed
+\emph default
+ by a visitor.
+ The 
 \begin_inset Quotes eld
 \end_inset
 
-Silly, but in a good way.
+reading area
 \begin_inset Quotes erd
 \end_inset
 
+ which it was installed over did not have much going on visually, and was
+ largely ignored.
+ The pages from the Serendipity Engine did accumulate on the floor, but
+ people tended to either ignore them, or thought that they had been knocked
+ over, and stacked them together into a neat pile on top of the CAPTCHA-fy!
+ booklets.
+ This created two problems: first, the next time a page fell unnoticed to
+ the ground, the next visitor would pick it up and place it on the now-stacked
+ pile of previous pages; second, the pile was placed on the footstool, on
+ top of the CAPTCHA-fy! booklets, essentially rendering them invisible.
+ There were a series of booklets along the window sill, but without the
+ context of a series of 4 or 5 clearly marked as 
+\begin_inset Quotes eld
+\end_inset
 
+DANM Copies
+\begin_inset Quotes erd
+\end_inset
+
+, they looked more like decorative pieces and visitors were reluctant to
+ touch them, let alone take one home
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+The pages from the Serendipity Engine and the CAPTCHA-fy! booklets were
+ intended to be takeaways.
+ From my estimates, slightly more than half of the booklets were taken,
+ and slightly less than half of the Serendipity Engine pages were taken
+ (or possibly thrown away.)
+\end_layout
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Standard
-WpfH - books were never intended to be read by machines.
- Webpages are both - designed for machine readibility (code) but presented
- to humans (presentation/webpage) - how do the two tie together? Interpretation
- to get from written word to digital translation (underlying meaning VS
- physical representation/appearance.) Can a computer 
-\begin_inset Quotes eld
-\end_inset
-
-understand
-\begin_inset Quotes erd
-\end_inset
-
- a book? The book as the first mass-produced physical medium for data/memory
- storage.
- Indexed, organized, dessimated through direct human labour - literaries,
- librarians
+While documenting, we timed the printer to dispense paper as people were
+ walking by using a remote control and got great reactions.
+ But again, it quickly devolved into people waving their hands at the ceiling,
+ expecting a reaction from the magical printer in the ceiling.
+ From this, I think it would've been important to have the piece be much
+ more impactful rather than stressing its subtlety.
+ People rarely noticed it - it may have been better to have it run for 10
+ or 15 seconds straight over the course of an hour or so.
+ Another option could have been to use a scroll as opposed to individual
+ sheets to stress the intentionality of the piece.
 \end_layout
 
 \begin_layout Standard
@@ -2495,6 +2542,25 @@ The webpages we view are visual representations of an underlying structure,
 and
 \series default
  in the underlying code, and replacing it with images/DataURIs.
+\end_layout
+
+\begin_layout Standard
+WpfH - books were never intended to be read by machines.
+ Webpages are both - designed for machine readibility (code) but presented
+ to humans (presentation/webpage) - how do the two tie together? Interpretation
+ to get from written word to digital translation (underlying meaning VS
+ physical representation/appearance.) Can a computer 
+\begin_inset Quotes eld
+\end_inset
+
+understand
+\begin_inset Quotes erd
+\end_inset
+
+ a book? The book as the first mass-produced physical medium for data/memory
+ storage.
+ Indexed, organized, dessimated through direct human labour - literaries,
+ librarians
 \end_layout
 
 \begin_layout Section*
