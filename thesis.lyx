@@ -351,14 +351,26 @@ Completely Automated Public Turing Test To Tell Computers and Humans Apart
 \end_layout
 
 \begin_layout Standard
-\begin_inset Float figure
-placement H
-wide false
-sideways false
-status collapsed
+\noindent
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
 
 \begin_layout Plain Layout
-\begin_inset Caption
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
 
 \begin_layout Plain Layout
 \begin_inset Graphics
@@ -367,12 +379,28 @@ status collapsed
 \end_inset
 
 
-\begin_inset space \hfill{}
-\end_inset
+\end_layout
 
+\begin_layout Plain Layout
+
+\emph on
 A familiar CAPTCHA test
 \end_layout
 
+\begin_layout Plain Layout
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100col%"
+height "0.5pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset VSpace bigskip
 \end_inset
 
 
@@ -429,14 +457,116 @@ Thesis Projects
 \end_layout
 
 \begin_layout Standard
-What is software? Software is what makes hardware run.
- Hardware without software is just scrap, physical objects which don't do
- anything.
- Software is the experience of using a computer.
- Software controls our experience with the digital.
- Files become something totally different depending upon host software (photosho
-p) - the experience of using a computer.
- Defines what is possible in the virtual world.
+For the MFA show, a number of works were shown.
+ From my viewpoint, the main projects are the ideas.
+ The software I have written is the manifestation of those ideas.
+ Interacting with the corresponding websites, in a 
+\begin_inset Quotes eld
+\end_inset
+
+normal
+\begin_inset Quotes erd
+\end_inset
+
+ (non-gallery) setting is the experience of those ideas.
+ The pieces shown at the MFA show were a condensation of those ideas.
+\end_layout
+
+\begin_layout Standard
+Why not show the software itself or the websites? Software is a difficult
+ thing to present in an aesthetically pleasing and approachable way.
+ Perhaps code can have an aesthetic form, however, I'm not so much concerned
+ with the code or its structure as much as I am at the exploration of the
+ underlying ideas and goals which the code is accomplishing.
+ I'm interested in the processes the code represents.
+ In that sense, although the code is the large majority of the work I have
+ produced...
+\end_layout
+
+\begin_layout Standard
+The website is an interface into the data and information produced by the
+ software.
+ It's the gateway to understanding and approaching these ideas from a non-techni
+cal standpoint.
+\end_layout
+
+\begin_layout Standard
+So, why not show the websites at the MFA show? A large problem with digital
+ art is that it is often viewed as a gimmick, or merely as a technical demo.
+ Rather than appreciate the work as a piece of art, it becomes a game of
+ 
+\begin_inset Quotes eld
+\end_inset
+
+how does it work?
+\begin_inset Quotes erd
+\end_inset
+
+ And once that puzzle has been solved, it's onto the next one.
+ However, this seems to be the case only when such pieces are presented
+ in the context of a museum or gallery.
+ When encountered serendipitously or on one's own explorations, most people
+ engage with these types of projects much differently.
+\end_layout
+
+\begin_layout Standard
+Being in a 
+\begin_inset Quotes eld
+\end_inset
+
+museum mindset
+\begin_inset Quotes erd
+\end_inset
+
+ and being forced to interact with a piece through the interface we associate
+ with work or leisure changes the essence of a web-based piece.
+ If art is about the artist's intent, then placing something which was not
+ created for a museum or gallery space within that context is just as absurd
+ as saying that viewing a 3D model of the David inside of Google Sketchup
+ is the same as viewing it through an augmented reality browser in your
+ living room.
+ Even if the visual representation of the David were reproduced perfectly,
+ it's essence is radically different.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Even the most perfect reproduction of a work of art is lacking in one element:
+ its presence in time and space, its unique existence at the place where
+ it happens to be.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Benjamin, Walter.
+ The Work of Art in the Age of Mechanical Reproduction.
+ 1935
+\end_layout
+
+\end_inset
+
+ I would argue that net.art and Internet-based works collapse the distinction
+ between space and time, ultimately one experiences these types of works
+ in a virtual space constructed within ones mind.
+ In this sense, the viewer's state of mind is essential, and the cultural
+ notions of what a museum is, and how to behave in a gallery - these radically
+ alter the construction of this virtual space.
+\end_layout
+
+\begin_layout Standard
+My primary medium as an artist is software.
+ However, I'd also say that I often use the Internet as a medium as well,
+ not simply in the sense that much of my work is encountered online, but
+ it also re-uses and repurposes content found on the Internet.
+ Much of my work focuses conceptually on various aspects of Internet behaviour,
+ communication, and surveillance.
 \end_layout
 
 \begin_layout Standard
@@ -615,6 +745,68 @@ In its current form, the project is engaged with through a web interface.
  in fashion, celebrities, and pop music; a middle-aged conservative Christian
  businessman from rural Virgina; and a liberal, Californian mom-to-be, intereste
 d in women’s rights.
+\end_layout
+
+\begin_layout Standard
+\noindent
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename media/everybodysgoogle_viz.jpg
+	width 4.75in
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\emph on
+Everybody's Google WebGL visualization
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100col%"
+height "0.5pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -1502,6 +1694,17 @@ Digital Interface
 
 \begin_layout Section*
 Software
+\end_layout
+
+\begin_layout Standard
+What is software? Software is what makes hardware run.
+ Hardware without software is just scrap, physical objects which don't do
+ anything.
+ Software is the experience of using a computer.
+ Software controls our experience with the digital.
+ Files become something totally different depending upon host software (photosho
+p) - the experience of using a computer.
+ Defines what is possible in the virtual world.
 \end_layout
 
 \begin_layout Section*
