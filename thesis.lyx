@@ -1285,6 +1285,27 @@ n project at the MFA show.
  none of that was on display or shown as a part of the MFA show.
 \end_layout
 
+\begin_layout Standard
+Ocular Character Recognition consists of three separate, but related projects:
+ Webpages for Humans - a web application used to CAPTCHA-fy
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+CAPTCHA-fy is the term I use to distort text to the point where it become
+ unreadable by Optical Character Recognition.
+ This technique is the only reason why CAPTCHAs work.
+\end_layout
+
+\end_inset
+
+ machine-readable HTML documents; CAPTCHA-fy! - handmade booklets expressing
+ the underlying goals and ideas under the OCR umbrella (a manifesto); and
+ The Serendipity Engine - a modified printer used to serendipitously dispense/pr
+oduce CAPTCHA-fied pages from eBooks digitized through Google's book/library
+ project.
+\end_layout
+
 \begin_layout Subsection*
 Conceptual Description
 \end_layout
@@ -1295,114 +1316,66 @@ Conceptual Description
 \end_layout
 
 \begin_layout Standard
-Reversing the process of digitization.
+The title Ocular Character Recognition is a play on the term Optical Character
+ Recognition, which is the software used to convert scans or images of text
+ into machine-readable documents.
+ At its core, the process consists of recognizing glyphs within the pixels
+ of an image and adding additional layers of metadata to that file in order
+ to allow it to be searched and indexed.
+ This is what adds the simple functionality of being able to select text
+ from a scanned PDF.
+ As opposed to an optical process - one which deals primarily with light
+ and its properties - an ocular process implies an emphasis on the human
+ eye.
 \end_layout
 
 \begin_layout Standard
-Many people rely on Google search to find information, and often-times the
- Wikipedia page for a particular subject is one of the top three search
- results (or now is often being integrated into Google's Knowledge Graph
- results.)
+However, there are difficulties in the OCR process.
+ OCR algorithms have difficulties with font changes, superscripts/subscripts,
+ mathematical formulas, handwritten notes, or even full handrwitten pages
+ (journals, diaries, legal documents/letters)
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+sources?
 \end_layout
 
-\begin_layout Standard
-Difference between web pages & traditional resources (TV, newspaper, magazine,
- radio) is that the web is always there, always available, yet is always
- changing.
- It is accessible, static, and yet extremely dynamic at the same time.
- Instead of merely consuming culture (TV, radio, film) we are now producing
- culture as well, thanks to the elimination of spacetime made possible by
- high speed internet and wide accessibility to the Internet.
-\end_layout
-
-\begin_layout Standard
-Ocular Character Recognition consists of three separate, but related projects:
- Webpages for Humans - a web application used to CAPTCHA-fy machine-readable
- HTML documents; CAPTCHA-fy! - handmade booklets expressing the underlying
- goals and ideas under the OCR umbrella (a manifesto); and The Serendipity
- Engine - a modified printer used to serendipitously dispense/produce CAPTCHA-fi
-ed pages from eBooks digitized through Google's book/library project.
-\end_layout
-
-\begin_layout Standard
-The digital and the physical are inherently intertwined.
- The digital largely consists of representations of physical objects, such
- as photographs, 3d models or environments, textbooks or journals.
- And the digital is only accessible through physical objects such as computers.
- And the Internet does not exist in some void - it is a massive infrastructure
- of wires, switches, and servers.
-\end_layout
-
-\begin_layout Standard
-The digital makes the districution and production on a massive scale almost
- free.
- Once a product is created, it can be copied over and over again, with no
- degredation of quality.
-\end_layout
-
-\begin_layout Standard
-Webpages for Humans questions our notion of archiving and digital culture.
- Physical objects -> digital representations -> ? What happens to the digital
- represetnations.
- People forget about the physicality of the digital - web sites and data
- are transmitted over cables, applications are run from servers in warehouses
- full of servers (data farms.) When power goes down in silicon valley or
- a bomb is detonated at a server farm, what happens to not just our data,
- but our lives? As we come to live and exeperience more through the digital,
- having a single point of failure can drastically change blah blah blah.
- As we forget about the physical or replace/supplant it with digital representat
-ions, how do we prepare for the inevitable evolution (of technology mediated
- communication) or disappearance of the current digital form?
-\end_layout
-
-\begin_layout Standard
-Various extremes - experience everything digitally vs.
- eliminate all digital.
- But even somewhere in between (which is likely where we are /where we're
- heading) still has this issue.
- Server backups & redundancy? What about digital culture & communication?
- If we can't communicate through email or text, do we communicate at all?
- How do these 
-\begin_inset Quotes eld
 \end_inset
 
-outages
-\begin_inset Quotes erd
+.
+ Issues also arise during the scanning process, where digital artifacts
+ may appear, or pages may simple be lost or corrupted due to abberations
+ in the scanning process
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://theartofgooglebooks.tumblr.com/
+\end_layout
+
 \end_inset
 
- affect us culturally?
+ has some great examples of these issues
+\end_layout
+
+\end_inset
+
+.
+ What happens to this information when it doesn't exist in our searchable
+ database? our primary mode of retrieving this information?
 \end_layout
 
 \begin_layout Standard
-The Bible is by far the most-read book in the world.
- When searching for eBook versions of the bible, the three main resources
- for eBooks produce very different results, based upon price, and version
- of the bible: Project Gutenberg returns the King James Version as the top
- hit, Amazon returns the English Standard Version, and Google Play returns
- a different publisher's ESV.
- (Note, these are all free versions of the books as well - prices range
- from $1 - $10 for other digital copies of the Bible.) So why is this important?
- Not necessarily because books are dead and will be replaced by iPads and
- Kindles anytime soon (especially in the context of Churches AND especially
- given navigation difficulties in digital books as large as the Bible),
- but for people researching Biblical stories, these may likely be a highly
- valuable resource.
- But more importantly, these eBooks are the digital versions of the physical
- books.
- And this means they are being indexed, searched, and analyzed by various
- software services (search, language analysis/machine learning, sentiment
- analysis, etc.) Project Gutenberg makes the content available much more
- easily for machine consumption, and is much more easily accessible for
- humans as well.
- Link analysis, weight, reputation/reliability...
-\end_layout
-
-\begin_layout Standard
-This is just one example.
- I did not use this as an example in the MFA show because I was trying to
- avoid as much as possible making the project about the content of the pages.
- Producing/re-producing pages from the Bible would've made the project about
- religion moreso than digitization and digital culture.
+Ocular Character Recognition tries to put the focus of digitization back
+ on the human experience, and preserving human culture by reversing the
+ process of digitization, defamiliarizing the familiar, and reclaiming the
+ physical/claiming the digital.
 \end_layout
 
 \begin_layout Subsection*
@@ -1410,7 +1383,19 @@ Formal Description
 \end_layout
 
 \begin_layout Standard
-Webpages For Humans
+Webpages for Humans consisted of a series of 5 digital prints suspended
+ from the ceiling.
+ Each image was printed on a sheet of transparent digital mylar, and mounted
+ between a sheet of clear acrylic and a sheet of translucent white acrylic.
+ The familiar images had something slightly askew (the CAPTCHA-fied text)
+ and their shape and size resembled that of a laptop screen, yet without
+ the rest of the laptop.
+ While it was a struggle to properly light the pieces due to the location
+ (in a long hallway, the opposite wall being floor-to-ceiling windows),
+ at night, with controlled lighting, the white acrylic backing would catch
+ and diffuse the light, causing the floating non-screens to emanate a glow.
+ The luminescence of the images under proper lighting conditions reinforced
+ the connection to the screen.
 \end_layout
 
 \begin_layout Standard
@@ -1476,73 +1461,18 @@ height "0.5pt"
 \end_layout
 
 \begin_layout Standard
-Serendipity Engine
-\end_layout
-
-\begin_layout Standard
-\noindent
-\begin_inset Box Frameless
-position "t"
-hor_pos "c"
-has_inner_box 1
-inner_pos "t"
-use_parbox 0
-use_makebox 0
-width "100col%"
-special "none"
-height "1in"
-height_special "totalheight"
-status collapsed
-
-\begin_layout Plain Layout
-\begin_inset VSpace bigskip
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset Graphics
-	filename media/serendipity-engine_captchafy.jpg
-	width 4.75in
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-Serendipity Engine
-\emph on
- and reading area
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset CommandInset line
-LatexCommand rule
-offset "0.5ex"
-width "100col%"
-height "0.5pt"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset VSpace bigskip
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-CAPTCHA-fy!
+CAPTCHA-fy! served as the manifesto for the Ocular Character Recognition
+ project, linking the concepts of Webpages for Humans and the Serendipity
+ Engine to the ideas within the project as a whole.
+ Hand-bound booklets with hand-printed covers on high quality papers.
+ The inner pages were low-quality xerox copies, retaining the DIY/low-cost
+ aesthetic.
+ There was also a reading area consisting of two chairs and a footstool,
+ where the pamphlets were displayed.
+ There was originally a holder for the pamphlets to signal that they were
+ takeaways, but it was not properly installed and fell and shattered shortly
+ before the show opening.
+ The pamphlets were then arranged along the window behind the reading area.
 \end_layout
 
 \begin_layout Standard
@@ -1581,6 +1511,91 @@ status collapsed
 CAPTCHA-fy!
 \emph on
  booklet covers
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100col%"
+height "0.5pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The Serendipity Engine consisted of a modified printer installed in the
+ cieling above the reading area.
+ The printer would dispense individual CAPTCHA-fied pages from chapter 7
+ of Alice's Adventures in Wonderland (The Mad Tea Party.)
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Again, this could have taken another form, this particular piece of literature
+ was chosen for reasons explained below
+\end_layout
+
+\end_inset
+
+ Each page was printed on high quality cotton paper and cut to the size
+ of a standard book page.
+ The pages were dispensed at regular intervals throughout the duration of
+ the exhibition.
+ Pages would accumulate in the area.
+ These were also intended to be takeaways.
+\end_layout
+
+\begin_layout Standard
+\noindent
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename media/serendipity-engine_captchafy.jpg
+	width 4.75in
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+Serendipity Engine
+\emph on
+ and reading area
 \end_layout
 
 \begin_layout Plain Layout
@@ -2313,6 +2328,104 @@ have
 
 \begin_layout Section*
 Digitization
+\end_layout
+
+\begin_layout Standard
+Many people rely on Google search to find information, and often-times the
+ Wikipedia page for a particular subject is one of the top three search
+ results (or now is often being integrated into Google's Knowledge Graph
+ results.)
+\end_layout
+
+\begin_layout Standard
+Difference between web pages & traditional resources (TV, newspaper, magazine,
+ radio) is that the web is always there, always available, yet is always
+ changing.
+ It is accessible, static, and yet extremely dynamic at the same time.
+ Instead of merely consuming culture (TV, radio, film) we are now producing
+ culture as well, thanks to the elimination of spacetime made possible by
+ high speed internet and wide accessibility to the Internet.
+\end_layout
+
+\begin_layout Standard
+The digital and the physical are inherently intertwined.
+ The digital largely consists of representations of physical objects, such
+ as photographs, 3d models or environments, textbooks or journals.
+ And the digital is only accessible through physical objects such as computers.
+ And the Internet does not exist in some void - it is a massive infrastructure
+ of wires, switches, and servers.
+\end_layout
+
+\begin_layout Standard
+The digital makes the distribution and production on a massive scale almost
+ free.
+ Once a product is created, it can be copied over and over again, with no
+ degredation of quality.
+\end_layout
+
+\begin_layout Standard
+Webpages for Humans questions our notion of archiving and digital culture.
+ Physical objects -> digital representations -> ? What happens to the digital
+ represetnations.
+ People forget about the physicality of the digital - web sites and data
+ are transmitted over cables, applications are run from servers in warehouses
+ full of servers (data farms.) When power goes down in silicon valley or
+ a bomb is detonated at a server farm, what happens to not just our data,
+ but our lives? As we come to live and exeperience more through the digital,
+ having a single point of failure can drastically change blah blah blah.
+ As we forget about the physical or replace/supplant it with digital representat
+ions, how do we prepare for the inevitable evolution (of technology mediated
+ communication) or disappearance of the current digital form?
+\end_layout
+
+\begin_layout Standard
+Various extremes - experience everything digitally vs.
+ eliminate all digital.
+ But even somewhere in between (which is likely where we are /where we're
+ heading) still has this issue.
+ Server backups & redundancy? What about digital culture & communication?
+ If we can't communicate through email or text, do we communicate at all?
+ How do these 
+\begin_inset Quotes eld
+\end_inset
+
+outages
+\begin_inset Quotes erd
+\end_inset
+
+ affect us culturally?
+\end_layout
+
+\begin_layout Standard
+The Bible is by far the most-read book in the world.
+ When searching for eBook versions of the bible, the three main resources
+ for eBooks produce very different results, based upon price, and version
+ of the bible: Project Gutenberg returns the King James Version as the top
+ hit, Amazon returns the English Standard Version, and Google Play returns
+ a different publisher's ESV.
+ (Note, these are all free versions of the books as well - prices range
+ from $1 - $10 for other digital copies of the Bible.) So why is this important?
+ Not necessarily because books are dead and will be replaced by iPads and
+ Kindles anytime soon (especially in the context of Churches AND especially
+ given navigation difficulties in digital books as large as the Bible),
+ but for people researching Biblical stories, these may likely be a highly
+ valuable resource.
+ But more importantly, these eBooks are the digital versions of the physical
+ books.
+ And this means they are being indexed, searched, and analyzed by various
+ software services (search, language analysis/machine learning, sentiment
+ analysis, etc.) Project Gutenberg makes the content available much more
+ easily for machine consumption, and is much more easily accessible for
+ humans as well.
+ Link analysis, weight, reputation/reliability...
+\end_layout
+
+\begin_layout Standard
+This is just one example.
+ I did not use this as an example in the MFA show because I was trying to
+ avoid as much as possible making the project about the content of the pages.
+ Producing/re-producing pages from the Bible would've made the project about
+ religion moreso than digitization and digital culture.
 \end_layout
 
 \begin_layout Section*
