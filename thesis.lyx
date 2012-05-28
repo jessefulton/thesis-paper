@@ -135,28 +135,28 @@ status collapsed
 \noindent
 \align center
 \begin_inset Graphics
-	filename media/cc.large.png
+	filename /Volumes/USB20FD/THESIS/thesis-paper/media/cc.large.png
 	scale 10
 
 \end_inset
 
  
 \begin_inset Graphics
-	filename media/by.large.png
+	filename /Volumes/USB20FD/THESIS/thesis-paper/media/by.large.png
 	scale 10
 
 \end_inset
 
  
 \begin_inset Graphics
-	filename media/nc.large.png
+	filename /Volumes/USB20FD/THESIS/thesis-paper/media/nc.large.png
 	scale 10
 
 \end_inset
 
  
 \begin_inset Graphics
-	filename media/sa.large.png
+	filename /Volumes/USB20FD/THESIS/thesis-paper/media/sa.large.png
 	scale 10
 
 \end_inset
@@ -655,7 +655,7 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename media/captcha-example.png
+	filename /Volumes/USB20FD/THESIS/thesis-paper/media/captcha-example.png
 
 \end_inset
 
@@ -788,7 +788,7 @@ status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename media/mfa_installation.jpg
+	filename /Volumes/USB20FD/THESIS/thesis-paper/media/mfa_installation.jpg
 	width 4.75in
 
 \end_inset
@@ -1049,35 +1049,1504 @@ Everybody's Google is a piece of software which programmatically controls
  a young man living in London who is interested in technology and gambling;
  a teenage girl from Atlanta interested in fashion, celebrities, and pop
  music; a middle-aged conservative Christian businessman from rural Virginia;
- and a liberal, Californian mom-to-be, interested in women’s rights.
- However, unlike traditional characters in a story, these personas only
- exist in code as a set of URLs.
- These characters develop as the software guides them through the web, reading
- blogs and news sites.
- With each site they visit, a bit of information is sent to Google, allowing
- them to hone and refine its idea of what these 
+ and a liberal, Californian mom-to-be, interested in women’s rights
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+For more detailed information about the personas, and the sites they visit
+ see Tables 1-4 in the Appendix
+\end_layout
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+However, unlike traditional characters in a story, these personas only exist
+ in code as a set of URLs.
+ 
 \begin_inset Quotes eld
 \end_inset
 
-people
+Character development
 \begin_inset Quotes erd
 \end_inset
 
- are interested in.
- This information is then used by various Google services to send targeted
- advertisements, present relevant news information, and personalized search
- results.
+ occurs as the software guides them through the web, visiting blogs and
+ news sites.
+ Each account has a series of 
+\begin_inset Quotes eld
+\end_inset
+
+seed
+\begin_inset Quotes erd
+\end_inset
+
+ URLs on which they begin.
+ The software then selects links on each page (for example, all 
+\begin_inset Quotes eld
+\end_inset
+
+featured
+\begin_inset Quotes erd
+\end_inset
+
+ links) to follow and continue reading.
+ With each site they visit, information is sent to Google
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+all of the 
+\begin_inset Quotes eld
+\end_inset
+
+seed
+\begin_inset Quotes erd
+\end_inset
+
+ URLs were chosen because they use one or both of Google Analytics or Google
+ AdSense.
+ Simply having these tools are present on a web page allows Google to collect
+ information about users.
+\end_layout
+
+\end_inset
+
+, allowing them to hone and refine its idea of these users' interests.
+ Google builds models of this information, using it to send targeted advertiseme
+nts, present relevant news information, and personalize search results.
+ For example, one of the accounts is constantly reading MTV hip hop blogs
+ - Google is likely to assume that this person is very interested in hip
+ hop music and news.
 \end_layout
 
 \begin_layout Standard
 The character stereotypes/qualities were explicitly chosen to get a diverse
  set of search results for a wide variety of searches.
+ The websites chosen generally have specific political leanings or serve
+ various ethnic or cultural demographics.
+ In an effort to hyper-personalize their Google Search results, these accounts
+ have been scripted to navigate the web biased towards specific cultural
+ interests or political orientations.
+ In a sense, their 
+\begin_inset Quotes eld
+\end_inset
+
+character development
+\begin_inset Quotes erd
+\end_inset
+
+ (from Google's perspective) is generated through their scripted browsing
+ behaviours.
+ The more they browse the web and view sites with Google's tracking cookies,
+ the more Google 
+\begin_inset Quotes eld
+\end_inset
+
+knows
+\begin_inset Quotes erd
+\end_inset
+
+ about them (in a certain area), and the 
+\begin_inset Quotes eld
+\end_inset
+
+better
+\begin_inset Quotes erd
+\end_inset
+
+ they can hone in on personalized search.
 \end_layout
 
 \begin_layout Standard
-There are corresponding Google user accounts which are controlled and visit
- web pages generally understood as having various political leanings or
- serving various ethnic or cultural demographics.
+In its current form, the project is engaged with through a web interface.
+ Rather than exploring raw data in a traditional format, visitors to the
+ website may engage with the data by entering a search query which will
+ then be executed by each of the 4 personas.
+ Their search results are then saved and compared in a visualization.
+ The data is stored in a database and visualized on the website as a series
+ of rotating cubes showing each account's top 10 results for particular
+ Google Search queries.
+ Each cube face in the visualization represents one of four personas, each
+ representing a particular stereotype: a young man living in the UK who
+ is interested in sports and gambling; a teenage girl from Atlanta interested
+ in fashion, celebrities, and pop music; a middle-aged conservative Christian
+ businessman from rural Virginia; and a liberal, Californian mom-to-be,
+ interested in women’s rights.
+\end_layout
+
+\begin_layout Standard
+\noindent
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename /Volumes/USB20FD/THESIS/thesis-paper/media/everybodysgoogle_viz.jpg
+	width 4.75in
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\emph on
+Everybody's Google WebGL visualization
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100col%"
+height "0.5pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The web site uses the same design treatment as the main Google search page.
+ The colors have been manipulated, but the layout and fonts are the same.
+ The visualization also makes use of a modified version of the Catulli font,
+ the font face used for the Google logo.
+\end_layout
+
+\begin_layout Subsection*
+Technical description
+\end_layout
+
+\begin_layout Standard
+Everybody's Google began as a website and an accompanying plugin for the
+ Chrome web browser which would allow anybody to transparently upload and
+ compare their personal Google search results to those of all plugin users.
+ The project was then redirected to create custom personas which could be
+ controlled through code in order to maximize the potential variability
+ in search results
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+This original version of the project is available at 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+https://github.com/jessefulton/everybodys-google
+\end_layout
+
+\end_inset
+
+.
+ The second code repository was named 
+\begin_inset Quotes eld
+\end_inset
+
+google-views
+\begin_inset Quotes erd
+\end_inset
+
+ and is at 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+https://github.com/jessefulton/google-views
+\end_layout
+
+\end_inset
+
+.
+ There are plans to eventually merge the two projects back together.
+\end_layout
+
+\end_inset
+
+.
+ The second approach was taken after initial tests showed promising results
+ after Google searching for 
+\begin_inset Quotes eld
+\end_inset
+
+romney
+\begin_inset Quotes erd
+\end_inset
+
+ from two test accounts.
+ One of these test account had been configured to visit all of the pages
+ the politics section of 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+npr.org
+\end_layout
+
+\end_inset
+
+; the second, to do the same, but beginning from 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+foxnews.com
+\end_layout
+
+\end_inset
+
+.
+ After they had browsed these sites, both user accounts executed a Google
+ search for 
+\begin_inset Quotes eld
+\end_inset
+
+romney.
+\begin_inset Quotes erd
+\end_inset
+
+ The results were similar barring one important difference: the results
+ for the NPR contained 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+spreadingromney.com
+\end_layout
+
+\end_inset
+
+, a 
+\begin_inset Quotes eld
+\end_inset
+
+Google Bomb
+\begin_inset Quotes erd
+\end_inset
+
+ meant to embarass presidential hopeful Mitt Romney; while the results for
+ the Fox News reader included a pro-Romney news blog (
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+committedtoromney.com
+\end_layout
+
+\end_inset
+
+) instead
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See Figure 1
+\end_layout
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+I had written scripts in CasperJS which allowed me to programatically navigate
+ the web.
+ This 
+\begin_inset Quotes eld
+\end_inset
+
+browse
+\begin_inset Quotes erd
+\end_inset
+
+ script allowed me to authenticate as a Google user account and then visit
+ specific pages linked to from an initial 
+\begin_inset Quotes eld
+\end_inset
+
+seed
+\begin_inset Quotes erd
+\end_inset
+
+ page.
+ Or, a bit more clearly: I could run a script which would open a web browser
+ and fill out Google's 
+\begin_inset Quotes eld
+\end_inset
+
+sign in form
+\begin_inset Quotes erd
+\end_inset
+
+ after which a specific URL would be opened in the browser, and various
+ links on that initial page would be visited.
+\end_layout
+
+\begin_layout Standard
+I then created four new Google accounts and developed a persona for each.
+ Each account was configured to read a series of news sites and blogs to
+ visit, each politiclally or culturally aligned with the corresponding persona.
+ These configurations were used by scripts
+\end_layout
+
+\begin_layout Standard
+Scripts were created to control each account, enabling two types of behaviors:
+ 
+\begin_inset Quotes eld
+\end_inset
+
+browse
+\begin_inset Quotes erd
+\end_inset
+
+ and 
+\begin_inset Quotes eld
+\end_inset
+
+search.
+\begin_inset Quotes erd
+\end_inset
+
+ The browse action simply opened a web page as one of the logged-in users
+ and clicked on links specified in the configuration file.
+ The search action executed a Google search.
+\end_layout
+
+\begin_layout Standard
+The scripted accounts could take two actions: 
+\begin_inset Quotes eld
+\end_inset
+
+browse
+\begin_inset Quotes erd
+\end_inset
+
+ or 
+\begin_inset Quotes eld
+\end_inset
+
+search.
+\begin_inset Quotes erd
+\end_inset
+
+ All of these actions were scripted using CasperJS, 
+\begin_inset Quotes eld
+\end_inset
+
+an open source navigation scripting & testing utility written in Javascript
+ and based on PhantomJS — the scriptable headless WebKit engine.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://casperjs.org/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ The 
+\begin_inset Quotes eld
+\end_inset
+
+browse
+\begin_inset Quotes erd
+\end_inset
+
+ script was executed once every ten minutes for roughly one month before
+ & after the MFA show.
+ Each time the script ran, it would sign in as one of the four users, and
+ click on particular links of predefined webpages which correlated to that
+ personality.
+ 
+\end_layout
+
+\begin_layout Standard
+Personas targeted to specific geographic areas connected to the internet
+ via globally distributed proxies running on Amazon EC2 
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://aws.amazon.com/ec2/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ instances.
+ 
+\end_layout
+
+\begin_layout Standard
+There is also a 
+\begin_inset Quotes eld
+\end_inset
+
+search
+\begin_inset Quotes erd
+\end_inset
+
+ script which executes a search query for each of the four users and stores
+ their results in a MongoDB database.
+ 
+\end_layout
+
+\begin_layout Standard
+Once each user has completed the search, a PhantomJS script was used to
+ generate a screen capture of each search result URL.
+ These images were then compressed and formatted to work as WebGL textures
+ using ImageMagick.
+ Each step in this process would broadcast events upon its completion, signaling
+ the next process to start up, and also allowing the WebGL visualization
+ to update itself in real-time.
+\end_layout
+
+\begin_layout Standard
+NodeJS
+\end_layout
+
+\begin_layout Standard
+WebGL
+\end_layout
+
+\begin_layout Standard
+Shortly after the initial 
+\begin_inset Quotes eld
+\end_inset
+
+soft-launch
+\begin_inset Quotes erd
+\end_inset
+
+ opening of the MFA show, a number of 
+\begin_inset Quotes eld
+\end_inset
+
+inappropriate
+\begin_inset Quotes erd
+\end_inset
+
+ search queries began entering the queue for Everybody's Google.
+ I assumed it was a few students having fun with the site.
+ However, the list grew to the point that the site crashed a number of times.
+ Looking through the logs, a group of people had turned the search query
+ queue into a sort of message board.
+ I finally found the source of the traffic
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+A user on KnowYourMeme.com (a popular website for generating, documenting,
+ and discussing internet memes) had visited the show the previous weekend
+ and posted a message about Everybody's Google in their forums.
+ See original forum thread at 
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://knowyourmeme.com/forums/general/topics/15561-everybodys-google
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+, and the night before the show reopened had to implement throttling, limiting
+ IP addresses to two submissions maximum.
+\end_layout
+
+\begin_layout Subsection*
+Goals and expected outcomes 
+\end_layout
+
+\begin_layout Standard
+(audience, how do they engage?, what do they get out of it?)
+\end_layout
+
+\begin_layout Standard
+At the MFA show, visitors could watch the visualization of these searches
+ happening in real time.
+ There were users queuing search queries who were not at the show (as mentioned
+ above, regarding the KnowYourMeme discussion), but people at the show could
+ also interact with the piece provided they had a smart phone.
+ Using the smart phone, they could visit 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://everybodysgoogle.com
+\end_layout
+
+\end_inset
+
+ and add items to the search queue and see their results within a few minutes
+ (after all of the queries had been processed.) It was important for me to
+ not introduce a keyboard and mouse interface for this piece.
+ With that setup I believe it becomes very difficult for more than one person
+ to engage with the piece at a time.
+ In this situation, nobody is in a position to 
+\begin_inset Quotes eld
+\end_inset
+
+assume control
+\begin_inset Quotes erd
+\end_inset
+
+ of the piece.
+ People are in charge of their own experience - whether that consists of
+ walking past, stopping and viewing the piece for a bit, or interacting
+ with it via cell phone.
+ I believe this kept the focus of the piece on the content, as opposed to
+ the interaction (or lack thereof.) By presenting the process as relatively
+ straightforward data visualization, there wasn't much 
+\begin_inset Quotes eld
+\end_inset
+
+digital magic
+\begin_inset Quotes erd
+\end_inset
+
+ to figure out.
+ With the minimalist implementation, there wasn't much else to focus on.
+\end_layout
+
+\begin_layout Standard
+Most web users are not aware that their Internet experience is personalized
+ and different from that of other users.
+ Even those who are aware of this do not realize to what extent it occurs.
+ The primary goal of this project is to raise awareness of web personalization
+ by clearly and concisely showing it in action.
+ To get people to question their 
+\begin_inset Quotes eld
+\end_inset
+
+digital life worlds
+\begin_inset Quotes erd
+\end_inset
+
+ and begin thinking about how Google models the world.
+ Is it correct? Can the concept of 
+\begin_inset Quotes eld
+\end_inset
+
+correct-ness
+\begin_inset Quotes erd
+\end_inset
+
+ even apply here? How can anybody or anything organize the massive amounts
+ of data available on the Internet? How can it efficiently and accurately
+ sort through it all? Surely there must be compromises in this process.
+\end_layout
+
+\begin_layout Section*
+Ocular Character Recognition
+\end_layout
+
+\begin_layout Standard
+I presented three projects under the umbrella of the Ocular Character Recognitio
+n project at the MFA show.
+ These were largely experiments with materiality and exploring how we engage
+ with the digital and the process of taking a digital artifact and presenting
+ it in a physical form.
+ A CAPTCHA is something one rarely - if ever - encounters outside of a computer
+ screen.
+ While all of the pieces were generated and created through custom software,
+ no software or computers were on display or shown as a part of the MFA
+ show.
+\end_layout
+
+\begin_layout Standard
+Ocular Character Recognition consists of three separate, but related projects:
+ Webpages for Humans - a web application used to CAPTCHA-fy
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+CAPTCHA-fy is the term I use to distort text to the point where it become
+ unreadable by Optical Character Recognition.
+ This technique is the only reason why CAPTCHAs work.
+\end_layout
+
+\end_inset
+
+ machine-readable HTML documents; CAPTCHA-fy! - handmade booklets expressing
+ the underlying goals and ideas under the OCR umbrella (a manifesto); and
+ The Serendipity Engine - a modified printer used to serendipitously dispense/pr
+oduce CAPTCHA-fied pages from eBooks digitized through Google's book/library
+ project.
+\end_layout
+
+\begin_layout Subsection*
+Conceptual Description
+\end_layout
+
+\begin_layout Standard
+(what ideas is it exploring? what theoretical vocabularies is it engaging?
+ intellectual and artistic traditions is it expanding?)
+\end_layout
+
+\begin_layout Standard
+The title Ocular Character Recognition is a play on the term Optical Character
+ Recognition, which is the software used to convert scans or images of text
+ into machine-readable documents.
+ At its core, the process consists of recognizing glyphs within the pixels
+ of an image and adding additional layers of metadata to that file in order
+ to allow it to be searched and indexed.
+ This is what adds the simple functionality of being able to select text
+ from a scanned PDF.
+ As opposed to an optical process - one which deals primarily with light
+ and its properties - an ocular process implies an emphasis on the human
+ eye.
+\end_layout
+
+\begin_layout Standard
+However, there are difficulties in the OCR process.
+ OCR algorithms have difficulties with font changes, superscripts/subscripts,
+ mathematical formulas, handwritten notes, or even full handwritten pages
+ (journals, diaries, legal documents/letters)
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+sources?
+\end_layout
+
+\end_inset
+
+.
+ Issues also arise during the scanning process, where digital artifacts
+ may appear, or pages may simple be lost or corrupted due to aberrations
+ in the scanning process
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://theartofgooglebooks.tumblr.com/
+\end_layout
+
+\end_inset
+
+ has some great examples of these issues
+\end_layout
+
+\end_inset
+
+.
+ What happens to this information when it doesn't exist in our searchable
+ database? our primary mode of retrieving this information?
+\end_layout
+
+\begin_layout Standard
+Ocular Character Recognition tries to put the focus of digitization back
+ on the human experience, and preserving human culture by reversing the
+ process of digitization, defamiliarizing the familiar, and reclaiming the
+ physical/claiming the digital.
+\end_layout
+
+\begin_layout Subsection*
+Formal Description
+\end_layout
+
+\begin_layout Standard
+(what does it look like? how does it work? how will it function in a gallery
+ or online?)
+\end_layout
+
+\begin_layout Standard
+Webpages for Humans is meant to be encountered on the web.
+ It is a web application which generates the 
+\begin_inset Quotes eld
+\end_inset
+
+Human Web
+\begin_inset Quotes erd
+\end_inset
+
+ - a series of navigable CAPTCHA-fied webpages
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+See Figure 2
+\end_layout
+
+\end_inset
+
+.
+ When users first visit the site, they can enter a URL into a form which
+ brings them to the CAPTCHA-fied HTML page for that URL
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+It has been mentioned that web pages are in fact created for human consumption.
+ However, the web pages we view and read are simply visual representations
+ of the underlying code.
+ The CAPTCHA-fication process is not simply replacing text with images on
+ a web page, it fundamentally changes the underlying markup of the HTML
+ pages in a way such that the code itself is unreadable, as well as the
+ visual representation, which can no longer be deciphered by OCR processes.
+\end_layout
+
+\end_inset
+
+.
+ From this point on, any links they click on the page will continue to be
+ CAPTCHA-fied by the web server.
+ However, as mentioned earlier in this paper, I have a strong aversion to
+ showing digital works on a computer in a gallery setting.
+ For this reason, I used the software & website developed for Webpages for
+ Humans to create a series of digital prints using screenshots from the
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Human Web.
+\begin_inset Quotes erd
+\end_inset
+
+ The installation for Webpages for Humans consisted of a series of 5 digital
+ prints suspended from the ceiling.
+ These prints were generated by replacing the text on webpages with CAPTCHAs,
+ transforming a digital document specifically designed for machine readability
+ into a physical document which can no longer be "read" by a computer.
+\end_layout
+
+\begin_layout Standard
+Each image was printed on a sheet of transparent digital mylar
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+transparent mylar prepared with a digital ground for use in digital printing
+\end_layout
+
+\end_inset
+
+, and mounted between a sheet of clear acrylic and a sheet of translucent
+ white acrylic.
+ The familiar images had something slightly askew (the CAPTCHA-fied text)
+ and their shape and size resembled that of a laptop screen, yet without
+ the rest of the laptop.
+ While it was a struggle to properly light the pieces due to the location
+ (in a long hallway, the opposite wall being floor-to-ceiling windows),
+ at night, with controlled lighting, the white acrylic backing would catch
+ and diffuse the light, causing the floating non-screens to emanate a glow.
+ The luminescence of the images under proper lighting conditions reinforced
+ the connection to the screen.
+ 
+\end_layout
+
+\begin_layout Standard
+\noindent
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename /Volumes/USB20FD/THESIS/thesis-paper/media/webpagesforhumans_printlab.jpg
+	width 4.75in
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+Webpages for Humans
+\emph on
+ mylar prints
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100col%"
+height "0.5pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+CAPTCHA-fy! served as the manifesto for the Ocular Character Recognition
+ project, linking the concepts of Webpages for Humans and the Serendipity
+ Engine to the ideas within the project as a whole.
+ Hand-bound booklets with hand-printed covers on high quality papers.
+ The inner pages were low-quality xerox copies, retaining the DIY, hand-made,
+ low-cost aesthetic.
+ There was also a reading area consisting of two chairs and a footstool,
+ where the pamphlets were displayed.
+ There was originally a holder for the pamphlets to signal that they were
+ takeaways, but it was not properly installed and fell and shattered shortly
+ before the show opening.
+ The pamphlets were then arranged along the window behind the reading area.
+\end_layout
+
+\begin_layout Standard
+\noindent
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename /Volumes/USB20FD/THESIS/thesis-paper/media/captchafy_covers.jpg
+	width 4.75in
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+CAPTCHA-fy!
+\emph on
+ booklet covers
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100col%"
+height "0.5pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The Serendipity Engine consisted of a modified printer installed in the
+ ceiling above the reading area.
+ The printer would dispense individual CAPTCHA-fied pages from chapter 7
+ of Alice's Adventures in Wonderland (The Mad Tea Party.)
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Again, this could have taken another form, this particular piece of literature
+ was chosen for reasons explained below
+\end_layout
+
+\end_inset
+
+ Each page was printed on high quality cotton paper and cut to the size
+ of a standard book page.
+ The printer mechanism was configured to dispense sheets of paper at set
+ time intervals throughout the duration of the exhibition rather than making
+ the piece reactive or responsive to some external stimulus.
+ The reasoning for this was simply due to the title of the piece
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Serendipity Engine is a term Facebook and Google have both used with regards
+ to the future of their services.
+ Rather than having users actively search for information, these companies
+ are aiming to reach a point where (relevant and interesting) information
+ would find users before they even think about searching for it.
+\end_layout
+
+\end_inset
+
+ - serendipity implies an unexpected discovery.
+ If this piece were interactive, there is an expectation for a result.
+ This is something I wanted to avoid.
+ It is also a way to reduce the amount of 
+\begin_inset Quotes eld
+\end_inset
+
+tech magic
+\begin_inset Quotes erd
+\end_inset
+
+ in the piece.
+ Placing something which is completely non-interactive at a digital art/new
+ media show (which has publicized many projects as interactive/reactive)
+ the power is taken away from the visitor in 
+\begin_inset Quotes eld
+\end_inset
+
+figuring it out
+\begin_inset Quotes erd
+\end_inset
+
+ - or if it's not about power, I'd feel comfortable assuming that it's less
+ fun 
+\begin_inset Quotes eld
+\end_inset
+
+figuring out
+\begin_inset Quotes erd
+\end_inset
+
+ that something is on a basic timer as opposed to reverse engineering it's
+ 
+\begin_inset Quotes eld
+\end_inset
+
+interaction states.
+\begin_inset Quotes erd
+\end_inset
+
+ in a similar manner of how Pages would accumulate in the area.
+ These were also intended to be takeaways.
+\end_layout
+
+\begin_layout Standard
+\noindent
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename /Volumes/USB20FD/THESIS/thesis-paper/media/serendipity-engine_captchafy.jpg
+	width 4.75in
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+Serendipity Engine
+\emph on
+ and reading area
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100col%"
+height "0.5pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection*
+Technical description
+\end_layout
+
+\begin_layout Standard
+(how was it built designed? any technical innovations? technical obstacles?)
+\end_layout
+
+\begin_layout Standard
+The core functionality for these projects is a shared JavaScript library
+ I created which generates images of CAPTCHA-fied text
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+https://github.com/jessefulton/node-captchafy
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+.
+ The library uses the HTML Canvas element to draw various shapes and manipulate
+ text in a style emulating that of CAPTCHAs.
+ This data was then saved as a DataURIs
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://en.wikipedia.org/wiki/Data_URI_scheme
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ to allow it to be directly embedded into HTML documents.
+ This library was then implemented in a web site
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://nodecaptcha.herokuapp.com/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+.
+ Originally, this functionality was going to be written in Java and served
+ via a separate web service
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+https://github.com/jessefulton/captcha-servlet
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+, but hosting issues made this a bit of a hassle.
+ By going with Javascript however, it was incredibly easy to embed this
+ functionality in web browsers, which greatly simplified the HTML manipulation
+ process for the Webpages for Humans
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+https://github.com/jessefulton/webpages-for-humans
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ project.
+ The server was able to inject the JavaScript classes into any webpage,
+ using CasperJS scripts.
+ Writing the library in JavaScript also made it easy to create a bookmarklet
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+a bookmarklet is a piece of JavaScript stored as a URL on a webpage which
+ may be saved as a 
+\begin_inset Quotes eld
+\end_inset
+
+bookmark
+\begin_inset Quotes erd
+\end_inset
+
+ in a user's web browser.
+ This allows the user to later execute that JavaScript functionality at
+ any point in time simply by clicking on the link in the saved bookmarks.
+\end_layout
+
+\end_inset
+
+ version of the Webpages for Humans project.
+\end_layout
+
+\begin_layout Standard
+The code to run the printer for the Serendipity Engine is very straightforward,
+ and is not available online, but the prints were generated by another set
+ of scripts using the node-captchafy library
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+https://github.com/jessefulton/phantomjs-hocr
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+.
+ Initially this code was written in C++ using OpenFrameworks, but this proved
+ to be more overhead than necessary and the project was rewritten to use
+ simple bash scripts.
+ The scripts take a PDF file as input and generate a series of CAPTCHA-fied
+ PNG files as output.
+ The pages used in the MFA show were pre-printed, modified versions of free
+ Google E-Books
+\end_layout
+
+\begin_layout Subsection*
+Goals and expected outcomes 
+\end_layout
+
+\begin_layout Standard
+A CAPTCHA is something most Internet users have encountered, yet few know
+ why they appear, and even fewer know how the process is connected to the
+ Google Book project.
+ However, based upon my interactions with students who visited the show,
+ a much higher proportion of them did know quite a bit more about the process.
+ The goal for this project is not necessarily to educate or raise awareness
+ about reCAPTCHA, but to get people thinking on a larger scale about how
+ we digitize physical objects.
+ What is the process of taking a scanned copy of Alice's Adventures in Wonderlan
+d and then being brought to a particular phrase in that digital representation
+ after Google searching for a quote from the book? By making a 
+\begin_inset Quotes eld
+\end_inset
+
+Human Web
+\begin_inset Quotes erd
+\end_inset
+
+ the goal was to have visitors totally immersed in this 
+\begin_inset Quotes eld
+\end_inset
+
+alternate
+\begin_inset Quotes erd
+\end_inset
+
+ Internet, and question the possibilities of how we interact with the digital,
+ and what it means to view a digital document.
+ Is a digital document simply a combination of zeros and ones? Or does it
+ have structure from which information can be gathered and analyzed (by
+ both humans and computer algorithms)?
+\end_layout
+
+\begin_layout Section*
+MFA Show Response
+\end_layout
+
+\begin_layout Standard
+People were very receptive to and interested in the concepts behind the
+ two projects.
+ Either they 
+\begin_inset Quotes eld
+\end_inset
+
+got it
+\begin_inset Quotes erd
+\end_inset
+
+ immediately, or after I explained it, they became very intrigued.
+ There seemed to be a certain level of technical proficiency associated
+ with the depth at which people connected with the pieces.
+ There were a number of people who were incredibly excited by the ideas
+ who seemed to have a very solid understanding of how software in general
+ works, despite not necessarily being programmers (most simply worked with
+ software and the Internet on a daily basis.) In this sense, I believe that
+ my expectations of the primary audience being 
+\begin_inset Quotes eld
+\end_inset
+
+normal
+\begin_inset Quotes erd
+\end_inset
+
+ Internet users will be met and am looking forward to feedback received
+ after publicizing the pieces online.
+\end_layout
+
+\begin_layout Standard
+Interaction with the pieces at the show was less than I had hoped.
+ A few people interacted with Everybody's Google, but far less than I had
+ expected.
+ Part of this may be due to the fact that cell phone reception was not very
+ good in the building.
+ I decided not to set up a separate wifi network for the project despite
+ it being inaccessible from cruznet (the standard university wifi) due to
+ the website running on a 
+\begin_inset Quotes eld
+\end_inset
+
+nonstandard,
+\begin_inset Quotes erd
+\end_inset
+
+ blocked port.
+ And the wall text (for both projects) did not overly emphasize the fact
+ that these were software projects living on the web.
+ Even with the addition of the web page URLs on the wall text, few people
+ seemed to realize that these were both products or manifestations of software/w
+ebsites.
+\end_layout
+
+\begin_layout Standard
+CAPTCHA-fy! and the Serendipity Engine received mixed responses.
+ Because of the limited available space in the printer mechanism and the
+ long duration of the show, the Serendipity Engine only dispensed paper
+ roughly ever 8 minutes.
+ Nobody was in the area for that duration of time, so it was in fact extremely
+ serendipitous when a sheet fell from the ceiling and 
+\emph on
+was noticed
+\emph default
+ by a visitor.
+ The 
+\begin_inset Quotes eld
+\end_inset
+
+reading area
+\begin_inset Quotes erd
+\end_inset
+
+ which it was installed over did not have much going on visually, and was
+ largely ignored.
+ The pages from the Serendipity Engine did accumulate on the floor, but
+ people tended to either ignore them, or thought that they had been knocked
+ over, and stacked them together into a neat pile on top of the CAPTCHA-fy!
+ booklets.
+ This created two problems: first, the next time a page fell unnoticed to
+ the ground, the next visitor would pick it up and place it on the now-stacked
+ pile of previous pages; second, the pile was placed on the footstool, on
+ top of the CAPTCHA-fy! booklets, essentially rendering them invisible.
+ There were a series of booklets along the window sill, but without the
+ context of a series of 4 or 5 clearly marked as 
+\begin_inset Quotes eld
+\end_inset
+
+DANM Copies
+\begin_inset Quotes erd
+\end_inset
+
+, they looked more like decorative pieces and visitors were reluctant to
+ touch them, let alone take one home
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+The pages from the Serendipity Engine and the CAPTCHA-fy! booklets were
+ intended to be takeaways.
+ From my estimates, slightly more than half of the booklets were taken,
+ and slightly less than half of the Serendipity Engine pages were taken
+ (or possibly thrown away.)
+\end_layout
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+While documenting, we timed the printer to dispense paper as people were
+ walking by using a remote control and got great reactions.
+ But again, it quickly devolved into people waving their hands at the ceiling,
+ expecting a reaction from the magical printer in the ceiling.
+ From this, I think it would've been important to have the piece be much
+ more impactful rather than stressing its subtlety.
+ People rarely noticed it - it may have been better to have it run for 10
+ or 15 seconds straight over the course of an hour or so.
+ Another option could have been to use a scroll as opposed to individual
+ sheets to stress the intentionality of the piece.
+\end_layout
+
+\begin_layout Part*
+Conclusion
+\end_layout
+
+\begin_layout Standard
+conclusion goes here...
+\end_layout
+
+\begin_layout Part*
+Appendix
+\end_layout
+
+\begin_layout Section*
+Everybody's Google Personas
 \end_layout
 
 \begin_layout Standard
@@ -1157,7 +2626,7 @@ Atlanta, GA
 \begin_inset Text
 
 \begin_layout Plain Layout
-Sites Read
+Seed URLs
 \end_layout
 
 \end_inset
@@ -1694,1290 +3163,6 @@ http://www.momcentral.com/blogs
 
 \end_layout
 
-\begin_layout Standard
-In an effort to hyper-personalize their Google Search results, these accounts
- have been scripted to navigate the web biased towards specific cultural
- interests or political orientations.
- In a sense, their 
-\begin_inset Quotes eld
-\end_inset
-
-character development
-\begin_inset Quotes erd
-\end_inset
-
- (from Google's perspective) is generated through their scripted browsing
- behaviours.
- The more they browse the web and view sites with Google's tracking cookies,
- the more Google 
-\begin_inset Quotes eld
-\end_inset
-
-knows
-\begin_inset Quotes erd
-\end_inset
-
- about them (in a certain area), and the 
-\begin_inset Quotes eld
-\end_inset
-
-better
-\begin_inset Quotes erd
-\end_inset
-
- they can hone in on personalized search.
- For example, one of the accounts is constantly reading MTV hip hop blogs
- - Google is likely to assume that this person is very interested in hip
- hop music and news.
-\end_layout
-
-\begin_layout Standard
-In its current form, the project is engaged with through a web interface.
- Rather than exploring raw data in a traditional format, visitors to the
- website may engage with the data by entering a search query which will
- then be executed by each of the 4 personas.
- Their search results are then saved and compared in a visualization.
- The data is stored in a database and visualized on the website as a series
- of rotating cubes showing each account's top 10 results for particular
- Google Search queries.
- Each cube face in the visualization represents one of four personas, each
- representing a particular stereotype: a young man living in the UK who
- is interested in sports and gambling; a teenage girl from Atlanta interested
- in fashion, celebrities, and pop music; a middle-aged conservative Christian
- businessman from rural Virginia; and a liberal, Californian mom-to-be,
- interested in women’s rights.
-\end_layout
-
-\begin_layout Standard
-\noindent
-\begin_inset Box Frameless
-position "t"
-hor_pos "c"
-has_inner_box 1
-inner_pos "t"
-use_parbox 0
-use_makebox 0
-width "100col%"
-special "none"
-height "1in"
-height_special "totalheight"
-status collapsed
-
-\begin_layout Plain Layout
-\begin_inset VSpace bigskip
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset Graphics
-	filename media/everybodysgoogle_viz.jpg
-	width 4.75in
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-
-\emph on
-Everybody's Google WebGL visualization
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset CommandInset line
-LatexCommand rule
-offset "0.5ex"
-width "100col%"
-height "0.5pt"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset VSpace bigskip
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Google themed (fonts, colors, layout)
-\end_layout
-
-\begin_layout Standard
-The personas have been constructed by programmatically directing each to
- visit relevant websites in their areas of interest which also make use
- of Google advertising or analytics services.
- 
-\end_layout
-
-\begin_layout Subsection*
-Technical description
-\end_layout
-
-\begin_layout Standard
-Everybody's Google began as a website and an accompanying plugin for the
- Chrome web browser which would allow anybody to transparently upload and
- compare their Google search results to those of all plugin users.
- The in-progress code is still available at 
-\begin_inset Flex URL
-status collapsed
-
-\begin_layout Plain Layout
-
-https://github.com/jessefulton/everybodys-google
-\end_layout
-
-\end_inset
-
-.
- The project was then altered
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-\begin_inset Flex URL
-status open
-
-\begin_layout Plain Layout
-
-https://github.com/jessefulton/google-views
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
- to create custom personas which could be controlled through code in order
- to maximize the potential variability in search results
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-There are plans to eventually merge the plugin back into the project
-\end_layout
-
-\end_inset
-
-.
- Initial tests were very promising - after setting up an account to crawl
- the politics section of npr.org and another to crawl the politics section
- of foxnews.com, the two accounts got extremely different search results
- when Googling the term 
-\begin_inset Quotes eld
-\end_inset
-
-romney
-\begin_inset Quotes erd
-\end_inset
-
-
-\begin_inset Foot
-status open
-
-\begin_layout Plain Layout
-See Figure 1
-\end_layout
-
-\end_inset
-
-.
-\end_layout
-
-\begin_layout Standard
-The scripted accounts could take two actions: 
-\begin_inset Quotes eld
-\end_inset
-
-browse
-\begin_inset Quotes erd
-\end_inset
-
- or 
-\begin_inset Quotes eld
-\end_inset
-
-search.
-\begin_inset Quotes erd
-\end_inset
-
- All of these actions were scripted using CasperJS, 
-\begin_inset Quotes eld
-\end_inset
-
-an open source navigation scripting & testing utility written in Javascript
- and based on PhantomJS — the scriptable headless WebKit engine.
-\begin_inset Quotes erd
-\end_inset
-
-
-\begin_inset Foot
-status open
-
-\begin_layout Plain Layout
-\begin_inset Flex URL
-status collapsed
-
-\begin_layout Plain Layout
-
-http://casperjs.org/
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
- The 
-\begin_inset Quotes eld
-\end_inset
-
-browse
-\begin_inset Quotes erd
-\end_inset
-
- script was executed once every ten minutes for roughly one month before
- & after the MFA show.
- Each time the script ran, it would sign in as one of the four users, and
- click on particular links of predefined webpages which correlated to that
- personality.
- Personas targeted to specific geographic areas connected to the internet
- via globally distributed proxies running on Amazon EC2 
-\begin_inset Foot
-status open
-
-\begin_layout Plain Layout
-\begin_inset Flex URL
-status collapsed
-
-\begin_layout Plain Layout
-
-http://aws.amazon.com/ec2/
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
- instances.
- There is also a 
-\begin_inset Quotes eld
-\end_inset
-
-search
-\begin_inset Quotes erd
-\end_inset
-
- script which executes a search query for each of the four users and stores
- their results in a MongoDB database.
- Once each user has completed the search, a PhantomJS script was used to
- generate a screen capture of each search result URL.
- These images were then compressed and formatted to work as WebGL textures
- using ImageMagick.
- Each step in this process would broadcast events upon its completion, signaling
- the next process to start up, and also allowing the WebGL visualization
- to update itself in real-time.
-\end_layout
-
-\begin_layout Standard
-NodeJS
-\end_layout
-
-\begin_layout Standard
-WebGL
-\end_layout
-
-\begin_layout Standard
-Shortly after the initial 
-\begin_inset Quotes eld
-\end_inset
-
-soft-launch
-\begin_inset Quotes erd
-\end_inset
-
- opening of the MFA show, a number of 
-\begin_inset Quotes eld
-\end_inset
-
-inappropriate
-\begin_inset Quotes erd
-\end_inset
-
- search queries began entering the queue for Everybody's Google.
- I assumed it was a few students having fun with the site.
- However, the list grew to the point that the site crashed a number of times.
- Looking through the logs, a group of people had turned the search query
- queue into a sort of message board.
- I finally found the source of the traffic
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-A user on KnowYourMeme.com (a popular website for generating, documenting,
- and discussing internet memes) had visited the show the previous weekend
- and posted a message about Everybody's Google in their forums.
- See original forum thread at 
-\begin_inset Flex URL
-status open
-
-\begin_layout Plain Layout
-
-http://knowyourmeme.com/forums/general/topics/15561-everybodys-google
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-, and the night before the show reopened had to implement throttling, limiting
- IP addresses to two submissions maximum.
-\end_layout
-
-\begin_layout Subsection*
-Goals and expected outcomes 
-\end_layout
-
-\begin_layout Standard
-(audience, how do they engage?, what do they get out of it?)
-\end_layout
-
-\begin_layout Standard
-At the MFA show, visitors could watch the visualization of these searches
- happening in real time.
- There were users queuing search queries who were not at the show (as mentioned
- above, regarding the KnowYourMeme discussion), but people at the show could
- also interact with the piece provided they had a smart phone.
- Using the smart phone, they could visit 
-\begin_inset Flex URL
-status collapsed
-
-\begin_layout Plain Layout
-
-http://everybodysgoogle.com
-\end_layout
-
-\end_inset
-
- and add items to the search queue and see their results within a few minutes
- (after all of the queries had been processed.) It was important for me to
- not introduce a keyboard and mouse interface for this piece.
- With that setup I believe it becomes very difficult for more than one person
- to engage with the piece at a time.
- In this situation, nobody is in a position to 
-\begin_inset Quotes eld
-\end_inset
-
-assume control
-\begin_inset Quotes erd
-\end_inset
-
- of the piece.
- People are in charge of their own experience - whether that consists of
- walking past, stopping and viewing the piece for a bit, or interacting
- with it via cell phone.
- I believe this kept the focus of the piece on the content, as opposed to
- the interaction (or lack thereof.) By presenting the process as relatively
- straightforward data visualization, there wasn't much 
-\begin_inset Quotes eld
-\end_inset
-
-digital magic
-\begin_inset Quotes erd
-\end_inset
-
- to figure out.
- With the minimalist implementation, there wasn't much else to focus on.
-\end_layout
-
-\begin_layout Standard
-Most web users are not aware that their Internet experience is personalized
- and different from that of other users.
- Even those who are aware of this do not realize to what extent it occurs.
- The primary goal of this project is to raise awareness of web personalization
- by clearly and concisely showing it in action.
- To get people to question their 
-\begin_inset Quotes eld
-\end_inset
-
-digital life worlds
-\begin_inset Quotes erd
-\end_inset
-
- and begin thinking about how Google models the world.
- Is it correct? Can the concept of 
-\begin_inset Quotes eld
-\end_inset
-
-correct-ness
-\begin_inset Quotes erd
-\end_inset
-
- even apply here? How can anybody or anything organize the massive amounts
- of data available on the Internet? How can it efficiently and accurately
- sort through it all? Surely there must be compromises in this process.
-\end_layout
-
-\begin_layout Section*
-Ocular Character Recognition
-\end_layout
-
-\begin_layout Standard
-I presented three projects under the umbrella of the Ocular Character Recognitio
-n project at the MFA show.
- These were largely experiments with materiality and exploring how we engage
- with the digital and the process of taking a digital artifact and presenting
- it in a physical form.
- A CAPTCHA is something one rarely - if ever - encounters outside of a computer
- screen.
- While all of the pieces were generated and created through custom software,
- no software or computers were on display or shown as a part of the MFA
- show.
-\end_layout
-
-\begin_layout Standard
-Ocular Character Recognition consists of three separate, but related projects:
- Webpages for Humans - a web application used to CAPTCHA-fy
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-CAPTCHA-fy is the term I use to distort text to the point where it become
- unreadable by Optical Character Recognition.
- This technique is the only reason why CAPTCHAs work.
-\end_layout
-
-\end_inset
-
- machine-readable HTML documents; CAPTCHA-fy! - handmade booklets expressing
- the underlying goals and ideas under the OCR umbrella (a manifesto); and
- The Serendipity Engine - a modified printer used to serendipitously dispense/pr
-oduce CAPTCHA-fied pages from eBooks digitized through Google's book/library
- project.
-\end_layout
-
-\begin_layout Subsection*
-Conceptual Description
-\end_layout
-
-\begin_layout Standard
-(what ideas is it exploring? what theoretical vocabularies is it engaging?
- intellectual and artistic traditions is it expanding?)
-\end_layout
-
-\begin_layout Standard
-The title Ocular Character Recognition is a play on the term Optical Character
- Recognition, which is the software used to convert scans or images of text
- into machine-readable documents.
- At its core, the process consists of recognizing glyphs within the pixels
- of an image and adding additional layers of metadata to that file in order
- to allow it to be searched and indexed.
- This is what adds the simple functionality of being able to select text
- from a scanned PDF.
- As opposed to an optical process - one which deals primarily with light
- and its properties - an ocular process implies an emphasis on the human
- eye.
-\end_layout
-
-\begin_layout Standard
-However, there are difficulties in the OCR process.
- OCR algorithms have difficulties with font changes, superscripts/subscripts,
- mathematical formulas, handwritten notes, or even full handwritten pages
- (journals, diaries, legal documents/letters)
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-sources?
-\end_layout
-
-\end_inset
-
-.
- Issues also arise during the scanning process, where digital artifacts
- may appear, or pages may simple be lost or corrupted due to aberrations
- in the scanning process
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-\begin_inset Flex URL
-status collapsed
-
-\begin_layout Plain Layout
-
-http://theartofgooglebooks.tumblr.com/
-\end_layout
-
-\end_inset
-
- has some great examples of these issues
-\end_layout
-
-\end_inset
-
-.
- What happens to this information when it doesn't exist in our searchable
- database? our primary mode of retrieving this information?
-\end_layout
-
-\begin_layout Standard
-Ocular Character Recognition tries to put the focus of digitization back
- on the human experience, and preserving human culture by reversing the
- process of digitization, defamiliarizing the familiar, and reclaiming the
- physical/claiming the digital.
-\end_layout
-
-\begin_layout Subsection*
-Formal Description
-\end_layout
-
-\begin_layout Standard
-(what does it look like? how does it work? how will it function in a gallery
- or online?)
-\end_layout
-
-\begin_layout Standard
-Webpages for Humans is meant to be encountered on the web.
- It is a web application which generates the 
-\begin_inset Quotes eld
-\end_inset
-
-Human Web
-\begin_inset Quotes erd
-\end_inset
-
- - a series of navigable CAPTCHA-fied webpages
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-See Figure 2
-\end_layout
-
-\end_inset
-
-.
- When users first visit the site, they can enter a URL into a form which
- brings them to the CAPTCHA-fied HTML page for that URL
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-It has been mentioned that web pages are in fact created for human consumption.
- However, the web pages we view and read are simply visual representations
- of the underlying code.
- The CAPTCHA-fication process is not simply replacing text with images on
- a web page, it fundamentally changes the underlying markup of the HTML
- pages in a way such that the code itself is unreadable, as well as the
- visual representation, which can no longer be deciphered by OCR processes.
-\end_layout
-
-\end_inset
-
-.
- From this point on, any links they click on the page will continue to be
- CAPTCHA-fied by the web server.
- However, as mentioned earlier in this paper, I have a strong aversion to
- showing digital works on a computer in a gallery setting.
- For this reason, I used the software & website developed for Webpages for
- Humans to create a series of digital prints using screenshots from the
- 
-\begin_inset Quotes eld
-\end_inset
-
-Human Web.
-\begin_inset Quotes erd
-\end_inset
-
- The installation for Webpages for Humans consisted of a series of 5 digital
- prints suspended from the ceiling.
- These prints were generated by replacing the text on webpages with CAPTCHAs,
- transforming a digital document specifically designed for machine readability
- into a physical document which can no longer be "read" by a computer.
-\end_layout
-
-\begin_layout Standard
-Each image was printed on a sheet of transparent digital mylar
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-transparent mylar prepared with a digital ground for use in digital printing
-\end_layout
-
-\end_inset
-
-, and mounted between a sheet of clear acrylic and a sheet of translucent
- white acrylic.
- The familiar images had something slightly askew (the CAPTCHA-fied text)
- and their shape and size resembled that of a laptop screen, yet without
- the rest of the laptop.
- While it was a struggle to properly light the pieces due to the location
- (in a long hallway, the opposite wall being floor-to-ceiling windows),
- at night, with controlled lighting, the white acrylic backing would catch
- and diffuse the light, causing the floating non-screens to emanate a glow.
- The luminescence of the images under proper lighting conditions reinforced
- the connection to the screen.
- 
-\end_layout
-
-\begin_layout Standard
-\noindent
-\begin_inset Box Frameless
-position "t"
-hor_pos "c"
-has_inner_box 1
-inner_pos "t"
-use_parbox 0
-use_makebox 0
-width "100col%"
-special "none"
-height "1in"
-height_special "totalheight"
-status collapsed
-
-\begin_layout Plain Layout
-\begin_inset VSpace bigskip
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset Graphics
-	filename media/webpagesforhumans_printlab.jpg
-	width 4.75in
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-Webpages for Humans
-\emph on
- mylar prints
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset CommandInset line
-LatexCommand rule
-offset "0.5ex"
-width "100col%"
-height "0.5pt"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset VSpace bigskip
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-CAPTCHA-fy! served as the manifesto for the Ocular Character Recognition
- project, linking the concepts of Webpages for Humans and the Serendipity
- Engine to the ideas within the project as a whole.
- Hand-bound booklets with hand-printed covers on high quality papers.
- The inner pages were low-quality xerox copies, retaining the DIY, hand-made,
- low-cost aesthetic.
- There was also a reading area consisting of two chairs and a footstool,
- where the pamphlets were displayed.
- There was originally a holder for the pamphlets to signal that they were
- takeaways, but it was not properly installed and fell and shattered shortly
- before the show opening.
- The pamphlets were then arranged along the window behind the reading area.
-\end_layout
-
-\begin_layout Standard
-\noindent
-\begin_inset Box Frameless
-position "t"
-hor_pos "c"
-has_inner_box 1
-inner_pos "t"
-use_parbox 0
-use_makebox 0
-width "100col%"
-special "none"
-height "1in"
-height_special "totalheight"
-status collapsed
-
-\begin_layout Plain Layout
-\begin_inset VSpace bigskip
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset Graphics
-	filename media/captchafy_covers.jpg
-	width 4.75in
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-CAPTCHA-fy!
-\emph on
- booklet covers
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset CommandInset line
-LatexCommand rule
-offset "0.5ex"
-width "100col%"
-height "0.5pt"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset VSpace bigskip
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-The Serendipity Engine consisted of a modified printer installed in the
- ceiling above the reading area.
- The printer would dispense individual CAPTCHA-fied pages from chapter 7
- of Alice's Adventures in Wonderland (The Mad Tea Party.)
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-Again, this could have taken another form, this particular piece of literature
- was chosen for reasons explained below
-\end_layout
-
-\end_inset
-
- Each page was printed on high quality cotton paper and cut to the size
- of a standard book page.
- The printer mechanism was configured to dispense sheets of paper at set
- time intervals throughout the duration of the exhibition rather than making
- the piece reactive or responsive to some external stimulus.
- The reasoning for this was simply due to the title of the piece
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-Serendipity Engine is a term Facebook and Google have both used with regards
- to the future of their services.
- Rather than having users actively search for information, these companies
- are aiming to reach a point where (relevant and interesting) information
- would find users before they even think about searching for it.
-\end_layout
-
-\end_inset
-
- - serendipity implies an unexpected discovery.
- If this piece were interactive, there is an expectation for a result.
- This is something I wanted to avoid.
- It is also a way to reduce the amount of 
-\begin_inset Quotes eld
-\end_inset
-
-tech magic
-\begin_inset Quotes erd
-\end_inset
-
- in the piece.
- Placing something which is completely non-interactive at a digital art/new
- media show (which has publicized many projects as interactive/reactive)
- the power is taken away from the visitor in 
-\begin_inset Quotes eld
-\end_inset
-
-figuring it out
-\begin_inset Quotes erd
-\end_inset
-
- - or if it's not about power, I'd feel comfortable assuming that it's less
- fun 
-\begin_inset Quotes eld
-\end_inset
-
-figuring out
-\begin_inset Quotes erd
-\end_inset
-
- that something is on a basic timer as opposed to reverse engineering it's
- 
-\begin_inset Quotes eld
-\end_inset
-
-interaction states.
-\begin_inset Quotes erd
-\end_inset
-
- in a similar manner of how Pages would accumulate in the area.
- These were also intended to be takeaways.
-\end_layout
-
-\begin_layout Standard
-\noindent
-\begin_inset Box Frameless
-position "t"
-hor_pos "c"
-has_inner_box 1
-inner_pos "t"
-use_parbox 0
-use_makebox 0
-width "100col%"
-special "none"
-height "1in"
-height_special "totalheight"
-status collapsed
-
-\begin_layout Plain Layout
-\begin_inset VSpace bigskip
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset Graphics
-	filename media/serendipity-engine_captchafy.jpg
-	width 4.75in
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-Serendipity Engine
-\emph on
- and reading area
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset CommandInset line
-LatexCommand rule
-offset "0.5ex"
-width "100col%"
-height "0.5pt"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset VSpace bigskip
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Subsection*
-Technical description
-\end_layout
-
-\begin_layout Standard
-(how was it built designed? any technical innovations? technical obstacles?)
-\end_layout
-
-\begin_layout Standard
-The core functionality for these projects is a shared JavaScript library
- I created which generates images of CAPTCHA-fied text
-\begin_inset Foot
-status open
-
-\begin_layout Plain Layout
-\begin_inset Flex URL
-status open
-
-\begin_layout Plain Layout
-
-https://github.com/jessefulton/node-captchafy
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-.
- The library uses the HTML Canvas element to draw various shapes and manipulate
- text in a style emulating that of CAPTCHAs.
- This data was then saved as a DataURIs
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-\begin_inset Flex URL
-status collapsed
-
-\begin_layout Plain Layout
-
-http://en.wikipedia.org/wiki/Data_URI_scheme
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
- to allow it to be directly embedded into HTML documents.
- This library was then implemented in a web site
-\begin_inset Foot
-status open
-
-\begin_layout Plain Layout
-\begin_inset Flex URL
-status open
-
-\begin_layout Plain Layout
-
-http://nodecaptcha.herokuapp.com/
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-.
- Originally, this functionality was going to be written in Java and served
- via a separate web service
-\begin_inset Foot
-status open
-
-\begin_layout Plain Layout
-\begin_inset Flex URL
-status open
-
-\begin_layout Plain Layout
-
-https://github.com/jessefulton/captcha-servlet
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-, but hosting issues made this a bit of a hassle.
- By going with Javascript however, it was incredibly easy to embed this
- functionality in web browsers, which greatly simplified the HTML manipulation
- process for the Webpages for Humans
-\begin_inset Foot
-status open
-
-\begin_layout Plain Layout
-\begin_inset Flex URL
-status open
-
-\begin_layout Plain Layout
-
-https://github.com/jessefulton/webpages-for-humans
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
- project.
- The server was able to inject the JavaScript classes into any webpage,
- using CasperJS scripts.
- Writing the library in JavaScript also made it easy to create a bookmarklet
-\begin_inset Foot
-status open
-
-\begin_layout Plain Layout
-a bookmarklet is a piece of JavaScript stored as a URL on a webpage which
- may be saved as a 
-\begin_inset Quotes eld
-\end_inset
-
-bookmark
-\begin_inset Quotes erd
-\end_inset
-
- in a user's web browser.
- This allows the user to later execute that JavaScript functionality at
- any point in time simply by clicking on the link in the saved bookmarks.
-\end_layout
-
-\end_inset
-
- version of the Webpages for Humans project.
-\end_layout
-
-\begin_layout Standard
-The code to run the printer for the Serendipity Engine is very straightforward,
- and is not available online, but the prints were generated by another set
- of scripts using the node-captchafy library
-\begin_inset Foot
-status open
-
-\begin_layout Plain Layout
-\begin_inset Flex URL
-status open
-
-\begin_layout Plain Layout
-
-https://github.com/jessefulton/phantomjs-hocr
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-.
- Initially this code was written in C++ using OpenFrameworks, but this proved
- to be more overhead than necessary and the project was rewritten to use
- simple bash scripts.
- The scripts take a PDF file as input and generate a series of CAPTCHA-fied
- PNG files as output.
- The pages used in the MFA show were pre-printed, modified versions of free
- Google E-Books
-\end_layout
-
-\begin_layout Subsection*
-Goals and expected outcomes 
-\end_layout
-
-\begin_layout Standard
-A CAPTCHA is something most Internet users have encountered, yet few know
- why they appear, and even fewer know how the process is connected to the
- Google Book project.
- However, based upon my interactions with students who visited the show,
- a much higher proportion of them did know quite a bit more about the process.
- The goal for this project is not necessarily to educate or raise awareness
- about reCAPTCHA, but to get people thinking on a larger scale about how
- we digitize physical objects.
- What is the process of taking a scanned copy of Alice's Adventures in Wonderlan
-d and then being brought to a particular phrase in that digital representation
- after Google searching for a quote from the book? By making a 
-\begin_inset Quotes eld
-\end_inset
-
-Human Web
-\begin_inset Quotes erd
-\end_inset
-
- the goal was to have visitors totally immersed in this 
-\begin_inset Quotes eld
-\end_inset
-
-alternate
-\begin_inset Quotes erd
-\end_inset
-
- Internet, and question the possibilities of how we interact with the digital,
- and what it means to view a digital document.
- Is a digital document simply a combination of zeros and ones? Or does it
- have structure from which information can be gathered and analyzed (by
- both humans and computer algorithms)?
-\end_layout
-
-\begin_layout Section*
-MFA Show Response
-\end_layout
-
-\begin_layout Standard
-People were very receptive to and interested in the concepts behind the
- two projects.
- Either they 
-\begin_inset Quotes eld
-\end_inset
-
-got it
-\begin_inset Quotes erd
-\end_inset
-
- immediately, or after I explained it, they became very intrigued.
- There seemed to be a certain level of technical proficiency associated
- with the depth at which people connected with the pieces.
- There were a number of people who were incredibly excited by the ideas
- who seemed to have a very solid understanding of how software in general
- works, despite not necessarily being programmers (most simply worked with
- software and the Internet on a daily basis.) In this sense, I believe that
- my expectations of the primary audience being 
-\begin_inset Quotes eld
-\end_inset
-
-normal
-\begin_inset Quotes erd
-\end_inset
-
- Internet users will be met and am looking forward to feedback received
- after publicizing the pieces online.
-\end_layout
-
-\begin_layout Standard
-Interaction with the pieces at the show was less than I had hoped.
- A few people interacted with Everybody's Google, but far less than I had
- expected.
- Part of this may be due to the fact that cell phone reception was not very
- good in the building.
- I decided not to set up a separate wifi network for the project despite
- it being inaccessible from cruznet (the standard university wifi) due to
- the website running on a 
-\begin_inset Quotes eld
-\end_inset
-
-nonstandard,
-\begin_inset Quotes erd
-\end_inset
-
- blocked port.
- And the wall text (for both projects) did not overly emphasize the fact
- that these were software projects living on the web.
- Even with the addition of the web page URLs on the wall text, few people
- seemed to realize that these were both products or manifestations of software/w
-ebsites.
-\end_layout
-
-\begin_layout Standard
-CAPTCHA-fy! and the Serendipity Engine received mixed responses.
- Because of the limited available space in the printer mechanism and the
- long duration of the show, the Serendipity Engine only dispensed paper
- roughly ever 8 minutes.
- Nobody was in the area for that duration of time, so it was in fact extremely
- serendipitous when a sheet fell from the ceiling and 
-\emph on
-was noticed
-\emph default
- by a visitor.
- The 
-\begin_inset Quotes eld
-\end_inset
-
-reading area
-\begin_inset Quotes erd
-\end_inset
-
- which it was installed over did not have much going on visually, and was
- largely ignored.
- The pages from the Serendipity Engine did accumulate on the floor, but
- people tended to either ignore them, or thought that they had been knocked
- over, and stacked them together into a neat pile on top of the CAPTCHA-fy!
- booklets.
- This created two problems: first, the next time a page fell unnoticed to
- the ground, the next visitor would pick it up and place it on the now-stacked
- pile of previous pages; second, the pile was placed on the footstool, on
- top of the CAPTCHA-fy! booklets, essentially rendering them invisible.
- There were a series of booklets along the window sill, but without the
- context of a series of 4 or 5 clearly marked as 
-\begin_inset Quotes eld
-\end_inset
-
-DANM Copies
-\begin_inset Quotes erd
-\end_inset
-
-, they looked more like decorative pieces and visitors were reluctant to
- touch them, let alone take one home
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-The pages from the Serendipity Engine and the CAPTCHA-fy! booklets were
- intended to be takeaways.
- From my estimates, slightly more than half of the booklets were taken,
- and slightly less than half of the Serendipity Engine pages were taken
- (or possibly thrown away.)
-\end_layout
-
-\end_inset
-
-.
-\end_layout
-
-\begin_layout Standard
-While documenting, we timed the printer to dispense paper as people were
- walking by using a remote control and got great reactions.
- But again, it quickly devolved into people waving their hands at the ceiling,
- expecting a reaction from the magical printer in the ceiling.
- From this, I think it would've been important to have the piece be much
- more impactful rather than stressing its subtlety.
- People rarely noticed it - it may have been better to have it run for 10
- or 15 seconds straight over the course of an hour or so.
- Another option could have been to use a scroll as opposed to individual
- sheets to stress the intentionality of the piece.
-\end_layout
-
-\begin_layout Part*
-Conclusion
-\end_layout
-
-\begin_layout Standard
-conclusion goes here...
-\end_layout
-
-\begin_layout Part*
-Appendix
-\end_layout
-
 \begin_layout Section*
 Github Projects (Software Created
 \end_layout
@@ -3031,7 +3216,7 @@ https://github.com/jessefulton/ofxTesseract
 
 \begin_layout Itemize
 \begin_inset Flex URL
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
@@ -3082,6 +3267,18 @@ Google Chrome
 
 \begin_layout Standard
 Amazon EC2
+\end_layout
+
+\begin_layout Standard
+MongoDB
+\end_layout
+
+\begin_layout Standard
+Redis
+\end_layout
+
+\begin_layout Standard
+Git/Github
 \end_layout
 
 \begin_layout Standard
@@ -4478,7 +4675,7 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename media/everybodysgoogle_romney.png
+	filename /Volumes/USB20FD/THESIS/thesis-paper/media/everybodysgoogle_romney.png
 	width 4.75in
 
 \end_inset
@@ -4534,7 +4731,7 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename media/webpagesforhumans_nytimes.png
+	filename /Volumes/USB20FD/THESIS/thesis-paper/media/webpagesforhumans_nytimes.png
 	width 4.75in
 
 \end_inset
