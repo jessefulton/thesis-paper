@@ -64,7 +64,7 @@
 \begin_body
 
 \begin_layout Title
-Google Culture
+Google Culture: Systems of Control and Power in an Information Economy
 \end_layout
 
 \begin_layout Author
@@ -668,6 +668,119 @@ ent institutions we no have software that allows us to scaled the community
 \end_layout
 
 \begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+The Internet persents the possibility of a radical reversal of this long
+ trend.
+ It is the first modern communications medium that expands its reach by
+ decentralizing the capital structure of production and distribution of
+ information, culture, and knowledge.
+ Much of the physical capital that embeds most of the intelligence in the
+ network is widely diffused and owned by end users.
+ Network routers and servers are not qualitatively different from the computers
+ that end users own, unlike broadcast stations or cable systems, which are
+ radically different in economic and technical terms from the televisions
+ that receive their signals.
+ This basic change in the material conditions of information and cultural
+ production and distribution have substantial effects on how we come to
+ know the world we occupy and the alternative courses of action open to
+ us as individuals and as social actors.
+ Through these effects, the meerging networked environment structures how
+ we perceive and pursue core values in modern liberal societies.
+\begin_inset Quotes erd
+\end_inset
+
+ (Benkler, p.
+ 30)
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+The real heart of the matter of selection, however, goes deeper than a lag
+ in the adoption of mechanisms by libraries, or a lack of development of
+ devices for their use.
+ Our ineptitude in getting at the record is largely caused by the artificiality
+ of systems of indexing.
+ When data of any sort are placed in storage, they are filed alphabetically
+ or numerically, and information is found (when it is) by tracing it down
+ from subclass to subclass.
+ It can be in only one place, unless duplicates are used; one has to have
+ rules as to which path will locate it, and the rules are cumbersome.
+ Having found one item, moreover, one has to emerge from the system and
+ re-enter on a new path.
+ The human mind does not work that way.
+ It operates by association.
+\begin_inset Quotes eld
+\end_inset
+
+ (Bush)
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+The media that carry segmented marketing messages, just like the ones that
+ carry mass marketing messages, and even the marketing messages themselves,
+ are socialization agents.
+ Values, attitudes and lifestyles are learned from the content of communications
+ media, whether those media are mass media or not...
+ This means that the demassification of society may actually be a powerful
+ reinforcement of social stratifications that could be hereditary and, because
+ they would work through individual motivation, self-enforcing.
+\begin_inset Quotes erd
+\end_inset
+
+ (Curtis, The information Society:104)
+\end_layout
+
+\begin_layout Standard
+On the political economy of communications competence, Oscar H.
+ Gandy Jr.
+ discusses how understanding communications and limitations in access to
+ technologies/divergent cultures creates and reinforces a technological
+ and social caste system....
+ keeps them down because they don't have 
+\begin_inset Quotes eld
+\end_inset
+
+the ability to understand the world so as to act to change it
+\begin_inset Quotes erd
+\end_inset
+
+ this is important for black box algorithms (Gandy, 109)
+\end_layout
+
+\begin_layout Standard
+Lessig-Codev2 - Highlight on Page 39 | Added on Monday, November 28, 2011,
+ 11:26 AM
+\end_layout
+
+\begin_layout Standard
+The regulability described in the first theme depends on the code described
+ in the second.
+ Some architectures of cyberspace are more regulable than others; some architect
+ures enable better control than others.
+ Therefore, whether a part of cyberspace—or the Internet generally—can be
+ regulated turns on the nature ofits code .Its architecture will affect whether
+ behavior can be controlled.
+ To follow Mitch Kapor, its architecture is its politics.[2] 
+\end_layout
+
+\begin_layout Standard
+Lessig-Codev2 - Highlight on Page 53 | Added on Monday, November 28, 2011,
+ 11:51 AM
+\end_layout
+
+\begin_layout Standard
+The “nature” of the Internet is not God’s will.
+ Its nature is simply the product of its design 
+\end_layout
+
+\begin_layout Standard
 \begin_inset Newpage pagebreak
 \end_inset
 
@@ -676,6 +789,190 @@ ent institutions we no have software that allows us to scaled the community
 
 \begin_layout Part
 Introduction
+\end_layout
+
+\begin_layout Standard
+Library of Babel.
+ Search engines a necessity.
+ So much data.
+ Must rank.
+ Page quote - not to find the best.
+ But unlike the Library of Babel, the Web is continuously growing, which
+ means its catalogue must also continuously grow.
+ And it is because of this that search engines become a necessary evil.
+ And this sets the context for Page's quote
+\end_layout
+
+\begin_layout Standard
+Library - freedom to explore and roam.
+ Find information you're looking for, but also information you weren't necessari
+ly looking for.
+ Personalization is black-boxed algorithms, built by privatized companies.
+ Access to information is not the physical ability to acquire information,
+ but the ability to explore and find new information.
+ These software algorithms in essence are limiting the information you are
+ exposed to online.
+\end_layout
+
+\begin_layout Standard
+In the library, our access is purely physical and is defined by the architecture
+ of the structure.
+ In the digital our access is limited by the software architecture of the
+ systems running these search/filtering algorithms.
+ Lessig quote
+\end_layout
+
+\begin_layout Standard
+In his short story The Library of Babel, Jorge Luis Borges clearly illustrates
+ how physical access to information does not bestow upon one knowledge.
+ the pointlessness of having a plethora of information without being able
+ to filter through it.
+ The library contains every possible 410 page book which could ever be written,
+ including the future, absolutes truths and the meaning of life - but it
+ also contains a wealth of absurdity and incomprehensible texts.
+ The library is not catalogued, there is no map, and no logical way to navigate
+ it.
+ If only the library had a Sergey Brin & Larry Page.
+ Brin & Page revolutionized information retrieval.
+\end_layout
+
+\begin_layout Standard
+Draw a comparsion from the library to the Web.
+ The Library of Babel is here - it is the Internet.
+ And we have a gate-keeper.
+\end_layout
+
+\begin_layout Standard
+"If Herbert Simon was right in 1971 when he dclared attention a scarce resource
+ consumed by an overabundance of information, we have to recognize that
+ ranking is not only very useful but also inevitable...
+ Any system of ranking will favor certain sites over others; the question
+ is which ones.
+ The goal, then, can neither be the abolition of ranking in search nor the
+ design of the 'perfect search engine' (Larry Page.)" (Deep search 139)
+\end_layout
+
+\begin_layout Standard
+In his short story The Library of Babel, Jorge Luis Borges presents us with
+ an enormous series of interconnected rooms housing every possible 410-page
+ book which could ever be written, in any and every language.
+ Due to the algorithm by which they were constructed, most of the books
+ here are nonsensical.
+ However, because the library contains every conceivable book that could
+ ever be written, it also houses all of the valuable information in the
+ world.
+ This information is technically within our reach, but attaining ultimate
+ knowledge is impossible to accomplish within one’s lifetime because we
+ are limited by what we randomly pull of the shelves – the library does
+ not provide us with the ability to effectively search all of its contents.
+ Perhaps I should use the term filter rather than search.
+ Search implies that something has to be found, yet in this case we know
+ where everything is, we just don’t have a mechanism of filtering out the
+ useful information from the overabundance of data.
+ (CAE's concept of a 
+\begin_inset Quotes eld
+\end_inset
+
+white-out
+\begin_inset Quotes erd
+\end_inset
+
+)
+\end_layout
+
+\begin_layout Standard
+The Web has a plethora of information – much of it spam, unusable, inaccurate,
+ much like the majority of the books in the Library of Babel.
+ Our entry point to the Web is a search engine – a piece of software which
+ filters through its database to send us links to pages on the Internet
+ which are “relevant” to a term we queried for.
+ Like the librarian, the search engine is not very good at understanding
+ concepts despite knowing the contents of each web page very well.
+ However, unlike the librarian, when the search engine gives us unwanted
+ instructions for staging a coup, we cannot ask the search engine why it
+ thinks we want to overthrow the government (we could ask the librarian
+ although who knows what the answer would be.)
+\end_layout
+
+\begin_layout Standard
+Search engines are software.
+ Their main algorithm is a function which filters information from a database.
+ In Lev Manovich’s terms, the search engine is the narrative (the algorithm)
+ through which we experience the world of the Internet (the database.) When
+ we search for 
+\begin_inset Quotes eld
+\end_inset
+
+government coup
+\begin_inset Quotes erd
+\end_inset
+
+, it is this algorithm which decides whether we are a radical anarchist,
+ scholarly researcher, or a promising political candidate.
+ But search engines are privatized so we cannot see the algorithm.
+\end_layout
+
+\begin_layout Standard
+My experience of the Internet is filtered through privatized companies controlli
+ng the flow of information (search engines, ISPs, etc.) which already hints
+ that the democratic potential of the World Wide Web has already been compromise
+d.
+ 
+\end_layout
+
+\begin_layout Standard
+Nobody owns the web, yet is inherently a privatized public space.
+ Public in the sense that the majority of sites do not have barriers to
+ entry (such as subscription-based sites) yet it will always be privatized
+ because the only way to reach these sites is to go through a private company
+ at some point in the process .
+ True public space, however, is incredibly important to democratic ideals
+ and “the privatization of public space undermines the opportunities for
+ free speech… Free speech is crucial because it … makes it possible for
+ citizens to reach informed decisions about public policy [, and gives the
+ minority] the opportunity to convince members of the majority of its dissenting
+ views and build a coalition in favor of change.” In other words, as long
+ as the Internet remains privatized, the policies governing the public spaces
+ (such as search algorithms) will remain hidden, and largely unaffected
+ by the uninformed dissenters.
+ The existence of an accessible public space for discourse is critical to
+ the survival of democratic values.
+ “The media… are what always prevents response, making all processes of
+ exchange impossible… This is the real abstraction of the media.
+ And the system of social control and power is rooted in it.”
+\end_layout
+
+\begin_layout Standard
+In a recent book , Eli Pariser discusses a situation that occurred around
+ the time when revolutionary uprisings sweeping the Middle East.
+ Two friends googled the term “Egypt” – one was shown news articles relating
+ to the uprisings, the other was shown travel deals.
+ The first page of “traveler’s” search results did not show anything about
+ the political situation in Egypt.
+ This is a very clear example of how content filtering, under the guise
+ of “personalization” can be extremely dangerous in the sense that it can
+ skew individual understanding and perceptions of the world through omission
+ or overvaluation of information.
+\end_layout
+
+\begin_layout Standard
+Babel -> search -> Google projects, digitizing and indexing more than the
+ web - they're taking the physical (books, music, movies, voices, maps &
+ places) -> privatization & control of information (information & culture)
+ -> black boxed algorithms (feature or a bug quote) -> Pariser -> privatization
+ & control of culture & digitization -> culture exists in a cycle quote
+ (rogers?)
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Part
+Thesis Projects
 \end_layout
 
 \begin_layout Standard
@@ -690,10 +987,40 @@ digital life-worlds
 
 
 \begin_inset Foot
-status open
+status collapsed
 
 \begin_layout Plain Layout
-This term will be explained later in the paper
+To avoid misconceptions, I am using this term to refer to the digital experience
+ mediated through software.
+ It is influenced by phenomenological thinking, but with an understanding
+ of software studies.
+ As Lev Manovich succinctly put it, 
+\begin_inset Quotes eld
+\end_inset
+
+there is no such thing as ‘digital media.’ There is only software.”
+\begin_inset CommandInset citation
+LatexCommand citet
+key "OnlySoftware"
+
+\end_inset
+
+ Just as we perceive the physical world through our bodies and senses, we
+ come to understand the rules and possibilities of the digital world only
+ through software.
+ While the data and bits on a hard drive do not change, our interactions
+ with those digital objects are governed by multiple layers of software
+ through which we engage it.
+ This set of software-mediated experiences with the digital is what I refer
+ to as a 
+\begin_inset Quotes eld
+\end_inset
+
+digital life-world.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -729,7 +1056,58 @@ The two projects also both focus largely on Google and their practices.
 status collapsed
 
 \begin_layout Plain Layout
-source?
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://searchenginewatch.com/article/2174642/Yahoo-Search-Market-Share-Losing-Str
+eak-Extends-to-8-Months
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://gs.statcounter.com/#search_engine-ww-monthly-201104-201204
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://www.statowl.com/search_engine_market_share.php
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -737,7 +1115,8 @@ source?
 .
  They also provide a number of other, incredibly useful, web-based tools
  for free.
- They've defined and redefined what we think of when we hear the word 
+ Google has defined and redefined what we think of when we hear the word
+ 
 \emph on
 Internet
 \emph default
@@ -967,17 +1346,6 @@ I view these projects as experiments rather than as answers to any particular
 \end_layout
 
 \begin_layout Standard
-\begin_inset Newpage pagebreak
-\end_inset
-
-
-\end_layout
-
-\begin_layout Part
-Thesis Projects
-\end_layout
-
-\begin_layout Standard
 For the MFA show, a number of works were shown - one for Everybody's Google;
  and three for Ocular Character Recognition.
  My approach my thesis work has been that, the ideas constitute each project.
@@ -1000,7 +1368,7 @@ width "100col%"
 special "none"
 height "1in"
 height_special "totalheight"
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \noindent
@@ -1417,7 +1785,7 @@ width "100col%"
 special "none"
 height "1in"
 height_special "totalheight"
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset VSpace bigskip
@@ -2206,7 +2574,8 @@ height "0.5pt"
 CAPTCHA-fy! served as the manifesto for the Ocular Character Recognition
  project, linking the concepts of Webpages for Humans and the Serendipity
  Engine to the ideas within the project as a whole.
- Hand-bound booklets with hand-printed covers on high quality papers.
+ Hand-bound booklets with (lino block prints - laser cut, pristine, very
+ machine-like) hand-printed covers on high quality papers.
  The inner pages were low-quality xerox copies, retaining the DIY, hand-made,
  low-cost aesthetic.
  There was also a reading area consisting of two chairs and a footstool,
@@ -2287,10 +2656,18 @@ The Serendipity Engine consisted of a modified printer installed in the
  The printer would dispense individual CAPTCHA-fied pages from chapter 7
  of Alice's Adventures in Wonderland (The Mad Tea Party.)
 \begin_inset Foot
-status collapsed
+status open
 
 \begin_layout Plain Layout
-Again, this could have taken another form, this particular piece of literature
+Lewis Carroll was known for logician and mathematician.
+ Many have understood much of this book as a retort against the evolution
+ in the fields of Mathematics at the time.
+ The Mad Tea Pary can be interpreted as a critique of the the Quaternion,
+ or a misuse or appropriation of time in order to solve ones own needs.
+ Nonsense.
+ Simlarly, this was chosen to critique the appropriation of cultural artifacts
+ to gain a better understanding of the ENglish language, culture, etc...
+ Again, this could have taken another form, this particular piece of literature
  was chosen for reasons explained below
 \end_layout
 
