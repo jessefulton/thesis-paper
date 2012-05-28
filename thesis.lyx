@@ -3,6 +3,9 @@
 \begin_document
 \begin_header
 \textclass article
+\begin_preamble
+\bibpunct{(}{)}{,}{a}{,}{,}
+\end_preamble
 \use_default_options true
 \maintain_unincluded_children false
 \language english
@@ -22,7 +25,7 @@
 \graphics default
 \default_output_format default
 \output_sync 0
-\bibtex_command default
+\bibtex_command bibtex
 \index_command default
 \paperfontsize default
 \spacing single
@@ -33,7 +36,7 @@
 \use_esint 1
 \use_mhchem 1
 \use_mathdots 1
-\cite_engine basic
+\cite_engine natbib_authoryear
 \use_bibtopic false
 \use_indices false
 \paperorientation portrait
@@ -360,14 +363,17 @@ And thank you to my family for their unconditional support.
 
 \end_layout
 
-\begin_layout Part*
-Table of Contents
-\end_layout
-
 \begin_layout Standard
 \begin_inset CommandInset toc
 LatexCommand tableofcontents
 
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
 \end_inset
 
 
@@ -661,6 +667,13 @@ ent institutions we no have software that allows us to scaled the community
  142)
 \end_layout
 
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
 \begin_layout Part
 Introduction
 \end_layout
@@ -951,6 +964,13 @@ I view these projects as experiments rather than as answers to any particular
  For something that largely remains unseen, it is difficult to create a
  physical form, but the projects detailed below represent a few of the possible
  manifestations of the concepts presented within each project.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
 \end_layout
 
 \begin_layout Part
@@ -2762,6 +2782,13 @@ Conclusion
 conclusion goes here...
 \end_layout
 
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
 \begin_layout Part
 Appendix
 \end_layout
@@ -3628,10 +3655,10 @@ rank
 \begin_inset Quotes erd
 \end_inset
 
- academic and scholarly papers and journals
+ academic and scholarly papers and journals 
 \begin_inset CommandInset citation
 LatexCommand cite
-key "key-2"
+key "BrinPage"
 
 \end_inset
 
@@ -3940,15 +3967,9 @@ Search & Algorithms
 Search engines are software.
  Their main algorithm is a function which filters information from a database.
  In Lev Manovich’s terms, the search engine is the narrative (the algorithm)
- through which we experience the world of the Internet (the database.)
-\begin_inset CommandInset citation
-LatexCommand cite
-key "key-1"
-
-\end_inset
-
- It is this algorithm which decides whether we are a radical anarchist,
- scholarly researcher, or a promising political candidate.
+ through which we experience the world of the Internet (the database.) It
+ is this algorithm which decides whether we are a radical anarchist, scholarly
+ researcher, or a promising political candidate.
  But search engines are privatized so we cannot see the algorithm.
 \end_layout
 
@@ -4929,6 +4950,66 @@ Everybody's Google
 \end_layout
 
 \begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename media/everybodysgoogle_homepage.png
+	width 4.75in
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+
+\emph on
+Everybody's Google
+\emph default
+ home page
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 \noindent
 \begin_inset Float figure
 wide false
@@ -4994,43 +5075,15 @@ Webpages for Humans
 \end_layout
 
 \begin_layout Standard
-Works Cited
-\end_layout
-
-\begin_layout Standard
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
 btprint "btPrintAll"
 bibfiles "biblio"
-options "bibtotoc,plain"
+options "bibtotoc,plainnat"
 
 \end_inset
 
 
-\end_layout
-
-\begin_layout Bibliography
-\begin_inset CommandInset bibitem
-LatexCommand bibitem
-key "key-1"
-
-\end_inset
-
-Lev Manovich, Database as Symbolic Form, 2001, <http://transcriptions.english.ucsb.
-edu/archive/courses/warner/english197/Schedule_files/Manovich/Database_as_symbol
-ic_form.htm>.
-\end_layout
-
-\begin_layout Bibliography
-\begin_inset CommandInset bibitem
-LatexCommand bibitem
-label "Brin and Page"
-key "key-2"
-
-\end_inset
-
-The Anatomy of a Large-Scale Hypertextual Web Search Engine.
- http://infolab.stanford.edu/pub/papers/google.pdf
 \end_layout
 
 \end_body
