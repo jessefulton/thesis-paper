@@ -25,6 +25,7 @@
 \bibtex_command default
 \index_command default
 \paperfontsize default
+\spacing single
 \use_hyperref false
 \papersize default
 \use_geometry false
@@ -42,7 +43,7 @@
 \shortcut idx
 \color #008000
 \end_index
-\secnumdepth 3
+\secnumdepth -1
 \tocdepth 3
 \paragraph_separation indent
 \paragraph_indentation default
@@ -60,7 +61,7 @@
 \begin_body
 
 \begin_layout Title
-A Slightly Less Ambitious Paper Title
+Google Culture
 \end_layout
 
 \begin_layout Author
@@ -169,6 +170,67 @@ status collapsed
 
 \end_layout
 
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "b"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+\noindent
+\align center
+Thesis Committee:
+\end_layout
+
+\begin_layout Plain Layout
+\paragraph_spacing single
+\noindent
+\align center
+Dee Hibbert-Jones, Warren Sack (chair).
+ Noah Wardrip-Fruin
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Section*
 \begin_inset Newpage pagebreak
 \end_inset
@@ -176,12 +238,31 @@ status collapsed
 
 \end_layout
 
+\begin_layout Standard
+\begin_inset Box Frameless
+position "b"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "7in"
+height_special "none"
+status open
+
 \begin_layout Part*
 Abstract
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 ...
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -190,13 +271,33 @@ Abstract
 
 
 \end_layout
+
+\begin_layout Standard
+\noindent
+\begin_inset Box Frameless
+position "b"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "7in"
+height_special "none"
+status open
 
 \begin_layout Part*
 Dedication
 \end_layout
 
-\begin_layout Standard
-...
+\begin_layout Plain Layout
+To the future of all things...
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -206,12 +307,50 @@ Dedication
 
 \end_layout
 
+\begin_layout Standard
+\noindent
+\begin_inset Box Frameless
+position "b"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100text%"
+special "none"
+height "7in"
+height_special "totalheight"
+status open
+
 \begin_layout Part*
 Acknowledgements
 \end_layout
 
-\begin_layout Standard
-...
+\begin_layout Plain Layout
+\align left
+Thank you to my committee for their guidance throughout the development
+ of this thesis.
+\end_layout
+
+\begin_layout Plain Layout
+\align left
+Thank you to the DANM program for giving me access to so many invaluable
+ resources and individuals.
+\end_layout
+
+\begin_layout Plain Layout
+\align left
+Thank you to my friends for keeping me sane.
+\end_layout
+
+\begin_layout Plain Layout
+\align left
+And thank you to my family for their unconditional support.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -226,14 +365,106 @@ Table of Contents
 \end_layout
 
 \begin_layout Standard
-\begin_inset Newpage pagebreak
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
 \end_inset
 
 
 \end_layout
 
 \begin_layout Standard
+\begin_inset FloatList figure
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset FloatList table
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Part*
 Epigraph
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+There is no such thing as ‘digital media.’ There is only software.” - Manovich
+\end_layout
+
+\begin_layout Standard
+“The issue no longer is how much of society and culture is online, but rather
+ how to diagnose cultural change and societal conditions using the Internet.
+ The conceptual point of departure for the research program is the recognition
+ that the Internet is not only an object of study, but also a source.” (Rogers
+ 8)
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+If there is not an accumulation of experience for animals, in that the species
+ do not inherit the experience of the individuals of which they are composed,
+ it is on the contrary the possibility of transmitting individual experience
+ that makes possible the process of exteriorization.
+ And this is what we call culture.
+\begin_inset Quotes erd
+\end_inset
+
+ Steigler, 1998 (Gere p.
+ 20)
+\end_layout
+
+\begin_layout Standard
+access to the Web is preconfigured in subtle but politically important ways,
+ resulting in exclusion of significant voices… The politics of search engines
+ thus represents the broader struggle to sustain the democratic potential
+ of traditional media, the Internet, and the World Wide Web in particular.
+ (Introna and Nissenbaum 3-4) 
+\end_layout
+
+\begin_layout Standard
+"I believe that a democratic society is not and cannot be a community, where
+ by a community I mean a body of persons united in affirming the same comprehens
+ive or partially comprehensive doctrine." - (John Rawls, Justice as Fairness.
+ A Restatement (Cambridge MA: Harvard University Press, 2001), 3.)
+\end_layout
+
+\begin_layout Subsection*
+break
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Instead of the traditional information blackout, we face an information
+ blizzard—a whiteout.
+ This forces the individual to depend on an authority to help prioritize
+ the information to be selected.
+ This is the foundation for the information catastrophe, an endless recycling
+ of sovereignty back to the state under the pretense of informational freedom.
+\begin_inset Quotes erd
+\end_inset
+
+ Critical Art Ensemble, The Electronic Disturbance, p.
+ 131-132
 \end_layout
 
 \begin_layout Standard
@@ -279,7 +510,7 @@ No matter what form it may finally have it must begin with an idea.
  It is the process of conception and realization with which the artist is
  concerned.
  Once given physical reality by the artist the work is open to the perception
- of al, including the artist.
+ of all, including the artist.
  (I use the word perception to mean the apprehension of the sense data,
  the objective understanding of the idea, and simultaneously a subjective
  interpretation of both).
@@ -320,16 +551,7 @@ Google might not be making us stupid.
  The ‘Google effect’ also may be couched in terms of supplanting surfing
  and browsing with search.
  It also may be studied in terms of the demise of the expert editor, and
- the rise of the back-end algorithm.” (Rogers, 7) “The issue no longer is
- how much of society and culture is online, but rather how to diagnose cultural
- change and societal conditions using the Internet.
- The conceptual point of departure for the research program is the recognition
- that the Internet is not only an object of study, but also a source.” (Rogers
- 8) 
-\end_layout
-
-\begin_layout Standard
-is no such thing as ‘digital media.’ There is only software.” - Manovich
+ the rise of the back-end algorithm.” (Rogers, 7) 
 \end_layout
 
 \begin_layout Standard
@@ -376,22 +598,6 @@ Speed destroys space, it erases temporal distance.
 \begin_inset Quotes eld
 \end_inset
 
-If there is not an accumulation of experience for animals, in that the species
- do not inherit the experience of the individuals of which they are composed,
- it is on the contrary the possibility of transmitting individual experience
- that makes possible the process of exteriorization.
- And this is what we call culture.
-\begin_inset Quotes erd
-\end_inset
-
- Steigler, 1998 (Gere p.
- 20)
-\end_layout
-
-\begin_layout Standard
-\begin_inset Quotes eld
-\end_inset
-
 In evaluating systems the artist is a perpectivist considering goals, boundaries
 , structure, input, output, and relate4d activity inside and outside the
  system.
@@ -432,13 +638,6 @@ res enable better control than others.
 \end_layout
 
 \begin_layout Standard
-"I believe that a democratic society is not and cannot be a community, where
- by a community I mean a body of persons united in affirming the same comprehens
-ive or partially comprehensive doctrine." - (John Rawls, Justice as Fairness.
- A Restatement (Cambridge MA: Harvard University Press, 2001), 3.)
-\end_layout
-
-\begin_layout Standard
 \begin_inset Quotes eld
 \end_inset
 
@@ -455,7 +654,7 @@ ent institutions we no have software that allows us to scaled the community
  142)
 \end_layout
 
-\begin_layout Part*
+\begin_layout Part
 Introduction
 \end_layout
 
@@ -663,8 +862,6 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
-
-\emph on
 A familiar CAPTCHA test
 \end_layout
 
@@ -749,14 +946,14 @@ I view these projects as experiments rather than as answers to any particular
  manifestations of the concepts presented within each project.
 \end_layout
 
-\begin_layout Part*
+\begin_layout Part
 Thesis Projects
 \end_layout
 
 \begin_layout Standard
 For the MFA show, a number of works were shown - one for Everybody's Google;
  and three for Ocular Character Recognition.
- From my viewpoint, the main projects are the ideas.
+ My approach my thesis work has been that, the ideas constitute each project.
  The software I have written is the manifestation of those ideas.
  Interacting with the corresponding websites (in a non-gallery setting)
  is the experience of those ideas.
@@ -776,7 +973,7 @@ width "100col%"
 special "none"
 height "1in"
 height_special "totalheight"
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \noindent
@@ -797,8 +994,6 @@ status collapsed
 \end_layout
 
 \begin_layout Plain Layout
-
-\emph on
 MFA Installation in the Digital Arts Research Center
 \end_layout
 
@@ -824,6 +1019,10 @@ height "0.5pt"
 \end_inset
 
 
+\end_layout
+
+\begin_layout Subsection
+A Tangent: Software in Art Galleries
 \end_layout
 
 \begin_layout Standard
@@ -966,11 +1165,11 @@ projects
  objects/images which you can simply look at and get the gist of the idea.
 \end_layout
 
-\begin_layout Section*
+\begin_layout Section
 Everybody's Google
 \end_layout
 
-\begin_layout Subsection*
+\begin_layout Subsection
 Conceptual Description
 \end_layout
 
@@ -1026,7 +1225,7 @@ revealing
  information.
 \end_layout
 
-\begin_layout Subsection*
+\begin_layout Subsection
 Formal Description
 \end_layout
 
@@ -1191,7 +1390,7 @@ width "100col%"
 special "none"
 height "1in"
 height_special "totalheight"
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \begin_inset VSpace bigskip
@@ -1213,7 +1412,9 @@ status collapsed
 \begin_layout Plain Layout
 
 \emph on
-Everybody's Google WebGL visualization
+Everybody's Google
+\emph default
+ WebGL visualization
 \end_layout
 
 \begin_layout Plain Layout
@@ -1247,7 +1448,7 @@ The web site uses the same design treatment as the main Google search page.
  the font face used for the Google logo.
 \end_layout
 
-\begin_layout Subsection*
+\begin_layout Subsection
 Technical description
 \end_layout
 
@@ -1622,7 +1823,7 @@ http://knowyourmeme.com/forums/general/topics/15561-everybodys-google
  IP addresses to two submissions maximum.
 \end_layout
 
-\begin_layout Subsection*
+\begin_layout Subsection
 Goals and expected outcomes 
 \end_layout
 
@@ -1706,7 +1907,7 @@ correct-ness
  sort through it all? Surely there must be compromises in this process.
 \end_layout
 
-\begin_layout Section*
+\begin_layout Section
 Ocular Character Recognition
 \end_layout
 
@@ -1744,7 +1945,7 @@ oduce CAPTCHA-fied pages from eBooks digitized through Google's book/library
  project.
 \end_layout
 
-\begin_layout Subsection*
+\begin_layout Subsection
 Conceptual Description
 \end_layout
 
@@ -1816,7 +2017,7 @@ Ocular Character Recognition tries to put the focus of digitization back
  physical/claiming the digital.
 \end_layout
 
-\begin_layout Subsection*
+\begin_layout Subsection
 Formal Description
 \end_layout
 
@@ -1943,8 +2144,10 @@ status collapsed
 \end_layout
 
 \begin_layout Plain Layout
-Webpages for Humans
+
 \emph on
+Webpages for Humans
+\emph default
  mylar prints
 \end_layout
 
@@ -2020,9 +2223,11 @@ status collapsed
 \end_layout
 
 \begin_layout Plain Layout
-CAPTCHA-fy!
+
 \emph on
- booklet covers
+CAPTCHA-fy! 
+\emph default
+booklet covers
 \end_layout
 
 \begin_layout Plain Layout
@@ -2074,8 +2279,15 @@ Again, this could have taken another form, this particular piece of literature
 status collapsed
 
 \begin_layout Plain Layout
-Serendipity Engine is a term Facebook and Google have both used with regards
- to the future of their services.
+\begin_inset Quotes eld
+\end_inset
+
+Serendipity engine
+\begin_inset Quotes erd
+\end_inset
+
+ is a term Facebook and Google have both used with regards to the future
+ of their services.
  Rather than having users actively search for information, these companies
  are aiming to reach a point where (relevant and interesting) information
  would find users before they even think about searching for it.
@@ -2160,8 +2372,10 @@ status collapsed
 \end_layout
 
 \begin_layout Plain Layout
-Serendipity Engine
+
 \emph on
+Serendipity Engine
+\emph default
  and reading area
 \end_layout
 
@@ -2189,7 +2403,7 @@ height "0.5pt"
 
 \end_layout
 
-\begin_layout Subsection*
+\begin_layout Subsection
 Technical description
 \end_layout
 
@@ -2368,7 +2582,7 @@ https://github.com/jessefulton/phantomjs-hocr
  Google E-Books
 \end_layout
 
-\begin_layout Subsection*
+\begin_layout Subsection
 Goals and expected outcomes 
 \end_layout
 
@@ -2406,7 +2620,7 @@ alternate
  both humans and computer algorithms)?
 \end_layout
 
-\begin_layout Section*
+\begin_layout Section
 MFA Show Response
 \end_layout
 
@@ -2533,7 +2747,7 @@ While documenting, we timed the printer to dispense paper as people were
  sheets to stress the intentionality of the piece.
 \end_layout
 
-\begin_layout Part*
+\begin_layout Part
 Conclusion
 \end_layout
 
@@ -2541,11 +2755,11 @@ Conclusion
 conclusion goes here...
 \end_layout
 
-\begin_layout Part*
+\begin_layout Part
 Appendix
 \end_layout
 
-\begin_layout Section*
+\begin_layout Section
 Everybody's Google Personas
 \end_layout
 
@@ -3163,8 +3377,8 @@ http://www.momcentral.com/blogs
 
 \end_layout
 
-\begin_layout Section*
-Github Projects (Software Created
+\begin_layout Section
+Github Projects (Software Created)
 \end_layout
 
 \begin_layout Itemize
@@ -3229,7 +3443,7 @@ https://github.com/jessefulton/captcha-servlet
 \end_layout
 
 \end_deeper
-\begin_layout Section*
+\begin_layout Section
 Software and Frameworks Used
 \end_layout
 
