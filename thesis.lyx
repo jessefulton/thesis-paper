@@ -410,6 +410,19 @@ Epigraph
 \begin_inset Quotes eld
 \end_inset
 
+Google is designed to absorb and respond to culture as much as it inﬂuences
+ culture.
+\begin_inset Quotes erd
+\end_inset
+
+ Siva Vaidhyanathan, The Googlization of Everything (p.
+ 70)
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
 There is no such thing as ‘digital media.’ There is only software.” - Manovich
 \end_layout
 
@@ -1033,11 +1046,13 @@ digital life-world.
 
 \begin_layout Standard
 As technology becomes more accessible and more ubiquitous, websites and
- software applications are becoming a primary resource for personal development.
+ software applications are becoming a primary resource for research, entertainme
+nt, and personal development.
  I am interested in the societal impact of these large-scale information-based
  software systems, and specifically how they influence human knowledge (research
-; information retrieval; learning) and culture (preserving culture; creating/inf
-luencing cultural trends; redefining the notion of a 
+ & learning; information retrieval; individual and social memory) and culture
+ (preserving culture; creating/influencing cultural trends; redefining the
+ notion of a 
 \begin_inset Quotes eld
 \end_inset
 
@@ -1049,7 +1064,8 @@ cultural divide.
 \end_layout
 
 \begin_layout Standard
-The two projects also both focus largely on Google and their practices.
+The two projects at hand both focus largely on Google and the company's
+ practices.
  Google is responsible for handling the large majority of the world's Internet
  searches
 \begin_inset Foot
@@ -1113,17 +1129,42 @@ http://www.statowl.com/search_engine_market_share.php
 \end_inset
 
 .
- They also provide a number of other, incredibly useful, web-based tools
- for free.
- Google has defined and redefined what we think of when we hear the word
- 
+ They also provide a number of other incredibly useful web-based tools,
+ free of charge.
+ Google has defined and redefined what we
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Throughout the rest of this paper, I will be using the terms 
+\begin_inset Quotes eld
+\end_inset
+
+we
+\begin_inset Quotes erd
+\end_inset
+
+ and 
+\begin_inset Quotes eld
+\end_inset
+
+us
+\begin_inset Quotes erd
+\end_inset
+
+ to refer to the majority of the connected Western world
+\end_layout
+
+\end_inset
+
+ think of when we hear the word 
 \emph on
 Internet
 \emph default
 .
  However, for all of the good that Google has provided, there are a few
  business practices which I believe deserve more attention, and these projects
- focus on the larger question of 
+ focus on one of those such aspects, asking 
 \begin_inset Quotes eld
 \end_inset
 
@@ -1134,47 +1175,65 @@ who (or what) is responsible for curating the content made available to
 
  The answer to that question is a complicated one, but for most users connected
  to the Internet, the largest common denominator is Google.
- Outside of government censorship, Google plays the primary role in revealing
- to us
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-Throughout the rest of this paper, I will be using the terms 
-\begin_inset Quotes eld
-\end_inset
-
-us
-\begin_inset Quotes erd
-\end_inset
-
- and 
-\begin_inset Quotes eld
-\end_inset
-
-we
-\begin_inset Quotes erd
-\end_inset
-
- to refer to the majority of the connected Western world
-\end_layout
-
-\end_inset
-
- the possibilities of the Internet.
+ Outside of government censorship, Google plays the primary role in revealing/co
+ncealing the possibilities of the Internet.
 \end_layout
 
 \begin_layout Standard
 Everybody's Google focuses on Google's search personalization algorithms.
  Google is profitable as a business because it makes money serving highly
- personalized advertisements.
+ personalized advertisements
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+In 2009, 98% of Google's revenues came from advertising
+\begin_inset CommandInset citation
+LatexCommand citet
+key "CharlieRose"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+.
  Google tracks users as they navigate the web, making judgements and assumptions
- based not just on user-supplied information, but moreso by analyzing users
+ based not just on user-supplied information, but moreso by analyzing user
  behaviours online.
  The sites you visit, the things you search for, the time of day and from
  where you search - all of this information is pooled by Google and assembled
- into a model in order to serve the most relevant advertisements to you.
- However, this same information is also used to 
+ into a model in order to serve the 
+\begin_inset Quotes eld
+\end_inset
+
+most relevant
+\begin_inset Quotes erd
+\end_inset
+
+ advertisements possible
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Pariser"
+
+\end_inset
+
+.
+ Conversely, it is also discarding things which it deems 
+\begin_inset Quotes eld
+\end_inset
+
+irrelevant.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+However, this same information is also used to 
 \begin_inset Quotes eld
 \end_inset
 
@@ -1199,6 +1258,18 @@ e is mediated almost exclusively through privatized companies, is inherently
  shown to them, or in what order; and because these algorithms are trade
  secrets, users also cannot have an understanding of the filtering and selection
  process.
+ "Personalization renders search engines practically immune to systematic
+ critical evaluation because it is becoming unclear whether the (dis)appearance
+ of a source is a feature (personalization done right) or a bug (censorship
+ or manipulation.)" 
+\begin_inset CommandInset citation
+LatexCommand citet
+after "110"
+key "StadlerMayer"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -3156,7 +3227,36 @@ Conclusion
 \end_layout
 
 \begin_layout Standard
-conclusion goes here...
+Google plays the primary role in revealing/concealing the possibilities
+ of the Internet.
+ And if Google is our gateway to the world of the Internet, it’s laws and
+ rules influence how we can interact with the Internet – it directly shapes
+ our understanding of the space of the Internet.
+ Yet with the understanding that Google search algorithms are software,
+ these rules and laws it imposes are nothing other than political.
+ To quote Lawrence Lessig regarding software design, 
+\begin_inset Quotes eld
+\end_inset
+
+its architecture is its politics.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Lessig"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+we are presented with a picture of the world (at least how it appears in
+ search results) made up of what someone else, based on proprietary knowledge,
+ determines to be suitable to one’s individual subjectivity.
+ (Stalder & Mayer 99)
 \end_layout
 
 \begin_layout Standard
