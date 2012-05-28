@@ -465,6 +465,13 @@ Instead of the traditional information blackout, we face an information
 
  Critical Art Ensemble, The Electronic Disturbance, p.
  131-132
+\begin_inset CommandInset citation
+LatexCommand cite
+key "CAE-TED"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -4981,6 +4988,22 @@ Webpages for Humans
 
 \begin_layout Standard
 \begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Works Cited
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset bibtex
+LatexCommand bibtex
+btprint "btPrintAll"
+bibfiles "biblio"
+options "bibtotoc,plain"
+
 \end_inset
 
 
