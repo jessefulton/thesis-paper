@@ -64,7 +64,7 @@
 \begin_body
 
 \begin_layout Title
-Google Culture: Systems of Control and Power in an Information Economy
+The Googlization of Digital Culture
 \end_layout
 
 \begin_layout Author
@@ -368,41 +368,17 @@ LatexCommand tableofcontents
 
 \end_layout
 
-\begin_layout Part*
-Epigraph
-\end_layout
-
 \begin_layout Quote
-\begin_inset Quotes eld
-\end_inset
-
-Google is designed to absorb and respond to culture as much as it inﬂuences
- culture.
-\begin_inset Quotes erd
-\end_inset
-
-
+"I believe that a democratic society is not and cannot be a community, where
+ by a community I mean a body of persons united in affirming the same comprehens
+ive or partially comprehensive doctrine."
 \end_layout
 
 \begin_layout Quote
 \align right
-Siva Vaidhyanathan, 
+John Rawls, 
 \emph on
-The Googlization of Everything
-\end_layout
-
-\begin_layout Quote
-“The issue no longer is how much of society and culture is online, but rather
- how to diagnose cultural change and societal conditions using the Internet.
- The conceptual point of departure for the research program is the recognition
- that the Internet is not only an object of study, but also a source.”
-\end_layout
-
-\begin_layout Quote
-\align right
-Richard Rogers, 
-\emph on
-The End of the Virtual
+Justice as Fairness: A Restatement
 \end_layout
 
 \begin_layout Quote
@@ -426,6 +402,29 @@ Instead of the traditional information blackout, we face an information
 Critical Art Ensemble, 
 \emph on
 The Electronic Disturbance
+\end_layout
+
+\begin_layout Quote
+“Library science scholars in particular concern themselves with the changing
+ locus of access to information and knowledge (from public shelves and stacks
+ to commercial servers).
+ The ‘Google effect’...
+ may be studied in terms of the demise of the expert editor, and the rise
+ of the back-end algorithm.” 
+\end_layout
+
+\begin_layout Quote
+\align right
+Richard Rogers, 
+\emph on
+The End of the Virtual: Digital Methods
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
 \end_layout
 
 \begin_layout Quote
@@ -480,22 +479,6 @@ If there is not an accumulation of experience for animals, in that the species
 
  Steigler, 1998 (Gere p.
  20)
-\end_layout
-
-\begin_layout Plain Layout
-"I believe that a democratic society is not and cannot be a community, where
- by a community I mean a body of persons united in affirming the same comprehens
-ive or partially comprehensive doctrine." - (John Rawls, Justice as Fairness.
- A Restatement (Cambridge MA: Harvard University Press, 2001), 3.)
-\end_layout
-
-\begin_layout Plain Layout
-“Library science scholars in particular concern themselves with the changing
- locus of access to information and knowledge (from public shelves and stacks
- to commercial servers).
- The ‘Google effect’...
- may be studied in terms of the demise of the expert editor, and the rise
- of the back-end algorithm.” (Rogers, 7) 
 \end_layout
 
 \begin_layout Subsection*
@@ -736,6 +719,10 @@ Introduction
 \end_layout
 
 \begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
 Library of Babel.
  Search engines a necessity.
  So much data.
@@ -747,56 +734,7 @@ Library of Babel.
  And this sets the context for Page's quote
 \end_layout
 
-\begin_layout Standard
-Library - freedom to explore and roam.
- Find information you're looking for, but also information you weren't necessari
-ly looking for.
- Personalization is black-boxed algorithms, built by privatized companies.
- Access to information is not the physical ability to acquire information,
- but the ability to explore and find new information.
- These software algorithms in essence are limiting the information you are
- exposed to online.
-\end_layout
-
-\begin_layout Standard
-In the library, our access is purely physical and is defined by the architecture
- of the structure.
- In the digital our access is limited by the software architecture of the
- systems running these search/filtering algorithms.
- Lessig quote
-\end_layout
-
-\begin_layout Standard
-In his short story The Library of Babel, Jorge Luis Borges clearly illustrates
- how physical access to information does not bestow upon one knowledge.
- the pointlessness of having a plethora of information without being able
- to filter through it.
- The library contains every possible 410 page book which could ever be written,
- including the future, absolutes truths and the meaning of life - but it
- also contains a wealth of absurdity and incomprehensible texts.
- The library is not catalogued, there is no map, and no logical way to navigate
- it.
- If only the library had a Sergey Brin & Larry Page.
- Brin & Page revolutionized information retrieval.
-\end_layout
-
-\begin_layout Standard
-Draw a comparsion from the library to the Web.
- The Library of Babel is here - it is the Internet.
- And we have a gate-keeper.
-\end_layout
-
-\begin_layout Standard
-"If Herbert Simon was right in 1971 when he dclared attention a scarce resource
- consumed by an overabundance of information, we have to recognize that
- ranking is not only very useful but also inevitable...
- Any system of ranking will favor certain sites over others; the question
- is which ones.
- The goal, then, can neither be the abolition of ranking in search nor the
- design of the 'perfect search engine' (Larry Page.)" (Deep search 139)
-\end_layout
-
-\begin_layout Standard
+\begin_layout Plain Layout
 In his short story The Library of Babel, Jorge Luis Borges presents us with
  an enormous series of interconnected rooms housing every possible 410-page
  book which could ever be written, in any and every language.
@@ -824,7 +762,7 @@ white-out
 )
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 The Web has a plethora of information – much of it spam, unusable, inaccurate,
  much like the majority of the books in the Library of Babel.
  Our entry point to the Web is a search engine – a piece of software which
@@ -836,6 +774,440 @@ The Web has a plethora of information – much of it spam, unusable, inaccurate,
  instructions for staging a coup, we cannot ask the search engine why it
  thinks we want to overthrow the government (we could ask the librarian
  although who knows what the answer would be.)
+\end_layout
+
+\begin_layout Plain Layout
+Library - freedom to explore and roam.
+ Find information you're looking for, but also information you weren't necessari
+ly looking for.
+ Personalization is black-boxed algorithms, built by privatized companies.
+ Access to information is not the physical ability to acquire information,
+ but the ability to explore and find new information.
+ These software algorithms in essence are limiting the information you are
+ exposed to online.
+\end_layout
+
+\begin_layout Plain Layout
+In a recent book , Eli Pariser discusses a situation that occurred around
+ the time when revolutionary uprisings sweeping the Middle East.
+ Two friends googled the term 
+\end_layout
+
+\begin_layout Plain Layout
+Babel -> search -> Google projects, digitizing and indexing more than the
+ web - they're taking the physical (books, music, movies, voices, maps &
+ places) -> privatization & control of information (information & culture)
+ -> black boxed algorithms (feature or a bug quote) -> Pariser -> privatization
+ & control of culture & digitization -> culture exists in a cycle quote
+ (rogers?)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+In his short story 
+\emph on
+The Library of Babel
+\emph default
+, Jorge Luis Borges clearly illustrates how physical access to information
+ does not bestow upon one knowledge.
+ A blizzard of information creates a white-out.
+ A plethora of information is useless without being able to filter through
+ it.
+ Enter Google.
+\end_layout
+
+\begin_layout Standard
+Much like the Borges' Library, the World Wide Web is an enormous collection
+ of independent documents containing all types of information - some useful,
+ most not so much.
+ With such an overabundance of data, we need a guide.
+ "If Herbert Simon was right in 1971 when he dclared attention a scarce
+ resource consumed by an overabundance of information, we have to recognize
+ that ranking is not only very useful but also inevitable...
+ Any system of ranking will favor certain sites over others; the question
+ is which ones."
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset CommandInset citation
+LatexCommand citet
+after "139"
+key "Rieder"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Thankfully, we have Google
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Yes, there are other alternative search engines, but given I have decided
+ to focus on Google, given their sheer dominance in many areas in addition
+ to search.
+ 
+\end_layout
+
+\end_inset
+
+ as our guide.
+ Google is a search engine, and judging by popularity
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+And what better way to decide which is most relevant, than by that which
+ is most often used? (Surely, if attention is a scarce resource, then popularity
+ must be an accurate measure of quality.)
+\end_layout
+
+\end_inset
+
+, it is the best search engine.
+ But Google is also a company - a company which provides a number of other
+ services, all of which revolve around one thing: information.
+ Google controls, creates, and distributes information in a multitude of
+ forms.
+ They are primarily known for indexing web sites, but they're also indexing
+ videos
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://www.youtube.com/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+, consumer goods
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://www.google.com/shopping
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+, geographic locations
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+https://maps.google.com
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+, news
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+https://news.google.com/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+, books and scholarly articles
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://books.google.com/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://scholar.google.com/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+, social interactions and communications
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+https://plus.google.com/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+, images
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://images.google.com/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ and much more
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+And even
+\emph on
+ 
+\emph default
+the concept 
+\emph on
+things
+\emph default
+ with the release of Google Knowledge Graph (
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://www.google.com/insidesearch/features/search/knowledge.html
+\end_layout
+
+\end_inset
+
+)
+\end_layout
+
+\end_inset
+
+.
+ We can search congressional proceedings by keyword or phrase because Google
+ indexes the closed captioning for C-SPAN videos uploaded to YouTube.
+ We can ask Google for the record store closest to our physical location.
+ Movie times & locations, flights, etc...
+ Or if we don't want to go to a 
+\begin_inset Quotes eld
+\end_inset
+
+real
+\begin_inset Quotes erd
+\end_inset
+
+ record store, we can look up music and songs on Google Maps and then purchase
+ them from Google as well.
+ We can have google email us the automatically transcribed text from voice
+ mails loved ones may leave us.
+ We can even use Google to analyze stocks and invest in ours and our children's
+ futures.
+ Google can even play the role of tour guide if you drive a BMW with ConnectedDr
+ive technology
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://www.youtube.com/watch?v=xLSTfGZAJDE
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+.
+ In short, Google is indexing culture.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Google is designed to absorb and respond to culture as much as it inﬂuences
+ culture.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Googlization"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+This is just a sampling of the services Google provides to its users, free
+ of charge.
+ (Google however is a profitable company.
+ There are various ethical and legal questions around Google's business
+ model and practices which I am interested in, but they are outside of the
+ scope of this paper
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Quotes eld
+\end_inset
+
+We are not Google’s customers: we are its product.
+ We—our fancies, fetishes, predilections, and preferences—are what Google
+ sells to advertisers.
+ When we use Google to ﬁnd out things on the Web, Google uses our Web searches
+ to ﬁnd out things about us.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Googlization"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+.)
+\end_layout
+
+\begin_layout Standard
+Google personalizing search - personalization applies to ads, news, youtube
+ suggestions...
+\end_layout
+
+\begin_layout Standard
+So Google can be understood as one of our primary gateways to all things
+ digital (now that we've seen that they do much more than search web pages.)
+\end_layout
+
+\begin_layout Standard
+But Google is software.
+\end_layout
+
+\begin_layout Standard
+In the library, our access is purely physical and is defined by the architecture
+ of the structure.
+ In the digital our access is limited by the software architecture of the
+ systems running these search/filtering algorithms.
+ Lessig quote
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+In fact, there can only be one interpretation of every piece of code.
+ Unlike people, computers are not able to guess or interpret a meaning if
+ it’s not stated exactly.” (Reas, McWilliams and LUST, Form + Code in Design,
+ Art, and Architecture 15)
 \end_layout
 
 \begin_layout Standard
@@ -887,10 +1259,8 @@ Nobody owns the web, yet is inherently a privatized public space.
 \end_layout
 
 \begin_layout Standard
-In a recent book , Eli Pariser discusses a situation that occurred around
- the time when revolutionary uprisings sweeping the Middle East.
- Two friends googled the term “Egypt” – one was shown news articles relating
- to the uprisings, the other was shown travel deals.
+“Egypt” – one was shown news articles relating to the uprisings, the other
+ was shown travel deals.
  The first page of “traveler’s” search results did not show anything about
  the political situation in Egypt.
  This is a very clear example of how content filtering, under the guise
@@ -900,19 +1270,26 @@ In a recent book , Eli Pariser discusses a situation that occurred around
 \end_layout
 
 \begin_layout Standard
-Babel -> search -> Google projects, digitizing and indexing more than the
- web - they're taking the physical (books, music, movies, voices, maps &
- places) -> privatization & control of information (information & culture)
- -> black boxed algorithms (feature or a bug quote) -> Pariser -> privatization
- & control of culture & digitization -> culture exists in a cycle quote
- (rogers?)
+“The issue no longer is how much of society and culture is online, but rather
+ how to diagnose cultural change and societal conditions using the Internet.
+ The conceptual point of departure for the research program is the recognition
+ that the Internet is not only an object of study, but also a source.”
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Rogers"
+
+\end_inset
+
+
 \end_layout
 
-\begin_layout Standard
-But Google isn't just indexing web sites - we can search videos (transcripts),
- music, consumer goods, physical locations, books, even images (with contextual
- information) - refining voice transcription processes...
- STOCKS! MAPS! BLAH!
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
