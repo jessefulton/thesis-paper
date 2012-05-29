@@ -242,40 +242,6 @@ Dee Hibbert-Jones, Warren Sack (chair).
 \end_layout
 
 \begin_layout Standard
-\begin_inset Box Frameless
-position "b"
-hor_pos "c"
-has_inner_box 1
-inner_pos "t"
-use_parbox 0
-use_makebox 0
-width "100col%"
-special "none"
-height "7in"
-height_special "none"
-status open
-
-\begin_layout Part*
-Abstract
-\end_layout
-
-\begin_layout Plain Layout
-...
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Newpage pagebreak
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 \noindent
 \begin_inset Box Frameless
 position "b"
@@ -295,7 +261,7 @@ Dedication
 \end_layout
 
 \begin_layout Plain Layout
-To the future of all things...
+To the future...
 \end_layout
 
 \end_inset
@@ -406,7 +372,7 @@ LatexCommand tableofcontents
 Epigraph
 \end_layout
 
-\begin_layout Standard
+\begin_layout Quote
 \begin_inset Quotes eld
 \end_inset
 
@@ -415,26 +381,92 @@ Google is designed to absorb and respond to culture as much as it inﬂuences
 \begin_inset Quotes erd
 \end_inset
 
- Siva Vaidhyanathan, The Googlization of Everything (p.
- 70)
+
 \end_layout
 
-\begin_layout Standard
-\begin_inset Quotes eld
-\end_inset
-
-There is no such thing as ‘digital media.’ There is only software.” - Manovich
+\begin_layout Quote
+\align right
+Siva Vaidhyanathan, 
+\emph on
+The Googlization of Everything
 \end_layout
 
-\begin_layout Standard
+\begin_layout Quote
 “The issue no longer is how much of society and culture is online, but rather
  how to diagnose cultural change and societal conditions using the Internet.
  The conceptual point of departure for the research program is the recognition
- that the Internet is not only an object of study, but also a source.” (Rogers
- 8)
+ that the Internet is not only an object of study, but also a source.”
+\end_layout
+
+\begin_layout Quote
+\align right
+Richard Rogers, 
+\emph on
+The End of the Virtual
+\end_layout
+
+\begin_layout Quote
+\begin_inset Quotes eld
+\end_inset
+
+Instead of the traditional information blackout, we face an information
+ blizzard—a whiteout.
+ This forces the individual to depend on an authority to help prioritize
+ the information to be selected.
+ This is the foundation for the information catastrophe, an endless recycling
+ of sovereignty back to the state under the pretense of informational freedom.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\align right
+Critical Art Ensemble, 
+\emph on
+The Electronic Disturbance
+\end_layout
+
+\begin_layout Quote
+\begin_inset Quotes eld
+\end_inset
+
+No matter what form it may finally have it must begin with an idea.
+ It is the process of conception and realization with which the artist is
+ concerned.
+ Once given physical reality by the artist the work is open to the perception
+ of all, including the artist.
+ (I use the word perception to mean the apprehension of the sense data,
+ the objective understanding of the idea, and simultaneously a subjective
+ interpretation of both).
+ The work of art can be perceived only after it is completed.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\align right
+Sol Lewitt
 \end_layout
 
 \begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+\begin_inset Quotes eld
+\end_inset
+
+In fact, there can only be one interpretation of every piece of code.
+ Unlike people, computers are not able to guess or interpret a meaning if
+ it’s not stated exactly.” (Reas, McWilliams and LUST, Form + Code in Design,
+ Art, and Architecture 15)
+\end_layout
+
+\begin_layout Plain Layout
 \begin_inset Quotes eld
 \end_inset
 
@@ -450,220 +482,27 @@ If there is not an accumulation of experience for animals, in that the species
  20)
 \end_layout
 
-\begin_layout Standard
-access to the Web is preconfigured in subtle but politically important ways,
- resulting in exclusion of significant voices… The politics of search engines
- thus represents the broader struggle to sustain the democratic potential
- of traditional media, the Internet, and the World Wide Web in particular.
- (Introna and Nissenbaum 3-4) 
-\end_layout
-
-\begin_layout Standard
+\begin_layout Plain Layout
 "I believe that a democratic society is not and cannot be a community, where
  by a community I mean a body of persons united in affirming the same comprehens
 ive or partially comprehensive doctrine." - (John Rawls, Justice as Fairness.
  A Restatement (Cambridge MA: Harvard University Press, 2001), 3.)
 \end_layout
 
+\begin_layout Plain Layout
+“Library science scholars in particular concern themselves with the changing
+ locus of access to information and knowledge (from public shelves and stacks
+ to commercial servers).
+ The ‘Google effect’...
+ may be studied in terms of the demise of the expert editor, and the rise
+ of the back-end algorithm.” (Rogers, 7) 
+\end_layout
+
 \begin_layout Subsection*
 break
 \end_layout
 
-\begin_layout Standard
-\begin_inset Quotes eld
-\end_inset
-
-Instead of the traditional information blackout, we face an information
- blizzard—a whiteout.
- This forces the individual to depend on an authority to help prioritize
- the information to be selected.
- This is the foundation for the information catastrophe, an endless recycling
- of sovereignty back to the state under the pretense of informational freedom.
-\begin_inset Quotes erd
-\end_inset
-
- Critical Art Ensemble, The Electronic Disturbance, p.
- 131-132
-\begin_inset CommandInset citation
-LatexCommand cite
-key "CAE-TED"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-When an artist uses a conceptual form of art, it means that all of the planning
- and decisions are made beforehand and the execution is a perfunctory affair.
- The idea becomes a machine that makes the art.
-\begin_inset Foot
-status open
-
 \begin_layout Plain Layout
-Sol Lewitt, http://sol-lewitt.livejournal.com/1263.html
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-The idea becomes a machine that makes the art.
- This kind of art is not theoretical or illustrative of theories; it is
- intuitive, it is involved with all types of mental processes and it is
- purposeless.
- It is usually free from the dependence on the skill of the artist as a
- craftsman.
- It is the objective of the artist who is concerned with conceptual art
- to make his work mentally interesting to the spectator, and therefore usually
- he would want it to become emotionally dry.
-\begin_inset Foot
-status open
-
-\begin_layout Plain Layout
-Sol Lewitt, http://sol-lewitt.livejournal.com/1263.html
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-No matter what form it may finally have it must begin with an idea.
- It is the process of conception and realization with which the artist is
- concerned.
- Once given physical reality by the artist the work is open to the perception
- of all, including the artist.
- (I use the word perception to mean the apprehension of the sense data,
- the objective understanding of the idea, and simultaneously a subjective
- interpretation of both).
- The work of art can be perceived only after it is completed.
-\begin_inset Foot
-status open
-
-\begin_layout Plain Layout
-Sol Lewitt, http://sol-lewitt.livejournal.com/1263.html
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Quotes eld
-\end_inset
-
-In fact, there can only be one interpretation of every piece of code.
- Unlike people, computers are not able to guess or interpret a meaning if
- it’s not stated exactly.” (Reas, McWilliams and LUST, Form + Code in Design,
- Art, and Architecture 15)
-\end_layout
-
-\begin_layout Standard
-Google might not be making us stupid.
- But we are making Google smarter, because of all the information about
- our individual interests and proclivities that we allow it to harvest.
- (The Googlization of Everything, 182)
-\end_layout
-
-\begin_layout Standard
-“Library science scholars in particular concern themselves with the changing
- locus of access to information and knowledge (from public shelves and stacks
- to commercial servers).
- The ‘Google effect’ also may be couched in terms of supplanting surfing
- and browsing with search.
- It also may be studied in terms of the demise of the expert editor, and
- the rise of the back-end algorithm.” (Rogers, 7) 
-\end_layout
-
-\begin_layout Standard
-“To rephrase: for users who can only interact with media content through
- application software, “digital media” does not have any unique properties
- by itself.
- What used to be “properties of a medium” are now operations and affordances
- defined by software.” - Manovich
-\end_layout
-
-\begin_layout Standard
-\begin_inset Quotes eld
-\end_inset
-
-If art is to have a role or a meaning at all in the age of real-time technologie
-s it is to keep our human relation with time open in the light of its potential
- foreclusure by such technology.
-\begin_inset Quotes erd
-\end_inset
-
- _Gere, Art, Time, Technology p.
- 2
-\end_layout
-
-\begin_layout Standard
-\begin_inset Quotes eld
-\end_inset
-
-Speed destroys space, it erases temporal distance.
- In both cases, the mechanism of physiological percption is altered..
- The more memory we store on data banks, the more the past is sucked into
- the orbit of the present, ready to be called up on the screen.
- A sense of historical contiuityor, for that matter, discontinuity, both
- of which depend on a before and after, gives way to the simultaneity of
- all times and spaces readily accessible in the present.
-\begin_inset Quotes erd
-\end_inset
-
- (Huyssen) Gere p.
- 5
-\end_layout
-
-\begin_layout Standard
-\begin_inset Quotes eld
-\end_inset
-
-In evaluating systems the artist is a perpectivist considering goals, boundaries
-, structure, input, output, and relate4d activity inside and outside the
- system.
- Where the object almost always has a fixed shape and boundaries, the consistenc
-y of a system may be altered in time and space, its behavior determined
- both by external conditions and its mechanisms of control (Jack Burnham:
- Gere p.
- 125)
-\end_layout
-
-\begin_layout Standard
-Lessig 
-\begin_inset Quotes eld
-\end_inset
-
-Politics is the process by which we reason about how things ought to be
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Lessig 
-\begin_inset Quotes eld
-\end_inset
-
-Some architectures of cyberspace are more regulable than others; some architectu
-res enable better control than others.
- Therefore, whether a part of cyberspace—or the Internet generally—can be
- regulated turns on the nature of its code.
- Its architecture will affect whether behavior can be controlled.
- To follow Mitch Kapor, its architecture is its politics.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 \begin_inset Quotes eld
 \end_inset
 
@@ -680,26 +519,19 @@ ent institutions we no have software that allows us to scaled the community
  142)
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset Quotes eld
 \end_inset
 
-The Internet persents the possibility of a radical reversal of this long
- trend.
- It is the first modern communications medium that expands its reach by
- decentralizing the capital structure of production and distribution of
- information, culture, and knowledge.
- Much of the physical capital that embeds most of the intelligence in the
- network is widely diffused and owned by end users.
- Network routers and servers are not qualitatively different from the computers
- that end users own, unlike broadcast stations or cable systems, which are
- radically different in economic and technical terms from the televisions
- that receive their signals.
+The Internet...
+ is the first modern communications medium that expands its reach by decentraliz
+ing the capital structure of production and distribution of information,
+ culture, and knowledge...
  This basic change in the material conditions of information and cultural
  production and distribution have substantial effects on how we come to
  know the world we occupy and the alternative courses of action open to
  us as individuals and as social actors.
- Through these effects, the meerging networked environment structures how
+ Through these effects, the emerging networked environment structures how
  we perceive and pursue core values in modern liberal societies.
 \begin_inset Quotes erd
 \end_inset
@@ -708,7 +540,7 @@ The Internet persents the possibility of a radical reversal of this long
  30)
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset Quotes eld
 \end_inset
 
@@ -732,7 +564,7 @@ The real heart of the matter of selection, however, goes deeper than a lag
  (Bush)
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset Quotes eld
 \end_inset
 
@@ -750,7 +582,7 @@ The media that carry segmented marketing messages, just like the ones that
  (Curtis, The information Society:104)
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 On the political economy of communications competence, Oscar H.
  Gandy Jr.
  discusses how understanding communications and limitations in access to
@@ -767,12 +599,77 @@ the ability to understand the world so as to act to change it
  this is important for black box algorithms (Gandy, 109)
 \end_layout
 
-\begin_layout Standard
+\begin_layout Subsection*
+Break 2
+\end_layout
+
+\begin_layout Plain Layout
+Google might not be making us stupid.
+ But we are making Google smarter, because of all the information about
+ our individual interests and proclivities that we allow it to harvest.
+ (The Googlization of Everything, 182)
+\end_layout
+
+\begin_layout Plain Layout
+“To rephrase: for users who can only interact with media content through
+ application software, “digital media” does not have any unique properties
+ by itself.
+ What used to be “properties of a medium” are now operations and affordances
+ defined by software.” - Manovich
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Quotes eld
+\end_inset
+
+If art is to have a role or a meaning at all in the age of real-time technologie
+s it is to keep our human relation with time open in the light of its potential
+ foreclusure by such technology.
+\begin_inset Quotes erd
+\end_inset
+
+ _Gere, Art, Time, Technology p.
+ 2
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Quotes eld
+\end_inset
+
+Speed destroys space, it erases temporal distance.
+ In both cases, the mechanism of physiological percption is altered..
+ The more memory we store on data banks, the more the past is sucked into
+ the orbit of the present, ready to be called up on the screen.
+ A sense of historical contiuityor, for that matter, discontinuity, both
+ of which depend on a before and after, gives way to the simultaneity of
+ all times and spaces readily accessible in the present.
+\begin_inset Quotes erd
+\end_inset
+
+ (Huyssen) Gere p.
+ 5
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Quotes eld
+\end_inset
+
+In evaluating systems the artist is a perpectivist considering goals, boundaries
+, structure, input, output, and relate4d activity inside and outside the
+ system.
+ Where the object almost always has a fixed shape and boundaries, the consistenc
+y of a system may be altered in time and space, its behavior determined
+ both by external conditions and its mechanisms of control (Jack Burnham:
+ Gere p.
+ 125)
+\end_layout
+
+\begin_layout Plain Layout
 Lessig-Codev2 - Highlight on Page 39 | Added on Monday, November 28, 2011,
  11:26 AM
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 The regulability described in the first theme depends on the code described
  in the second.
  Some architectures of cyberspace are more regulable than others; some architect
@@ -783,14 +680,48 @@ ures enable better control than others.
  To follow Mitch Kapor, its architecture is its politics.[2] 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 Lessig-Codev2 - Highlight on Page 53 | Added on Monday, November 28, 2011,
  11:51 AM
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 The “nature” of the Internet is not God’s will.
  Its nature is simply the product of its design 
+\end_layout
+
+\begin_layout Plain Layout
+Lessig 
+\begin_inset Quotes eld
+\end_inset
+
+Politics is the process by which we reason about how things ought to be
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+Lessig 
+\begin_inset Quotes eld
+\end_inset
+
+Some architectures of cyberspace are more regulable than others; some architectu
+res enable better control than others.
+ Therefore, whether a part of cyberspace—or the Internet generally—can be
+ regulated turns on the nature of its code.
+ Its architecture will affect whether behavior can be controlled.
+ To follow Mitch Kapor, its architecture is its politics.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -1695,6 +1626,36 @@ I have ideas which are compelling to me, and questions I try to grapple
 Everybody's Google
 \end_layout
 
+\begin_layout Quote
+\begin_inset Quotes eld
+\end_inset
+
+Access to the Web is preconfigured in subtle but politically important ways,
+ resulting in exclusion of significant voices… The politics of search engines
+ thus represents the broader struggle to sustain the democratic potential
+ of traditional media, the Internet, and the World Wide Web in particular.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+\begin_inset CommandInset citation
+LatexCommand citet
+key "IntronaNissenbaum"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Subsection
 Conceptual Description
 \end_layout
@@ -2435,6 +2396,23 @@ correct-ness
 
 \begin_layout Section
 Ocular Character Recognition
+\end_layout
+
+\begin_layout Standard
+What is chosen to be digitized? What 
+\emph on
+can
+\emph default
+ be digitized? It is physically impossible to create an accurate reproduction
+ of a large building or landscape; a smell or a taste; a temperature and
+ humidity (touch)...
+ We can digitally reproduce the visual and the aural fairly well though.
+ What does this do to society and the things we value? As we become more
+ familiar with the visual culture and more adept and refined, do we ignore
+ the other senses? As we are inundated with a certain cultural canon or
+ trope, do we ignore or reject the unfamiliar? How are our tastes and our
+ cultural (directions, milieu) being defined by the capabilities of computers
+ and digitization processes?
 \end_layout
 
 \begin_layout Standard
@@ -4340,7 +4318,7 @@ Git/Github
 
 \begin_layout Standard
 \begin_inset Note Note
-status collapsed
+status open
 
 \begin_layout Part*
 Literary Review/Context/Why does this matter?
