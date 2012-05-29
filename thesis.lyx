@@ -489,44 +489,6 @@ break
 \begin_inset Quotes eld
 \end_inset
 
-The Web 2.0 discourse provides an answer [to the question of how we can imgine
- governance of very large groups without mediat]: instead of slow and intranspar
-ent institutions we no have software that allows us to scaled the community
- ideal tot the level of societ; the resulting transfer of power tot he companies
- providitg these tools - which thereby become social institutions themselves
- - is rarely addressed.
-\begin_inset Quotes erd
-\end_inset
-
- (Deep search, p.
- 142)
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset Quotes eld
-\end_inset
-
-The Internet...
- is the first modern communications medium that expands its reach by decentraliz
-ing the capital structure of production and distribution of information,
- culture, and knowledge...
- This basic change in the material conditions of information and cultural
- production and distribution have substantial effects on how we come to
- know the world we occupy and the alternative courses of action open to
- us as individuals and as social actors.
- Through these effects, the emerging networked environment structures how
- we perceive and pursue core values in modern liberal societies.
-\begin_inset Quotes erd
-\end_inset
-
- (Benkler, p.
- 30)
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset Quotes eld
-\end_inset
-
 The real heart of the matter of selection, however, goes deeper than a lag
  in the adoption of mechanisms by libraries, or a lack of development of
  devices for their use.
@@ -545,41 +507,6 @@ The real heart of the matter of selection, however, goes deeper than a lag
 \end_inset
 
  (Bush)
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset Quotes eld
-\end_inset
-
-The media that carry segmented marketing messages, just like the ones that
- carry mass marketing messages, and even the marketing messages themselves,
- are socialization agents.
- Values, attitudes and lifestyles are learned from the content of communications
- media, whether those media are mass media or not...
- This means that the demassification of society may actually be a powerful
- reinforcement of social stratifications that could be hereditary and, because
- they would work through individual motivation, self-enforcing.
-\begin_inset Quotes erd
-\end_inset
-
- (Curtis, The information Society:104)
-\end_layout
-
-\begin_layout Plain Layout
-On the political economy of communications competence, Oscar H.
- Gandy Jr.
- discusses how understanding communications and limitations in access to
- technologies/divergent cultures creates and reinforces a technological
- and social caste system....
- keeps them down because they don't have 
-\begin_inset Quotes eld
-\end_inset
-
-the ability to understand the world so as to act to change it
-\begin_inset Quotes erd
-\end_inset
-
- this is important for black box algorithms (Gandy, 109)
 \end_layout
 
 \begin_layout Subsection*
@@ -613,24 +540,6 @@ s it is to keep our human relation with time open in the light of its potential
 
  _Gere, Art, Time, Technology p.
  2
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset Quotes eld
-\end_inset
-
-Speed destroys space, it erases temporal distance.
- In both cases, the mechanism of physiological percption is altered..
- The more memory we store on data banks, the more the past is sucked into
- the orbit of the present, ready to be called up on the screen.
- A sense of historical contiuityor, for that matter, discontinuity, both
- of which depend on a before and after, gives way to the simultaneity of
- all times and spaces readily accessible in the present.
-\begin_inset Quotes erd
-\end_inset
-
- (Huyssen) Gere p.
- 5
 \end_layout
 
 \begin_layout Plain Layout
@@ -679,23 +588,6 @@ Lessig
 \end_inset
 
 Politics is the process by which we reason about how things ought to be
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-Lessig 
-\begin_inset Quotes eld
-\end_inset
-
-Some architectures of cyberspace are more regulable than others; some architectu
-res enable better control than others.
- Therefore, whether a part of cyberspace—or the Internet generally—can be
- regulated turns on the nature of its code.
- Its architecture will affect whether behavior can be controlled.
- To follow Mitch Kapor, its architecture is its politics.
 \begin_inset Quotes erd
 \end_inset
 
@@ -1112,8 +1004,10 @@ http://www.youtube.com/watch?v=xLSTfGZAJDE
 \end_inset
 
 .
- In short, Google is indexing culture.
- 
+ In short, Google is indexing culture, and in the process of indexing culture,
+ it is making culture available, and influencing the future direction of
+ culture.
+ In short, 
 \begin_inset Quotes eld
 \end_inset
 
@@ -1290,6 +1184,134 @@ key "Rogers"
 \end_inset
 
 
+\end_layout
+
+\begin_layout Subsection*
+Others Working in this area
+\end_layout
+
+\begin_layout Standard
+For a while now, Google has been a target of privacy advocate, scholars,
+ and artists.
+ At Transmediale 2010, F.A.T.
+ lab initiated FuckGoogle, “a collection of browser add-ons, open source
+ software, theoretical musings and direct actions aimed at creating an awareness
+ of the role Google plays in our daily lives.”
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://fffff.at/fuck-google/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ One of the notable projects to come out of this eﬀort was Jamie Wilkinson’s
+ Google Alarm extension for Firefox
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://jamiedubs.com/googlealarm/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+.
+ Whenever personal information is sent to Google servers through tracking
+ cookies, an alarm horn sound clip is played over the user’s computer speakers,
+ transforming a normally silent intrusion of privacy into an extremely visceral
+ and prominent event.
+ The project also elucidates the omni-presence of Google - Google is constantly
+ tracking individual behavior in order to personalize the web (and to serve
+ hyper-targeted advertisements.) Google Views & Everybody’s Google attempt
+ give power of personalization back to the user, and to create a story of
+ the various life-worlds Google presents through its personalization algorithms.
+ Personalization algorithms are important not just because of the curated
+ information they present, but also because of the information which they
+ omit.
+\end_layout
+
+\begin_layout Standard
+Aram Barthol did something related with his project Are you Human?
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://datenform.de/areyouhumaneng.html
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ In essence, CAPTCHAs demonstrate the human intervention and cultural knowldge
+ required to decipher signs of written language.
+ By placing physical CAPTCHAs on walls heavily covered by graﬃti tags, Barthol
+ is making a connection from the process of deciphering and interpretation
+ of digital signs to the signs used in graﬃti culture.
+ A graﬃti tag is a sign for tagger as well a a representation of the tagging
+ process itself.
+ Similarly, CAPTCHAs signify not so much the underlying meaning of the word
+ depicted, but rather the processes of scanning, distorting, and deciphering.
+\end_layout
+
+\begin_layout Standard
+Finally, Bicycle Built for Two Thousand 
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://www.bicyclebuiltfortwothousand.com/info.html
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ by Aaron Koblin and Daniel Massey is a great example of reintroducing the
+ human element back into a computer’s representation culture.
+ Users of Amazon’s Mechanical Turk recorded their interpretations sound
+ clips from computer singing “Daisy Bell” (the ﬁrst song ever sung by a
+ computer.) These samples were then combined together to reproduce the original
+ track using human voices as opposed to computersynthesized sounds creating
+ a human-ized version of a digital artifact.
 \end_layout
 
 \begin_layout Standard
@@ -3707,6 +3729,79 @@ we are presented with a picture of the world (at least how it appears in
  search results) made up of what someone else, based on proprietary knowledge,
  determines to be suitable to one’s individual subjectivity.
  (Stalder & Mayer 99)
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+The Web 2.0 discourse provides an answer [to the question of how we can imgine
+ governance of very large groups without mediat]: instead of slow and intranspar
+ent institutions we no have software that allows us to scaled the community
+ ideal tot the level of societ; the resulting transfer of power tot he companies
+ providitg these tools - which thereby become social institutions themselves
+ - is rarely addressed.
+\begin_inset Quotes erd
+\end_inset
+
+ (Deep search, p.
+ 142)
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+The Internet...
+ is the first modern communications medium that expands its reach by decentraliz
+ing the capital structure of production and distribution of information,
+ culture, and knowledge...
+ This basic change in the material conditions of information and cultural
+ production and distribution have substantial effects on how we come to
+ know the world we occupy and the alternative courses of action open to
+ us as individuals and as social actors.
+ Through these effects, the emerging networked environment structures how
+ we perceive and pursue core values in modern liberal societies.
+\begin_inset Quotes erd
+\end_inset
+
+ (Benkler, p.
+ 30)
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+The media that carry segmented marketing messages, just like the ones that
+ carry mass marketing messages, and even the marketing messages themselves,
+ are socialization agents.
+ Values, attitudes and lifestyles are learned from the content of communications
+ media, whether those media are mass media or not...
+ This means that the demassification of society may actually be a powerful
+ reinforcement of social stratifications that could be hereditary and, because
+ they would work through individual motivation, self-enforcing.
+\begin_inset Quotes erd
+\end_inset
+
+ (Curtis, The information Society:104)
+\end_layout
+
+\begin_layout Standard
+On the political economy of communications competence, Oscar H.
+ Gandy Jr.
+ discusses how understanding communications and limitations in access to
+ technologies/divergent cultures creates and reinforces a technological
+ and social caste system....
+ keeps them down because they don't have 
+\begin_inset Quotes eld
+\end_inset
+
+the ability to understand the world so as to act to change it
+\begin_inset Quotes erd
+\end_inset
+
+ this is important for black box algorithms (Gandy, 109)
 \end_layout
 
 \begin_layout Standard
