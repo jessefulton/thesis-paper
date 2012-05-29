@@ -3370,7 +3370,9 @@ Everybody's Google Personas
 \end_layout
 
 \begin_layout Standard
+\noindent
 \begin_inset Float table
+placement H
 wide false
 sideways false
 status open
@@ -3468,42 +3470,42 @@ height "1in"
 height_special "totalheight"
 status open
 
-\begin_layout Itemize
+\begin_layout Plain Layout
 \paragraph_spacing single
 http://rapfix.mtv.com/
 \end_layout
 
-\begin_layout Itemize
+\begin_layout Plain Layout
 \paragraph_spacing single
 http://www.bet.com/news/national.html
 \end_layout
 
-\begin_layout Itemize
+\begin_layout Plain Layout
 \paragraph_spacing single
 http://www.bet.com/news/politics.html
 \end_layout
 
-\begin_layout Itemize
+\begin_layout Plain Layout
 \paragraph_spacing single
 http://hightimes.com/
 \end_layout
 
-\begin_layout Itemize
+\begin_layout Plain Layout
 \paragraph_spacing single
 http://www.tumblr.com/tagged/hip+hop
 \end_layout
 
-\begin_layout Itemize
+\begin_layout Plain Layout
 \paragraph_spacing single
 http://streetpeeper.com/news
 \end_layout
 
-\begin_layout Itemize
+\begin_layout Plain Layout
 \paragraph_spacing single
 http://perezhilton.com/
 \end_layout
 
-\begin_layout Itemize
+\begin_layout Plain Layout
 \paragraph_spacing single
 http://www.rottentomatoes.com/news/
 \end_layout
@@ -3527,7 +3529,11 @@ http://www.rottentomatoes.com/news/
 \begin_inset Caption
 
 \begin_layout Plain Layout
-Persona 1
+
+\emph on
+Everybody's Google
+\emph default
+ Persona 1 Information
 \end_layout
 
 \end_inset
@@ -3541,67 +3547,19 @@ Persona 1
 \end_layout
 
 \begin_layout Standard
+\noindent
 \begin_inset Float table
+placement H
 wide false
 sideways false
 status open
 
 \begin_layout Plain Layout
 \begin_inset Tabular
-<lyxtabular version="3" rows="5" columns="5">
-<features tabularvalignment="middle" tabularwidth="100text%">
-<column alignment="center" valignment="top" width="0pt">
-<column alignment="center" valignment="top" width="2in">
-<column alignment="center" valignment="top" width="2in">
-<column alignment="center" valignment="top" width="2in">
-<column alignment="center" valignment="top" width="2in">
-<row>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Persona 1
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Persona 2
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Persona 3
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Persona 4
-\end_layout
-
-\end_inset
-</cell>
-</row>
+<lyxtabular version="3" rows="4" columns="2">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
 <row>
 <cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
 \begin_inset Text
@@ -3612,38 +3570,11 @@ Age
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-22
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-33
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-62
-\end_layout
-
-\end_inset
-</cell>
 <cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
-36
+33
 \end_layout
 
 \end_inset
@@ -3659,38 +3590,11 @@ Gender
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Female
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Male
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Male
-\end_layout
-
-\end_inset
-</cell>
 <cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
-Female
+Male
 \end_layout
 
 \end_inset
@@ -3706,38 +3610,11 @@ Location
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Atlanta, GA
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-London, UK
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Lynchburg, VA
-\end_layout
-
-\end_inset
-</cell>
 <cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
-Santa Cruz, CA
+London, UK
 \end_layout
 
 \end_inset
@@ -3748,12 +3625,12 @@ Santa Cruz, CA
 \begin_inset Text
 
 \begin_layout Plain Layout
-Sites Read
+Seed URLs
 \end_layout
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -3764,71 +3641,11 @@ has_inner_box 1
 inner_pos "t"
 use_parbox 0
 use_makebox 0
-width "100col%"
+width "75col%"
 special "none"
 height "1in"
 height_special "totalheight"
-status collapsed
-
-\begin_layout Itemize
-\paragraph_spacing single
-http://rapfix.mtv.com/
-\end_layout
-
-\begin_layout Itemize
-\paragraph_spacing single
-http://www.bet.com/news/national.html
-\end_layout
-
-\begin_layout Itemize
-\paragraph_spacing single
-http://www.bet.com/news/politics.html
-\end_layout
-
-\begin_layout Itemize
-\paragraph_spacing single
-http://hightimes.com/
-\end_layout
-
-\begin_layout Itemize
-\paragraph_spacing single
-http://www.tumblr.com/tagged/hip+hop
-\end_layout
-
-\begin_layout Itemize
-\paragraph_spacing single
-http://streetpeeper.com/news
-\end_layout
-
-\begin_layout Itemize
-\paragraph_spacing single
-http://perezhilton.com/
-\end_layout
-
-\begin_layout Itemize
-\paragraph_spacing single
-https://www.google.com/search?hl=en&tbm=shop&q=nike+jordans
-\end_layout
-
-\begin_layout Itemize
-\paragraph_spacing single
-https://www.google.com/search?q=medical+marijuana
-\end_layout
-
-\begin_layout Itemize
-\paragraph_spacing single
-http://www.rottentomatoes.com/news/
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
+status open
 
 \begin_layout Plain Layout
 http://www.bbc.co.uk/news/uk/
@@ -3867,93 +3684,8 @@ http://news.google.co.uk/news
 \end_layout
 
 \end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
 
-\begin_layout Itemize
-http://www.foxnews.com/politics/index.html
-\end_layout
 
-\begin_layout Itemize
-http://www.foxnews.com/us/index.html
-\end_layout
-
-\begin_layout Itemize
-http://www.foxnews.com/entertainment/music/index.html
-\end_layout
-
-\begin_layout Itemize
-http://www.cmt.com/news/
-\end_layout
-
-\begin_layout Itemize
-http://www.cbn.com/cbnnews/
-\end_layout
-
-\begin_layout Itemize
-http://news.google.com/news/section?topic=b
-\end_layout
-
-\begin_layout Itemize
-http://www.economist.com/
-\end_layout
-
-\begin_layout Itemize
-http://www.forbes.com/
-\end_layout
-
-\begin_layout Itemize
-http://www.drudgereportarchives.com/dsp/links_recap.htm
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Itemize
-http://www.npr.org/sections/politics/
-\end_layout
-
-\begin_layout Itemize
-http://www.npr.org/sections/us/
-\end_layout
-
-\begin_layout Itemize
-http://www.npr.org/music/
-\end_layout
-
-\begin_layout Itemize
-http://rhizome.org/editorial/
-\end_layout
-
-\begin_layout Itemize
-http://sfmoma.tumblr.com/
-\end_layout
-
-\begin_layout Itemize
-http://front.moveon.org/
-\end_layout
-
-\begin_layout Itemize
-http://front.moveon.org/category/war-on-women/
-\end_layout
-
-\begin_layout Itemize
-https://www.google.com/search?q=veganism
-\end_layout
-
-\begin_layout Itemize
-http://www.themarthablog.com/
-\end_layout
-
-\begin_layout Itemize
-http://family.go.com/
-\end_layout
-
-\begin_layout Itemize
-http://www.momcentral.com/blogs
 \end_layout
 
 \end_inset
@@ -3971,6 +3703,10 @@ http://www.momcentral.com/blogs
 
 \begin_layout Plain Layout
 
+\emph on
+Everybody's Google
+\emph default
+ Persona 2 Information
 \end_layout
 
 \end_inset
@@ -3978,23 +3714,487 @@ http://www.momcentral.com/blogs
 
 \end_layout
 
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\begin_inset Float table
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Tabular
+<lyxtabular version="3" rows="4" columns="2">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Age
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+62
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Gender
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Male
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Location
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Lynchburg, VA
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Seed URLs
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "75col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+\paragraph_spacing single
+http://www.foxnews.com/politics/index.html
+\end_layout
+
+\begin_layout Plain Layout
+http://www.foxnews.com/us/index.html
+\end_layout
+
+\begin_layout Plain Layout
+http://www.foxnews.com/entertainment/music/index.html
+\end_layout
+
+\begin_layout Plain Layout
+http://www.cmt.com/news/
+\end_layout
+
+\begin_layout Plain Layout
+http://www.cbn.com/cbnnews/
+\end_layout
+
+\begin_layout Plain Layout
+http://news.google.com/news/section?topic=b
+\end_layout
+
+\begin_layout Plain Layout
+http://www.economist.com/
+\end_layout
+
+\begin_layout Plain Layout
+http://www.forbes.com/
+\end_layout
+
+\begin_layout Plain Layout
+http://www.drudgereportarchives.com/dsp/links_recap.htm
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+
+\emph on
+Everybody's Google
+\emph default
+ Persona 3 Information
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\begin_inset Float table
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Tabular
+<lyxtabular version="3" rows="4" columns="2">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Age
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+36
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Gender
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Female
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Location
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Santa Cruz, CA
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Seed URLs
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "75col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+\paragraph_spacing single
+http://www.npr.org/sections/politics/
+\end_layout
+
+\begin_layout Plain Layout
+http://www.npr.org/sections/us/
+\end_layout
+
+\begin_layout Plain Layout
+http://www.npr.org/music/
+\end_layout
+
+\begin_layout Plain Layout
+http://rhizome.org/editorial/
+\end_layout
+
+\begin_layout Plain Layout
+http://sfmoma.tumblr.com/
+\end_layout
+
+\begin_layout Plain Layout
+http://front.moveon.org/
+\end_layout
+
+\begin_layout Plain Layout
+http://front.moveon.org/category/war-on-women/
+\end_layout
+
+\begin_layout Plain Layout
+https://www.google.com/search?q=veganism
+\end_layout
+
+\begin_layout Plain Layout
+http://www.themarthablog.com/
+\end_layout
+
+\begin_layout Plain Layout
+http://family.go.com/
+\end_layout
+
+\begin_layout Plain Layout
+http://www.momcentral.com/blogs
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+
+\emph on
+Everybody's Google
+\emph default
+ Persona 4 Information
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
 \end_inset
 
 
 \end_layout
 
 \begin_layout Section
-Github Projects (Software Created)
+Github Projects
 \end_layout
 
-\begin_layout Itemize
+\begin_layout Subsection*
+Everybody's Google
+\end_layout
+
+\begin_layout Standard
+The code for the 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+everybodysgoogle.com
+\end_layout
+
+\end_inset
+
+ is available at 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+https://github.com/jessefulton/everybodys-google
+\end_layout
+
+\end_inset
+
+.
+ The code for the original version of the project (consisting of a website
+ and Chrome browser plugin) may be viewed at 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+https://github.com/jessefulton/google-views
+\end_layout
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Subsection*
 OCR
 \end_layout
 
-\begin_deeper
-\begin_layout Itemize
+\begin_layout Standard
+Node Captchafy (
 \begin_inset Flex URL
-status open
+status collapsed
+
+\begin_layout Plain Layout
+
+https://github.com/jessefulton/node-captchafy
+\end_layout
+
+\end_inset
+
+) is the JavaScript library used to generate CAPTCHA styled images.
+ The source code for 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+webpagesforhumans.com
+\end_layout
+
+\end_inset
+
+ can be found at 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+https://github.com/jessefulton/webpages-for-humans
+\end_layout
+
+\end_inset
+
+.
+ Code used to CAPTCHA-fy PDF files can be downloaded from 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+https://github.com/jessefulton/phantomjs-hocr
+\end_layout
+
+\end_inset
+
+.
+ And the updated code for the web interface hosted at 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+nodecaptcha.herokuapp.com
+\end_layout
+
+\end_inset
+
+ is on github at 
+\begin_inset Flex URL
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -4003,12 +4203,18 @@ https://github.com/jessefulton/node-captcha-site
 
 \end_inset
 
-
+.
 \end_layout
 
-\begin_layout Itemize
+\begin_layout Subsection*
+Miscellaneous
+\end_layout
+
+\begin_layout Standard
+Two other versions of the PDF CAPTCHA-fication software were created.
+ One of the abandoned projects is at 
 \begin_inset Flex URL
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -4017,12 +4223,11 @@ https://github.com/jessefulton/tesseract-pdf
 
 \end_inset
 
-
-\end_layout
-
-\begin_layout Itemize
+.
+ The second one is not online, but was a result of work contributed to OpenFrame
+works at 
 \begin_inset Flex URL
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -4031,12 +4236,11 @@ https://github.com/jessefulton/ofxTesseract
 
 \end_inset
 
-
-\end_layout
-
-\begin_layout Itemize
+.
+ Finally, an abandoned Java version of the CAPTCHA software can be found
+ at 
 \begin_inset Flex URL
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -4045,10 +4249,36 @@ https://github.com/jessefulton/captcha-servlet
 
 \end_inset
 
+.
+\end_layout
+
+\begin_layout Subsection*
+Thesis Paper
+\end_layout
+
+\begin_layout Standard
+A copy of this paper in its raw and completely incoherent forms can be found
+ at 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+https://github.com/jessefulton/thesis-paper
+\end_layout
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
 
 \end_layout
 
-\end_deeper
 \begin_layout Section
 Software and Frameworks Used
 \end_layout
@@ -4108,6 +4338,10 @@ Git/Github
 
 \end_layout
 
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
 \begin_layout Part*
 Literary Review/Context/Why does this matter?
 \end_layout
@@ -4116,11 +4350,11 @@ Literary Review/Context/Why does this matter?
 Background - move this to context/rationale section of paper?
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 Notes
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 Traditionally, the internet has been run as an 
 \begin_inset Quotes eld
 \end_inset
@@ -4148,14 +4382,14 @@ Most Popular
 Why Google?
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 Code is law.
  If Google is our gateway to the world of the Internet, it’s laws and rules
  influence how we can interact with the Internet – it directly shapes our
  understanding of the space of the Internet.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 There is no “public space” on the Internet – everything is privatized public
  space.
  On the Internet, the gatekeepers of information are search engines, the
@@ -4176,7 +4410,7 @@ n we encounter on the Internet.
 What is Google?
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 (search, gmail, ads, analytics, Google+) - they are everywhere.
  If a site has these installed, your are actually sending data to Google
  which they use to tune and train their algorithms.
@@ -4187,7 +4421,7 @@ What is Google?
 How Google search works
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 citation analysis
 \end_layout
 
@@ -4207,7 +4441,7 @@ Profit
 Personalization
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 When I search for 
 \begin_inset Quotes eld
 \end_inset
@@ -4284,7 +4518,7 @@ free
  complex model of each Google user.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 Search personalization - Google is presenting a different view of the world
  to each individual user.
  This is used by *lots* of websites - Amazon markets specific items to users
@@ -4300,7 +4534,7 @@ g products, health equipment, etc.
  Their product is sales.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 Google's product is information.
  Google places what it *thinks* are relevant to each user higher int he
  search results.
@@ -4312,7 +4546,7 @@ Google's product is information.
  Santorum queries
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 Library - freedom to explore and roam.
  Find information you're looking for, but also information you weren't necessari
 ly looking for.
@@ -4323,12 +4557,12 @@ ly looking for.
  exposed to online.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 New Google search? Personalization, search + your world, search objects/web/netw
 ork.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 As digital technologies become increasingly ubiquitous and accessible, digital
  resources are quickly becoming the primary resources for information and
  knowledge gathering.
@@ -4345,7 +4579,7 @@ e is mediated almost exclusively through privatized companies, is inherently
  process.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 Black box - nobody really knows what's going on, including Google engineers.
  And that's been their response - we're looking at 1000's of different things.
  Play it off as a 
@@ -4367,14 +4601,14 @@ have
 Digitization
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 Many people rely on Google search to find information, and often-times the
  Wikipedia page for a particular subject is one of the top three search
  results (or now is often being integrated into Google's Knowledge Graph
  results.)
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 Difference between web pages & traditional resources (TV, newspaper, magazine,
  radio) is that the web is always there, always available, yet is always
  changing.
@@ -4384,7 +4618,7 @@ Difference between web pages & traditional resources (TV, newspaper, magazine,
  by high speed internet and wide accessibility to the Internet.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 The digital and the physical are inherently intertwined.
  The digital largely consists of representations of physical objects, such
  as photographs, 3d models or environments, textbooks or journals.
@@ -4393,14 +4627,14 @@ The digital and the physical are inherently intertwined.
  of wires, switches, and servers.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 The digital makes the distribution and production on a massive scale almost
  free.
  Once a product is created, it can be copied over and over again, with no
  degradation of quality.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 Webpages for Humans questions our notion of archiving and digital culture.
  Physical objects -> digital representations -> ? What happens to the digital
  representations.
@@ -4415,7 +4649,7 @@ ions, how do we prepare for the inevitable evolution (of technology mediated
  communication) or disappearance of the current digital form?
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 Various extremes - experience everything digitally vs.
  eliminate all digital.
  But even somewhere in between (which is likely where we are /where we're
@@ -4433,7 +4667,7 @@ outages
  affect us culturally?
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 The Bible is by far the most-read book in the world.
  When searching for eBook versions of the bible, the three main resources
  for eBooks produce very different results, based upon price, and version
@@ -4457,7 +4691,7 @@ The Bible is by far the most-read book in the world.
  Link analysis, weight, reputation/reliability...
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 This is just one example.
  I did not use this as an example in the MFA show because I was trying to
  avoid as much as possible making the project about the content of the pages.
@@ -4465,19 +4699,19 @@ This is just one example.
  religion moreso than digitization and digital culture.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 What about speech to text? Other ways of automating digitization?
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 CAPTCHA
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 Google Books project & reCAPTCHA...
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 The webpages we view are visual representations of an underlying structure,
  and underlying code, syntax, and semantics.
  A parser/interpreter takes codes and turns it into a visual form.
@@ -4489,7 +4723,7 @@ and
  in the underlying code, and replacing it with images/DataURIs.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 WpfH - books were never intended to be read by machines.
  Webpages are both - designed for machine readability (code) but presented
  to humans (presentation/webpage) - how do the two tie together? Interpretation
@@ -4512,7 +4746,7 @@ understand
 Digital Interface
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 Non-interactivity as interaction (zen mirror?)
 \end_layout
 
@@ -4520,7 +4754,7 @@ Non-interactivity as interaction (zen mirror?)
 Software
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 What is software? Software is what makes hardware run.
  Hardware without software is just scrap, physical objects which don't do
  anything.
@@ -4535,7 +4769,7 @@ p) - the experience of using a computer.
 Search & Algorithms
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 Search engines are software.
  Their main algorithm is a function which filters information from a database.
  In Lev Manovich’s terms, the search engine is the narrative (the algorithm)
@@ -4556,7 +4790,7 @@ Search engines constitute a powerful source of access and accessibility
  (Introna and Nissenbaum 3-4) 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 This algorithm was written by a software engineer, or more likely a team
  of software engineers.
  I’m exploring the database of the Internet through their narrative.
@@ -4573,7 +4807,7 @@ This algorithm was written by a software engineer, or more likely a team
 Democracy in the Digital Age (Digital Democracy)
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 OCR, surveillance?
 \end_layout
 
@@ -4585,17 +4819,17 @@ Autonomy in the Digital Age (Digital Autonomy)
 Culture in the Digital Age (Digital Culture/Digitization of Culture)
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 ART
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 The two projects are the experience and the engagement with the ideas.
  The pieces for the MFA show are the condensation of the idea - physical
  objects/images which you can simply look at and get the gist of the idea.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 I don't want to force people to contemplate or think about these ideas,
  I want these ideas to force people to contemplate in general and think
  of these issues on a larger scale.
@@ -4612,14 +4846,14 @@ projects
  
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 The website is an interface into the data and information produced by the
  software.
  It's the gateway to understanding and approaching these ideas from a non-techni
 cal standpoint.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 Can art exist in the Cubicle? In discussing The White Cube, Brian O'Doherty
  says 
 \begin_inset Quotes eld
@@ -4670,7 +4904,7 @@ things do not become art in a space where powerful ideas about art do not
  
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 Does that mean I don't make art? Would putting a computer with an Internet
  browser inside a gallery automatically transform that into art? If so,
  what is the art and what has become of the computer and the browser? 
@@ -4727,7 +4961,7 @@ key "WhiteCube"
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 Being in a 
 \begin_inset Quotes eld
 \end_inset
@@ -4752,7 +4986,7 @@ museum mindset
 Dialogue
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 Newstweek by Julian Oliver & Danja Vasiliev Newstweek is a “tactical device
  for altering reality on a per-network basis” by enabling the manipulation
  of news sites and articles being read on WiFi hotspots.
@@ -4761,7 +4995,7 @@ Newstweek by Julian Oliver & Danja Vasiliev Newstweek is a “tactical device
  
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 Google Alarm by Jamie Wilkinson Google Alarm is a web browser extension
  which visually and audibly alerts users every time their personal information
  is sent to Google’s servers.
@@ -4770,7 +5004,7 @@ Google Alarm by Jamie Wilkinson Google Alarm is a web browser extension
  largest corporations.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 The Injunction Generator by UBERMORGEN.COM The Injunction Generator allows
  users to generate and send authentic-looking cease-and-desist letters to
  domain owners.
@@ -4781,7 +5015,7 @@ The Injunction Generator by UBERMORGEN.COM The Injunction Generator allows
  how much power can be attained with software.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 No Fun by Eva and Franco Mattes aka 0100101110101101.ORG Chat Roulette is
  a website which randomly pairs anonymous users together in one-on-one video
  chats.
@@ -4793,7 +5027,7 @@ No Fun by Eva and Franco Mattes aka 0100101110101101.ORG Chat Roulette is
  
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 The Longest Poem in the World by Andrei Gheorghe The Longest Poem in the
  World is a continuously evolving poem created by aggregating and pairing
  rhyming Tweets.
@@ -4809,20 +5043,20 @@ The Longest Poem in the World by Andrei Gheorghe The Longest Poem in the
 Dialogue
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 Aram Bartholl - Are you Human (Physicality of digital artifacts)
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 Bicycle built for 2000 (Humanification/appropriation of digital culture,
  or artifacts created specifically for digital media, transformed)
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 Google Alarm/Ffffuck Google (surveillance economy)
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 Newstweek? Shaved Beieber? (culture jamming, censorship through selective
  filtering)
 \end_layout
@@ -4831,7 +5065,7 @@ Newstweek? Shaved Beieber? (culture jamming, censorship through selective
 Rationale (from original proposal)
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 I’m interested in exploring issues of transparency, autonomy, and agency
  with regards to technology, speciﬁcally the Internet or networked devices.
  As the power, aﬀordability, and ubiquity of digital technologies exponentially
@@ -4849,7 +5083,7 @@ I’m interested in exploring issues of transparency, autonomy, and agency
  and unfair market inﬂuence[6].
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 The work for my MFA project largely focuses around Google, primarily because
  it is such a large part of my own personal Internet experience.
  I’m constantly connected to my Gmail, Google Calendar, Google Search not
@@ -4859,7 +5093,7 @@ The work for my MFA project largely focuses around Google, primarily because
  knows me better than does my own mother.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 For a while now, Google has been a target of privacy advocate, scholars,
  and artists.
  At Transmediale 2010, F.A.T.
@@ -4883,7 +5117,7 @@ ted/Bar-Ilan_Judit_comparing_rankings.pdf 5rowser add-ons, open source software,
  omit.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 Another related project is Newstweek 11 by Julian Oliver and Danja Vasiliev.
  Newstweek is a device which hijacks “Free WiFi” Hotspots by posing as the
  Hotspot’s router.
@@ -4895,7 +5129,7 @@ Another related project is Newstweek 11 by Julian Oliver and Danja Vasiliev.
  your screen.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 With regards to the “performance” aspect of Everybody’s Google (users becoming
  actors in the story), there are two online pieces which I am reminded of:
  I’m Here and There 12 by Jonas Lund and KeyTweeter 13 by Kyle McDonald.
@@ -4906,7 +5140,7 @@ With regards to the “performance” aspect of Everybody’s Google (users beco
  public/private and real/virtual.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 Web Pages for Humans addresses the codiﬁcation of culture.
  reCAPTCHA is a project (now run by Google) used to help “digitize” books,
  newspapers, and documents by exploiting human labour to decipher words
@@ -4920,7 +5154,7 @@ Web Pages for Humans addresses the codiﬁcation of culture.
  be read by humans.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 Aram Barthol did something related with his project Are you Human? 14 In
  essence, CAPTCHAs demonstrate the human intervention and cultural knowldge
  required to decipher signs of written language.
@@ -4933,7 +5167,7 @@ Aram Barthol did something related with his project Are you Human? 14 In
  depicted, but rather the processes of scanning, distorting, and deciphering.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 Finally, Bicycle Built for Two Thousand 15 by Aaron Koblin and Daniel Massey
  is a great example of reintroducing the human element back into a computer’s
  representation culture.
@@ -4944,27 +5178,27 @@ Finally, Bicycle Built for Two Thousand 15 by Aaron Koblin and Daniel Massey
  a human-ized version of a digital artifact.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 9 http://fffff.at/fuck-google/ 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 10 http://jamiedubs.com/googlealarm/ 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 11 http://newstweek.com/overview 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 12 http://imhereandthere.com/ 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 13 http://kylemcdonald.net/ 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 14 http://datenform.de/areyouhumaneng.html 
 \end_layout
 
@@ -5349,7 +5583,7 @@ ization)
 Projects
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 Focus on the 
 \series bold
 \emph on
@@ -5612,6 +5846,11 @@ These projects deal with the internet.
 \end_layout
 
 \end_deeper
+\end_inset
+
+
+\end_layout
+
 \begin_layout Standard
 \begin_inset Newpage pagebreak
 \end_inset
@@ -5624,17 +5863,11 @@ Figures
 \end_layout
 
 \begin_layout Standard
-\begin_inset Newpage clearpage
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 \begin_inset Float figure
+placement H
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Box Frameless
@@ -5685,10 +5918,11 @@ Everybody's Google
 \end_layout
 
 \begin_layout Standard
+\noindent
 \begin_inset Float figure
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Box Frameless
@@ -5749,7 +5983,7 @@ Everybody's Google
 \begin_inset Float figure
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \noindent
