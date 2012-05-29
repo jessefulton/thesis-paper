@@ -1510,12 +1510,11 @@ A Tangent: The Cubicle vs.
  The White Cube
 \end_layout
 
-\begin_layout Standard
+\begin_layout Quote
 \begin_inset Quotes eld
 \end_inset
 
-The wall itself has no intrinsic esthetic; it is simply a necessity for
- an upright animal.
+Things become art in a space where powerful ideas about art focus on them.
 \begin_inset Quotes erd
 \end_inset
 
@@ -1526,7 +1525,7 @@ status collapsed
 \begin_layout Plain Layout
 \begin_inset CommandInset citation
 LatexCommand citet
-after "16"
+after "14"
 key "WhiteCube"
 
 \end_inset
@@ -1536,7 +1535,7 @@ key "WhiteCube"
 
 \end_inset
 
-
+ 
 \end_layout
 
 \begin_layout Standard
@@ -1567,7 +1566,7 @@ how does it work?
 
  And once that puzzle has been solved, it's on to the next one
 \begin_inset Foot
-status open
+status collapsed
 
 \begin_layout Plain Layout
 Obviously this is not always the case, but it occurs frequently enough that
@@ -1596,21 +1595,12 @@ Pieces encountered online (day-to-day browsing) or in a public space seem
 \end_layout
 
 \begin_layout Standard
-The second issue applies specifically to Internet-based art or net.art.
-\end_layout
-
-\begin_layout Standard
-The website is an interface into the data and information produced by the
- software.
- It's the gateway to understanding and approaching these ideas from a non-techni
-cal standpoint.
-\end_layout
-
-\begin_layout Standard
-The software I had created for the MFA show (and the majority of the software
+The second issue is one which I believe often applies to Internet-based
+ art or net.art.
+ The software I had created for the MFA show (and the majority of the software
  that I create) is not intended to be shown in The White Cube, but rather
  the Cubicle.
- I want each visitor to be coming from the 
+ It was designed to be encountered with an 
 \begin_inset Quotes eld
 \end_inset
 
@@ -1618,23 +1608,13 @@ internet mindset
 \begin_inset Quotes erd
 \end_inset
 
- - having just performed a google search, or filled out a CAPTCHA.
- Decontextualizing the experience of being 
-\series bold
-on
-\series default
- the internet, and moving that to a gallery space would radically change
- the mindset and the overall interaction with the pieces.
-\end_layout
-
-\begin_layout Standard
-Does that mean I don't make art? Would putting a computer with an Internet
- browser inside a gallery automatically transform that into art? If so,
- what is the art and what has become of the computer and the browser? 
+ - having just performed a google search or filled out a CAPTCHA.
+ A key component to an artwork's aura is its 
 \begin_inset Quotes eld
 \end_inset
 
-Things become art in a space where powerful ideas about art focus on them.
+presence in time and space, its unique existence at the place where it happens
+ to be.
 \begin_inset Quotes erd
 \end_inset
 
@@ -1645,8 +1625,7 @@ status collapsed
 \begin_layout Plain Layout
 \begin_inset CommandInset citation
 LatexCommand citet
-after "14"
-key "WhiteCube"
+key "Benjamin"
 
 \end_inset
 
@@ -1655,58 +1634,42 @@ key "WhiteCube"
 
 \end_inset
 
-
-\end_layout
-
-\begin_layout Standard
-Being in a 
+ However, the near-real-time data-transmission made possible by Internet
+ collapses our ideas of space and time.
+ 
 \begin_inset Quotes eld
 \end_inset
 
-museum mindset
+Speed destroys space, it erases temporal distance.
+ In both cases, the mechanism of physiological percption is altered.
 \begin_inset Quotes erd
 \end_inset
 
- and being forced to interact with a piece through the interface we associate
- with work or leisure changes the essence of a web-based piece.
- If art is about the artist's intent, then placing something which was not
- created for a museum or gallery space within that context is just as absurd
- as saying that viewing a 3D model of the David inside of Google Sketchup
- is the same as viewing it through an augmented reality browser in your
- living room.
- Even if the visual representation of the David were reproduced perfectly,
- it's essence is radically different.
- 
-\end_layout
 
-\begin_layout Standard
-\begin_inset Quotes eld
-\end_inset
-
-Even the most perfect reproduction of a work of art is lacking in one element:
- its presence in time and space, its unique existence at the place where
- it happens to be.
-\begin_inset Quotes erd
-\end_inset
-
- 
 \begin_inset Foot
 status collapsed
 
 \begin_layout Plain Layout
-Benjamin, Walter.
- The Work of Art in the Age of Mechanical Reproduction.
- 1935
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Huyssen"
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
 
- I would argue that net.art and Internet-based works collapse the distinction
- between space and time, ultimately one experiences these types of works
- in a virtual space constructed within ones mind.
- In this sense, the viewer's state of mind is essential, and the cultural
- notions of what a museum is, and how to behave in a gallery - these radically
- alter the construction of this virtual space.
+ With Internet-based works, the notion of space and time exists largely
+ in a virtual form, constructed within ones own mind.
+ In this sense, an altered state of mind changes the space in which the
+ piece is encountered.
+ Eliminating the experience of being 
+\series bold
+on
+\series default
+ the internet ultimately decontextualizes the piece.
 \end_layout
 
 \begin_layout Standard
@@ -1715,36 +1678,17 @@ I have ideas which are compelling to me, and questions I try to grapple
  Software is a difficult thing to present in an (traditionally) aesthetically
  pleasing and approachable way.
  Perhaps code can have an aesthetic form, however, I'm not so much concerned
- with the code or its structure as much as I am at the exploration of the
- underlying ideas and goals which the code is accomplishing.
- I'm interested in the processes the code represents.
- In that sense, although the code is the large majority of the work I have
- produced, it is not the only form in which I see these ideas manifesting.
- And it's difficult to bring focus back to the object when social constructs
- inform us to focus on the object of contemplation when inside a gallery.
- I'm more concerned with processes and systems than I am with objects.
- But this is not impossible, and it is something I'm learning and experimenting
- with.
- The two projects are the experience and the engagement with the ideas.
- The pieces for the MFA show are the condensation of the idea - physical
- objects/images which you can simply look at and get the gist of the idea.
-\end_layout
-
-\begin_layout Standard
-I don't want to force people to contemplate or think about these ideas,
- I want these ideas to force people to contemplate in general and think
- of these issues on a larger scale.
- On a more personal/private level/setting.
- Creating 
-\series bold
-pieces
-\series default
- for the MFA show, separate yet related to the 
-\series bold
-projects
-\series default
-.
- 
+ with the code itself as much as I am with the processes and ideas the code
+ represents.
+ Although I have primarily produced software for these projects, code is
+ not the only form in which I see these ideas manifesting.
+ I'm more concerned with processes and systems than I am with objects, but
+ social constructs inform us to focus on the object of contemplation when
+ inside a gallery.
+ Rather than fight those constructs, I've experimented with them and created
+ physical objects and images for the MFA show.
+ The goal was to condense the ideas into forms which could later expand
+ and develop.
 \end_layout
 
 \begin_layout Section
@@ -4639,6 +4583,169 @@ Autonomy in the Digital Age (Digital Autonomy)
 
 \begin_layout Section*
 Culture in the Digital Age (Digital Culture/Digitization of Culture)
+\end_layout
+
+\begin_layout Standard
+ART
+\end_layout
+
+\begin_layout Standard
+The two projects are the experience and the engagement with the ideas.
+ The pieces for the MFA show are the condensation of the idea - physical
+ objects/images which you can simply look at and get the gist of the idea.
+\end_layout
+
+\begin_layout Standard
+I don't want to force people to contemplate or think about these ideas,
+ I want these ideas to force people to contemplate in general and think
+ of these issues on a larger scale.
+ On a more personal/private level/setting.
+ Creating 
+\series bold
+pieces
+\series default
+ for the MFA show, separate yet related to the 
+\series bold
+projects
+\series default
+.
+ 
+\end_layout
+
+\begin_layout Standard
+The website is an interface into the data and information produced by the
+ software.
+ It's the gateway to understanding and approaching these ideas from a non-techni
+cal standpoint.
+\end_layout
+
+\begin_layout Standard
+Can art exist in the Cubicle? In discussing The White Cube, Brian O'Doherty
+ says 
+\begin_inset Quotes eld
+\end_inset
+
+Things become art in a space where powerful ideas about art focus on them.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset CommandInset citation
+LatexCommand citet
+after "14"
+key "WhiteCube"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ However, affirming the inverse
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+
+\emph on
+\begin_inset Quotes eld
+\end_inset
+
+things do not become art in a space where powerful ideas about art do not
+ focus on them
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ is a logical fallacy.
+ 
+\end_layout
+
+\begin_layout Standard
+Does that mean I don't make art? Would putting a computer with an Internet
+ browser inside a gallery automatically transform that into art? If so,
+ what is the art and what has become of the computer and the browser? 
+\begin_inset Quotes eld
+\end_inset
+
+Things become art in a space where powerful ideas about art focus on them.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset CommandInset citation
+LatexCommand citet
+after "14"
+key "WhiteCube"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ O'Doherty continues, 
+\begin_inset Quotes eld
+\end_inset
+
+The wall itself has no intrinsic esthetic; it is simply a necessity for
+ an upright animal.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset CommandInset citation
+LatexCommand citet
+after "16"
+key "WhiteCube"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Being in a 
+\begin_inset Quotes eld
+\end_inset
+
+museum mindset
+\begin_inset Quotes erd
+\end_inset
+
+ and being forced to interact with a piece through the interface we associate
+ with work or leisure changes the essence of a web-based piece.
+ If art is about the artist's intent, then placing something which was not
+ created for a museum or gallery space within that context is just as absurd
+ as saying that viewing a 3D model of the David inside of Google Sketchup
+ is the same as viewing it through an augmented reality browser in your
+ living room.
+ Even if the visual representation of the David were reproduced perfectly,
+ it's essence is radically different.
+ 
 \end_layout
 
 \begin_layout Part*
