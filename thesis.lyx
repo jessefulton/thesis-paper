@@ -709,13 +709,12 @@ The Library of Babel
  A blizzard of information creates a white-out.
  A plethora of information is useless without being able to filter through
  it.
- Enter Google.
 \end_layout
 
 \begin_layout Standard
 Much like the Borges' Library, the World Wide Web is an enormous collection
  of independent documents containing all types of information - some useful,
- most not so much.
+ but most not so much.
  With such an overabundance of data, we need a guide.
  "If Herbert Simon was right in 1971 when he dclared attention a scarce
  resource consumed by an overabundance of information, we have to recognize
@@ -769,12 +768,10 @@ And what better way to decide which is most relevant, than by that which
 \end_inset
 
 , it is the best search engine.
- But Google is also a company - a company which provides a number of other
- services, all of which revolve around one thing: information.
+ But Google is also a company, and one which specializes in information.
  Google controls, creates, and distributes information in a multitude of
  forms.
- They are primarily known for indexing web sites, but they're also indexing
- videos
+ While primarily known for indexing web sites, Google als indexes videos
 \begin_inset Foot
 status collapsed
 
@@ -939,15 +936,15 @@ http://images.google.com/
 status collapsed
 
 \begin_layout Plain Layout
-And even
+Including most recently,
 \emph on
  
 \emph default
-the concept 
+the concept of 
 \emph on
 things
 \emph default
- with the release of Google Knowledge Graph (
+ (
 \begin_inset Flex URL
 status collapsed
 
@@ -1005,34 +1002,7 @@ http://www.youtube.com/watch?v=xLSTfGZAJDE
 
 .
  In short, Google is indexing culture, and in the process of indexing culture,
- it is making culture available, and influencing the future direction of
- culture.
- In short, 
-\begin_inset Quotes eld
-\end_inset
-
-Google is designed to absorb and respond to culture as much as it inﬂuences
- culture.
-\begin_inset Quotes erd
-\end_inset
-
-
-\begin_inset Foot
-status open
-
-\begin_layout Plain Layout
-\begin_inset CommandInset citation
-LatexCommand citet
-key "Googlization"
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
+ it is making culture available, and influencing its trajectory.
 \end_layout
 
 \begin_layout Standard
@@ -1075,6 +1045,41 @@ key "Googlization"
 \begin_layout Standard
 Google personalizing search - personalization applies to ads, news, youtube
  suggestions...
+\end_layout
+
+\begin_layout Standard
+As digital technologies become increasingly ubiquitous and accessible, digital
+ resources are quickly becoming the primary resources for information and
+ knowledge gathering.
+ While the Internet is largely viewed as embracing democratic ideals and
+ guaranteeing equal access for all, to all, the fact that our Internet experienc
+e is mediated almost exclusively through privatized companies, is inherently
+ undemocratic.
+ In order to provide "relevant" information to individual users (and increase
+ revenues), companies like Google and Amazon filter content and information
+ through black box algorithms.
+ End users have little to no control over which items or information are
+ shown to them, or in what order; and because these algorithms are trade
+ secrets, users also cannot have an understanding of the filtering and selection
+ process.
+\end_layout
+
+\begin_layout Standard
+Black box - nobody really knows what's going on, including Google engineers.
+ And that's been their response - we're looking at 1000's of different things.
+ Play it off as a 
+\begin_inset Quotes eld
+\end_inset
+
+trade secret
+\begin_inset Quotes erd
+\end_inset
+
+ - the don't 
+\series bold
+have
+\series default
+ to tell anybody what they're doing behind the scenes.
 \end_layout
 
 \begin_layout Standard
@@ -1198,7 +1203,7 @@ For a while now, Google has been a target of privacy advocate, scholars,
  software, theoretical musings and direct actions aimed at creating an awareness
  of the role Google plays in our daily lives.”
 \begin_inset Foot
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Flex URL
@@ -1219,7 +1224,7 @@ http://fffff.at/fuck-google/
  One of the notable projects to come out of this eﬀort was Jamie Wilkinson’s
  Google Alarm extension for Firefox
 \begin_inset Foot
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Flex URL
@@ -1255,7 +1260,7 @@ http://jamiedubs.com/googlealarm/
 \begin_layout Standard
 Aram Barthol did something related with his project Are you Human?
 \begin_inset Foot
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Flex URL
@@ -1287,7 +1292,7 @@ http://datenform.de/areyouhumaneng.html
 \begin_layout Standard
 Finally, Bicycle Built for Two Thousand 
 \begin_inset Foot
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Flex URL
@@ -1836,8 +1841,7 @@ height "0.5pt"
 \end_layout
 
 \begin_layout Subsection
-A Tangent: The Cubicle vs.
- The White Cube
+A Tangent: The Cubicle and The White Cube
 \end_layout
 
 \begin_layout Quote
@@ -2797,6 +2801,34 @@ correct-ness
 Ocular Character Recognition
 \end_layout
 
+\begin_layout Quote
+\begin_inset Quotes eld
+\end_inset
+
+Google is designed to absorb and respond to culture as much as it inﬂuences
+ culture.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Googlization"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Standard
 What is chosen to be digitized? What 
 \emph on
@@ -3661,6 +3693,11 @@ While documenting, we timed the printer to dispense paper as people were
 
 \begin_layout Part
 Conclusion
+\end_layout
+
+\begin_layout Standard
+Just scratching the surface - hardly talked about location, language, how
+ these affect results and items returned/made available/presented.
 \end_layout
 
 \begin_layout Standard
