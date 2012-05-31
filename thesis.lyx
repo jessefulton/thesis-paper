@@ -64,7 +64,7 @@
 \begin_body
 
 \begin_layout Title
-The Googlization of Digital Culture
+Google: The Ultimate Cultural Prosumer
 \end_layout
 
 \begin_layout Author
@@ -456,6 +456,36 @@ Sol Lewitt
 status open
 
 \begin_layout Plain Layout
+TODOS: Google = it vs.
+ them
+\end_layout
+
+\begin_layout Plain Layout
+TODOS: 
+\begin_inset Quotes eld
+\end_inset
+
+seed
+\begin_inset Quotes erd
+\end_inset
+
+ URLs --> subscribed URLs
+\end_layout
+
+\begin_layout Plain Layout
+TODOS: Google search vs.
+ Google Search
+\end_layout
+
+\begin_layout Plain Layout
+TODOS: capitalizations (Web, WWW, Internet)
+\end_layout
+
+\begin_layout Plain Layout
+TODOS: 
+\end_layout
+
+\begin_layout Plain Layout
 \begin_inset Quotes eld
 \end_inset
 
@@ -704,18 +734,58 @@ In his short story
 \emph on
 The Library of Babel
 \emph default
-, Jorge Luis Borges clearly illustrates how physical access to information
- does not bestow upon one knowledge.
+, Jorge Luis Borges clearly illustrates how physical access to an abundance
+ of information does not bestow upon one knowledge.
  A blizzard of information creates a white-out.
- A plethora of information is useless without being able to filter through
- it.
+ A plethora of information is useless without being able to filter out the
+ useful from the useless, the genius from the insane, the insightful from
+ the nonsense.
 \end_layout
 
 \begin_layout Standard
 Much like the Borges' Library, the World Wide Web is an enormous collection
- of independent documents containing all types of information - some useful,
+ of independent documents on topics containing nearly every type of information
+ imaginable - and some almost unimaginable - some of it incredibly useful,
  but most not so much.
- With such an overabundance of data, we need a guide.
+ While the actual size of the Internet is near-impossible to calculate,
+ the Library of Congress's web archive, a partial copy of the Web, is over
+ 285 petabytes
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+1 petabyte = 1,000,00 gigabytes
+\end_layout
+
+\end_inset
+
+
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://www.loc.gov/webarchiving/faq.html#faqs_05
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+.
+ We do not have the mental resources as individuals to sift through so much
+ content ourselves.
+ In a society suffering from a severe case of information overload, how
+ we focus our attention must be managed closely.
+ With such an overabundance of data on the Web, we need a guide, a search
+ engine.
  "If Herbert Simon was right in 1971 when he dclared attention a scarce
  resource consumed by an overabundance of information, we have to recognize
  that ranking is not only very useful but also inevitable...
@@ -737,13 +807,9 @@ key "Rieder"
 
 \end_inset
 
-
-\end_layout
-
-\begin_layout Standard
-Thankfully, we have Google
+ Thankfully, we have Google
 \begin_inset Foot
-status collapsed
+status open
 
 \begin_layout Plain Layout
 Yes, there are other alternative search engines, but given I have decided
@@ -754,24 +820,18 @@ Yes, there are other alternative search engines, but given I have decided
 
 \end_inset
 
- as our guide.
- Google is a search engine, and judging by popularity
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-And what better way to decide which is most relevant, than by that which
- is most often used? (Surely, if attention is a scarce resource, then popularity
- must be an accurate measure of quality.)
+.
+ And if popularity is any indication of quality, Google is the best search
+ engine out there.
 \end_layout
 
-\end_inset
-
-, it is the best search engine.
- But Google is also a company, and one which specializes in information.
+\begin_layout Standard
+But Google is much more than a search engine.
+ It is a company which specializes in indexing, harvesting, and disseminating
+ information.
  Google controls, creates, and distributes information in a multitude of
- forms.
- While primarily known for indexing web sites, Google als indexes videos
+ forms, and it does this all incredibly well.
+ While primarily known for indexing web sites, Google also indexes videos
 \begin_inset Foot
 status collapsed
 
@@ -961,22 +1021,25 @@ http://www.google.com/insidesearch/features/search/knowledge.html
 \end_inset
 
 .
- We can search congressional proceedings by keyword or phrase because Google
- indexes the closed captioning for C-SPAN videos uploaded to YouTube.
- We can ask Google for the record store closest to our physical location.
- Movie times & locations, flights, etc...
- Or if we don't want to go to a 
-\begin_inset Quotes eld
+ Google makes it possible to find the exact frame in a video when a particular
+ phrase is uttered
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Youtube indexes closed-captioning data which includes a textual transcript
+ of all dialogue in the video mapped to timestamps in the feed
+\end_layout
+
 \end_inset
 
-real
-\begin_inset Quotes erd
-\end_inset
-
- record store, we can look up music and songs on Google Maps and then purchase
- them from Google as well.
- We can have google email us the automatically transcribed text from voice
- mails loved ones may leave us.
+.
+ Google makes it possible to find the best gluten-free Pizza shop nearby
+ and can then give us turn by turn directions optimized for our mode of
+ transportation.
+ Google can manage our stock portfolio; it can inform us of breaking news;
+ it can email us transcriptions of voice mails left on our home phones when
+ we're not around.
  We can even use Google to analyze stocks and invest in ours and our children's
  futures.
  Google can even play the role of tour guide if you drive a BMW with ConnectedDr
@@ -1001,8 +1064,26 @@ http://www.youtube.com/watch?v=xLSTfGZAJDE
 \end_inset
 
 .
+ The first step in making this all possible is to index, store, and analyze
+ these things: music, films, books, locations, restaurants, opinions, events,
+ news, economic information, etc.
  In short, Google is indexing culture, and in the process of indexing culture,
- it is making culture available, and influencing its trajectory.
+ it is making culture available, filtering it and influencing its trajectory.
+\end_layout
+
+\begin_layout Section
+New Section? (Why Google? Google as consumers/curator of culture; Google
+ as producer/arbiter of culture) Foot #4?
+\end_layout
+
+\begin_layout Standard
+Despite the popular misconception of the Internet embracing democratic ideals,
+ the Internet is inherently a privatized public space.
+ There currnetly is no way to surf the Weorld Wide Web in a way outisde
+ of the control of private corporations - be they ISPs, hardware manufacturers,
+ software/browser companies, or corporation providing digital services online.
+ The notion of a true public space does not (and cannot) exist on the Internet
+ as we know it today.
 \end_layout
 
 \begin_layout Standard
@@ -1043,6 +1124,14 @@ key "Googlization"
 \end_layout
 
 \begin_layout Standard
+But unlinke most companies providing similar services (at least prior to
+ the emergence of the information economy), Google provides all of these
+ services free of charge.
+ Yet they're highly profitable, primarily because they're the best in the
+ world at targeted advertising.
+\end_layout
+
+\begin_layout Standard
 Google personalizing search - personalization applies to ads, news, youtube
  suggestions...
 \end_layout
@@ -1062,6 +1151,17 @@ e is mediated almost exclusively through privatized companies, is inherently
  shown to them, or in what order; and because these algorithms are trade
  secrets, users also cannot have an understanding of the filtering and selection
  process.
+ 
+\begin_inset Note Comment
+status open
+
+\begin_layout Plain Layout
+(Why is this important?)
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -1196,8 +1296,8 @@ Others Working in this area
 \end_layout
 
 \begin_layout Standard
-For a while now, Google has been a target of privacy advocate, scholars,
- and artists.
+For Google, unprecedented growth has also brought the scrutiny of privacy
+ advocates, scholars, and artists.
  At Transmediale 2010, F.A.T.
  lab initiated FuckGoogle, “a collection of browser add-ons, open source
  software, theoretical musings and direct actions aimed at creating an awareness
@@ -1406,8 +1506,7 @@ cultural divide.
 \end_layout
 
 \begin_layout Standard
-The two projects at hand both focus largely on Google and the company's
- practices.
+The two projects at hand both focus largely on Google and its practices.
  Google is responsible for handling the large majority of the world's Internet
  searches
 \begin_inset Foot
@@ -1506,7 +1605,7 @@ Internet
 .
  However, for all of the good that Google has provided, there are a few
  business practices which I believe deserve more attention, and these projects
- focus on one of those such aspects, asking 
+ focus on one such aspect, asking 
 \begin_inset Quotes eld
 \end_inset
 
@@ -1671,9 +1770,22 @@ http://www.google.com/recaptcha/learnmore
 \begin_layout Standard
 
 \series bold
+\begin_inset Note Comment
+status open
+
+\begin_layout Plain Layout
+
+\series bold
 (MOVE UP?)
 \series default
- Ocular Character Recognition was created as a response to frustration with
+ 
+\end_layout
+
+\end_inset
+
+
+\series default
+Ocular Character Recognition was created as a response to frustration with
  CAPTCHA tests generated by Google's reCAPTCHA service.
  CAPTCHAs are the images of distorted text you must translate to do things
  like sign up for an account on a website or post a comment in an Internet
@@ -1681,7 +1793,7 @@ http://www.google.com/recaptcha/learnmore
  They're used to prevent spam by determining if the user of a site is a
  human, or a computer program (often referred to as a "bot.")
 \begin_inset Foot
-status collapsed
+status open
 
 \begin_layout Plain Layout
 CAPTCHA is an acronym for 
@@ -1874,16 +1986,58 @@ key "WhiteCube"
 
 \begin_layout Standard
 My primary medium as an artist is software.
- However, I'd also say that I often use the Internet as a medium as well,
- not simply in the sense that much of my work is encountered online, but
- it also re-uses and repurposes content found on the Internet.
+ However, I often use the Internet as a medium as well, not simply in the
+ sense that much of my work is encountered online, but it also re-uses and
+ repurposes content found on the Internet, often hacking apart services
+ and mashing them back together for unintended uses.
  Much of my work focuses conceptually on various aspects of Internet behaviour,
  communication, and surveillance.
- Questions arises when considering exhibition of such pieces, especially
- within the context of an MFA program.
- Why not show the software itself at the MFA show? Or if it's on the Web,
- why not allow visitors to interact with the websites? I have two large
- concerns with these approaches.
+ Questions arise when considering exhibition of such pieces, especially
+ within the context of a physical exhibition: most often they are along
+ the lines of 
+\begin_inset Quotes eld
+\end_inset
+
+Why don't you just show the software itself at the show?
+\begin_inset Quotes erd
+\end_inset
+
+ Or if the piece in question exists on the Web, 
+\begin_inset Quotes eld
+\end_inset
+
+Why don't you just set up a computer nad let visitors click around on the
+ website?
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+The mere fact that a piece exists on the web does not mean it is a 
+\begin_inset Quotes eld
+\end_inset
+
+web site
+\begin_inset Quotes erd
+\end_inset
+
+ per se nor that one can 
+\begin_inset Quotes eld
+\end_inset
+
+click around
+\begin_inset Quotes erd
+\end_inset
+
+ on it.
+\end_layout
+
+\end_inset
+
+ I have two large concerns with these approaches.
 \end_layout
 
 \begin_layout Standard
@@ -2017,10 +2171,11 @@ I have ideas which are compelling to me, and questions I try to grapple
  Although I have primarily produced software for these projects, code is
  not the only form in which I see these ideas manifesting.
  I'm more concerned with processes and systems than I am with objects, but
- social constructs inform us to focus on the object of contemplation when
- inside a gallery.
- Rather than fight those constructs, I've experimented with them and created
- physical objects and images for the MFA show.
+ social constructs inform us to focus on the isolated object of contemplation
+ when inside a gallery.
+ This is not the intension with the software I have written, but rather
+ than fight those constructs, I've experimented with them and created physical
+ objects and images for the MFA show.
  The goal was to condense the ideas into forms which could later expand
  and develop.
 \end_layout
@@ -2064,17 +2219,13 @@ Conceptual Description
 \end_layout
 
 \begin_layout Standard
-(what ideas is it exploring? what theoretical vocabularies is it engaging?
- intellectual and artistic traditions is it expanding?)
-\end_layout
-
-\begin_layout Standard
 As digital technologies become increasingly ubiquitous and accessible, digital
- resources are quickly becoming the primary resources for information and
- knowledge gathering.
- While the Internet is largely viewed as embracing democratic ideals and
- guaranteeing equal access for all, to all, the fact that our Internet experienc
-e is mediated almost exclusively through privatized companies, is inherently
+ documents are quickly becoming the primary material of information gathered
+ during knowledge seeking.
+ (referring to autonomy 3 important things: access, plurality...) While the
+ Internet is largely viewed as embracing democratic ideals and guaranteeing
+ equal access for all, to all, the fact that our Internet experience is
+ mediated almost exclusively through privatized companies, is inherently
  undemocratic.
  In order to provide "relevant" information to individual users (and increase
  revenues), companies like Google and Amazon filter content and information
@@ -2083,6 +2234,14 @@ e is mediated almost exclusively through privatized companies, is inherently
  shown to them, or in what order; and because these algorithms are trade
  secrets, users also cannot have an understanding of the filtering and selection
  process.
+\end_layout
+
+\begin_layout Standard
+Google uses widgets on external websites to track our web browsing behaviour
+ and to generate our "user interest" model.
+ These inferred data models are then used to personalize Google Search,
+ prioritizing results which its personalization algorithms deem relevant
+ to each individual user.
 \end_layout
 
 \begin_layout Standard
@@ -2096,23 +2255,19 @@ Everybody's Google explores these ideas and systems by programmatically
 \end_layout
 
 \begin_layout Standard
-Google uses widgets on external websites to track our web browsing behaviour
- and to generate our "user interest" model.
- These inferred data models are then used to personalize Google Search,
- prioritizing results which its personalization algorithms deem relevant
- to each individual user.
-\end_layout
-
-\begin_layout Standard
-Not showing a new way to view the world, but 
+With Everybody's Google, I'm not showing a new way to view the digital world,
+ but rather 
 \emph on
 revealing
 \emph default
- the way the world is (or the multiple ways it's presented?) They're making
- assumptions & judgement calls and telling you how you should view the world
- - as it's relevant to you; the arbiters of taste...
- Who owns your digital data/profile? No way to see or correct the collected
- information.
+ the way the it actually is (or the multiple ways in which it's presented.)
+ Whenever Google applies a personalization algorithm (in search, in ads,
+ in news, on youtube), they're making assumptions & judgement calls about
+ individuals.
+ They're essentially using these judgements to tell you how you should view
+ the world.
+ They are the arbiters of taste and have presented you the information you
+ should be most interested in.
 \end_layout
 
 \begin_layout Subsection
@@ -2120,25 +2275,14 @@ Formal Description
 \end_layout
 
 \begin_layout Standard
-(what does it look like? how does it work? how will it function in a gallery
- or online?)
-\end_layout
-
-\begin_layout Standard
-Internet as a medium - web pages, services which can be hacked apart and
- mashed together.
- Repurposing tools and using them for unintended uses.
-\end_layout
-
-\begin_layout Standard
 Everybody's Google is a piece of software which programmatically controls
  a set of Google user accounts and navigates them through the World Wide
  Web.
- Four Google accounts were created, each representing a particular stereotype:
- a young man living in London who is interested in technology and gambling;
- a teenage girl from Atlanta interested in fashion, celebrities, and pop
- music; a middle-aged conservative Christian businessman from rural Virginia;
- and a liberal, Californian mom-to-be, interested in women’s rights
+ Four new Google accounts were created, each representing a particular set
+ of stereotypes: a young man living in London who is interested in technology
+ and gambling; a teenage girl from Atlanta interested in fashion, celebrities,
+ and pop music; a middle-aged conservative Christian businessman from rural
+ Virginia; and a liberal, Californian mom-to-be, interested in women’s rights
 \begin_inset Foot
 status collapsed
 
@@ -2204,7 +2348,7 @@ seed
 
 \end_inset
 
-, allowing them to hone and refine its idea of these users' interests.
+, allowing the company to hone and refine its idea of these users' interests.
  Google builds models of this information, using it to send targeted advertiseme
 nts, present relevant news information, and personalize search results.
  For example, one of the accounts is constantly reading MTV hip hop blogs
@@ -2213,8 +2357,9 @@ nts, present relevant news information, and personalize search results.
 \end_layout
 
 \begin_layout Standard
-The character stereotypes/qualities were explicitly chosen to get a diverse
- set of search results for a wide variety of searches.
+The specific character interests (defined by their subscribed urls) were
+ intentionally chosen to get a diverse set of search results for a wide
+ variety of searches.
  The websites chosen generally have specific political leanings or serve
  various ethnic or cultural demographics.
  In an effort to hyper-personalize their Google Search results, these accounts
@@ -2252,19 +2397,16 @@ better
 
 \begin_layout Standard
 In its current form, the project is engaged with through a web interface.
- Rather than exploring raw data in a traditional format, visitors to the
- website may engage with the data by entering a search query which will
- then be executed by each of the 4 personas.
- Their search results are then saved and compared in a visualization.
- The data is stored in a database and visualized on the website as a series
- of rotating cubes showing each account's top 10 results for particular
- Google Search queries.
- Each cube face in the visualization represents one of four personas, each
- representing a particular stereotype: a young man living in the UK who
- is interested in sports and gambling; a teenage girl from Atlanta interested
- in fashion, celebrities, and pop music; a middle-aged conservative Christian
- businessman from rural Virginia; and a liberal, Californian mom-to-be,
- interested in women’s rights.
+ Rather than exploring raw data in a traditional tabular or list format,
+ visitors are presented the data as an animated series of rotating cubes
+ showing each account's top 10 results for a revolving set of Google Search
+ queries.
+ Each cube in the visualization represents one item in the top 10 search
+ results returned by Google; each face of each cube represents one of the
+ four personas.
+ As the cubes rotate and a set of cube faces becomes perpindicular with
+ our field of vision, we are presented screenshots of the 10 URLs returned
+ to that Google account for the current search term being visualized.
 \end_layout
 
 \begin_layout Standard
@@ -2332,10 +2474,28 @@ height "0.5pt"
 \end_layout
 
 \begin_layout Standard
-The web site uses the same design treatment as the main Google search page.
+Visitors to the website may engage with the data by entering a search query
+ which will then be queued and executed by each of the 4 personas.
+ Once completed, their search results are added to the main visualization.
+ The web site homepage uses the same design treatment as the main Google
+ search page.
  The colors have been manipulated, but the layout and fonts are the same.
  The visualization also makes use of a modified version of the Catulli font,
- the font face used for the Google logo.
+ the font face used for the Google logo and the familiar red/yellow/green/blue
+ color scheme.
+ At the MFA show, a monitor was running the visualization and visitors could
+ add items to the queue/visualization by visiting the 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+everybodysgoogle.com
+\end_layout
+
+\end_inset
+
+ on their mobile devices.
 \end_layout
 
 \begin_layout Subsection
@@ -2346,7 +2506,7 @@ Technical description
 Everybody's Google began as a website and an accompanying plugin for the
  Chrome web browser which would allow anybody to transparently upload and
  compare their personal Google search results to those of all plugin users.
- The project was then redirected to create custom personas which could be
+ The project was then refocused to create custom personas which could be
  controlled through code in order to maximize the potential variability
  in search results
 \begin_inset Foot
@@ -2391,7 +2551,7 @@ https://github.com/jessefulton/google-views
 \end_inset
 
 .
- The second approach was taken after initial tests showed promising results
+ The second approach was taken when initial tests showed promising results
  after Google searching for 
 \begin_inset Quotes eld
 \end_inset
@@ -2425,8 +2585,8 @@ foxnews.com
 \end_inset
 
 .
- After they had browsed these sites, both user accounts executed a Google
- search for 
+ After they had browsed each respective site, both user accounts executed
+ a Google search for 
 \begin_inset Quotes eld
 \end_inset
 
@@ -2477,56 +2637,37 @@ See Figure 1
 \end_inset
 
 .
+ Given the great initial results, I created four new Google accounts and
+ developed a persona for each, as described in the previous section.
 \end_layout
 
 \begin_layout Standard
-I had written scripts in CasperJS which allowed me to programatically navigate
- the web.
- This 
-\begin_inset Quotes eld
-\end_inset
+I created a set of scripts using CasperJS
+\begin_inset Foot
+status collapsed
 
-browse
-\begin_inset Quotes erd
-\end_inset
-
- script allowed me to authenticate as a Google user account and then visit
- specific pages linked to from an initial 
-\begin_inset Quotes eld
-\end_inset
-
-seed
-\begin_inset Quotes erd
-\end_inset
-
- page.
- Or, a bit more clearly: I could run a script which would open a web browser
- and fill out Google's 
-\begin_inset Quotes eld
-\end_inset
-
-sign in form
-\begin_inset Quotes erd
-\end_inset
-
- after which a specific URL would be opened in the browser, and various
- links on that initial page would be visited.
+\begin_layout Plain Layout
+CasperJS allows scripting of web browser behaviors and navigation
 \end_layout
 
-\begin_layout Standard
-I then created four new Google accounts and developed a persona for each.
- Each account was configured to read a series of news sites and blogs to
- visit, each politiclally or culturally aligned with the corresponding persona.
- These configurations were used by scripts
-\end_layout
+\end_inset
 
-\begin_layout Standard
-Scripts were created to control each account, enabling two types of behaviors:
+ which let me programatically navigate the web, authenticated as a Google
+ user.
+ Three main scripts were used to perform actions on behalf of these users:
  
 \begin_inset Quotes eld
 \end_inset
 
-browse
+authenicate,
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\begin_inset Quotes eld
+\end_inset
+
+browse,
 \begin_inset Quotes erd
 \end_inset
 
@@ -2538,13 +2679,16 @@ search.
 \begin_inset Quotes erd
 \end_inset
 
- The browse action simply opened a web page as one of the logged-in users
- and clicked on links specified in the configuration file.
- The search action executed a Google search.
-\end_layout
+ Before every action, the 
+\begin_inset Quotes eld
+\end_inset
 
-\begin_layout Standard
-The scripted accounts could take two actions: 
+authenticate
+\begin_inset Quotes erd
+\end_inset
+
+ script was run to log in to a particular Google account, after which we
+ could perform the 
 \begin_inset Quotes eld
 \end_inset
 
@@ -2556,39 +2700,46 @@ browse
 \begin_inset Quotes eld
 \end_inset
 
-search.
+search
 \begin_inset Quotes erd
 \end_inset
 
- All of these actions were scripted using CasperJS, 
+ action.
+ The 
 \begin_inset Quotes eld
 \end_inset
 
-an open source navigation scripting & testing utility written in Javascript
- and based on PhantomJS — the scriptable headless WebKit engine.
+browse
 \begin_inset Quotes erd
 \end_inset
 
-
-\begin_inset Foot
-status open
-
-\begin_layout Plain Layout
-\begin_inset Flex URL
-status collapsed
-
-\begin_layout Plain Layout
-
-http://casperjs.org/
-\end_layout
-
+ script would open an initial webpage at a 
+\begin_inset Quotes eld
 \end_inset
 
-
-\end_layout
-
+seed
+\begin_inset Quotes erd
 \end_inset
 
+ URL.
+ It would then select specific links on that page (ie., only links in the
+ 
+\begin_inset Quotes eld
+\end_inset
+
+featured stories
+\begin_inset Quotes erd
+\end_inset
+
+ section of a news site) and visit (
+\begin_inset Quotes eld
+\end_inset
+
+read
+\begin_inset Quotes erd
+\end_inset
+
+) each link.
  The 
 \begin_inset Quotes eld
 \end_inset
@@ -2602,37 +2753,7 @@ browse
  Each time the script ran, it would sign in as one of the four users, and
  click on particular links of predefined webpages which correlated to that
  personality.
- 
-\end_layout
-
-\begin_layout Standard
-Personas targeted to specific geographic areas connected to the internet
- via globally distributed proxies running on Amazon EC2 
-\begin_inset Foot
-status open
-
-\begin_layout Plain Layout
-\begin_inset Flex URL
-status collapsed
-
-\begin_layout Plain Layout
-
-http://aws.amazon.com/ec2/
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
- instances.
- 
-\end_layout
-
-\begin_layout Standard
-There is also a 
+ The 
 \begin_inset Quotes eld
 \end_inset
 
@@ -2640,27 +2761,102 @@ search
 \begin_inset Quotes erd
 \end_inset
 
- script which executes a search query for each of the four users and stores
- their results in a MongoDB database.
+ script would execute a Google search query as the logged in user, and then
+ save the search results to a database.
+ Whenever these processes completed, they'd fire off a series of events
+ which would begin the image manipulation & generation required for the
+ data visualization.
+\end_layout
+
+\begin_layout Standard
+The first step to building the visualization was to capture screenshots
+ of each URL in the search results set.
+ Another set of scripts would search the database for new URLs and then
+ create 
+\begin_inset Quotes eld
+\end_inset
+
+screen grabs
+\begin_inset Quotes erd
+\end_inset
+
+ or generate images of those webpages on the server.
+ Next, those screen grabs were converted into a format and size compatible
+ with WebGL
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+WebGL is a web browser port of OpenGL, the de facto 3D graphics implementation.
+ WebGL enables real-time 3D graphics processing inside of a web browser.
+\end_layout
+
+\end_inset
+
+ textures
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+In order to texture map a 3D object in WebGL, the dimensions of the image
+ used must be a power of 2
+\end_layout
+
+\end_inset
+
+ using ImageMagick software.
+ Finally, after all of the images for a particular set of query results
+ (usually there was some overlap, so it averaged out to about 13 images
+ per query), a message was sent to any running WebGL visualizations, which
+ would then update themselves in real-time
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+So, if I were viewing the visualization on my own computer, while at the
+ same time another visitor added an item to the search queue, I would see
+ that action in my own web browser in near real-time.
+\end_layout
+
+\end_inset
+
+.
+ The visualization itself was built using Three.js, a library for scripting
+ WebGL and building 3D environments.
+\end_layout
+
+\begin_layout Standard
+The website itself (and all of these other processes - search/browse; screenshot
+ service; image manipulation) were created using NodeJS.
+ NodeJS is a web server technology written in JavaScript which has a large
+ and active developer community, providing numerous open-source libraries
+ and modules with a wide range of applications.
+ However, Google's personalization algorithms also rely heavily on a user's
+ geographic location.
+ In order to prevent Google from thinking all of my characters lived in
+ Santa Cruz, CA (and shared the same computer/IP address), I set up globally
+ distributed web proxies in specific geographic areas running on Amazon
+ EC2 
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Amazon Elastic Cloud Computing is a service which provides dynamic 
+\begin_inset Quotes eld
+\end_inset
+
+cloud
+\begin_inset Quotes erd
+\end_inset
+
+ servers which can be geographically targeted to certain regions of the
+ world
+\end_layout
+
+\end_inset
+
+ instances.
  
-\end_layout
-
-\begin_layout Standard
-Once each user has completed the search, a PhantomJS script was used to
- generate a screen capture of each search result URL.
- These images were then compressed and formatted to work as WebGL textures
- using ImageMagick.
- Each step in this process would broadcast events upon its completion, signaling
- the next process to start up, and also allowing the WebGL visualization
- to update itself in real-time.
-\end_layout
-
-\begin_layout Standard
-NodeJS
-\end_layout
-
-\begin_layout Standard
-WebGL
 \end_layout
 
 \begin_layout Standard
@@ -2682,9 +2878,8 @@ inappropriate
 
  search queries began entering the queue for Everybody's Google.
  I assumed it was a few students having fun with the site.
- However, the list grew to the point that the site crashed a number of times.
- Looking through the logs, a group of people had turned the search query
- queue into a sort of message board.
+ However, the list grew and the submissions overloaded the server to the
+ point that the site crashed a number of times.
  I finally found the source of the traffic
 \begin_inset Foot
 status collapsed
@@ -2711,14 +2906,22 @@ http://knowyourmeme.com/forums/general/topics/15561-everybodys-google
 
 , and the night before the show reopened had to implement throttling, limiting
  IP addresses to two submissions maximum.
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Interestingly, loooking through the logs, a group of people had turned the
+ search query queue into a sort of chat room or message board.
+ 
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsection
 Goals and expected outcomes 
-\end_layout
-
-\begin_layout Standard
-(audience, how do they engage?, what do they get out of it?)
 \end_layout
 
 \begin_layout Standard
@@ -2885,17 +3088,47 @@ Conceptual Description
 \end_layout
 
 \begin_layout Standard
-(what ideas is it exploring? what theoretical vocabularies is it engaging?
- intellectual and artistic traditions is it expanding?)
+At its heart, Ocular Character Recognition is about questioning the types
+ of physical data and obects which we can search for and interact with in
+ digital formats.
+ Some objects do not translate to a 2-dimensional, screen representation.
+ Some things cannot be represented digitally, or reproduced on a screen.
+ We can digitize things which appeal to our aural and visual senses, but
+ it's difficult to digitize other types of cultural objects or practices.
+ When we become so focused on preserving the object, what happens to the
+ rest of culture which cannot be captured in the same way these artifacts
+ can?
+\end_layout
+
+\begin_layout Standard
+This is a large topic, and I decided to focus on perhaps the most well-known,
+ and most invasive/criticized aspect of this process: the Google Books project.
+ Without knowing it, most web users encounter this, and have probably helped
+ contribute to it unknowingly.
+ It has also undergone heavy criticism for things like copyright infringement
+ as well as for promoting a type electronic colonialism (initially, the
+ project only digitized western language books and magazines (predominately
+ English) from a small set of US & European libraries.) However, since the
+ program began, it has become much more inclusive of non-Western cultures.
 \end_layout
 
 \begin_layout Standard
 The title Ocular Character Recognition is a play on the term Optical Character
  Recognition, which is the software used to convert scans or images of text
  into machine-readable documents.
- At its core, the process consists of recognizing glyphs within the pixels
- of an image and adding additional layers of metadata to that file in order
- to allow it to be searched and indexed.
+ At its core, the process consists of recognizing glyphs or letters within
+ the pixels of an image and adding additional layers of metadata to that
+ file in order to allow it to be searched and indexed.
+ 
+\begin_inset Note Comment
+status open
+
+\begin_layout Plain Layout
+Too much??? Simplify!
+\end_layout
+
+\end_inset
+
  This is what adds the simple functionality of being able to select text
  from a scanned PDF.
  As opposed to an optical process - one which deals primarily with light
@@ -2954,11 +3187,6 @@ Ocular Character Recognition tries to put the focus of digitization back
 
 \begin_layout Subsection
 Formal Description
-\end_layout
-
-\begin_layout Standard
-(what does it look like? how does it work? how will it function in a gallery
- or online?)
 \end_layout
 
 \begin_layout Standard
@@ -3352,10 +3580,6 @@ Technical description
 \end_layout
 
 \begin_layout Standard
-(how was it built designed? any technical innovations? technical obstacles?)
-\end_layout
-
-\begin_layout Standard
 The core functionality for these projects is a shared JavaScript library
  I created which generates images of CAPTCHA-fied text
 \begin_inset Foot
@@ -3698,6 +3922,9 @@ Conclusion
 \begin_layout Standard
 Just scratching the surface - hardly talked about location, language, how
  these affect results and items returned/made available/presented.
+ Digital data and privacy.
+ Who owns your digital data/profile? No way to see or correct the collected
+ information.
 \end_layout
 
 \begin_layout Standard
@@ -4787,6 +5014,10 @@ WebGL
 \end_layout
 
 \begin_layout Standard
+Three.js
+\end_layout
+
+\begin_layout Standard
 HTML5 Canvas
 \end_layout
 
@@ -4796,6 +5027,10 @@ PhantomJS
 
 \begin_layout Standard
 CasperJS
+\end_layout
+
+\begin_layout Standard
+ImageMagick
 \end_layout
 
 \begin_layout Standard
@@ -5300,6 +5535,46 @@ OCR, surveillance?
 
 \begin_layout Section*
 Autonomy in the Digital Age (Digital Autonomy)
+\end_layout
+
+\begin_layout Plain Layout
+The Internet’s “information curators” are its search engines, and to a lesser
+ extent, its aggregated news feeds and social networking sites (although
+ I’ll later argue that the parallel to the library is the search engine,
+ whereas news feeds and social networking fall more in line with entertainment
+ and “infotainment.”) These systems (search engines, news aggregators, and
+ social networks) filter through enormous amounts of data using computer
+ algorithms designed to return “relevant” information to users.
+ However in these privatized systems, the definition of “relevant” often
+ exists in a gray area between “important” and “profitable.”
+\end_layout
+
+\begin_layout Plain Layout
+Search engines and social networks generally support themselves by building
+ network value in the Internet’s cognitive economy through link-clicks.
+ In order to optimize profit potential, a search engine will return a fairly
+ narrow set of results with the intent of maximizing link-clicks.
+ This varies from the librarian who, given the benefit of conversational
+ context, may optimize his/her “search results” to not only include the
+ most relevant information, but also suggest tangential, yet related sources
+ in addition.
+ In order to replicate this ability, search engines must infer the context
+ in which a query is being conducted without over-valuing what they think
+ they know (personalization.)
+\end_layout
+
+\begin_layout Plain Layout
+With a trend towards information consumption through digital networks, it
+ is algorithms such as these that will become increasingly responsible for
+ the types of information imparted upon networked societies.
+ Search personalization algorithms, news feed aggregation algorithms, etc.
+ have the growing ability to impact the development of individual autonomy
+ on a cultural and societal level.
+ In the remainder of this paper, I will be investigating this idea by exploring
+ how “black-boxed” software algorithms impact the plurality of and access
+ to online information resources, and the effect of these on democratic
+ society and moral autonomy in an increasingly networked age.
+ 
 \end_layout
 
 \begin_layout Section*
