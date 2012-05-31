@@ -139,28 +139,28 @@ status collapsed
 \noindent
 \align center
 \begin_inset Graphics
-	filename /Volumes/USB20FD/THESIS/thesis-paper/media/cc.large.png
+	filename ./media/cc.large.png
 	scale 10
 
 \end_inset
 
  
 \begin_inset Graphics
-	filename /Volumes/USB20FD/THESIS/thesis-paper/media/by.large.png
+	filename ./media/by.large.png
 	scale 10
 
 \end_inset
 
  
 \begin_inset Graphics
-	filename /Volumes/USB20FD/THESIS/thesis-paper/media/nc.large.png
+	filename ./media/nc.large.png
 	scale 10
 
 \end_inset
 
  
 \begin_inset Graphics
-	filename /Volumes/USB20FD/THESIS/thesis-paper/media/sa.large.png
+	filename ./media/sa.large.png
 	scale 10
 
 \end_inset
@@ -1836,7 +1836,7 @@ status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename /Volumes/USB20FD/THESIS/thesis-paper/media/captcha-example.png
+	filename ./media/captcha-example.png
 
 \end_inset
 
@@ -1916,7 +1916,7 @@ status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename /Volumes/USB20FD/THESIS/thesis-paper/media/mfa_installation.jpg
+	filename ./media/mfa_installation.jpg
 	width 4.75in
 
 \end_inset
@@ -2433,7 +2433,7 @@ status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename /Volumes/USB20FD/THESIS/thesis-paper/media/everybodysgoogle_viz.jpg
+	filename ./media/everybodysgoogle_viz.jpg
 	width 4.75in
 
 \end_inset
@@ -3298,7 +3298,7 @@ status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename /Volumes/USB20FD/THESIS/thesis-paper/media/webpagesforhumans_printlab.jpg
+	filename ./media/webpagesforhumans_printlab.jpg
 	width 4.75in
 
 \end_inset
@@ -3378,7 +3378,7 @@ status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename /Volumes/USB20FD/THESIS/thesis-paper/media/captchafy_covers.jpg
+	filename ./media/captchafy_covers.jpg
 	width 4.75in
 
 \end_inset
@@ -3535,7 +3535,7 @@ status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename /Volumes/USB20FD/THESIS/thesis-paper/media/serendipity-engine_captchafy.jpg
+	filename ./media/serendipity-engine_captchafy.jpg
 	width 4.75in
 
 \end_inset
@@ -6647,7 +6647,7 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename /Volumes/USB20FD/THESIS/thesis-paper/media/everybodysgoogle_romney.png
+	filename ./media/everybodysgoogle_romney.png
 	width 4.75in
 
 \end_inset
@@ -6764,7 +6764,7 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename /Volumes/USB20FD/THESIS/thesis-paper/media/webpagesforhumans_nytimes.png
+	filename ./media/webpagesforhumans_nytimes.png
 	width 4.75in
 
 \end_inset
