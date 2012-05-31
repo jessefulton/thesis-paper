@@ -139,28 +139,28 @@ status collapsed
 \noindent
 \align center
 \begin_inset Graphics
-	filename ./media/cc.large.png
+	filename media/cc.large.png
 	scale 10
 
 \end_inset
 
  
 \begin_inset Graphics
-	filename ./media/by.large.png
+	filename media/by.large.png
 	scale 10
 
 \end_inset
 
  
 \begin_inset Graphics
-	filename ./media/nc.large.png
+	filename media/nc.large.png
 	scale 10
 
 \end_inset
 
  
 \begin_inset Graphics
-	filename ./media/sa.large.png
+	filename media/sa.large.png
 	scale 10
 
 \end_inset
@@ -1836,7 +1836,7 @@ status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename ./media/captcha-example.png
+	filename media/captcha-example.png
 
 \end_inset
 
@@ -1916,7 +1916,7 @@ status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename ./media/mfa_installation.jpg
+	filename media/mfa_installation.jpg
 	width 4.75in
 
 \end_inset
@@ -2433,7 +2433,7 @@ status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename ./media/everybodysgoogle_viz.jpg
+	filename media/everybodysgoogle_viz.jpg
 	width 4.75in
 
 \end_inset
@@ -3040,13 +3040,15 @@ can
  be digitized? It is physically impossible to create an accurate reproduction
  of a large building or landscape; a smell or a taste; a temperature and
  humidity (touch)...
- We can digitally reproduce the visual and the aural fairly well though.
+ It is much easier to digitally reproduce and archive the visual and the
+ aural.
  What does this do to society and the things we value? As we become more
  familiar with the visual culture and more adept and refined, do we ignore
  the other senses? As we are inundated with a certain cultural canon or
  trope, do we ignore or reject the unfamiliar? How are our tastes and our
  cultural (directions, milieu) being defined by the capabilities of computers
- and digitization processes?
+ and digitization processes? If the goal is ultimately to preserve culture,
+ we must go beyond the visual and the aural.
 \end_layout
 
 \begin_layout Standard
@@ -3211,23 +3213,7 @@ See Figure 2
 
 .
  When users first visit the site, they can enter a URL into a form which
- brings them to the CAPTCHA-fied HTML page for that URL
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-It has been mentioned that web pages are in fact created for human consumption.
- However, the web pages we view and read are simply visual representations
- of the underlying code.
- The CAPTCHA-fication process is not simply replacing text with images on
- a web page, it fundamentally changes the underlying markup of the HTML
- pages in a way such that the code itself is unreadable, as well as the
- visual representation, which can no longer be deciphered by OCR processes.
-\end_layout
-
-\end_inset
-
-.
+ brings them to the CAPTCHA-fied HTML page for that URL.
  From this point on, any links they click on the page will continue to be
  CAPTCHA-fied by the web server.
  However, as mentioned earlier in this paper, I have a strong aversion to
@@ -3298,7 +3284,7 @@ status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename ./media/webpagesforhumans_printlab.jpg
+	filename media/webpagesforhumans_printlab.jpg
 	width 4.75in
 
 \end_inset
@@ -3336,6 +3322,17 @@ height "0.5pt"
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+It has been brought to my attention that web pages are primarily created
+ for human consumption.
+ However, the web pages we view and read are simply visual representations
+ of the underlying code.
+ The CAPTCHA-fication process is not simply replacing text with images on
+ a web page, it fundamentally changes the underlying markup of the HTML
+ pages in a way such that the code itself is unreadable, as well as the
+ visual representation, which can no longer be deciphered by OCR processes.
 \end_layout
 
 \begin_layout Standard
@@ -3378,7 +3375,7 @@ status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename ./media/captchafy_covers.jpg
+	filename media/captchafy_covers.jpg
 	width 4.75in
 
 \end_inset
@@ -3421,28 +3418,41 @@ height "0.5pt"
 \begin_layout Standard
 The Serendipity Engine consisted of a modified printer installed in the
  ceiling above the reading area.
- The printer would dispense individual CAPTCHA-fied pages from chapter 7
- of Alice's Adventures in Wonderland (The Mad Tea Party.)
-\begin_inset Foot
-status open
-
-\begin_layout Plain Layout
-Lewis Carroll was known for logician and mathematician.
- Many have understood much of this book as a retort against the evolution
- in the fields of Mathematics at the time.
- The Mad Tea Pary can be interpreted as a critique of the the Quaternion,
- or a misuse or appropriation of time in order to solve ones own needs.
- Nonsense.
- Simlarly, this was chosen to critique the appropriation of cultural artifacts
- to gain a better understanding of the ENglish language, culture, etc...
- Again, this could have taken another form, this particular piece of literature
- was chosen for reasons explained below
-\end_layout
-
+ The printer would dispense individual CAPTCHA-fied pages from chapter seven
+ of 
+\emph on
+Alice's Adventures in Wonderland,
+\emph default
+ The Mad Tea Party.
+ The pages were taken from Google's free eBook version of 
+\emph on
+Alice
+\emph default
+, and after manipulation, still contain the 
+\begin_inset Quotes eld
 \end_inset
 
- Each page was printed on high quality cotton paper and cut to the size
- of a standard book page.
+digitized by Google
+\begin_inset Quotes erd
+\end_inset
+
+ watermark.
+ In addition to being a writer, Lewis Carroll was also a logician and mathematic
+ian.
+ Many have understood much of this book as a retort against the radical
+ changes in the fields of Mathematics aroudn the time of its writing.
+ The Mad Tea Pary can be interpreted as a critique of William Rowan Hamilton's
+ concept of the Quaternion, or more directly what Carroll felt was Hamilton's
+ misuse or appropriation of time in order to solve an unrelated problem.
+ Simlarly, I have appropriated this piece of writing to provide a critique
+ of another unrelated system and set of processes - the Google digitization
+ of the physical world.
+ 
+\end_layout
+
+\begin_layout Standard
+Each page was printed on high quality cotton paper and cut to the size of
+ a standard book page.
  The printer mechanism was configured to dispense sheets of paper at set
  time intervals throughout the duration of the exhibition rather than making
  the piece reactive or responsive to some external stimulus.
@@ -3535,7 +3545,7 @@ status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename ./media/serendipity-engine_captchafy.jpg
+	filename media/serendipity-engine_captchafy.jpg
 	width 4.75in
 
 \end_inset
@@ -3757,15 +3767,17 @@ Goals and expected outcomes
 \begin_layout Standard
 A CAPTCHA is something most Internet users have encountered, yet few know
  why they appear, and even fewer know how the process is connected to the
- Google Book project.
- However, based upon my interactions with students who visited the show,
- a much higher proportion of them did know quite a bit more about the process.
+ digitization of physical books.
+ However, based upon my interactions with students (Millenials) who visited
+ the show, a much higher proportion of them did know quite a bit more about
+ the process.
  The goal for this project is not necessarily to educate or raise awareness
  about reCAPTCHA, but to get people thinking on a larger scale about how
  we digitize physical objects.
  What is the process of taking a scanned copy of Alice's Adventures in Wonderlan
 d and then being brought to a particular phrase in that digital representation
- after Google searching for a quote from the book? By making a 
+ after Google searching for a quote from the book? Why that book? Why books
+ instead of other cultural objects, visual or non-visual? By making a 
 \begin_inset Quotes eld
 \end_inset
 
@@ -3920,11 +3932,13 @@ Conclusion
 \end_layout
 
 \begin_layout Standard
-Just scratching the surface - hardly talked about location, language, how
- these affect results and items returned/made available/presented.
- Digital data and privacy.
- Who owns your digital data/profile? No way to see or correct the collected
- information.
+These projects are an entry-point into a much larger area of research and
+ exploration.
+ I feel like I have just begun scratching the surface of the issues I'm
+ interested in: how do location & language affect the information which
+ is made accessible to us? Who owns our digital data and the data trails
+ created during our web browsing? What rights do we have online versus in
+ real life?
 \end_layout
 
 \begin_layout Standard
@@ -6647,7 +6661,7 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename ./media/everybodysgoogle_romney.png
+	filename media/everybodysgoogle_romney.png
 	width 4.75in
 
 \end_inset
@@ -6764,7 +6778,7 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename ./media/webpagesforhumans_nytimes.png
+	filename media/webpagesforhumans_nytimes.png
 	width 4.75in
 
 \end_inset
