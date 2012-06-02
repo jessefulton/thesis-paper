@@ -1583,7 +1583,24 @@ Optical Character Recognition
  In exchange for access to enhanced website functionality (such as the ability
  to post a comment on a blog or forum), these users solve CAPTCHA tests,
  providing the (free) labour required to fill in the gaps in the OCR translation
-s.
+s
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+A CAPTCHA served from the reCAPTCHA service consists of two text-based images:
+ a word which could not be deciphered by OCR software (the "unknown" word);
+ and a second word which the OCR software could decipher (the "known" word.)
+ The user is then prompted to type in both words, with the assumption being
+ that if the known word is correctly identified, then the identification
+ of the unknown word is also likely to be correct.
+ This human translation for the unknown word is then added to the original
+ OCR translation.
+\end_layout
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Standard
@@ -2692,10 +2709,20 @@ So, if I were viewing the visualization on my own computer, while at the
 
 \begin_layout Standard
 The website itself (and all of these other processes - search/browse; screenshot
- service; image manipulation) were created using NodeJS.
- NodeJS is a web server technology written in JavaScript which has a large
+ service; image manipulation) were created using NodeJS
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+NodeJS is a web server technology written in JavaScript which has a large
  and active developer community, providing numerous open-source libraries
  and modules with a wide range of applications.
+ 
+\end_layout
+
+\end_inset
+
+ running on a server at UCSC.
  However, Google's personalization algorithms also rely heavily on a user's
  geographic location.
  In order to prevent Google from thinking all of my characters lived in
@@ -2834,7 +2861,20 @@ digital magic
 \end_inset
 
  to figure out.
- With the minimalist implementation, there wasn't much else to focus on.
+ I also feel that the minimalist implementation and design, while simply
+ being consistent with my overall aesthetic, also helped direct focus to
+ the content of the piece as opposed to formal qualities of the installation
+ itself (which were not necessarily 
+\begin_inset Quotes eld
+\end_inset
+
+bad
+\begin_inset Quotes erd
+\end_inset
+
+ but I would not consider the installation to be a part of the project as
+ it could really live on any monitor attached to any computer with an Internet
+ connection.)
 \end_layout
 
 \begin_layout Standard
@@ -2861,8 +2901,9 @@ correct-ness
 \end_inset
 
  even apply here? How can anybody or anything organize the massive amounts
- of data available on the Internet? How can it efficiently and accurately
- sort through it all? Surely there must be compromises in this process.
+ of data available on the Internet in a way that's consistent with everybody's
+ way of thinking? How can it efficiently and accurately sort through it
+ all? Surely there must be compromises in this process.
 \end_layout
 
 \begin_layout Part
@@ -2898,8 +2939,156 @@ key "Googlization"
 \end_layout
 
 \begin_layout Standard
+Up until this point, I have largely been focused on Google's web search
+ which allows users to find web pages relevant to search queries.
+ But as discussed in the introduction, Google is indexing much more than
+ web sites.
+ We can search geographic locations and restaurant menus; we can walk through
+ virtual reproductions of museums; and we can search through digital representat
+ions of physical books.
+ Google is making the physical world searchable through digitization.
+ 
+\end_layout
+
+\begin_layout Standard
+What does it mean to be digitized? How does digitization change our understandin
+g of the physical? While it is important to consider who is determining
+ which objects are worthy of digitization, first one must ask what 
+\emph on
+can
+\emph default
+ be digitized? Digitization is more than simple capturing data or models
+ of certain objects, but also the ability to create a representation of
+ that object using display technologies.
+ The ability to be digitized is a combination of the state of technology
+ and the qualities of the object itself.
+\end_layout
+
+\begin_layout Standard
+The ability to transfer visiual input to physical media has been around
+ in some form for centuries, with sound recording coming more recently.
+ Understandably, photos, texts, and music already have digital counterparts,
+ whereas technology for recreating stimuli for tactile or olfactory senses
+ is rare.
+ But there are difficulties in all types of digitization processes - even
+ those which lend themselves well to the current state of digital media
+ (books, image scans, etc.) OCR algorithms have difficulties with font changes,
+ superscripts/subscripts, mathematical formulas, handwritten notes, or even
+ full handwritten pages (journals, diaries, legal documents/letters.) Issues
+ also arise during the scanning process, where digital artifacts may appear,
+ or pages may simple be lost or corrupted due to aberrations in the scanning
+ process
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://theartofgooglebooks.tumblr.com/
+\end_layout
+
+\end_inset
+
+ has some great examples of these issues
+\end_layout
+
+\end_inset
+
+.
+ As we move towards text-based search as our primary mode of retrieving
+ this information, what happens to this information when it doesn't exist
+ (or exists in a corrupted format) in our searchable database? How can we
+ find the mis-translated words if they don't show up when we look for them?
+ Does the content exist if we're not aware of its existence or cannot find
+ it?
+\end_layout
+
+\begin_layout Standard
 \begin_inset Note Comment
-status open
+status collapsed
+
+\begin_layout Plain Layout
+While it may be possible to capture information about light sources, temperature
+, humidity, taste, or smell, there is currently no way to reproduce and
+ present that data on a mass scale.
+ On the other hand, this capability is widely accessible with regards to
+ the visual and aural senses.
+ It is physically impossible to create an accurate reproduction of a large
+ building or landscape; a smell or a taste; a temperature and humidity (touch)...
+ It is much easier to digitally reproduce and archive the visual and the
+ aural.
+ From a historical perspective, it makes sense that technology would continue
+ to evolve in areas in which there is already a history of implementation
+ and culture.
+ But as we become more familiar with visual culture  and more adept and
+ refined, do we ignore the other senses? As we are inundated with a certain
+ cultural canon or trope, do we ignore or reject the unfamiliar? How are
+ our tastes and our cultural (directions, milieu) being defined by the capabilit
+ies of computers and digitization processes? If the goal is ultimately to
+ preserve culture, we must go beyond the visual and the aural.
+\end_layout
+
+\begin_layout Plain Layout
+You can create a 3D model of the interior of the Sistine Chapel, but it
+ is difficult to reproduce the changing light, the people walk past, and
+ how that changes the sound of silence and air pressure or temperature.
+\end_layout
+
+\begin_layout Plain Layout
+You cannot digitize the process of preparing a body for a ritual burial.
+ How a certain something can smell.
+ You can't digitize the smell of ___ field...
+ You can't digitize the feeling of looking out over an exapnse after climbing
+ the face of a mountain.
+ The sight, sound, humidity of angel falls...
+ Can you digitize personalities (of people, animals)? Granted these can
+ all be described and made searchable through meta information, but even
+ sound and images/movies are directly searchable (various analyses and fingerpri
+nting techniques - image identification, face recognition, reverse google
+ image search, etc...)
+\end_layout
+
+\begin_layout Plain Layout
+I'm taking the digital out of its element in order to explore how we value
+ digitally native artifacts
+\end_layout
+
+\begin_layout Plain Layout
+At its heart, Ocular Character Recognition is about questioning the types
+ of physical data and obects which we can search for and interact with in
+ digital formats.
+ Some objects do not translate to a 2-dimensional, screen representation.
+ Some things cannot be represented digitally, or reproduced on a screen.
+ We can digitize things which appeal to our aural and visual senses, but
+ it's difficult to digitize other types of cultural objects or practices.
+ When we become so focused on preserving the object, what happens to the
+ rest of culture which cannot be captured in the same way these artifacts
+ can?
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I'm very interested in how we treate physical objects differently from their
+ digital representations.
+ And as the physical and the virtual continue to merge together, it is interesti
+ng to materialize digital content and see the reverse process.
+ Do we treat digital content differently if it's encountered in a physical
+ format? Perhaps by doing this, we can gain any insight into the processes
+ and changes which occur when transplanting artifacts from the physical
+ realm to the virtual, or vice versa.
+ This is the driving force behind my project Ocular Character Recognition.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Comment
+status collapsed
 
 \begin_layout Subsection*
 Others Working in this area
@@ -2970,133 +3159,6 @@ http://www.bicyclebuiltfortwothousand.com/info.html
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
-Up until this point, I have largely been focused on Google's web search
- which allows users to find web pages relevant to search queries.
- 
-\end_layout
-
-\begin_layout Standard
-But as alluded to in the opening paragraph, Google is indexing much more
- than web sites - they are making the physical world searchable through
- digitization.
- We can search geographic locations and restaurant menus; we can walk through
- virtual reproductions of museums; and we can even digitally search through
- physical books.
- 
-\end_layout
-
-\begin_layout Standard
-A CAPTCHA (from the reCAPTCHA service) consists of two text-based images:
- a word which could not be deciphered by OCR software (the "unknown" word);
- and a second word which the OCR software could decipher (the "known" word.)
- The user is then prompted to type in both words, with the assumption being
- that if the known word is correctly identified, then the identification
- of the unknown word is also likely to be correct
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-\begin_inset Flex URL
-status collapsed
-
-\begin_layout Plain Layout
-
-http://www.google.com/recaptcha/learnmore
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-.
- This human translation for the unknown word is then added to the original
- OCR translation.
-\end_layout
-
-\begin_layout Standard
-\begin_inset Note Comment
-status open
-
-\begin_layout Plain Layout
-There are difficulties in all types of digitization processes - even those
- which lend themselves well to this type of process (books, image scans,
- etc.) However, there are difficulties in the OCR process.
- OCR algorithms have difficulties with font changes, superscripts/subscripts,
- mathematical formulas, handwritten notes, or even full handwritten pages
- (journals, diaries, legal documents/letters)
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-sources?
-\end_layout
-
-\end_inset
-
-.
- Issues also arise during the scanning process, where digital artifacts
- may appear, or pages may simple be lost or corrupted due to aberrations
- in the scanning process
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-\begin_inset Flex URL
-status collapsed
-
-\begin_layout Plain Layout
-
-http://theartofgooglebooks.tumblr.com/
-\end_layout
-
-\end_inset
-
- has some great examples of these issues
-\end_layout
-
-\end_inset
-
-.
- What happens to this information when it doesn't exist in our searchable
- database? our primary mode of retrieving this information? Does it exist
- if we're not aware of its existence?
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-What does it mean to be digitized? How does that change how we value the
- physical? What if we could materialize the digital? Realize content created
- in the virtual, which only exists in the virtual and making it physical.
- By doing this, 
-\series bold
-can we gain any insight into the processes and changes which occur when
- transforming the same element, or representing it in these different spaces
-\series default
-? By taking the digital out of its element, can we gain insight into how
- people value digitally native artifacts?
-\end_layout
-
-\begin_layout Standard
-At its heart, Ocular Character Recognition is about questioning the types
- of physical data and obects which we can search for and interact with in
- digital formats.
- Some objects do not translate to a 2-dimensional, screen representation.
- Some things cannot be represented digitally, or reproduced on a screen.
- We can digitize things which appeal to our aural and visual senses, but
- it's difficult to digitize other types of cultural objects or practices.
- When we become so focused on preserving the object, what happens to the
- rest of culture which cannot be captured in the same way these artifacts
- can?
 \end_layout
 
 \begin_layout Standard
@@ -3398,26 +3460,28 @@ digitized by Google
 \end_inset
 
  watermark.
+ Each page was printed on high quality cotton paper and cut to the size
+ of a standard book page.
+ They are clearly recognizable as pages from a book, yet the CAPTCHA-fied
+ text, a digital artifact, immediately defamiliarizes the object.
  In addition to being a writer, Lewis Carroll was also a logician and mathematic
 ian.
- Many have understood much of this book as a retort against the radical
- changes in the fields of Mathematics aroudn the time of its writing.
- The Mad Tea Pary can be interpreted as a critique of William Rowan Hamilton's
- concept of the Quaternion, or more directly what Carroll felt was Hamilton's
- misuse or appropriation of time in order to solve an unrelated problem.
+ He was disillusioned with the radical changes occuring in the fields of
+ Mathematics around this time, and The Mad Tea Party was a critique of William
+ Rowan Hamilton's concept of the Quaternion, or more directly it was a critique
+ of what Carroll felt was Hamilton's misuse or appropriation of time in
+ order to solve an unrelated problem.
  Simlarly, I have appropriated this piece of writing to provide a critique
- of another unrelated system and set of processes - the Google digitization
- of the physical world.
+ of another unrelated system and set of processes - Google's consumption
+ and production of digital culture.
  
 \end_layout
 
 \begin_layout Standard
-Each page was printed on high quality cotton paper and cut to the size of
- a standard book page.
- The printer mechanism was configured to dispense sheets of paper at set
- time intervals throughout the duration of the exhibition rather than making
- the piece reactive or responsive to some external stimulus.
- The reasoning for this was simply due to the title of the piece
+The printer mechanism for the Serendipity Engine was configured to dispense
+ sheets of paper at set time intervals throughout the duration of the exhibition
+ rather than making the piece reactive or responsive to some external stimulus.
+ The title of the piece
 \begin_inset Foot
 status collapsed
 
@@ -3438,7 +3502,7 @@ Serendipity engine
 
 \end_inset
 
- - serendipity implies an unexpected discovery.
+ implies an unexpected discovery.
  If this piece were interactive, there is an expectation for a result.
  This is something I wanted to avoid.
  It is also a way to reduce the amount of 
@@ -3451,35 +3515,17 @@ tech magic
 
  in the piece.
  Placing something which is completely non-interactive at a digital art/new
- media show (which has publicized many projects as interactive/reactive)
- the power is taken away from the visitor in 
-\begin_inset Quotes eld
-\end_inset
-
-figuring it out
-\begin_inset Quotes erd
-\end_inset
-
- - or if it's not about power, I'd feel comfortable assuming that it's less
- fun 
-\begin_inset Quotes eld
-\end_inset
-
-figuring out
-\begin_inset Quotes erd
-\end_inset
-
- that something is on a basic timer as opposed to reverse engineering it's
+ media show allows the object to retain its power.
+ It cannot be taken away once the technology driving the piece has been
  
 \begin_inset Quotes eld
 \end_inset
 
-interaction states.
+figured out.
 \begin_inset Quotes erd
 \end_inset
 
- in a similar manner of how Pages would accumulate in the area.
- These were also intended to be takeaways.
+
 \end_layout
 
 \begin_layout Standard
@@ -3544,11 +3590,6 @@ height "0.5pt"
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
-The CAPTCHA images make the paper alien.
- It's a page from a book, but it's obviously not...
 \end_layout
 
 \begin_layout Subsection
@@ -3914,9 +3955,10 @@ ebsites.
 CAPTCHA-fy! and the Serendipity Engine received mixed responses.
  Because of the limited available space in the printer mechanism and the
  long duration of the show, the Serendipity Engine only dispensed paper
- roughly ever 8 minutes.
- Nobody was in the area for that duration of time, so it was in fact extremely
- serendipitous when a sheet fell from the ceiling and 
+ roughly ever eight minutes.
+ I did not witness anybody remaining in the hallway area for more than eight
+ minutes at a time, so it was in fact extremely serendipitous when a sheet
+ fell from the ceiling and 
 \emph on
 was noticed
 \emph default
@@ -3929,8 +3971,9 @@ reading area
 \begin_inset Quotes erd
 \end_inset
 
- which it was installed over did not have much going on visually, and was
- largely ignored.
+ over which it was installed was very simple and visually unassuming.
+ I believe this was a large factor in why most people did not even seem
+ to notice it.
  The pages from the Serendipity Engine did accumulate on the floor, but
  people tended to either ignore them, or thought that they had been knocked
  over, and stacked them together into a neat pile on top of the CAPTCHA-fy!
@@ -4577,6 +4620,18 @@ key "Lessig"
 
 \end_layout
 
+\begin_layout Standard
+The future - real time 3d scanning, 
+\emph on
+object
+\emph default
+ recognition, real world modeling not through meta data, but through understandi
+ng objects.
+ How long until our understanding of the world is accurately modeled by
+ computers? Blurring the lines of the digital world and the physical, turning
+ it into one...
+\end_layout
+
 \begin_layout Subsection*
 from intro
 \end_layout
@@ -4745,7 +4800,7 @@ Just as the Brownie made the camera available to the consumer for cheap
 
 \begin_layout Standard
 \begin_inset Note Comment
-status collapsed
+status open
 
 \begin_layout Plain Layout
 How does the instantaneous availability of so much information change our
@@ -4765,47 +4820,6 @@ Digitizing a physical artifact is not going to devalue the original, just
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
-While it is important to ask who is choosing each object worthy of digitization
- (and how they're valuing that)? Equally important is, what 
-\emph on
-can
-\emph default
- be digitized? And is this due more in part to the qualities of the object
- itself, or the abilities of the digitization hardware/software.
- It is physically impossible to create an accurate reproduction of a large
- building or landscape; a smell or a taste; a temperature and humidity (touch)...
- It is much easier to digitally reproduce and archive the visual and the
- aural.
- What does this do to society and the things we value? As we become more
- familiar with the visual culture and more adept and refined, do we ignore
- the other senses? As we are inundated with a certain cultural canon or
- trope, do we ignore or reject the unfamiliar? How are our tastes and our
- cultural (directions, milieu) being defined by the capabilities of computers
- and digitization processes? If the goal is ultimately to preserve culture,
- we must go beyond the visual and the aural.
-\end_layout
-
-\begin_layout Standard
-You can create a 3D model of the interior of the Sistine Chapel, but it
- is difficult to reproduce the changing light, the people walk past, and
- how that changes the sound of silence and air pressure or temperature.
-\end_layout
-
-\begin_layout Standard
-You cannot digitize the process of preparing a body for a ritual burial.
- How a certain something can smell.
- You can't digitize the smell of ___ field...
- You can't digitize the feeling of looking out over an exapnse after climbing
- the face of a mountain.
- The sight, sound, humidity of angel falls...
- Can you digitize personalities (of people, animals)? Granted these can
- all be described and made searchable through meta information, but even
- sound and images/movies are directly searchable (various analyses and fingerpri
-nting techniques - image identification, face recognition, reverse google
- image search, etc...)
 \end_layout
 
 \begin_layout Standard
