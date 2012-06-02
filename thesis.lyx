@@ -2916,11 +2916,12 @@ g of the physical? While it is important to consider who is determining
 \emph on
 can
 \emph default
- be digitized? Digitization is more than simple capturing data or models
- of certain objects, but also the ability to create a representation of
- that object using display technologies.
- The ability to be digitized is a combination of the state of technology
- and the qualities of the object itself.
+ be digitized? Digitization entails more than simply capturing data or models
+ of certain objects.
+ It is also the ability to create a representation of that object using
+ display technologies.
+ The ability to be digitized depends upon a combination of the state of
+ technology and the qualities of the object itself.
 \end_layout
 
 \begin_layout Standard
@@ -2934,9 +2935,8 @@ The ability to transfer visual input to physical media has been around in
  (books, image scans, etc.) OCR algorithms have difficulties with font changes,
  superscripts/subscripts, mathematical formulas, handwritten notes, or even
  full handwritten pages (journals, diaries, legal documents/letters.) Issues
- also arise during the scanning process, where digital artifacts may appear,
- or pages may simple be lost or corrupted due to aberrations in the scanning
- process
+ also arise during the scanning process where digital artifacts can appear,
+ or pages may be lost or corrupted due to aberrations in the scanning process
 \begin_inset Foot
 status collapsed
 
@@ -2958,7 +2958,7 @@ http://theartofgooglebooks.tumblr.com/
 
 .
  As we move towards text-based search as our primary mode of retrieving
- this information, what happens to this information when it doesn't exist
+ this type of information, what are the consequences when it doesn't exist
  (or exists in a corrupted format) in our searchable database? How can we
  find the mis-translated words if they don't show up when we look for them?
  Does the content exist if we're not aware of its existence or cannot find
@@ -3122,12 +3122,16 @@ http://www.bicyclebuiltfortwothousand.com/info.html
 
 \begin_layout Standard
 This is a large topic, and I decided to focus on perhaps the most well-known,
- and most invasive/criticized aspect of this process: the Google Books project.
- Without knowing it, most web users encounter this, and have probably helped
- contribute to it unknowingly.
- It has also undergone heavy criticism for things like copyright infringement
- as well as for promoting a type electronic colonialism (initially, the
- project only digitized western language books and magazines (predominately
+ and most invasive/criticized aspect of this process: the Google Books Library
+ Project.
+ Unbeknownst to them, most web users have not only encountered the project,
+ but they have likely contributed to it as well through the usage of CAPTCHAs.
+ As mentioned in the introduction to this paper, Google uses CAPTCHA tests
+ to supplement the automated translations being performed as part of the
+ Google Books Library Project's digitization processes.
+ The project has also undergone heavy criticism for things like copyright
+ infringement as well as for promoting a type electronic colonialism (initially,
+ the project only digitized western language books and magazines (predominately
  English) from a small set of US & European libraries.) However, since the
  program began, it has become much more inclusive of non-Western cultures.
 \end_layout
@@ -3139,7 +3143,7 @@ n project at the MFA show.
  with the digital and the process of taking a digital artifact and presenting
  it in a physical form.
  Ocular Character Recognition consists of three separate, but related projects:
- Webpages for Humans - a web application used to CAPTCHA-fy
+ Webpages for Humans - a series of prints of CAPTCHA-fied
 \begin_inset Foot
 status collapsed
 
@@ -3151,11 +3155,10 @@ CAPTCHA-fy is the term I use to distort text to the point where it become
 
 \end_inset
 
- machine-readable HTML documents; CAPTCHA-fy! - handmade booklets expressing
- the underlying goals and ideas under the OCR umbrella (a manifesto); and
- The Serendipity Engine - a modified printer used to serendipitously dispense/pr
-oduce CAPTCHA-fied pages from eBooks digitized through Google's book/library
- project.
+ webpages; CAPTCHA-fy! - handmade booklets expressing the underlying goals
+ and ideas under the OCR umbrella (a manifesto); and The Serendipity Engine
+ - a modified printer used to serendipitously dispense/produce CAPTCHA-fied
+ pages from eBooks digitized through Google's book/library project.
 \end_layout
 
 \begin_layout Standard
@@ -3196,8 +3199,8 @@ See Figure 2
 .
  When users first visit the site, they can enter a URL into a form which
  brings them to the CAPTCHA-fied HTML page for that URL.
- From this point on, any links they click on the page will continue to be
- CAPTCHA-fied by the web server.
+ From this point on, any links clicked within the page will continue to
+ be CAPTCHA-fied by the web server.
  However, as mentioned earlier in this paper, I have a strong aversion to
  showing digital works on a computer in a gallery setting.
  For this reason, I used the software & website developed for Webpages for
@@ -3211,7 +3214,7 @@ Human Web.
 \end_inset
 
  The installation for Webpages for Humans consisted of a series of 5 digital
- prints suspended from the ceiling.
+ prints suspended from the ceiling using monofilament.
  These prints were generated by replacing the text on webpages with CAPTCHAs,
  transforming a digital document specifically designed for machine readability
  into a physical document which can no longer be "read" by a computer.
@@ -3231,12 +3234,12 @@ transparent mylar prepared with a digital ground for use in digital printing
 , and mounted between a sheet of clear acrylic and a sheet of translucent
  white acrylic.
  The familiar images had something slightly askew (the CAPTCHA-fied text)
- and their shape and size resembled that of a laptop screen, yet without
- the rest of the laptop.
+ but their shape and size resembled that of a laptop screen, without the
+ rest of the laptop.
  While it was a struggle to properly light the pieces due to the location
  (in a long hallway, the opposite wall being floor-to-ceiling windows),
  at night, with controlled lighting, the white acrylic backing would catch
- and diffuse the light, causing the floating non-screens to emanate a glow.
+ and diffuse the light, causing the floating screens to emanate a soft glow.
  The luminescence of the images under proper lighting conditions reinforced
  the connection to the screen.
  
@@ -3313,23 +3316,38 @@ It has been brought to my attention that web pages are primarily created
  of the underlying code.
  The CAPTCHA-fication process is not simply replacing text with images on
  a web page, it fundamentally changes the underlying markup of the HTML
- pages in a way such that the code itself is unreadable, as well as the
- visual representation, which can no longer be deciphered by OCR processes.
+ pages in a way such that not only is the code itself is unreadable, but
+ it's visual representation (or rendering) is as well.
+ And it is done in such a way that it can no longer be deciphered by OCR
+ processes.
 \end_layout
 
 \begin_layout Standard
 CAPTCHA-fy! served as the manifesto for the Ocular Character Recognition
  project, linking the concepts of Webpages for Humans and the Serendipity
  Engine to the ideas within the project as a whole.
- Hand-bound booklets with (linoleum block prints - laser cut, pristine,
- very machine-like) hand-printed covers on high quality papers.
- The inner pages were low-quality xerox copies, retaining the DIY, hand-made,
- low-cost aesthetic.
- There was also a reading area consisting of two chairs and a footstool,
- where the pamphlets were displayed.
+ Each manifesto was hand-made and hand-bound.
+ The covers to the booklets were identical - each with the computer-generated
+ 
+\begin_inset Quotes eld
+\end_inset
+
+CAPTCHA-fy!
+\begin_inset Quotes erd
+\end_inset
+
+ text block printed onto a piece of thick, dark drawing paper.
+ The block prints were created by etching a digital image into a linoleum
+ block using a laser cutter.
+ This created very crisp, pristine, and machine-like lines which contrasted
+ well with the hand-made, DIY aesthetic.
+ The inner pages were low-quality xerox copies, further reinforcing this
+ conflicting man-made/machined aesthetic.
+ As part of the installation, there was also a reading area consisting of
+ two chairs and a footstool, where the pamphlets were displayed.
  There was originally a holder for the pamphlets to signal that they were
- takeaways, but it was not properly installed and fell and shattered shortly
- before the show opening.
+ takeaways, but it was not properly installed and shattered after falling
+ shortly before the show opening.
  The pamphlets were then arranged along the window behind the reading area.
 \end_layout
 
@@ -3600,7 +3618,8 @@ http://en.wikipedia.org/wiki/Data_URI_scheme
 
 \end_inset
 
- to allow it to be directly embedded into HTML documents.
+ to allow it to be directly embedded into HTML documents or saved as separate
+ image files.
  This library was then implemented in a web site
 \begin_inset Foot
 status collapsed
@@ -3669,7 +3688,7 @@ https://github.com/jessefulton/webpages-for-humans
  project.
  The server was able to inject the JavaScript classes into any webpage,
  using CasperJS scripts.
- Writing the library in JavaScript also made it easy to create a bookmarklet
+ Writing the library in JavaScript also made it trivial to create a bookmarklet
 \begin_inset Foot
 status collapsed
 
@@ -3694,16 +3713,17 @@ bookmark
 \end_layout
 
 \begin_layout Standard
-The JavaScript library was used to generate the cover image for the CAPTCHA-fy!
- booklets.
- This image was then etched into a block of linoleum using a laser cutter.
- The resulting block print provided an uncannily precise cover and textual
- print, on a booklet which was clearly DIY/hand-made.
+The JavaScript library was used to generate the cover image and some of
+ the internal pages of the CAPTCHA-fy! booklets.
+ A High-res versions of the CAPTCHA-fied cover text was etched into a block
+ of linoleum using a laser cutter.
+ The images for the inner pages where laid out using Adobe InDesign and
+ then copied at a low-quality setting on a standard Xerox machine.
 \end_layout
 
 \begin_layout Standard
 The code to run the printer for the Serendipity Engine is very straightforward,
- and is not available online.
+ but is not available online.
  A printer was dismantled until just the document tray, rollers, and motor
  were still intact.
  An arduino was connected to the printer's DC motor and was used to run
@@ -3752,20 +3772,14 @@ http://www.openframeworks.cc/
 
 , but this proved to be more overhead than necessary and the project was
  rewritten to use simple bash scripts.
- The scripts take a PDF file as input and runs OCR algorithms on the document
+ The scripts take a PDF file as input and run OCR algorithms on the document
  using the Tesseract library.
- Once text has been identified in the PDF, it is saved in hOCR format and
- adjusted 
-\begin_inset Quotes eld
-\end_inset
-
-cleaned up
-\begin_inset Quotes erd
-\end_inset
-
- and re-rendered using a PhantomJS script.
- This script also injects the node-captcha library and replaces much of
- the text on the page with CAPTCHA-fied versions of those words.
+ Once Tesseract has identified the text in the PDF, the translation is saved
+ in hOCR format, which is essentially an HTML document.
+ Finally, this HTML document is processed by a custom PhantomJS script which
+ positions and styles all of the elements accordingly and injects the node-captc
+ha library in order to CAPTCHA-fy the whole page, replacing roughly ever
+ other word on the page with a CAPTCHA-fied version of itself.
 \end_layout
 
 \begin_layout Subsection*
@@ -3776,9 +3790,8 @@ Goals and expected outcomes
 A CAPTCHA is something most Internet users have encountered, yet few know
  why they appear, and even fewer know how the process is connected to the
  digitization of physical books.
- However, based upon my interactions with students (Millenials) who visited
- the show, a much higher proportion of them did know quite a bit more about
- the process.
+ However, based upon my interactions with students who visited the show,
+ a fairly high proportion of them did know quite a bit more about the process.
  The goal for this project is not necessarily to educate or raise awareness
  about reCAPTCHA, but to get people thinking on a larger scale about how
  we digitize physical objects.
