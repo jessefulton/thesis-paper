@@ -400,7 +400,7 @@ status open
 \begin_inset Quotes eld
 \end_inset
 
-The Web 2.0 discourse provides an answer [to the question of how we can imgine
+The Web 2.0 discourse provides an answer [to the question of how we can imagine
  governance of very large groups without media]: instead of slow and intranspare
 nt institutions we now have software that allows us to scaled the community
  ideal tot the level of society; the resulting transfer of power to the
@@ -474,7 +474,7 @@ And this is what we call culture
 
 \begin_layout Quote
 \align right
-Bernard Steigler,
+Bernard Stiegler,
 \emph on
  Leroi-Gourhan: L’Inorganique Organisé
 \emph default
@@ -573,7 +573,7 @@ Foreword to A=B
 
 \begin_layout Standard
 \begin_inset Note Note
-status collapsed
+status open
 
 \begin_layout Plain Layout
 TODOS: Google = it vs.
@@ -613,26 +613,6 @@ In fact, there can only be one interpretation of every piece of code.
  Unlike people, computers are not able to guess or interpret a meaning if
  it’s not stated exactly.” (Reas, McWilliams and LUST, Form + Code in Design,
  Art, and Architecture 15)
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset Quotes eld
-\end_inset
-
-If there is not an accumulation of experience for animals, in that the species
- do not inherit the experience of the individuals of which they are composed,
- it is on the contrary the possibility of transmitting individual experience
- that makes possible the process of exteriorization.
- 
-\emph on
-And this is what we call culture
-\emph default
-.
-\begin_inset Quotes erd
-\end_inset
-
- Steigler, 1998 (Gere p.
- 20)
 \end_layout
 
 \begin_layout Subsection*
@@ -688,7 +668,7 @@ Google might not be making us stupid.
 
 If art is to have a role or a meaning at all in the age of real-time technologie
 s it is to keep our human relation with time open in the light of its potential
- foreclusure by such technology.
+ foreclosure by such technology.
 \begin_inset Quotes erd
 \end_inset
 
@@ -700,8 +680,8 @@ s it is to keep our human relation with time open in the light of its potential
 \begin_inset Quotes eld
 \end_inset
 
-In evaluating systems the artist is a perpectivist considering goals, boundaries
-, structure, input, output, and related activity inside and outside the
+In evaluating systems the artist is a perspectivist considering goals, boundarie
+s, structure, input, output, and related activity inside and outside the
  system.
  Where the object almost always has a fixed shape and boundaries, the consistenc
 y of a system may be altered in time and space, its behavior determined
@@ -1448,8 +1428,8 @@ book-ness
 
 \begin_layout Standard
 My project Ocular Character Recognition examines some of these questions
- by appropriating and manupalting one of the key innovations which has made
- the Google Books Library Project
+ by appropriating and manipulating one of the key innovations which has
+ made the Google Books Library Project
 \begin_inset Foot
 status collapsed
 
@@ -1723,6 +1703,13 @@ e each project (the two projects being Everybody's Google and Ocular Character
  And the pieces shown at the MFA show were a condensation of those ideas.
 \end_layout
 
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
 \begin_layout Part
 Everybody's Google
 \end_layout
@@ -1825,7 +1812,7 @@ http://www.loc.gov/webarchiving/faq.html#faqs_05
 In their simplest form, search engines store a copy of every page on the
  Internet and return a ranked list of the most relevant pages from its database
  based upon text-based queries.
- "If Herbert Simon was right in 1971 when he dclared attention a scarce
+ "If Herbert Simon was right in 1971 when he declared attention a scarce
  resource consumed by an overabundance of information, we have to recognize
  that ranking is not only very useful but also inevitable...
  Any system of ranking will favor certain sites over others; the question
@@ -1900,7 +1887,7 @@ key "BrinPage"
 
 \begin_layout Standard
 However, search engines have become much more complex since their inception.
- In order to remain competetive and profitalbe, they are constantly refining
+ In order to remain competitive and profitable, they are constantly refining
  their ranking algorithms.
  One integral innovation to Google's algorithms has been search personalization.
  Google tracks user behaviours on its own sites, as well as on external
@@ -1979,13 +1966,13 @@ ns & judgement calls about individuals and using these judgements to tell
 \end_layout
 
 \begin_layout Standard
+\begin_inset Note Comment
+status open
+
+\begin_layout Plain Layout
 A number of artists have been working with Google as a medium, and also
  investigating personalization, but not to this extent.
 \end_layout
-
-\begin_layout Standard
-\begin_inset Note Comment
-status open
 
 \begin_layout Subsection*
 Others Working in this area
@@ -2051,7 +2038,7 @@ http://difference.theinfo.org/ - personalization
 \end_layout
 
 \begin_layout Plain Layout
-http://peep.non-standard.net/ - personaliztaion
+http://peep.non-standard.net/ - personalization
 \end_layout
 
 \begin_layout Plain Layout
@@ -2064,95 +2051,7 @@ y-word-in-the-dictionary/ - google as medium/appropriated
 
 \end_layout
 
-\begin_layout Standard
-\begin_inset Note Comment
-status collapsed
-
-\begin_layout Plain Layout
-Imagine you are taking a vacation and happen to have an old friend who lives
- in the city you're visiting.
- Despite the fact that the two of you have not spoken in years, you've decided
- to ask her for a guide of things to do, rather than rely on a travel guide.
-\end_layout
-
-\begin_layout Plain Layout
-This is like the Internet.
- But even if you don't want any type of travel guide, you're kind of stuck.
- Without the travel guide, it's near-impossible to truly find anything new,
- except out of sheer luck.
-\end_layout
-
-\begin_layout Plain Layout
-ANALOGY: visiting a new city and have an old friend who you haven't talked
- to in years who gives you a guide of all of the 'cool' things to do and
- see.
- S/he knows you fairly well, but you've changed quite a bit since the last
- time you spoke.
- But you follow the guide and enjoy your trip.
- It's a very different experience being a tourist, and being 
-\begin_inset Quotes eld
-\end_inset
-
-fed
-\begin_inset Quotes erd
-\end_inset
-
- information - be it from a generic travel agency vs.
- someone who knows you personally - and from living in that city and having
- the opportunity to experience it on your own through exploration and experiment
-ation.....
- tour, make stops in certain areas - shown the building/object of interest,
- then given a short amount of time to explore on your own.
- Illusion of freedom, but you're being told what is culturally significant,
- what is worth seeing, what is worth taking the time to see.
- For the majority of users, the Internet is like being on a non-stop tour.
- We find some information and we want to know more about it, and our tour
- guide google shows us a few locations about that interest, and we can explore
- from there.
- But what if it's the wrong entry point? What if there's a better one nobody
- knows about? It's like that secret, unmarked restaurant that you need to
- find out from a friend, or sometimes more likely, a stranger, (or by chance?)
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Note Comment
-status collapsed
-
-\begin_layout Plain Layout
-As digital technologies become increasingly ubiquitous and accessible, digital
- documents are quickly becoming the primary material of information gathered
- during knowledge seeking.
- (referring to autonomy 3 important things: access, plurality...) While the
- Internet is largely viewed as embracing democratic ideals and guaranteeing
- equal access for all, to all, the fact that our Internet experience is
- mediated almost exclusively through privatized companies, is inherently
- undemocratic.
- In order to provide "relevant" information to individual users (and increase
- revenues), companies like Google and Amazon filter content and information
- through black box algorithms.
- End users have little to no control over which items or information are
- shown to them, or in what order; and because these algorithms are trade
- secrets, users also cannot have an understanding of the filtering and selection
- process.
-\end_layout
-
-\begin_layout Plain Layout
-Google Search filters through enormous amounts of data using complex computer
- algorithms designed to return relevant information to users.
- 
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Subsection
+\begin_layout Subsection*
 Formal Description
 \end_layout
 
@@ -2286,7 +2185,7 @@ In its current form, the project is engaged with through a web interface.
  Each cube in the visualization represents one item in the top 10 search
  results returned by Google; each face of each cube represents one of the
  four personas.
- As the cubes rotate and a set of cube faces becomes perpindicular with
+ As the cubes rotate and a set of cube faces becomes perpendicular with
  our field of vision, we are presented screenshots of the 10 URLs returned
  to that Google account for the current search term being visualized.
 \end_layout
@@ -2380,7 +2279,7 @@ everybodysgoogle.com
  on their mobile devices.
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Subsection*
 Technical description
 \end_layout
 
@@ -2496,8 +2395,8 @@ Google Bomb
 \begin_inset Quotes erd
 \end_inset
 
- meant to embarass presidential hopeful Mitt Romney; while the results for
- the Fox News reader included a pro-Romney news blog (
+ meant to embarrass presidential hopeful Mitt Romney; while the results
+ for the Fox News reader included a pro-Romney news blog (
 \begin_inset Flex URL
 status collapsed
 
@@ -2534,14 +2433,14 @@ CasperJS allows scripting of web browser behaviors and navigation
 
 \end_inset
 
- which let me programatically navigate the web, authenticated as a Google
+ which let me programmatically navigate the web, authenticated as a Google
  user.
  Three main scripts were used to perform actions on behalf of these users:
  
 \begin_inset Quotes eld
 \end_inset
 
-authenicate,
+authenticate,
 \begin_inset Quotes erd
 \end_inset
 
@@ -2604,7 +2503,7 @@ seed
 \end_inset
 
  URL.
- It would then select specific links on that page (ie., only links in the
+ It would then select specific links on that page (i.e.., only links in the
  
 \begin_inset Quotes eld
 \end_inset
@@ -2802,7 +2701,7 @@ http://knowyourmeme.com/forums/general/topics/15561-everybodys-google
 status collapsed
 
 \begin_layout Plain Layout
-Interestingly, loooking through the logs, a group of people had turned the
+Interestingly, looking through the logs, a group of people had turned the
  search query queue into a sort of chat room or message board.
  
 \end_layout
@@ -2812,7 +2711,7 @@ Interestingly, loooking through the logs, a group of people had turned the
 
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Subsection*
 Goals and expected outcomes 
 \end_layout
 
@@ -2906,6 +2805,13 @@ correct-ness
  all? Surely there must be compromises in this process.
 \end_layout
 
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
 \begin_layout Part
 Ocular Character Recognition
 \end_layout
@@ -2965,8 +2871,8 @@ can
 \end_layout
 
 \begin_layout Standard
-The ability to transfer visiual input to physical media has been around
- in some form for centuries, with sound recording coming more recently.
+The ability to transfer visual input to physical media has been around in
+ some form for centuries, with sound recording coming more recently.
  Understandably, photos, texts, and music already have digital counterparts,
  whereas technology for recreating stimuli for tactile or olfactory senses
  is rare.
@@ -3041,7 +2947,7 @@ You can create a 3D model of the interior of the Sistine Chapel, but it
 You cannot digitize the process of preparing a body for a ritual burial.
  How a certain something can smell.
  You can't digitize the smell of ___ field...
- You can't digitize the feeling of looking out over an exapnse after climbing
+ You can't digitize the feeling of looking out over an expanse after climbing
  the face of a mountain.
  The sight, sound, humidity of angel falls...
  Can you digitize personalities (of people, animals)? Granted these can
@@ -3058,8 +2964,8 @@ I'm taking the digital out of its element in order to explore how we value
 
 \begin_layout Plain Layout
 At its heart, Ocular Character Recognition is about questioning the types
- of physical data and obects which we can search for and interact with in
- digital formats.
+ of physical data and objects which we can search for and interact with
+ in digital formats.
  Some objects do not translate to a 2-dimensional, screen representation.
  Some things cannot be represented digitally, or reproduced on a screen.
  We can digitize things which appeal to our aural and visual senses, but
@@ -3075,7 +2981,7 @@ At its heart, Ocular Character Recognition is about questioning the types
 \end_layout
 
 \begin_layout Standard
-I'm very interested in how we treate physical objects differently from their
+I'm very interested in how we treat physical objects differently from their
  digital representations.
  And as the physical and the virtual continue to merge together, it is interesti
 ng to materialize digital content and see the reverse process.
@@ -3115,7 +3021,7 @@ http://datenform.de/areyouhumaneng.html
 
 \end_inset
 
- In essence, CAPTCHAs demonstrate the human intervention and cultural knowldge
+ In essence, CAPTCHAs demonstrate the human intervention and cultural knowledge
  required to decipher signs of written language.
  By placing physical CAPTCHAs on walls heavily covered by graﬃti tags, Barthol
  is making a connection from the process of deciphering and interpretation
@@ -3152,7 +3058,7 @@ http://www.bicyclebuiltfortwothousand.com/info.html
  Users of Amazon’s Mechanical Turk recorded their interpretations sound
  clips from computer singing “Daisy Bell” (the ﬁrst song ever sung by a
  computer.) These samples were then combined together to reproduce the original
- track using human voices as opposed to computersynthesized sounds creating
+ track using human voices as opposed to computer synthesized sounds creating
  a human-ized version of a digital artifact.
 \end_layout
 
@@ -3210,8 +3116,8 @@ The title Ocular Character Recognition is a play on the term Optical Character
  physical/claiming the digital.
 \end_layout
 
-\begin_layout Subsection
-Formal Description (combine with technical description?)
+\begin_layout Subsection*
+Formal Description
 \end_layout
 
 \begin_layout Standard
@@ -3362,8 +3268,8 @@ It has been brought to my attention that web pages are primarily created
 CAPTCHA-fy! served as the manifesto for the Ocular Character Recognition
  project, linking the concepts of Webpages for Humans and the Serendipity
  Engine to the ideas within the project as a whole.
- Hand-bound booklets with (lino block prints - laser cut, pristine, very
- machine-like) hand-printed covers on high quality papers.
+ Hand-bound booklets with (linoleum block prints - laser cut, pristine,
+ very machine-like) hand-printed covers on high quality papers.
  The inner pages were low-quality xerox copies, retaining the DIY, hand-made,
  low-cost aesthetic.
  There was also a reading area consisting of two chairs and a footstool,
@@ -3466,12 +3372,12 @@ digitized by Google
  text, a digital artifact, immediately defamiliarizes the object.
  In addition to being a writer, Lewis Carroll was also a logician and mathematic
 ian.
- He was disillusioned with the radical changes occuring in the fields of
+ He was disillusioned with the radical changes occurring in the fields of
  Mathematics around this time, and The Mad Tea Party was a critique of William
  Rowan Hamilton's concept of the Quaternion, or more directly it was a critique
  of what Carroll felt was Hamilton's misuse or appropriation of time in
  order to solve an unrelated problem.
- Simlarly, I have appropriated this piece of writing to provide a critique
+ Similarly, I have appropriated this piece of writing to provide a critique
  of another unrelated system and set of processes - Google's consumption
  and production of digital culture.
  
@@ -3592,7 +3498,7 @@ height "0.5pt"
 
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Subsection*
 Technical description
 \end_layout
 
@@ -3776,7 +3682,7 @@ https://github.com/jessefulton/phantomjs-hocr
  simple bash scripts.
  The scripts take a PDF file as input and runs OCR algorithms on the document
  using the Tesseract library.
- Onc text has been identified in the PDF, it is saved in hOCR format and
+ Once text has been identified in the PDF, it is saved in hOCR format and
  adjusted 
 \begin_inset Quotes eld
 \end_inset
@@ -3785,14 +3691,12 @@ cleaned up
 \begin_inset Quotes erd
 \end_inset
 
- and rerendered using a PhantomJS script.
+ and re-rendered using a PhantomJS script.
  This script also injects the node-captcha library and replaces much of
  the text on the page with CAPTCHA-fied versions of those words.
- The pages used in the MFA show were pre-printed, modified versions of free
- Google E-Books
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Subsection*
 Goals and expected outcomes 
 \end_layout
 
@@ -3830,6 +3734,13 @@ alternate
  Is a digital document simply a combination of zeros and ones? Or does it
  have structure from which information can be gathered and analyzed (by
  both humans and computer algorithms)?
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
 \end_layout
 
 \begin_layout Part
@@ -4076,7 +3987,7 @@ Why don't you just show the software itself at the show?
 \begin_inset Quotes eld
 \end_inset
 
-Why don't you just set up a computer nad let visitors click around on the
+Why don't you just set up a computer and let visitors click around on the
  website?
 \begin_inset Quotes erd
 \end_inset
@@ -4199,7 +4110,7 @@ key "Benjamin"
 \end_inset
 
 Speed destroys space, it erases temporal distance.
- In both cases, the mechanism of physiological percption is altered.
+ In both cases, the mechanism of physiological perception is altered.
 \begin_inset Quotes erd
 \end_inset
 
@@ -4250,8 +4161,51 @@ I have ideas which are compelling to me, and questions I try to grapple
  and develop.
 \end_layout
 
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
 \begin_layout Part
 Conclusion
+\end_layout
+
+\begin_layout Quote
+\begin_inset Quotes eld
+\end_inset
+
+The Internet...is the first modern communications medium that expands its reach
+ by decentralizing the capital structure of production and distribution
+ of information, culture, and knowledge...
+ This basic change in the material conditions of information and cultural
+ production and distribution have substantial effects on how we come to
+ know the world we occupy and the alternative courses of action open to
+ us as individuals and as social actors.
+ Through these effects, the emerging networked environment structures how
+ we perceive and pursue core values in modern liberal societies.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset CommandInset citation
+LatexCommand citet
+after "30"
+key "WealtOfNetworks"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -4465,7 +4419,7 @@ Youtube indexes closed-captioning data which includes a textual transcript
 .
  Google makes it possible to find the best gluten-free Pizza shop nearby.
  Google makes it possible to view the paintings and sculptures in the Louvre
- at unprecedented detail, from halfway around teh globe.
+ at unprecedented detail, from halfway around the globe.
  and can then give us turn by turn directions optimized for our mode of
  transportation.
  Google can manage our stock portfolio; it can inform us of breaking news;
@@ -4508,8 +4462,8 @@ Why so important? Google has near monopoly on search, and is huge in other
  areas of the internet.
  It is the Internet to many people.
  And as technology grows, becomes more integral in day-to-day life, they
- will be ain incredibly large force in shaping the culture of societies
- (or the global/digital society.) And it does this using incredibly effective
+ will be an incredibly large force in shaping the culture of societies (or
+ the global/digital society.) And it does this using incredibly effective
  and quick algorithms built by some of the most talented engineers in the
  world.
  However, Google is a privately held company, must make money yet it provides
@@ -4557,7 +4511,7 @@ key "Googlization"
 \end_layout
 
 \begin_layout Standard
-But unlinke most companies providing similar services (at least prior to
+But unlike most companies providing similar services (at least prior to
  the emergence of the information economy), Google provides all of these
  services free of charge.
  Yet they're highly profitable, primarily because they're the best in the
@@ -4754,33 +4708,12 @@ The media that carry segmented marketing messages, just like the ones that
 Politics of Search
 \end_layout
 
-\begin_layout Standard
-\begin_inset Quotes eld
-\end_inset
-
-The Internet...
- is the first modern communications medium that expands its reach by decentraliz
-ing the capital structure of production and distribution of information,
- culture, and knowledge...
- This basic change in the material conditions of information and cultural
- production and distribution have substantial effects on how we come to
- know the world we occupy and the alternative courses of action open to
- us as individuals and as social actors.
- Through these effects, the emerging networked environment structures how
- we perceive and pursue core values in modern liberal societies.
-\begin_inset Quotes erd
-\end_inset
-
- (Benkler, p.
- 30)
-\end_layout
-
 \begin_layout Subsubsection*
 On digitization of culture
 \end_layout
 
 \begin_layout Standard
-I believe that most of what we have seen up until recently has been analagous
+I believe that most of what we have seen up until recently has been analogous
  to the introduction of the printing press, or maybe the Kodak Brownie camera
  in the sense that it has achieved a massive leap in making certain types
  of content available on a mass scale.
@@ -4846,7 +4779,7 @@ A CAPTCHA is something one rarely - if ever - encounters outside of a computer
  show.
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Subsubsection*
 asdf
 \end_layout
 
