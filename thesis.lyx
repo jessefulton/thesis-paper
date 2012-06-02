@@ -963,6 +963,10 @@ Thesis Projects - combine with intro
 \end_layout
 
 \begin_layout Standard
+ARTIST'S STATEMENT???
+\end_layout
+
+\begin_layout Standard
 Everybody's Google is an exploration of the multiple 
 \begin_inset Quotes eld
 \end_inset
@@ -1780,20 +1784,24 @@ Conceptual Description
 \end_layout
 
 \begin_layout Standard
+\begin_inset Note Comment
+status open
+
+\begin_layout Plain Layout
 Imagine you are taking a vacation and happen to have an old friend who lives
  in the city you're visiting.
  Despite the fact that the two of you have not spoken in years, you've decided
  to ask her for a guide of things to do, rather than rely on a travel guide.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 This is like the Internet.
  But even if you don't want any type of travel guide, you're kind of stuck.
  Without the travel guide, it's near-impossible to truly find anything new,
  except out of sheer luck.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 ANALOGY: visiting a new city and have an old friend who you haven't talked
  to in years who gives you a guide of all of the 'cool' things to do and
  see.
@@ -1825,8 +1833,13 @@ ation.....
  find out from a friend, or sometimes more likely, a stranger, (or by chance?)
 \end_layout
 
+\end_inset
+
+
+\end_layout
+
 \begin_layout Standard
-\begin_inset Note Greyedout
+\begin_inset Note Comment
 status open
 
 \begin_layout Plain Layout
@@ -1935,15 +1948,6 @@ e is mediated almost exclusively through privatized companies, is inherently
 \end_layout
 
 \begin_layout Standard
-\begin_inset Note Comment
-status open
-
-\begin_layout Plain Layout
-(Why is this important?)
-\end_layout
-
-\end_inset
-
 This is important because...
  On the political economy of communications competence, Oscar H.
  Gandy Jr.
@@ -2799,13 +2803,356 @@ http://www.bicyclebuiltfortwothousand.com/info.html
 \end_layout
 
 \begin_layout Standard
-What is chosen to be digitized? What 
+Up until this point, I have largely been focused on Google's web search
+ which allows users to find web pages relevant to search queries.
+ However, while it may be primarily known for indexing web sites, Google
+ also indexes videos
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://www.youtube.com/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+, consumer goods
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://www.google.com/shopping
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+, geographic locations
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+https://maps.google.com
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+, news
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+https://news.google.com/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+, books and scholarly articles
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://books.google.com/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://scholar.google.com/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+, social interactions and communications
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+https://plus.google.com/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+, images
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://images.google.com/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ and much more
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Including most recently,
+\emph on
+ 
+\emph default
+the concept of 
+\emph on
+things
+\emph default
+ (
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://www.google.com/insidesearch/features/search/knowledge.html
+\end_layout
+
+\end_inset
+
+)
+\end_layout
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Google makes it possible to find the exact frame in a video when a particular
+ phrase is uttered
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Youtube indexes closed-captioning data which includes a textual transcript
+ of all dialogue in the video mapped to timestamps in the feed
+\end_layout
+
+\end_inset
+
+.
+ Google makes it possible to find the best gluten-free Pizza shop nearby
+ and can then give us turn by turn directions optimized for our mode of
+ transportation.
+ Google makes it possible to get close enough to Starry Night to make out
+ individual threads of the canvas
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://www.googleartproject.com/collection/moma-the-museum-of-modern-art/artwork/t
+he-starry-night-vincent-van-gogh/320268/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+.
+ Google can manage our stock portfolio; it can inform us of breaking news;
+ and it can email us transcriptions of voice mails left on our home phones
+ when we're not around.
+ Google will even play the role of tour guide if you drive a BMW with ConnectedD
+rive technology
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://www.youtube.com/watch?v=xLSTfGZAJDE
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+.
+ In short, Google is indexing culture and making it widely available through
+ its various services.
+ The algorithms running these services are not just filtering information
+ or data, they're filtering culture and influencing its trajectory.
+ In this sense, Google is engaged in a never-ending cycle of simultaneously
+ consuming culture as well as producing it - it is the ultimate cultural
+ prosumer.
+\end_layout
+
+\begin_layout Standard
+The first step in making this all possible is to index, store, and analyze
+ these things: music, films, books, museums, restaurants, opinions, events,
+ news, economic information, etc.
+ But at which point do the digital representations overtake and replace
+ the originals? Or will they simply augment them? What are the cultural
+ ramifications when the physical object is destroyed and all that remains
+ is its digital representation? And what happens when the digital representation
+ becomes corrupted, is censored, or is lost in a power outage or natural
+ disaster? These are the wrong questions to be asking.
+ We should be wondering how this might create a new method of interacting
+ with and appreciating (digital representations of) physical cultural artifacts?
+ How does digitization affect culture (culture 
+\begin_inset Quotes eld
+\end_inset
+
+proper
+\begin_inset Quotes erd
+\end_inset
+
+, as well as digital culture.) For example, what does it mean to 
+\begin_inset Quotes eld
+\end_inset
+
+be a book
+\begin_inset Quotes erd
+\end_inset
+
+ today? Does a paper require words or images printed on paper? Can a series
+ of images on an iPad or Kindle still be a book? What if the words on the
+ printed page are clearly digital symbols? The CAPTCHA images make the paper
+ alien.
+ It's a page from a book, but it's obviously not...
+\end_layout
+
+\begin_layout Standard
+I believe that most of what we have seen up until recently has been analagous
+ to the introduction of the printing press, or maybe the Kodak Brownie camera
+ in the sense that it has achieved a massive leap in making certain types
+ of content available on a mass scale.
+ But How is this different from books & photography? Why is making it searchable
+ and massively available different? It's not so much about that, but rather
+ that the act of 
+\series bold
+digitization favors certain types of objects or experiences over others.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Comment
+status collapsed
+
+\begin_layout Plain Layout
+How does the instantaneous availability of so much information change our
+ values? If our favorite band is playing a music festival two hours away,
+ will we make the trek even if it will be broadcast live on Youtube?
+\end_layout
+
+\begin_layout Plain Layout
+Digitizing a physical artifact is not going to devalue the original, just
+ as taking a photograph of a person does not steal their sould.
+ One could argue that by making the digital representation widely accessible
+ (through photos, 3D models, etc.) it could increase interest in the actual
+ object and encourage people to visit it...? It is not much different from
+ photo documentation or travelogues.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+While it is important to ask who is choosing each object worthy of digitization
+ (and how they're valuing that)? Equally important is, what 
 \emph on
 can
 \emph default
- be digitized? It is physically impossible to create an accurate reproduction
- of a large building or landscape; a smell or a taste; a temperature and
- humidity (touch)...
+ be digitized? And is this due more in part to the qualities of the object
+ itself, or the abilities of the digitization hardware/software.
+ It is physically impossible to create an accurate reproduction of a large
+ building or landscape; a smell or a taste; a temperature and humidity (touch)...
  It is much easier to digitally reproduce and archive the visual and the
  aural.
  What does this do to society and the things we value? As we become more
@@ -2815,6 +3162,64 @@ can
  cultural (directions, milieu) being defined by the capabilities of computers
  and digitization processes? If the goal is ultimately to preserve culture,
  we must go beyond the visual and the aural.
+\end_layout
+
+\begin_layout Standard
+You can create a 3D model of the interior of the Sistine Chapel, but it
+ is difficult to reproduce the changing light, the people walk past, and
+ how that changes the sound of silence and air pressure or temperature.
+\end_layout
+
+\begin_layout Standard
+You cannot digitize the process of preparing a body for a ritual burial.
+ How a certain something can smell.
+ You can't digitize the smell of ___ field...
+ You can't digitize the feeling of looking out over an exapnse after climbing
+ the face of a mountain.
+ The sight, sound, humidity of angel falls...
+ Can you digitize personalities (of people, animals)? Granted these can
+ all be described and made searchable through meta information, but even
+ sound and images/movies are directly searchable (various analyses and fingerpri
+nting techniques - image identification, face recognition, reverse google
+ image search, etc...)
+\end_layout
+
+\begin_layout Standard
+What does it mean to be digitized? How does that change how we value the
+ physical? What if we could materialize the digital? Realize content created
+ in the virtual, which only exists in the virtual and making it physical.
+ By doing this, 
+\series bold
+can we gain any insight into the processes and changes which occur when
+ transforming the same element, or representing it in these different spaces
+\series default
+? By taking the digital out of its element, can we gain insight into how
+ people value digitally native artifacts?
+\end_layout
+
+\begin_layout Standard
+At its heart, Ocular Character Recognition is about questioning the types
+ of physical data and obects which we can search for and interact with in
+ digital formats.
+ Some objects do not translate to a 2-dimensional, screen representation.
+ Some things cannot be represented digitally, or reproduced on a screen.
+ We can digitize things which appeal to our aural and visual senses, but
+ it's difficult to digitize other types of cultural objects or practices.
+ When we become so focused on preserving the object, what happens to the
+ rest of culture which cannot be captured in the same way these artifacts
+ can?
+\end_layout
+
+\begin_layout Standard
+This is a large topic, and I decided to focus on perhaps the most well-known,
+ and most invasive/criticized aspect of this process: the Google Books project.
+ Without knowing it, most web users encounter this, and have probably helped
+ contribute to it unknowingly.
+ It has also undergone heavy criticism for things like copyright infringement
+ as well as for promoting a type electronic colonialism (initially, the
+ project only digitized western language books and magazines (predominately
+ English) from a small set of US & European libraries.) However, since the
+ program began, it has become much more inclusive of non-Western cultures.
 \end_layout
 
 \begin_layout Standard
@@ -2849,35 +3254,6 @@ CAPTCHA-fy is the term I use to distort text to the point where it become
  The Serendipity Engine - a modified printer used to serendipitously dispense/pr
 oduce CAPTCHA-fied pages from eBooks digitized through Google's book/library
  project.
-\end_layout
-
-\begin_layout Subsection
-Conceptual Description
-\end_layout
-
-\begin_layout Standard
-At its heart, Ocular Character Recognition is about questioning the types
- of physical data and obects which we can search for and interact with in
- digital formats.
- Some objects do not translate to a 2-dimensional, screen representation.
- Some things cannot be represented digitally, or reproduced on a screen.
- We can digitize things which appeal to our aural and visual senses, but
- it's difficult to digitize other types of cultural objects or practices.
- When we become so focused on preserving the object, what happens to the
- rest of culture which cannot be captured in the same way these artifacts
- can?
-\end_layout
-
-\begin_layout Standard
-This is a large topic, and I decided to focus on perhaps the most well-known,
- and most invasive/criticized aspect of this process: the Google Books project.
- Without knowing it, most web users encounter this, and have probably helped
- contribute to it unknowingly.
- It has also undergone heavy criticism for things like copyright infringement
- as well as for promoting a type electronic colonialism (initially, the
- project only digitized western language books and magazines (predominately
- English) from a small set of US & European libraries.) However, since the
- program began, it has become much more inclusive of non-Western cultures.
 \end_layout
 
 \begin_layout Standard
@@ -2943,7 +3319,8 @@ http://theartofgooglebooks.tumblr.com/
 
 .
  What happens to this information when it doesn't exist in our searchable
- database? our primary mode of retrieving this information?
+ database? our primary mode of retrieving this information? Does it exist
+ if we're not aware of its existence?
 \end_layout
 
 \begin_layout Standard
@@ -2954,7 +3331,7 @@ Ocular Character Recognition tries to put the focus of digitization back
 \end_layout
 
 \begin_layout Subsection
-Formal Description
+Formal Description (combine with technical description?)
 \end_layout
 
 \begin_layout Standard
@@ -3359,7 +3736,7 @@ Technical description
 The core functionality for these projects is a shared JavaScript library
  I created which generates images of CAPTCHA-fied text
 \begin_inset Foot
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Flex URL
@@ -3403,7 +3780,7 @@ http://en.wikipedia.org/wiki/Data_URI_scheme
  to allow it to be directly embedded into HTML documents.
  This library was then implemented in a web site
 \begin_inset Foot
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Flex URL
@@ -3425,7 +3802,7 @@ http://nodecaptcha.herokuapp.com/
  Originally, this functionality was going to be written in Java and served
  via a separate web service
 \begin_inset Foot
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Flex URL
@@ -3444,11 +3821,11 @@ https://github.com/jessefulton/captcha-servlet
 \end_inset
 
 , but hosting issues made this a bit of a hassle.
- By going with Javascript however, it was incredibly easy to embed this
- functionality in web browsers, which greatly simplified the HTML manipulation
- process for the Webpages for Humans
+ By using Javascript however, it was incredibly easy to embed this functionality
+ in web browsers, which greatly simplified the HTML manipulation process
+ for the Webpages for Humans
 \begin_inset Foot
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Flex URL
@@ -3471,7 +3848,7 @@ https://github.com/jessefulton/webpages-for-humans
  using CasperJS scripts.
  Writing the library in JavaScript also made it easy to create a bookmarklet
 \begin_inset Foot
-status open
+status collapsed
 
 \begin_layout Plain Layout
 a bookmarklet is a piece of JavaScript stored as a URL on a webpage which
@@ -3494,11 +3871,24 @@ bookmark
 \end_layout
 
 \begin_layout Standard
+The JavaScript library was used to generate the cover image for the CAPTCHA-fy!
+ booklets.
+ This image was then etched into a block of linoleum using a laser cutter.
+ The resulting block print provided an uncannily precise cover and textual
+ print, on a booklet which was clearly DIY/hand-made.
+\end_layout
+
+\begin_layout Standard
 The code to run the printer for the Serendipity Engine is very straightforward,
- and is not available online, but the prints were generated by another set
- of scripts using the node-captchafy library
+ and is not available online.
+ A printer was dismantled until just the document tray, rollers, and motor
+ were still intact.
+ An arduino was connected to the printer's DC motor and was used to run
+ the motor (and feed out sheets of paper) at standard time intervals, The
+ prints were generated by another set of scripts using the node-captchafy
+ library
 \begin_inset Foot
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Flex URL
@@ -3520,8 +3910,20 @@ https://github.com/jessefulton/phantomjs-hocr
  Initially this code was written in C++ using OpenFrameworks, but this proved
  to be more overhead than necessary and the project was rewritten to use
  simple bash scripts.
- The scripts take a PDF file as input and generate a series of CAPTCHA-fied
- PNG files as output.
+ The scripts take a PDF file as input and runs OCR algorithms on the document
+ using the Tesseract library.
+ Onc text has been identified in the PDF, it is saved in hOCR format and
+ adjusted 
+\begin_inset Quotes eld
+\end_inset
+
+cleaned up
+\begin_inset Quotes erd
+\end_inset
+
+ and rerendered using a PhantomJS script.
+ This script also injects the node-captcha library and replaces much of
+ the text on the page with CAPTCHA-fied versions of those words.
  The pages used in the MFA show were pre-printed, modified versions of free
  Google E-Books
 \end_layout
@@ -3571,8 +3973,8 @@ MFA Show Response
 \end_layout
 
 \begin_layout Standard
-People were very receptive to and interested in the concepts behind the
- two projects.
+People were very receptive to and genuinely interested in the concepts behind
+ the two projects.
  Either they 
 \begin_inset Quotes eld
 \end_inset
