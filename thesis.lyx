@@ -369,6 +369,12 @@ LatexCommand tableofcontents
 \end_layout
 
 \begin_layout Quote
+
+\emph on
+\begin_inset Note Comment
+status open
+
+\begin_layout Quote
 "I believe that a democratic society is not and cannot be a community, where
  by a community I mean a body of persons united in affirming the same comprehens
 ive or partially comprehensive doctrine."
@@ -379,6 +385,11 @@ ive or partially comprehensive doctrine."
 John Rawls, 
 \emph on
 Justice as Fairness: A Restatement
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -431,6 +442,38 @@ The Electronic Disturbance
 \end_layout
 
 \begin_layout Quote
+\begin_inset Quotes eld
+\end_inset
+
+It is...
+ the possibility of transmitting individual experience that makes possible
+ the process of exteriorization.
+ 
+\emph on
+And this is what we call culture
+\emph default
+.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\align right
+Bernard Steigler,
+\emph on
+ Leroi-Gourhan: L’Inorganique Organisé
+\emph default
+ (transl.
+ Charlie Gere in 
+\emph on
+Art, Time, and Technology
+\emph default
+)
+\end_layout
+
+\begin_layout Quote
 “Library science scholars in particular concern themselves with the changing
  locus of access to information and knowledge (from public shelves and stacks
  to commercial servers).
@@ -454,18 +497,9 @@ The End of the Virtual: Digital Methods
 \end_layout
 
 \begin_layout Quote
-\begin_inset Quotes eld
-\end_inset
-
-No matter what form it may finally have it must begin with an idea.
- It is the process of conception and realization with which the artist is
- concerned.
- Once given physical reality by the artist the work is open to the perception
- of all, including the artist.
- (I use the word perception to mean the apprehension of the sense data,
- the objective understanding of the idea, and simultaneously a subjective
- interpretation of both).
- The work of art can be perceived only after it is completed.
+“What the work of art looks like isn’t too important.
+ It has to look like something if it has physical form.
+ No matter what form it may finally have it must begin with an idea.
 \begin_inset Quotes erd
 \end_inset
 
@@ -529,7 +563,11 @@ If there is not an accumulation of experience for animals, in that the species
  do not inherit the experience of the individuals of which they are composed,
  it is on the contrary the possibility of transmitting individual experience
  that makes possible the process of exteriorization.
- And this is what we call culture.
+ 
+\emph on
+And this is what we call culture
+\emph default
+.
 \begin_inset Quotes erd
 \end_inset
 
@@ -603,7 +641,7 @@ s it is to keep our human relation with time open in the light of its potential
 \end_inset
 
 In evaluating systems the artist is a perpectivist considering goals, boundaries
-, structure, input, output, and relate4d activity inside and outside the
+, structure, input, output, and related activity inside and outside the
  system.
  Where the object almost always has a fixed shape and boundaries, the consistenc
 y of a system may be altered in time and space, its behavior determined
@@ -1282,12 +1320,12 @@ Optical Character Recognition
 \end_layout
 
 \begin_layout Standard
-A CAPTCHA consists of two text-based images: a word which could not be deciphere
-d by OCR software (the "unknown" word); and a second word which the OCR
- software could decipher (the "known" word.) The user is then prompted to
- type in both words, with the assumption being that if the known word is
- correctly identified, then the identification of the unknown word is also
- likely to be correct
+A CAPTCHA (from the reCAPTCHA service) consists of two text-based images:
+ a word which could not be deciphered by OCR software (the "unknown" word);
+ and a second word which the OCR software could decipher (the "known" word.)
+ The user is then prompted to type in both words, with the assumption being
+ that if the known word is correctly identified, then the identification
+ of the unknown word is also likely to be correct
 \begin_inset Foot
 status collapsed
 
@@ -1585,8 +1623,8 @@ http://www.loc.gov/webarchiving/faq.html#faqs_05
 \end_inset
 
 .
- We do not have the mental resources as individuals to sift through so much
- content ourselves.
+ Humans do not have the mental resources to sift through so much content
+ unaided.
  In a society suffering from a severe case of information overload, we must
  closely manage how we focus our attention.
  With such an overabundance of data on the Web, we need a guide - a search
@@ -1676,7 +1714,78 @@ However, search engines have become much more complex since their inception.
  These inferred data models are then used to personalize Google Search,
  prioritizing results which its personalization algorithms deem relevant
  to each individual user.
- Google Search filters through 
+\end_layout
+
+\begin_layout Standard
+Google uses widgets on external websites to track our web browsing behaviour
+ and to generate our "user interest" model.
+ These inferred data models are then used to personalize Google Search,
+ prioritizing results which its personalization algorithms deem relevant
+ to each individual user.
+\end_layout
+
+\begin_layout Standard
+Everybody's Google explores these ideas and systems by programmatically
+ controlling a set of Google user accounts.
+ In an effort to hyper-personalize their Google Search results, these accounts
+ have been scripted to navigate the web biased towards specific cultural
+ interests or political orientations.
+ The visualization shows each account's top 10 results for particular Google
+ Search queries.
+\end_layout
+
+\begin_layout Standard
+With Everybody's Google, I'm not showing a new way to view the digital world,
+ but rather 
+\emph on
+revealing
+\emph default
+ the way the it actually is (or the multiple ways in which it's presented.)
+ The project demonstrates that there is a black box, and it is not empty.
+ There is a process taking place within the black box, and while we can
+ see the outcome, the process is hidden.
+ Whenever information goes into this black box, 
+\begin_inset Quotes eld
+\end_inset
+
+personalized
+\begin_inset Quotes erd
+\end_inset
+
+ data comes out.
+ Each time Google applies a personalization algorithm (not just in search,
+ but also in ads, news feeds, and youtube suggestions), they're making assumptio
+ns & judgement calls about individuals and using these judgements to tell
+ them how to view the world.
+\end_layout
+
+\begin_layout Standard
+The Google algorithms are the arbiters of taste and have presented you the
+ information you should be most interested in.
+ Personalization creates potential for a 
+\begin_inset Quotes eld
+\end_inset
+
+loss of autonomy...
+ related to the fact that we are presented with a picture of the world (at
+ least how it appears in search results) made up of what someone else, based
+ on proprietary knowledge, determines to be suitable to one’s individual
+ subjectivity.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand citet
+key "StadlerMayer"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Google Search filters through 
 \emph on
 enormous
 \emph default
@@ -1684,6 +1793,38 @@ enormous
  information to users.
  However, in a privatized system run by a for-profit company, the definition
  of “relevant” often exists in a gray area between “important” and “profitable.”
+\end_layout
+
+\begin_layout Standard
+While the Internet is largely viewed as embracing democratic ideals and
+ guaranteeing equal access for all, to all, the fact that our Internet experienc
+e is mediated almost exclusively through privatized companies, is inherently
+ undemocratic.
+ In order to provide "relevant" information to individual users (and increase
+ revenues), companies like Google and Amazon filter content and information
+ through black box algorithms.
+ End users have little to no control over which items or information are
+ shown to them, or in what order; and because these algorithms are trade
+ secrets, users also cannot have an understanding of the filtering and selection
+ process.
+\end_layout
+
+\begin_layout Standard
+This is important because...
+ On the political economy of communications competence, Oscar H.
+ Gandy Jr.
+ discusses how understanding communications and limitations in access to
+ technologies/divergent cultures creates and reinforces a technological
+ and social caste system....
+ keeps them down because they don't have 
+\begin_inset Quotes eld
+\end_inset
+
+the ability to understand the world so as to act to change it
+\begin_inset Quotes erd
+\end_inset
+
+ this is important for black box algorithms (Gandy, 109)
 \end_layout
 
 \begin_layout Standard
@@ -1779,10 +1920,6 @@ y-word-in-the-dictionary/ - google as medium/appropriated
 
 \end_layout
 
-\begin_layout Subsection
-Conceptual Description
-\end_layout
-
 \begin_layout Standard
 \begin_inset Note Comment
 status open
@@ -1863,106 +2000,6 @@ As digital technologies become increasingly ubiquitous and accessible, digital
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
-Google uses widgets on external websites to track our web browsing behaviour
- and to generate our "user interest" model.
- These inferred data models are then used to personalize Google Search,
- prioritizing results which its personalization algorithms deem relevant
- to each individual user.
-\end_layout
-
-\begin_layout Standard
-Everybody's Google explores these ideas and systems by programmatically
- controlling a set of Google user accounts.
- In an effort to hyper-personalize their Google Search results, these accounts
- have been scripted to navigate the web biased towards specific cultural
- interests or political orientations.
- The visualization shows each account's top 10 results for particular Google
- Search queries.
-\end_layout
-
-\begin_layout Standard
-With Everybody's Google, I'm not showing a new way to view the digital world,
- but rather 
-\emph on
-revealing
-\emph default
- the way the it actually is (or the multiple ways in which it's presented.)
- The project demonstrates that there is a black box, and it is not empty.
- There is a process taking place within the black box, and while we can
- see the outcome, the process is hidden.
- Whenever information goes into this black box, 
-\begin_inset Quotes eld
-\end_inset
-
-personalized
-\begin_inset Quotes erd
-\end_inset
-
- data comes out.
- Each time Google applies a personalization algorithm (not just in search,
- but also in ads, news feeds, and youtube suggestions), they're making assumptio
-ns & judgement calls about individuals and using these judgements to tell
- them how to view the world.
-\end_layout
-
-\begin_layout Standard
-The Google algorithms are the arbiters of taste and have presented you the
- information you should be most interested in.
- Personalization creates potential for a 
-\begin_inset Quotes eld
-\end_inset
-
-loss of autonomy...
- related to the fact that we are presented with a picture of the world (at
- least how it appears in search results) made up of what someone else, based
- on proprietary knowledge, determines to be suitable to one’s individual
- subjectivity.
-\begin_inset Quotes erd
-\end_inset
-
-
-\begin_inset CommandInset citation
-LatexCommand citet
-key "StadlerMayer"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-While the Internet is largely viewed as embracing democratic ideals and
- guaranteeing equal access for all, to all, the fact that our Internet experienc
-e is mediated almost exclusively through privatized companies, is inherently
- undemocratic.
- In order to provide "relevant" information to individual users (and increase
- revenues), companies like Google and Amazon filter content and information
- through black box algorithms.
- End users have little to no control over which items or information are
- shown to them, or in what order; and because these algorithms are trade
- secrets, users also cannot have an understanding of the filtering and selection
- process.
-\end_layout
-
-\begin_layout Standard
-This is important because...
- On the political economy of communications competence, Oscar H.
- Gandy Jr.
- discusses how understanding communications and limitations in access to
- technologies/divergent cultures creates and reinforces a technological
- and social caste system....
- keeps them down because they don't have 
-\begin_inset Quotes eld
-\end_inset
-
-the ability to understand the world so as to act to change it
-\begin_inset Quotes erd
-\end_inset
-
- this is important for black box algorithms (Gandy, 109)
 \end_layout
 
 \begin_layout Subsection
@@ -2803,6 +2840,19 @@ http://www.bicyclebuiltfortwothousand.com/info.html
 \end_layout
 
 \begin_layout Standard
+\begin_inset Note Comment
+status open
+
+\begin_layout Plain Layout
+Move first two paragraphs to intro?
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 Up until this point, I have largely been focused on Google's web search
  which allows users to find web pages relevant to search queries.
  However, while it may be primarily known for indexing web sites, Google
@@ -3073,18 +3123,23 @@ http://www.youtube.com/watch?v=xLSTfGZAJDE
 \end_layout
 
 \begin_layout Standard
-The first step in making this all possible is to index, store, and analyze
- these things: music, films, books, museums, restaurants, opinions, events,
- news, economic information, etc.
- But at which point do the digital representations overtake and replace
- the originals? Or will they simply augment them? What are the cultural
- ramifications when the physical object is destroyed and all that remains
- is its digital representation? And what happens when the digital representation
- becomes corrupted, is censored, or is lost in a power outage or natural
- disaster? These are the wrong questions to be asking.
- We should be wondering how this might create a new method of interacting
- with and appreciating (digital representations of) physical cultural artifacts?
- How does digitization affect culture (culture 
+The first step in making all of this possible is to index, store, and analyze:
+ music, films, books, museums, restaurants, opinions, events, etc.
+ But at which point do the digital representations overtake or replace the
+ originals? What are the cultural ramifications when the physical object
+ is destroyed and all that remains is its digital representation? And what
+ happens when the digital representation becomes corrupted, is censored,
+ or is lost in a power outage or natural disaster? The more interesting
+ question to me is, 
+\begin_inset Quotes eld
+\end_inset
+
+how this might create a new method of interacting with and appreciating
+ (digital representations of) physical cultural artifacts?
+\begin_inset Quotes erd
+\end_inset
+
+ How does digitization affect culture - (culture 
 \begin_inset Quotes eld
 \end_inset
 
@@ -3092,7 +3147,7 @@ proper
 \begin_inset Quotes erd
 \end_inset
 
-, as well as digital culture.) For example, what does it mean to 
+, as well as digital culture)? For example, what does it mean to 
 \begin_inset Quotes eld
 \end_inset
 
@@ -3100,88 +3155,71 @@ be a book
 \begin_inset Quotes erd
 \end_inset
 
- today? Does a paper require words or images printed on paper? Can a series
+ today? Is a book simply words or images printed on bound paper? Can a series
  of images on an iPad or Kindle still be a book? What if the words on the
- printed page are clearly digital symbols? The CAPTCHA images make the paper
- alien.
- It's a page from a book, but it's obviously not...
-\end_layout
+ printed page are clearly digital symbols or artifacts? Is something's 
+\begin_inset Quotes eld
+\end_inset
 
-\begin_layout Standard
-I believe that most of what we have seen up until recently has been analagous
- to the introduction of the printing press, or maybe the Kodak Brownie camera
- in the sense that it has achieved a massive leap in making certain types
- of content available on a mass scale.
- But How is this different from books & photography? Why is making it searchable
- and massively available different? It's not so much about that, but rather
- that the act of 
-\series bold
-digitization favors certain types of objects or experiences over others.
+book-ness
+\begin_inset Quotes erd
+\end_inset
+
+ determined by its material, content, or some other set of qualities?
 \end_layout
 
 \begin_layout Standard
 \begin_inset Note Comment
+status open
+
+\begin_layout Plain Layout
+There are difficulties in all types of digitization processes - even those
+ which lend themselves well to this type of process (books, image scans,
+ etc.) However, there are difficulties in the OCR process.
+ OCR algorithms have difficulties with font changes, superscripts/subscripts,
+ mathematical formulas, handwritten notes, or even full handwritten pages
+ (journals, diaries, legal documents/letters)
+\begin_inset Foot
 status collapsed
 
 \begin_layout Plain Layout
-How does the instantaneous availability of so much information change our
- values? If our favorite band is playing a music festival two hours away,
- will we make the trek even if it will be broadcast live on Youtube?
+sources?
 \end_layout
 
+\end_inset
+
+.
+ Issues also arise during the scanning process, where digital artifacts
+ may appear, or pages may simple be lost or corrupted due to aberrations
+ in the scanning process
+\begin_inset Foot
+status collapsed
+
 \begin_layout Plain Layout
-Digitizing a physical artifact is not going to devalue the original, just
- as taking a photograph of a person does not steal their sould.
- One could argue that by making the digital representation widely accessible
- (through photos, 3D models, etc.) it could increase interest in the actual
- object and encourage people to visit it...? It is not much different from
- photo documentation or travelogues.
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://theartofgooglebooks.tumblr.com/
+\end_layout
+
+\end_inset
+
+ has some great examples of these issues
+\end_layout
+
+\end_inset
+
+.
+ What happens to this information when it doesn't exist in our searchable
+ database? our primary mode of retrieving this information? Does it exist
+ if we're not aware of its existence?
 \end_layout
 
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
-While it is important to ask who is choosing each object worthy of digitization
- (and how they're valuing that)? Equally important is, what 
-\emph on
-can
-\emph default
- be digitized? And is this due more in part to the qualities of the object
- itself, or the abilities of the digitization hardware/software.
- It is physically impossible to create an accurate reproduction of a large
- building or landscape; a smell or a taste; a temperature and humidity (touch)...
- It is much easier to digitally reproduce and archive the visual and the
- aural.
- What does this do to society and the things we value? As we become more
- familiar with the visual culture and more adept and refined, do we ignore
- the other senses? As we are inundated with a certain cultural canon or
- trope, do we ignore or reject the unfamiliar? How are our tastes and our
- cultural (directions, milieu) being defined by the capabilities of computers
- and digitization processes? If the goal is ultimately to preserve culture,
- we must go beyond the visual and the aural.
-\end_layout
-
-\begin_layout Standard
-You can create a 3D model of the interior of the Sistine Chapel, but it
- is difficult to reproduce the changing light, the people walk past, and
- how that changes the sound of silence and air pressure or temperature.
-\end_layout
-
-\begin_layout Standard
-You cannot digitize the process of preparing a body for a ritual burial.
- How a certain something can smell.
- You can't digitize the smell of ___ field...
- You can't digitize the feeling of looking out over an exapnse after climbing
- the face of a mountain.
- The sight, sound, humidity of angel falls...
- Can you digitize personalities (of people, animals)? Granted these can
- all be described and made searchable through meta information, but even
- sound and images/movies are directly searchable (various analyses and fingerpri
-nting techniques - image identification, face recognition, reverse google
- image search, etc...)
 \end_layout
 
 \begin_layout Standard
@@ -3228,15 +3266,7 @@ n project at the MFA show.
  These were largely experiments with materiality and exploring how we engage
  with the digital and the process of taking a digital artifact and presenting
  it in a physical form.
- A CAPTCHA is something one rarely - if ever - encounters outside of a computer
- screen.
- While all of the pieces were generated and created through custom software,
- no software or computers were on display or shown as a part of the MFA
- show.
-\end_layout
-
-\begin_layout Standard
-Ocular Character Recognition consists of three separate, but related projects:
+ Ocular Character Recognition consists of three separate, but related projects:
  Webpages for Humans - a web application used to CAPTCHA-fy
 \begin_inset Foot
 status collapsed
@@ -3258,73 +3288,10 @@ oduce CAPTCHA-fied pages from eBooks digitized through Google's book/library
 
 \begin_layout Standard
 The title Ocular Character Recognition is a play on the term Optical Character
- Recognition, which is the software used to convert scans or images of text
- into machine-readable documents.
- At its core, the process consists of recognizing glyphs or letters within
- the pixels of an image and adding additional layers of metadata to that
- file in order to allow it to be searched and indexed.
- 
-\begin_inset Note Comment
-status open
-
-\begin_layout Plain Layout
-Too much??? Simplify!
-\end_layout
-
-\end_inset
-
- This is what adds the simple functionality of being able to select text
- from a scanned PDF.
- As opposed to an optical process - one which deals primarily with light
- and its properties - an ocular process implies an emphasis on the human
- eye.
-\end_layout
-
-\begin_layout Standard
-However, there are difficulties in the OCR process.
- OCR algorithms have difficulties with font changes, superscripts/subscripts,
- mathematical formulas, handwritten notes, or even full handwritten pages
- (journals, diaries, legal documents/letters)
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-sources?
-\end_layout
-
-\end_inset
-
-.
- Issues also arise during the scanning process, where digital artifacts
- may appear, or pages may simple be lost or corrupted due to aberrations
- in the scanning process
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-\begin_inset Flex URL
-status collapsed
-
-\begin_layout Plain Layout
-
-http://theartofgooglebooks.tumblr.com/
-\end_layout
-
-\end_inset
-
- has some great examples of these issues
-\end_layout
-
-\end_inset
-
-.
- What happens to this information when it doesn't exist in our searchable
- database? our primary mode of retrieving this information? Does it exist
- if we're not aware of its existence?
-\end_layout
-
-\begin_layout Standard
-Ocular Character Recognition tries to put the focus of digitization back
+ Recognition (defined in the introduction.) However, as opposed to an optical
+ process - one which deals primarily with light and its properties - an
+ ocular process implies an emphasis on the human eye.
+ Ocular Character Recognition tries to put the focus of digitization back
  on the human experience, and preserving human culture by reversing the
  process of digitization, defamiliarizing the familiar, and reclaiming the
  physical/claiming the digital.
@@ -3726,6 +3693,11 @@ height "0.5pt"
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+The CAPTCHA images make the paper alien.
+ It's a page from a book, but it's obviously not...
 \end_layout
 
 \begin_layout Subsection
@@ -4658,6 +4630,118 @@ trade secret
 have
 \series default
  to tell anybody what they're doing behind the scenes.
+\end_layout
+
+\begin_layout Subsubsection*
+On digitization of culture
+\end_layout
+
+\begin_layout Standard
+I believe that most of what we have seen up until recently has been analagous
+ to the introduction of the printing press, or maybe the Kodak Brownie camera
+ in the sense that it has achieved a massive leap in making certain types
+ of content available on a mass scale.
+ But How is this different from books & photography? Why is making it searchable
+ and massively available different? It's not so much about that, but rather
+ that the act of 
+\series bold
+digitization favors certain types of objects or experiences over others.
+\end_layout
+
+\begin_layout Standard
+Just as the Brownie made the camera available to the consumer for cheap
+ and reinvented the photography as a whole - I think we're at a similar
+ place with the Open Software and DIY movements.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Comment
+status collapsed
+
+\begin_layout Plain Layout
+How does the instantaneous availability of so much information change our
+ values? If our favorite band is playing a music festival two hours away,
+ will we make the trek even if it will be broadcast live on Youtube?
+\end_layout
+
+\begin_layout Plain Layout
+Digitizing a physical artifact is not going to devalue the original, just
+ as taking a photograph of a person does not steal their soul.
+ One could argue that by making the digital representation widely accessible
+ (through photos, 3D models, etc.) it could increase interest in the actual
+ object and encourage people to visit it...? It is not much different from
+ photo documentation or travelogues.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+While it is important to ask who is choosing each object worthy of digitization
+ (and how they're valuing that)? Equally important is, what 
+\emph on
+can
+\emph default
+ be digitized? And is this due more in part to the qualities of the object
+ itself, or the abilities of the digitization hardware/software.
+ It is physically impossible to create an accurate reproduction of a large
+ building or landscape; a smell or a taste; a temperature and humidity (touch)...
+ It is much easier to digitally reproduce and archive the visual and the
+ aural.
+ What does this do to society and the things we value? As we become more
+ familiar with the visual culture and more adept and refined, do we ignore
+ the other senses? As we are inundated with a certain cultural canon or
+ trope, do we ignore or reject the unfamiliar? How are our tastes and our
+ cultural (directions, milieu) being defined by the capabilities of computers
+ and digitization processes? If the goal is ultimately to preserve culture,
+ we must go beyond the visual and the aural.
+\end_layout
+
+\begin_layout Standard
+You can create a 3D model of the interior of the Sistine Chapel, but it
+ is difficult to reproduce the changing light, the people walk past, and
+ how that changes the sound of silence and air pressure or temperature.
+\end_layout
+
+\begin_layout Standard
+You cannot digitize the process of preparing a body for a ritual burial.
+ How a certain something can smell.
+ You can't digitize the smell of ___ field...
+ You can't digitize the feeling of looking out over an exapnse after climbing
+ the face of a mountain.
+ The sight, sound, humidity of angel falls...
+ Can you digitize personalities (of people, animals)? Granted these can
+ all be described and made searchable through meta information, but even
+ sound and images/movies are directly searchable (various analyses and fingerpri
+nting techniques - image identification, face recognition, reverse google
+ image search, etc...)
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Everybody's Google
+\end_layout
+
+\begin_layout Standard
+blah
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+OCR
+\end_layout
+
+\begin_layout Standard
+A CAPTCHA is something one rarely - if ever - encounters outside of a computer
+ screen.
+ While all of the pieces were generated and created through custom software,
+ no software or computers were on display or shown as a part of the MFA
+ show.
 \end_layout
 
 \begin_layout Subsubsection
