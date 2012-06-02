@@ -478,7 +478,7 @@ Bernard Stiegler,
 \emph on
  Leroi-Gourhan: L’Inorganique Organisé
 \emph default
- (transl.
+(transl.
  Charlie Gere in 
 \emph on
 Art, Time, and Technology
@@ -566,9 +566,9 @@ Science is what we understand well enough to explain to a computer.
 
 \begin_layout Quote
 \align right
-Donald Knuth, 
+Donald Knuth, Foreword to 
 \emph on
-Foreword to A=B
+A=B
 \end_layout
 
 \begin_layout Standard
@@ -1008,10 +1008,11 @@ Everybody's Google focuses on Google's search personalization algorithms.
  Google is profitable as a business because it makes money serving highly
  personalized advertisements
 \begin_inset Foot
-status collapsed
+status open
 
 \begin_layout Plain Layout
-In 2009, 98% of Google's revenues came from advertising
+In 2009, 98% of Google's revenues came from advertising.
+ 
 \begin_inset CommandInset citation
 LatexCommand citet
 key "CharlieRose"
@@ -1026,10 +1027,37 @@ key "CharlieRose"
 .
  Google tracks users as they navigate the web, constructing representative
  data models by analyzing their browsing behaviours (rather than relying
- on say, volunteered demographic information.) The sites you visit, the things
- you search for, the date and geographic location of your searches - all
- of this information is stored by Google and assembled into a model in order
- to then serve you the 
+ on say, volunteered demographic information.)
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Quotes eld
+\end_inset
+
+We are not Google’s customers: we are its product.
+ We—our fancies, fetishes, predilections, and preferences—are what Google
+ sells to advertisers.
+ When we use Google to ﬁnd out things on the Web, Google uses our Web searches
+ to ﬁnd out things about us.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Googlization"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ The sites you visit, the things you search for, the date and geographic
+ location of your searches - all of this information is stored by Google
+ and assembled into a model in order to then serve you the 
 \begin_inset Quotes eld
 \end_inset
 
@@ -1073,16 +1101,19 @@ er basis.
  deem irrelevant for you based upon your user model; it also artificially
  inflates the scores for pages which it believes you might be interested
  in.
- However, in a privatized system run by a for-profit company, the definition
- of “relevant” often exists in a gray area between “important” and “profitable.”
+ However, in a privatized system run by a for-profit company, one must assume
+ that information deemed “relevant” exists in a gray area between “important”
+ and “profitable.”
 \end_layout
 
 \begin_layout Standard
-End users have little to no control over which items or information are
- shown to them, or the order in which those items appear; and because these
- algorithms are trade secrets, Google has no reason to disclose what information
- they are storing or analyzing, or how certain behaviours affect Google
- (personalized) search rankings.
+End users have little to no control over how Google is evaluating reults
+ for search queries.
+ The items which are selected and the order in which they appear are controlled
+ by algorithms, invisible to the user.
+ And because they are classified as trade secrets, Google has no reason
+ to disclose how they work; what information they are collecting and analyzing;
+ or how certain behaviours affect Google (personalized) search rankings.
  These algorithms are executed in a black box
 \begin_inset Foot
 status collapsed
@@ -1397,7 +1428,7 @@ The first step in making all of this possible is to index, store, and analyze
 \begin_inset Quotes eld
 \end_inset
 
-how this might create a new method of interacting with, understanding, and
+how might this create a new method of interacting with, understanding, and
  appreciating (digital representations of) physical cultural artifacts?
 \begin_inset Quotes erd
 \end_inset
@@ -1413,9 +1444,9 @@ proper
 , as well as digital culture)? For example, how have these technologies
  changed our notion of literature? Or what are the qualities of a book?
  Is a book simply words or images printed on bound paper? Can a series of
- images on an iPad or Kindle still be considered a book? What if the words
- on the printed page are clearly digital symbols or artifacts? Is something's
- 
+ screens and buttons on an iPad or Kindle still be considered a book? What
+ if the words on the printed page are clearly digital symbols or artifacts?
+ Is something's 
 \begin_inset Quotes eld
 \end_inset
 
@@ -1561,9 +1592,9 @@ Optical Character Recognition
  eyes to decipher the pieces of scanned text which the OCR software could
  not read.
  In exchange for access to enhanced website functionality (such as the ability
- to post a comment on a blog or forum), these users solve CAPTCHA tests,
- providing the (free) labour required to fill in the gaps in the OCR translation
-s
+ to post a comment on a blog or forum), website visitors solve CAPTCHA tests,
+ providing Google with the (free) labour required to fill in the gaps in
+ its OCR translations
 \begin_inset Foot
 status collapsed
 
@@ -1685,7 +1716,7 @@ key "Gandy"
 I view my thesis projects as experiments rather than as answers to any particula
 r questions.
  They are intended to raise awareness of complex and important issues in
- an approachable and easily digestible form.
+ an approachable and easily digestible manner.
  For something that largely remains unseen, it is difficult to create a
  physical form, but the projects detailed below represent a few of the possible
  manifestations of the concepts and ideas presented within each project.
@@ -1694,10 +1725,10 @@ r questions.
 \begin_layout Standard
 For the MFA show, a number of works were shown - one for Everybody's Google;
  and three for Ocular Character Recognition.
- The approach I have taken with my thesis work has been that the ideas constitut
-e each project (the two projects being Everybody's Google and Ocular Character
- Recognition.) The software I have written is the manifestation of those
- ideas.
+ The approach I have taken with my thesis work has been that the ideas themselve
+s constitute each project (the two projects being Everybody's Google and
+ Ocular Character Recognition.) The software I have written is the manifestation
+ of those ideas.
  Interacting with the corresponding websites (in a non-gallery setting)
  is the experience of those ideas.
  And the pieces shown at the MFA show were a condensation of those ideas.
@@ -1896,14 +1927,6 @@ However, search engines have become much more complex since their inception.
  These inferred data models are then used to personalize Google Search,
  prioritizing results which its personalization algorithms deem relevant
  to each individual user.
-\end_layout
-
-\begin_layout Standard
-Google uses widgets on external websites to track our web browsing behaviour
- and to generate our "user interest" model.
- These inferred data models are then used to personalize Google Search,
- prioritizing results which its personalization algorithms deem relevant
- to each individual user.
  In this sense, the Google algorithms are the arbiters of taste in the digital
  realm.
  They present you with the information you should be most interested in.
@@ -1936,8 +1959,8 @@ Everybody's Google explores these ideas and systems by programmatically
  have been scripted to navigate the web biased towards specific cultural
  interests or political orientations.
  These scripted users browse the internet and perform searches, while feeding
- the data from these processes to a real-time visualization which shows
- each account's top 10 results for particular Google Search queries.
+ the data from these processes to a real-time visualization displaying each
+ account's top 10 results for particular Google Search queries, side-by-side.
 \end_layout
 
 \begin_layout Standard
@@ -1947,9 +1970,9 @@ With Everybody's Google, I'm not showing a new way to view the digital world,
 revealing
 \emph default
  the way the it actually is (or the multiple ways in which it's presented.)
- The project demonstrates that there is a black box, and it is not empty.
- There is a process taking place within the black box, and while we can
- see the outcome, the process is hidden.
+ This project demonstrates that there is a black box, and it is not empty
+ - there is a very complex process taking place within it.
+ While we can see the outcome, the process is hidden.
  Whenever information goes into this black box, 
 \begin_inset Quotes eld
 \end_inset
@@ -1961,8 +1984,8 @@ personalized
  data comes out.
  Each time Google applies a personalization algorithm (not just in search,
  but also in ads, news feeds, and youtube suggestions), they're making assumptio
-ns & judgement calls about individuals and using these judgements to tell
- them how to view the world.
+ns about individuals and using these judgements to direct their digital
+ world view.
 \end_layout
 
 \begin_layout Standard
@@ -2134,7 +2157,7 @@ seed
 nts, present relevant news information, and personalize search results.
  For example, one of the accounts is constantly reading MTV hip hop blogs
  - Google is likely to assume that this person is very interested in hip
- hop music and news.
+ hop music and news and will filter the results accordingly.
 \end_layout
 
 \begin_layout Standard
@@ -2512,7 +2535,7 @@ featured stories
 \begin_inset Quotes erd
 \end_inset
 
- section of a news site) and visit (
+ section of a news site) and visit (or 
 \begin_inset Quotes eld
 \end_inset
 
@@ -2552,8 +2575,16 @@ search
 \begin_layout Standard
 The first step to building the visualization was to capture screenshots
  of each URL in the search results set.
- Another set of scripts would search the database for new URLs and then
- create 
+ When the 
+\begin_inset Quotes eld
+\end_inset
+
+search
+\begin_inset Quotes erd
+\end_inset
+
+ script completed, a second script would search the database for the newly
+ added search result page URLs and create 
 \begin_inset Quotes eld
 \end_inset
 
@@ -2562,7 +2593,7 @@ screen grabs
 \end_inset
 
  or generate images of those webpages on the server.
- Next, those screen grabs were converted into a format and size compatible
+ Next, each screen grab was converted into a format and size compatible
  with WebGL
 \begin_inset Foot
 status collapsed
@@ -2586,10 +2617,31 @@ In order to texture map a 3D object in WebGL, the dimensions of the image
 \end_inset
 
  using ImageMagick software.
- Finally, after all of the images for a particular set of query results
- (usually there was some overlap, so it averaged out to about 13 images
- per query), a message was sent to any running WebGL visualizations, which
- would then update themselves in real-time
+ Finally, after all of the screenshots had been generated for each user
+ who had performed the query
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+There was usually some overlap, so it averaged out to about 13 images per
+ query.
+\end_layout
+
+\end_inset
+
+, a socket.io
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+socket.io is a transport which allows for near-real-time communication between
+ a webserver and a client browser
+\end_layout
+
+\end_inset
+
+ message was sent to any running WebGL visualizations, which would then
+ update themselves with the new content and textures in real-time
 \begin_inset Foot
 status collapsed
 
@@ -2677,8 +2729,9 @@ status collapsed
 
 \begin_layout Plain Layout
 A user on KnowYourMeme.com (a popular website for generating, documenting,
- and discussing internet memes) had visited the show the previous weekend
- and posted a message about Everybody's Google in their forums.
+ and discussing internet memes) had visited the show at UCSC the previous
+ weekend and posted a message about Everybody's Google in their forums.
+ That online community then began overloading the DANM web server.
  See original forum thread at 
 \begin_inset Flex URL
 status open
@@ -3677,9 +3730,28 @@ https://github.com/jessefulton/phantomjs-hocr
 \end_inset
 
 .
- Initially this code was written in C++ using OpenFrameworks, but this proved
- to be more overhead than necessary and the project was rewritten to use
- simple bash scripts.
+ Initially this code was written in C++ using OpenFrameworks
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://www.openframeworks.cc/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+, but this proved to be more overhead than necessary and the project was
+ rewritten to use simple bash scripts.
  The scripts take a PDF file as input and runs OCR algorithms on the document
  using the Tesseract library.
  Once text has been identified in the PDF, it is saved in hOCR format and
@@ -4214,291 +4286,33 @@ Google is much more than a search engine.
  information.
  Google controls, creates, and distributes information in a multitude of
  forms, and it does this all incredibly well.
- While primarily known for indexing web sites, Google also indexes videos
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-\begin_inset Flex URL
-status collapsed
-
-\begin_layout Plain Layout
-
-http://www.youtube.com/
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-, consumer goods
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-\begin_inset Flex URL
-status collapsed
-
-\begin_layout Plain Layout
-
-http://www.google.com/shopping
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-, geographic locations
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-\begin_inset Flex URL
-status collapsed
-
-\begin_layout Plain Layout
-
-https://maps.google.com
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-, news
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-\begin_inset Flex URL
-status collapsed
-
-\begin_layout Plain Layout
-
-https://news.google.com/
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-, books and scholarly articles
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-\begin_inset Flex URL
-status collapsed
-
-\begin_layout Plain Layout
-
-http://books.google.com/
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-\begin_inset Flex URL
-status collapsed
-
-\begin_layout Plain Layout
-
-http://scholar.google.com/
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-, social interactions and communications
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-\begin_inset Flex URL
-status open
-
-\begin_layout Plain Layout
-
-https://plus.google.com/
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-, images
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-\begin_inset Flex URL
-status collapsed
-
-\begin_layout Plain Layout
-
-http://images.google.com/
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
- and much more
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-Including most recently,
+ But Google also has near-monopoly status on search, and is extremely competitiv
+e with other web-based services such as email and video.
+ Google 
 \emph on
+is
+\emph default
+ the Internet to many people and it's one of the primary gateways to all
+ things digital.
+ Its laws and rules influence how we can interact with the Internet – they
+ directly shape our understanding of the space of the Internet, what we
+ can do there, and what the Internet can be.
+ But all of these rules and laws are software algorithms.
  
-\emph default
-the concept of 
-\emph on
-things
-\emph default
- (
-\begin_inset Flex URL
-status collapsed
-
-\begin_layout Plain Layout
-
-http://www.google.com/insidesearch/features/search/knowledge.html
-\end_layout
-
-\end_inset
-
-)
-\end_layout
-
-\end_inset
-
-.
- Google makes it possible to find the exact frame in a video when a particular
- phrase is uttered
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-Youtube indexes closed-captioning data which includes a textual transcript
- of all dialogue in the video mapped to timestamps in the feed
-\end_layout
-
-\end_inset
-
-.
- Google makes it possible to find the best gluten-free Pizza shop nearby.
- Google makes it possible to view the paintings and sculptures in the Louvre
- at unprecedented detail, from halfway around the globe.
- and can then give us turn by turn directions optimized for our mode of
- transportation.
- Google can manage our stock portfolio; it can inform us of breaking news;
- it can email us transcriptions of voice mails left on our home phones when
- we're not around.
- We can even use Google to analyze stocks and invest in ours and our children's
- futures.
- Google can even play the role of tour guide if you drive a BMW with ConnectedDr
-ive technology
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-\begin_inset Flex URL
-status collapsed
-
-\begin_layout Plain Layout
-
-http://www.youtube.com/watch?v=xLSTfGZAJDE
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-.
- The first step in making this all possible is to index, store, and analyze
- these things: music, films, books, museums, restaurants, opinions, events,
- news, economic information, etc.
- In short, Google is indexing culture, and in the process of indexing culture,
- it is making culture available, filtering it and influencing its trajectory
- - it is the ultimate cultural prosumer.
-\end_layout
-
-\begin_layout Standard
-Why so important? Google has near monopoly on search, and is huge in other
- areas of the internet.
- It is the Internet to many people.
- And as technology grows, becomes more integral in day-to-day life, they
- will be an incredibly large force in shaping the culture of societies (or
- the global/digital society.) And it does this using incredibly effective
- and quick algorithms built by some of the most talented engineers in the
- world.
- However, Google is a privately held company, must make money yet it provides
- most of its services for free -> algorithms change to maximize profits
- (ads...
- changed privacy policy - all services are now shared) -> black-boxed, trade
- secrets...
-\end_layout
-
-\begin_layout Standard
-This is just a sampling of the services Google provides to its users, free
- of charge.
- (Google however is a profitable company.
- There are various ethical and legal questions around Google's business
- model and practices which I am interested in, but they are outside of the
- scope of this paper
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
 \begin_inset Quotes eld
 \end_inset
 
-We are not Google’s customers: we are its product.
- We—our fancies, fetishes, predilections, and preferences—are what Google
- sells to advertisers.
- When we use Google to ﬁnd out things on the Web, Google uses our Web searches
- to ﬁnd out things about us.
-\begin_inset Quotes erd
-\end_inset
+There can only be one interpretation of every piece of code.
+ Unlike people, computers are not able to guess or interpret a meaning if
+ it’s not stated exactly.”
+\begin_inset Foot
+status collapsed
 
- 
+\begin_layout Plain Layout
 \begin_inset CommandInset citation
 LatexCommand citet
-key "Googlization"
+after "15"
+key "FormAndCode"
 
 \end_inset
 
@@ -4507,46 +4321,10 @@ key "Googlization"
 
 \end_inset
 
-.)
-\end_layout
-
-\begin_layout Standard
-But unlike most companies providing similar services (at least prior to
- the emergence of the information economy), Google provides all of these
- services free of charge.
- Yet they're highly profitable, primarily because they're the best in the
- world at targeted advertising.
-\end_layout
-
-\begin_layout Standard
-Google personalizing search - personalization applies to ads, news, youtube
- suggestions...
-\end_layout
-
-\begin_layout Standard
-Black box - nobody really knows what's going on, including Google engineers.
- And that's been their response - we're looking at 1000's of different things.
- Play it off as a 
-\begin_inset Quotes eld
-\end_inset
-
-trade secret
-\begin_inset Quotes erd
-\end_inset
-
- - the don't 
-\series bold
-have
-\series default
- to tell anybody what they're doing behind the scenes.
-\end_layout
-
-\begin_layout Standard
-If Google is our gateway to the world of the Internet, its laws and rules
- influence how we can interact with the Internet – it directly shapes our
- understanding of the space of the Internet.
- Yet with the understanding that Google search algorithms are software,
- these rules and laws it imposes are nothing other than political.
+ There is no ambiguity in code, and there is no such thing as nature in
+ software - everything is explicitly designed and man-made.
+ All rules and regulations are put in place intentionally - they are nothing
+ other than political.
  To quote Lawrence Lessig regarding software design, 
 \begin_inset Quotes eld
 \end_inset
@@ -4557,7 +4335,7 @@ its architecture is its politics.
 
 
 \begin_inset Foot
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset CommandInset citation
@@ -4575,179 +4353,86 @@ key "Lessig"
 \end_layout
 
 \begin_layout Standard
-The future - real time 3d scanning, 
+As dependence on digital interfaces and software grows, these issues will
+ become ever-more prevalent.
+ The hardware interfaces and software algorithms of today will shape the
+ the cultures and networked societies of tomorrow.
+ In accordance with the 
 \emph on
-object
+exception culturelle
 \emph default
- recognition, real world modeling not through meta data, but through understandi
-ng objects.
- How long until our understanding of the world is accurately modeled by
- computers? Blurring the lines of the digital world and the physical, turning
- it into one...
+ clause, it is important to 
+\begin_inset Quotes eld
+\end_inset
+
+extend the principle of plurality from the level of opinion to that cultural
+ expression
+\begin_inset Quotes erd
+\end_inset
+
+ in order to protect and promote cultural goods and practices
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset CommandInset citation
+LatexCommand citet
+after "144"
+key "Rieder"
+
+\end_inset
+
+
 \end_layout
 
-\begin_layout Subsection*
-from intro
-\end_layout
+\end_inset
 
-\begin_layout Standard
-Personalization algorithms are important not just because of the curated
- information they present, but also because of the information which they
- omit.
-\end_layout
-
-\begin_layout Subsubsection*
-Privatization/black-box algorithms
+.
+ Respecting and acknowledging the various cultural perspectives from an
+ algorithmic viewpoint is just as important as respecting them in law.
+ The focus on speed, efficiency and profitability needs to shift towards
+ a more human-centric viewpoint.
+ Enhanced functionality such as personalization or digitization technologies
+ must be viewed just as critically for the information they present as they
+ are viewed for the information which they omit.
+ With a trend towards information consumption through digital networks,
+ software algorithms will have the growing ability to impact the development
+ of individual autonomy on a cultural and societal level.
+ 
 \end_layout
 
 \begin_layout Standard
 Nobody owns the web, yet is inherently a privatized public space.
  Public in the sense that the majority of sites do not have barriers to
- entry (such as subscription-based sites) yet it will always be privatized
- because the only way to reach these sites is to go through a private company
- at some point in the process .
- True public space, however, is incredibly important to democratic ideals
- and “the privatization of public space undermines the opportunities for
- free speech… Free speech is crucial because it … makes it possible for
- citizens to reach informed decisions about public policy [, and gives the
- minority] the opportunity to convince members of the majority of its dissenting
- views and build a coalition in favor of change.” In other words, as long
- as the Internet remains privatized, the policies governing the public spaces
- (such as search algorithms) will remain hidden, and largely unaffected
- by the uninformed dissenters.
- The existence of an accessible public space for discourse is critical to
- the survival of democratic values.
- “The media… are what always prevents response, making all processes of
- exchange impossible… This is the real abstraction of the media.
- And the system of social control and power is rooted in it.”
-\end_layout
-
-\begin_layout Subsubsection*
-How search works and why we need it
+ entry (such as subscription-based sites) but private in the sense that
+ at some point in the process of visiting a website, a private corporation
+ will become a method of data transport - whether it is the site & server
+ itself, the Internet Service Provider, or the companies maintaining the
+ hardware infrastructure underlying it all.
+ As long as the web remains private, there is a lack of accountability,
+ and private interests have powerful control over the flow of information
+ under the guise of making it free and widely available.
 \end_layout
 
 \begin_layout Standard
-So Google can be understood as one of our primary gateways to all things
- digital (now that we've seen that they do much more than search web pages.)
-\end_layout
-
-\begin_layout Standard
-But Google is software.
-\end_layout
-
-\begin_layout Standard
-In the library, our access is purely physical and is defined by the architecture
- of the structure.
- In the digital our access is limited by the software architecture of the
- systems running these search/filtering algorithms.
- Lessig quote
-\end_layout
-
-\begin_layout Standard
-\begin_inset Quotes eld
-\end_inset
-
-In fact, there can only be one interpretation of every piece of code.
- Unlike people, computers are not able to guess or interpret a meaning if
- it’s not stated exactly.” (Reas, McWilliams and LUST, Form + Code in Design,
- Art, and Architecture 15)
-\end_layout
-
-\begin_layout Standard
-Search engines are software.
- Their main algorithm is a function which filters information from a database.
- In Lev Manovich’s terms, the search engine is the narrative (the algorithm)
- through which we experience the world of the Internet (the database.) When
- we search for 
-\begin_inset Quotes eld
-\end_inset
-
-government coup
-\begin_inset Quotes erd
-\end_inset
-
-, it is this algorithm which decides whether we are a radical anarchist,
- scholarly researcher, or a promising political candidate.
- But search engines are privatized so we cannot see the algorithm.
-\end_layout
-
-\begin_layout Standard
-“Egypt” – one was shown news articles relating to the uprisings, the other
- was shown travel deals.
- The first page of “traveler’s” search results did not show anything about
- the political situation in Egypt.
- This is a very clear example of how content filtering, under the guise
- of “personalization” can be extremely dangerous in the sense that it can
- skew individual understanding and perceptions of the world through omission
- or overvaluation of information.
-\end_layout
-
-\begin_layout Subsubsection*
-Personalization --> homogeneity; reinforcing strata/castes; feedback loop
-\end_layout
-
-\begin_layout Standard
-\begin_inset Quotes eld
-\end_inset
-
-The media that carry segmented marketing messages, just like the ones that
- carry mass marketing messages, and even the marketing messages themselves,
- are socialization agents.
- Values, attitudes and lifestyles are learned from the content of communications
- media, whether those media are mass media or not...
- This means that the demassification of society may actually be a powerful
- reinforcement of social stratifications that could be hereditary and, because
- they would work through individual motivation, self-enforcing.
-\begin_inset Quotes erd
-\end_inset
-
- (Curtis, The information Society:104)
-\end_layout
-
-\begin_layout Subsubsection*
-Politics of Search
-\end_layout
-
-\begin_layout Subsubsection*
-On digitization of culture
-\end_layout
-
-\begin_layout Standard
-I believe that most of what we have seen up until recently has been analogous
- to the introduction of the printing press, or maybe the Kodak Brownie camera
- in the sense that it has achieved a massive leap in making certain types
- of content available on a mass scale.
- But How is this different from books & photography? Why is making it searchable
- and massively available different? It's not so much about that, but rather
- that the act of 
-\series bold
-digitization favors certain types of objects or experiences over others.
-\end_layout
-
-\begin_layout Standard
-Just as the Brownie made the camera available to the consumer for cheap
- and reinvented the photography as a whole - I think we're at a similar
- place with the Open Software and DIY movements.
- 
-\end_layout
-
-\begin_layout Standard
-\begin_inset Note Comment
+At the risk of sounding too pessimistic, I look forward to the future.
+ Shortly, when realtime 3D scanning and affordable 3D printing become widely
+ available, the underlying systems of representing and modeling the world,
+ along with the mechanisms for interacting with those systems, will radically
+ change the way we interact with and think about the digital.
+ And, in the past year alone, there have been great improvements by companies
+ such as Google at addressing many of the concerns addressed in this paper
+ and being more transparent about where their information comes from
+\begin_inset Foot
 status open
 
 \begin_layout Plain Layout
-How does the instantaneous availability of so much information change our
- values? If our favorite band is playing a music festival two hours away,
- will we make the trek even if it will be broadcast live on Youtube?
-\end_layout
+\begin_inset Flex URL
+status collapsed
 
 \begin_layout Plain Layout
-Digitizing a physical artifact is not going to devalue the original, just
- as taking a photograph of a person does not steal their soul.
- One could argue that by making the digital representation widely accessible
- (through photos, 3D models, etc.) it could increase interest in the actual
- object and encourage people to visit it...? It is not much different from
- photo documentation or travelogues.
+
+http://googleblog.blogspot.com/2012/01/search-plus-your-world.html
 \end_layout
 
 \end_inset
@@ -4755,42 +4440,58 @@ Digitizing a physical artifact is not going to devalue the original, just
 
 \end_layout
 
-\begin_layout Standard
+\end_inset
 
-\series bold
-Everybody's Google
+
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://www.google.com/ads/preferences/html/about.html
 \end_layout
 
-\begin_layout Standard
-blah
+\end_inset
+
+
 \end_layout
 
-\begin_layout Standard
+\end_inset
 
-\series bold
-OCR
+ (but there have also been a few missteps
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://www.washingtonpost.com/blogs/compost/post/googles-no-opt-out-privacy-change
+s-and-the-end-of-the-anonymous-internet/2012/01/25/gIQAtZuUQQ_blog.html
 \end_layout
 
-\begin_layout Standard
-A CAPTCHA is something one rarely - if ever - encounters outside of a computer
- screen.
- While all of the pieces were generated and created through custom software,
- no software or computers were on display or shown as a part of the MFA
- show.
+\end_inset
+
+
 \end_layout
 
-\begin_layout Subsubsection*
-asdf
-\end_layout
+\end_inset
 
-\begin_layout Standard
-These projects are an entry-point into a much larger area of research and
- exploration.
- I feel like I have just begun scratching the surface of the issues I'm
- interested in: how do location & language affect the information which
- is made accessible to us? Who owns our digital data and the data trails
- created during our web browsing? What rights do we have online versus in
- real life?
+.) The great thing about working in software and using the Internet as a
+ medium is that it is constantly changing, sometimes from a day-to-day basis.
+ What I've done in the past year may be irrelevant next month, at which
+ point, I will adapt and learn to think about and address a whole new set
+ of issues and ideas.
+ Another case in point of Google not just consuming data, but producing
+ it and influencing ideas of individuals and how we think about and understand
+ the world.
+ This is only the beginning.
 \end_layout
 
 \begin_layout Standard
@@ -5723,59 +5424,213 @@ Software and Frameworks Used
 \end_layout
 
 \begin_layout Standard
-OpenFrameworks
+Tessseract - 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://code.google.com/p/tesseract-ocr/
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-Tessseract
+NodeJS - 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://nodejs.org/
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-NodeJS
+socket.io - 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://socket.io/
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-WebGL
+WebGL - 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://get.webgl.org/
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-Three.js
+Three.js - 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://mrdoob.github.com/three.js/
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-HTML5 Canvas
+HTML5 Canvas - 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+https://developer.mozilla.org/en/HTML/Canvas
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-PhantomJS
+PhantomJS - 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://phantomjs.org/
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-CasperJS
+CasperJS - 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://casperjs.org/
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-ImageMagick
+ImageMagick - 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://www.imagemagick.org/
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-Google Chrome
+Google Chrome - 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+https://www.google.com/intl/en/chrome/browser/
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-Amazon EC2
+Amazon EC2 - 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://aws.amazon.com/ec2/
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-MongoDB
+MongoDB - 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://www.mongodb.org/
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-Redis
+Redis - 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://redis.io/
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-Git/Github
+Git/Github - 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+https://github.com/
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -5788,6 +5643,139 @@ Git/Github
 \begin_layout Standard
 \begin_inset Note Note
 status open
+
+\begin_layout Subsubsection*
+Personalization --> homogeneity; reinforcing strata/castes; feedback loop
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Quotes eld
+\end_inset
+
+The media that carry segmented marketing messages, just like the ones that
+ carry mass marketing messages, and even the marketing messages themselves,
+ are socialization agents.
+ Values, attitudes and lifestyles are learned from the content of communications
+ media, whether those media are mass media or not...
+ This means that the demassification of society may actually be a powerful
+ reinforcement of social stratifications that could be hereditary and, because
+ they would work through individual motivation, self-enforcing.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+\begin_inset CommandInset citation
+LatexCommand citet
+after "104"
+key "Curtis"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Subsubsection*
+Politics of Search
+\end_layout
+
+\begin_layout Subsubsection*
+On digitization of culture
+\end_layout
+
+\begin_layout Plain Layout
+I believe that most of what we have seen up until recently has been analogous
+ to the introduction of the printing press, or maybe the Kodak Brownie camera
+ in the sense that it has achieved a massive leap in making certain types
+ of content available on a mass scale.
+ But How is this different from books & photography? Why is making it searchable
+ and massively available different? It's not so much about that, but rather
+ that the act of 
+\end_layout
+
+\begin_layout Plain Layout
+
+\series bold
+current methods of digitization favor certain types of objects or experiences
+ over others.
+\end_layout
+
+\begin_layout Plain Layout
+Just as the Brownie made the camera available to the consumer for cheap
+ and reinvented the photography as a whole - I think we're at a similar
+ place with the Open Software and DIY movements.
+ 
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Note Comment
+status open
+
+\begin_layout Plain Layout
+How does the instantaneous availability of so much information change our
+ values? If our favorite band is playing a music festival two hours away,
+ will we make the trek even if it will be broadcast live on Youtube?
+\end_layout
+
+\begin_layout Plain Layout
+Digitizing a physical artifact is not going to devalue the original, just
+ as taking a photograph of a person does not steal their soul.
+ One could argue that by making the digital representation widely accessible
+ (through photos, 3D models, etc.) it could increase interest in the actual
+ object and encourage people to visit it...? It is not much different from
+ photo documentation or travelogues.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\series bold
+Everybody's Google
+\end_layout
+
+\begin_layout Plain Layout
+blah
+\end_layout
+
+\begin_layout Plain Layout
+
+\series bold
+OCR
+\end_layout
+
+\begin_layout Plain Layout
+A CAPTCHA is something one rarely - if ever - encounters outside of a computer
+ screen.
+ While all of the pieces were generated and created through custom software,
+ no software or computers were on display or shown as a part of the MFA
+ show.
+\end_layout
+
+\begin_layout Subsubsection*
+asdf
+\end_layout
+
+\begin_layout Plain Layout
+These projects are an entry-point into a much larger area of research and
+ exploration.
+ I feel like I have just begun scratching the surface of the issues I'm
+ interested in: how do location & language affect the information which
+ is made accessible to us? Who owns our digital data and the data trails
+ created during our web browsing? What rights do we have online versus in
+ real life?
+\end_layout
 
 \begin_layout Part*
 Literary Review/Context/Why does this matter?
