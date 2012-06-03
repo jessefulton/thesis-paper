@@ -2025,89 +2025,50 @@ ns about individuals and using these judgements to direct their digital
 \end_layout
 
 \begin_layout Standard
-\begin_inset Note Comment
-status open
-
-\begin_layout Plain Layout
-A number of artists have been working with Google as a medium, and also
- investigating personalization, but not to this extent.
-\end_layout
-
-\begin_layout Subsection*
-Others Working in this area
-\end_layout
-
-\begin_layout Plain Layout
-At Transmediale 2010, F.A.T.
- lab initiated FuckGoogle, “a collection of browser add-ons, open source
- software, theoretical musings and direct actions aimed at creating an awareness
- of the role Google plays in our daily lives.”
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-\begin_inset Flex URL
-status collapsed
-
-\begin_layout Plain Layout
-
-http://fffff.at/fuck-google/
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
- One of the notable projects to come out of this eﬀort was Jamie Wilkinson’s
- Google Alarm extension for Firefox
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-\begin_inset Flex URL
-status collapsed
-
-\begin_layout Plain Layout
-
-http://jamiedubs.com/googlealarm/
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
+A number of artists & technologists have been working with Google as a medium
+ and also investigating personalization, but not I'm not aware of any who
+ have gone quite as in-depth as I have with 
+\emph on
+Everybody's Google
+\emph default
 .
- Whenever personal information is sent to Google servers through tracking
- cookies, an alarm horn sound clip is played over the user’s computer speakers,
- transforming a normally silent intrusion of privacy into an extremely visceral
- and prominent event.
- The project also elucidates the omni-presence of Google - Google is constantly
- tracking individual behavior in order to personalize the web (and to serve
- hyper-targeted advertisements.)
-\end_layout
-
-\begin_layout Plain Layout
-http://difference.theinfo.org/ - personalization
-\end_layout
-
-\begin_layout Plain Layout
-http://peep.non-standard.net/ - personalization
-\end_layout
-
-\begin_layout Plain Layout
-http://www.creativeapplications.net/scripts/google-the-first-google-image-for-ever
-y-word-in-the-dictionary/ - google as medium/appropriated
-\end_layout
-
+ Ben West & Felix Heyes' recent 
+\emph on
+Google
+\emph default
+ is a 1,240 page book of images containing the first Google Image Search
+ result for every word in the English dictionary and is a wonderful example
+ of using Google and the Internet as a medium.
+ Two projects recently came out of Rhizome's 
+\begin_inset Quotes eld
 \end_inset
 
+Seven on Seven
+\begin_inset Quotes erd
+\end_inset
 
+ event earlier this year, both addressing issues of personalization and
+ the multiplicity of digital life-worlds.
+ 
+\emph on
+Peep
+\emph default
+ by Xavier Cha & Anthony Volodkin allows you to recreate any other user's
+ Twitter feed and view the information they subscribe to.
+ 
+\emph on
+Cultural Differences
+\emph default
+ by Taryn Simon & Aaron Swartz allows website visitors to see the different
+ results returned by Google Image Search for various queries.
+ Both of these are interesting projects, but neither actually allows you
+ to truly experience the personalized web as another, authenticated user.
+ 
+\emph on
+Everybody's Google
+\emph default
+ is not recreating or simulating anything, it is able to show the actual,
+ real results and experience.
 \end_layout
 
 \begin_layout Subsection*
@@ -3106,36 +3067,15 @@ Ocular Character Recognition
 \end_layout
 
 \begin_layout Standard
-\begin_inset Note Comment
-status open
-
-\begin_layout Subsection*
-Others Working in this area
-\end_layout
-
-\begin_layout Plain Layout
-Aram Barthol did something related with his project Are you Human?
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-\begin_inset Flex URL
-status collapsed
-
-\begin_layout Plain Layout
-
-http://datenform.de/areyouhumaneng.html
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
- In essence, CAPTCHAs demonstrate the human intervention and cultural knowledge
- required to decipher signs of written language.
+In 2009, German artist Aram Bartholl performed a series of urban interventions
+ titled 
+\emph on
+Are you Human?
+\emph default
+ in which he created physical cutouts of CAPTCHA codes and installed them
+ on public walls amongst graffiti tags.
+ CAPTCHAs demonstrate the human cultural knowledge required to decipher
+ signs of written language.
  By placing physical CAPTCHAs on walls heavily covered by graﬃti tags, Barthol
  is making a connection from the process of deciphering and interpretation
  of digital signs to the signs used in graﬃti culture.
@@ -3143,57 +3083,74 @@ http://datenform.de/areyouhumaneng.html
  process itself.
  Similarly, CAPTCHAs signify not so much the underlying meaning of the word
  depicted, but rather the processes of scanning, distorting, and deciphering.
-\end_layout
-
-\begin_layout Plain Layout
-Finally, Bicycle Built for Two Thousand 
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-\begin_inset Flex URL
-status collapsed
-
-\begin_layout Plain Layout
-
-http://www.bicyclebuiltfortwothousand.com/info.html
-\end_layout
-
+ While Bartholl's work more clearly speaks to language & signs, as well
+ as the relatively new idea of relying upon computers to verify qualities
+ of one's 
+\begin_inset Quotes eld
 \end_inset
 
-
-\end_layout
-
+human-ness,
+\begin_inset Quotes erd
 \end_inset
 
- by Aaron Koblin and Daniel Massey is a great example of reintroducing the
- human element back into a computer’s representation culture.
- Users of Amazon’s Mechanical Turk recorded their interpretations sound
- clips from computer singing “Daisy Bell” (the ﬁrst song ever sung by a
- computer.) These samples were then combined together to reproduce the original
- track using human voices as opposed to computer synthesized sounds creating
- a human-ized version of a digital artifact.
-\end_layout
-
+ we are both interested in placing internet artifacts in physical or 
+\begin_inset Quotes eld
 \end_inset
 
+unnatural
+\begin_inset Quotes erd
+\end_inset
 
+ surroundings.
 \end_layout
 
 \begin_layout Standard
-This is a large topic, and I decided to focus on perhaps the most well-known,
- and most invasive/criticized aspect of this process: the Google Books Library
- Project.
+
+\emph on
+Bicycle Built for Two Thousand
+\emph default
+ by Aaron Koblin & Daniel Massey is another great example of appropriating
+ digital artifacts.
+ “Daisy Bell (Bicycle Built for Two)” was the ﬁrst song ever sung by a computer.
+ Koblin & Massey took the computer generated audio and split it into hundreds
+ of individual split-second sound clips.
+ These isolated clips were then distributed as micro-tasks to users of Amazon's
+ Mechanical Turk, who then used their computer microphone to reproduce the
+ sounds they heard.
+ These samples were then combined together to reproduce the original track
+ using human voices as opposed to computer synthesized sounds creating a
+ human-ized version of a digital rendition of a song.
+\end_layout
+
+\begin_layout Standard
+This topic of digitization is a very large one, and I decided to focus on
+ perhaps the most well-known, and most invasive/criticized aspect of this
+ process: the Google Books Library Project.
  Unbeknownst to them, most web users have not only encountered the project,
  but they have likely contributed to it as well through the usage of CAPTCHAs.
  As mentioned in the introduction to this paper, Google uses CAPTCHA tests
  to supplement the automated translations being performed as part of the
- Google Books Library Project's digitization processes.
- The project has also undergone heavy criticism for things like copyright
+ Google Books Library Project's digitization processes
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+The project has also undergone heavy criticism for things like copyright
  infringement as well as for promoting a type electronic colonialism (initially,
  the project only digitized western language books and magazines (predominately
  English) from a small set of US & European libraries.) However, since the
  program began, it has become much more inclusive of non-Western cultures.
+\end_layout
+
+\end_inset
+
+.
+ By solving a CAPTCHA, you're proving to a computer that you are a human.
+ It is a somewhat ironic situtation: we are granting computers total access
+ to create digital representations of our cultural artifacts.
+ And the process by which computers exploit human labour to digitize these
+ physical objects is the same process used to grant humans access to those
+ very same digital representations.
 \end_layout
 
 \begin_layout Standard
