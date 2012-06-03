@@ -949,7 +949,11 @@ cultural divide.
 
 \begin_layout Standard
 For my MFA thesis, I have a developed a pair of projects looking at these
- issues: Everybody's Google is an exploration of the multiple 
+ issues: 
+\emph on
+Everybody's Google
+\emph default
+ is an exploration of the multiple 
 \begin_inset Quotes eld
 \end_inset
 
@@ -998,13 +1002,20 @@ digital life-world.
 \end_inset
 
  presented by Google's search & personalization algorithms.
- Ocular Character Recognition investigates how we interact with and archive
- cultural artifacts, specifically the digital representations of traditional
- print media.
+ 
+\emph on
+Ocular Character Recognition
+\emph default
+ investigates how we interact with and archive cultural artifacts, specifically
+ the digital representations of traditional print media.
 \end_layout
 
 \begin_layout Standard
-Everybody's Google focuses on Google's search personalization algorithms.
+
+\emph on
+Everybody's Google
+\emph default
+ focuses on Google's search personalization algorithms.
  Google is profitable as a business because it makes money serving highly
  personalized advertisements
 \begin_inset Foot
@@ -1458,9 +1469,12 @@ book-ness
 \end_layout
 
 \begin_layout Standard
-My project Ocular Character Recognition examines some of these questions
- by appropriating and manipulating one of the key innovations which has
- made the Google Books Library Project
+My project 
+\emph on
+Ocular Character Recognition
+\emph default
+ examines some of these questions by appropriating and manipulating one
+ of the key innovations which has made the Google Books Library Project
 \begin_inset Foot
 status collapsed
 
@@ -1723,12 +1737,25 @@ r questions.
 \end_layout
 
 \begin_layout Standard
-For the MFA show, a number of works were shown - one for Everybody's Google;
- and three for Ocular Character Recognition.
+For the MFA show, a number of works were shown - one for 
+\emph on
+Everybody's Google
+\emph default
+; and three for 
+\emph on
+Ocular Character Recognition
+\emph default
+.
  The approach I have taken with my thesis work has been that the ideas themselve
-s constitute each project (the two projects being Everybody's Google and
- Ocular Character Recognition.) The software I have written is the manifestation
- of those ideas.
+s constitute each project (the two projects being 
+\emph on
+Everybody's Google
+\emph default
+ and 
+\emph on
+Ocular Character Recognition
+\emph default
+.) The software I have written is the manifestation of those ideas.
  Interacting with the corresponding websites (in a non-gallery setting)
  is the experience of those ideas.
  And the pieces shown at the MFA show were a condensation of those ideas.
@@ -1742,6 +1769,8 @@ s constitute each project (the two projects being Everybody's Google and
 \end_layout
 
 \begin_layout Part
+
+\emph on
 Everybody's Google
 \end_layout
 
@@ -1953,8 +1982,12 @@ key "StadlerMayer"
 \end_layout
 
 \begin_layout Standard
-Everybody's Google explores these ideas and systems by programmatically
- controlling a set of Google user accounts.
+
+\emph on
+Everybody's Google
+\emph default
+ explores these ideas and systems by programmatically controlling a set
+ of Google user accounts.
  In an effort to hyper-personalize their Google Search results, these accounts
  have been scripted to navigate the web biased towards specific cultural
  interests or political orientations.
@@ -1964,8 +1997,11 @@ Everybody's Google explores these ideas and systems by programmatically
 \end_layout
 
 \begin_layout Standard
-With Everybody's Google, I'm not showing a new way to view the digital world,
- but rather 
+With 
+\emph on
+Everybody's Google
+\emph default
+, I'm not showing a new way to view the digital world, but rather 
 \emph on
 revealing
 \emph default
@@ -2079,9 +2115,12 @@ Formal Description
 \end_layout
 
 \begin_layout Standard
-Everybody's Google is a piece of software which programmatically controls
- a set of Google user accounts and navigates them through the World Wide
- Web.
+
+\emph on
+Everybody's Google
+\emph default
+ is a piece of software which programmatically controls a set of Google
+ user accounts and navigates them through the World Wide Web.
  Four new Google accounts were created, each representing a particular set
  of stereotypes: a young man living in London who is interested in technology
  and gambling; a teenage girl from Atlanta interested in fashion, celebrities,
@@ -2307,9 +2346,13 @@ Technical description
 \end_layout
 
 \begin_layout Standard
-Everybody's Google began as a website and an accompanying plugin for the
- Chrome web browser which would allow anybody to transparently upload and
- compare their personal Google search results to those of all plugin users.
+
+\emph on
+Everybody's Google
+\emph default
+ began as a website and an accompanying plugin for the Chrome web browser
+ which would allow anybody to transparently upload and compare their personal
+ Google search results to those of all plugin users.
  The project was then refocused to create custom personas which could be
  controlled through code in order to maximize the potential variability
  in search results
@@ -2719,7 +2762,11 @@ inappropriate
 \begin_inset Quotes erd
 \end_inset
 
- search queries began entering the queue for Everybody's Google.
+ search queries began entering the queue for 
+\emph on
+Everybody's Google
+\emph default
+.
  I assumed it was a few students having fun with the site.
  However, the list grew and the submissions overloaded the server to the
  point that the site crashed a number of times.
@@ -2730,7 +2777,11 @@ status collapsed
 \begin_layout Plain Layout
 A user on KnowYourMeme.com (a popular website for generating, documenting,
  and discussing internet memes) had visited the show at UCSC the previous
- weekend and posted a message about Everybody's Google in their forums.
+ weekend and posted a message about 
+\emph on
+Everybody's Google
+\emph default
+ in their forums.
  That online community then began overloading the DANM web server.
  See original forum thread at 
 \begin_inset Flex URL
@@ -2866,6 +2917,8 @@ correct-ness
 \end_layout
 
 \begin_layout Part
+
+\emph on
 Ocular Character Recognition
 \end_layout
 
@@ -3016,9 +3069,12 @@ I'm taking the digital out of its element in order to explore how we value
 \end_layout
 
 \begin_layout Plain Layout
-At its heart, Ocular Character Recognition is about questioning the types
- of physical data and objects which we can search for and interact with
- in digital formats.
+At its heart, 
+\emph on
+Ocular Character Recognition
+\emph default
+ is about questioning the types of physical data and objects which we can
+ search for and interact with in digital formats.
  Some objects do not translate to a 2-dimensional, screen representation.
  Some things cannot be represented digitally, or reproduced on a screen.
  We can digitize things which appeal to our aural and visual senses, but
@@ -3042,12 +3098,16 @@ ng to materialize digital content and see the reverse process.
  format? Perhaps by doing this, we can gain any insight into the processes
  and changes which occur when transplanting artifacts from the physical
  realm to the virtual, or vice versa.
- This is the driving force behind my project Ocular Character Recognition.
+ This is the driving force behind my project 
+\emph on
+Ocular Character Recognition
+\emph default
+.
 \end_layout
 
 \begin_layout Standard
 \begin_inset Note Comment
-status collapsed
+status open
 
 \begin_layout Subsection*
 Others Working in this area
@@ -3137,13 +3197,23 @@ This is a large topic, and I decided to focus on perhaps the most well-known,
 \end_layout
 
 \begin_layout Standard
-I presented three projects under the umbrella of the Ocular Character Recognitio
-n project at the MFA show.
+I presented three projects under the umbrella of the 
+\emph on
+Ocular Character Recognition
+\emph default
+ project at the MFA show.
  These were largely experiments with materiality and exploring how we engage
  with the digital and the process of taking a digital artifact and presenting
  it in a physical form.
- Ocular Character Recognition consists of three separate, but related projects:
- Webpages for Humans - a series of prints of CAPTCHA-fied
+ 
+\emph on
+Ocular Character Recognition
+\emph default
+ consists of three separate, but related projects: 
+\emph on
+Webpages for Humans
+\emph default
+ - a series of prints of CAPTCHA-fied
 \begin_inset Foot
 status collapsed
 
@@ -3155,21 +3225,35 @@ CAPTCHA-fy is the term I use to distort text to the point where it become
 
 \end_inset
 
- webpages; CAPTCHA-fy! - handmade booklets expressing the underlying goals
- and ideas under the OCR umbrella (a manifesto); and The Serendipity Engine
+ webpages; 
+\emph on
+CAPTCHA-fy!
+\emph default
+ - handmade booklets expressing the underlying goals and ideas under the
+ OCR umbrella (a manifesto); and the 
+\emph on
+Serendipity Engine
+\emph default
  - a modified printer used to serendipitously dispense/produce CAPTCHA-fied
  pages from eBooks digitized through Google's book/library project.
 \end_layout
 
 \begin_layout Standard
-The title Ocular Character Recognition is a play on the term Optical Character
- Recognition (defined in the introduction.) However, as opposed to an optical
- process - one which deals primarily with light and its properties - an
- ocular process implies an emphasis on the human eye.
- Ocular Character Recognition tries to put the focus of digitization back
- on the human experience, and preserving human culture by reversing the
- process of digitization, defamiliarizing the familiar, and reclaiming the
- physical/claiming the digital.
+The title 
+\emph on
+Ocular Character Recognition
+\emph default
+ is a play on the term Optical Character Recognition (defined in the introductio
+n.) However, as opposed to an optical process - one which deals primarily
+ with light and its properties - an ocular process implies an emphasis on
+ the human eye.
+ 
+\emph on
+Ocular Character Recognition
+\emph default
+ tries to put the focus of digitization back on the human experience, and
+ preserving human culture by reversing the process of digitization, defamiliariz
+ing the familiar, and reclaiming the physical/claiming the digital.
 \end_layout
 
 \begin_layout Subsection*
@@ -3177,7 +3261,11 @@ Formal Description
 \end_layout
 
 \begin_layout Standard
-Webpages for Humans is meant to be encountered on the web.
+
+\emph on
+Webpages for Humans
+\emph default
+ is meant to be encountered on the web.
  It is a web application which generates the 
 \begin_inset Quotes eld
 \end_inset
@@ -3203,9 +3291,11 @@ See Figure 2
  be CAPTCHA-fied by the web server.
  However, as mentioned earlier in this paper, I have a strong aversion to
  showing digital works on a computer in a gallery setting.
- For this reason, I used the software & website developed for Webpages for
- Humans to create a series of digital prints using screenshots from the
- 
+ For this reason, I used the software & website developed for 
+\emph on
+Webpages for Humans
+\emph default
+ to create a series of digital prints using screenshots from the 
 \begin_inset Quotes eld
 \end_inset
 
@@ -3213,8 +3303,12 @@ Human Web.
 \begin_inset Quotes erd
 \end_inset
 
- The installation for Webpages for Humans consisted of a series of 5 digital
- prints suspended from the ceiling using monofilament.
+ The installation for 
+\emph on
+Webpages for Humans
+\emph default
+ consisted of a series of 5 digital prints suspended from the ceiling using
+ monofilament.
  These prints were generated by replacing the text on webpages with CAPTCHAs,
  transforming a digital document specifically designed for machine readability
  into a physical document which can no longer be "read" by a computer.
@@ -3323,9 +3417,23 @@ It has been brought to my attention that web pages are primarily created
 \end_layout
 
 \begin_layout Standard
-CAPTCHA-fy! served as the manifesto for the Ocular Character Recognition
- project, linking the concepts of Webpages for Humans and the Serendipity
- Engine to the ideas within the project as a whole.
+
+\emph on
+CAPTCHA-fy!
+\emph default
+ served as the manifesto for the 
+\emph on
+Ocular Character Recognition
+\emph default
+ project, linking the concepts of 
+\emph on
+Webpages for Humans
+\emph default
+ and the 
+\emph on
+Serendipity Engine
+\emph default
+ to the ideas within the project as a whole.
  Each manifesto was hand-made and hand-bound.
  The covers to the booklets were identical - each with the computer-generated
  
@@ -3416,14 +3524,25 @@ height "0.5pt"
 \end_layout
 
 \begin_layout Standard
-The Serendipity Engine consisted of a modified printer installed in the
- ceiling above the reading area.
- The printer would dispense individual CAPTCHA-fied pages from chapter seven
- of 
+The 
 \emph on
-Alice's Adventures in Wonderland,
+Serendipity Engine
 \emph default
- The Mad Tea Party.
+ consisted of a modified printer installed in the ceiling above the reading
+ area.
+ The printer would dispense individual CAPTCHA-fied pages from 
+\begin_inset Quotes eld
+\end_inset
+
+The Mad Tea Party,
+\begin_inset Quotes erd
+\end_inset
+
+ chapter seven of Lewis Carroll's book 
+\emph on
+Alice's Adventures in Wonderland
+\emph default
+.
  The pages were taken from Google's free eBook version of 
 \emph on
 Alice
@@ -3455,9 +3574,13 @@ ian.
 \end_layout
 
 \begin_layout Standard
-The printer mechanism for the Serendipity Engine was configured to dispense
- sheets of paper at set time intervals throughout the duration of the exhibition
- rather than making the piece reactive or responsive to some external stimulus.
+The printer mechanism for the 
+\emph on
+Serendipity Engine
+\emph default
+ was configured to dispense sheets of paper at set time intervals throughout
+ the duration of the exhibition rather than making the piece reactive or
+ responsive to some external stimulus.
  The title of the piece
 \begin_inset Foot
 status collapsed
@@ -3665,7 +3788,11 @@ https://github.com/jessefulton/captcha-servlet
 , but hosting issues made this a bit of a hassle.
  By using Javascript however, it was incredibly easy to embed this functionality
  in web browsers, which greatly simplified the HTML manipulation process
- for the Webpages for Humans
+ for the 
+\emph on
+Webpages for Humans
+\emph default
+
 \begin_inset Foot
 status collapsed
 
@@ -3709,12 +3836,20 @@ bookmark
 
 \end_inset
 
- version of the Webpages for Humans project.
+ version of the 
+\emph on
+Webpages for Humans
+\emph default
+ project.
 \end_layout
 
 \begin_layout Standard
 The JavaScript library was used to generate the cover image and some of
- the internal pages of the CAPTCHA-fy! booklets.
+ the internal pages of the 
+\emph on
+CAPTCHA-fy!
+\emph default
+ booklets.
  A High-res versions of the CAPTCHA-fied cover text was etched into a block
  of linoleum using a laser cutter.
  The images for the inner pages where laid out using Adobe InDesign and
@@ -3722,8 +3857,11 @@ The JavaScript library was used to generate the cover image and some of
 \end_layout
 
 \begin_layout Standard
-The code to run the printer for the Serendipity Engine is very straightforward,
- but is not available online.
+The code to run the printer for the 
+\emph on
+Serendipity Engine
+\emph default
+ is very straightforward, but is not available online.
  A printer was dismantled until just the document tray, rollers, and motor
  were still intact.
  An arduino was connected to the printer's DC motor and was used to run
@@ -3925,8 +4063,11 @@ normal
 
 \begin_layout Standard
 Interaction with the pieces at the show was less than I had hoped.
- A few people interacted with Everybody's Google, but far less than I had
- expected.
+ A few people interacted with 
+\emph on
+Everybody's Google
+\emph default
+, but far less than I had expected.
  Part of this may be due to the fact that cell phone reception was not very
  good in the building.
  I decided not to set up a separate wifi network for the project despite
@@ -3948,10 +4089,21 @@ ebsites.
 \end_layout
 
 \begin_layout Standard
-CAPTCHA-fy! and the Serendipity Engine received mixed responses.
+
+\emph on
+CAPTCHA-fy!
+\emph default
+ and the 
+\emph on
+Serendipity Engine
+\emph default
+ received mixed responses.
  Because of the limited available space in the printer mechanism and the
- long duration of the show, the Serendipity Engine only dispensed paper
- roughly ever eight minutes.
+ long duration of the show, the 
+\emph on
+Serendipity Engine
+\emph default
+ only dispensed paper roughly ever eight minutes.
  I did not witness anybody remaining in the hallway area for more than eight
  minutes at a time, so it was in fact extremely serendipitous when a sheet
  fell from the ceiling and 
@@ -3970,14 +4122,25 @@ reading area
  over which it was installed was very simple and visually unassuming.
  I believe this was a large factor in why most people did not even seem
  to notice it.
- The pages from the Serendipity Engine did accumulate on the floor, but
- people tended to either ignore them, or thought that they had been knocked
- over, and stacked them together into a neat pile on top of the CAPTCHA-fy!
+ The pages from the 
+\emph on
+Serendipity Engine
+\emph default
+ did accumulate on the floor, but people tended to either ignore them, or
+ thought that they had been knocked over, and stacked them together into
+ a neat pile on top of the 
+\emph on
+CAPTCHA-fy!
+\emph default
  booklets.
  This created two problems: first, the next time a page fell unnoticed to
  the ground, the next visitor would pick it up and place it on the now-stacked
  pile of previous pages; second, the pile was placed on the footstool, on
- top of the CAPTCHA-fy! booklets, essentially rendering them invisible.
+ top of the 
+\emph on
+CAPTCHA-fy!
+\emph default
+ booklets, essentially rendering them invisible.
  There were a series of booklets along the window sill, but without the
  context of a series of 4 or 5 clearly marked as 
 \begin_inset Quotes eld
@@ -3993,11 +4156,21 @@ DANM Copies
 status collapsed
 
 \begin_layout Plain Layout
-The pages from the Serendipity Engine and the CAPTCHA-fy! booklets were
- intended to be takeaways.
+The pages from the 
+\emph on
+Serendipity Engine
+\emph default
+ and the 
+\emph on
+CAPTCHA-fy!
+\emph default
+ booklets were intended to be takeaways.
  From my estimates, slightly more than half of the booklets were taken,
- and slightly less than half of the Serendipity Engine pages were taken
- (or possibly thrown away.)
+ and slightly less than half of the 
+\emph on
+Serendipity Engine
+\emph default
+ pages were taken (or possibly thrown away.)
 \end_layout
 
 \end_inset
@@ -4519,7 +4692,11 @@ Appendix
 \end_layout
 
 \begin_layout Section
-Everybody's Google Personas
+
+\emph on
+Everybody's Google
+\emph default
+ Personas
 \end_layout
 
 \begin_layout Standard
@@ -5240,6 +5417,8 @@ Github Projects
 \end_layout
 
 \begin_layout Subsection*
+
+\emph on
 Everybody's Google
 \end_layout
 
@@ -5283,7 +5462,9 @@ https://github.com/jessefulton/google-views
 \end_layout
 
 \begin_layout Subsection*
-OCR
+
+\emph on
+Ocular Character Recognition
 \end_layout
 
 \begin_layout Standard
@@ -6083,7 +6264,11 @@ The digital makes the distribution and production on a massive scale almost
 \end_layout
 
 \begin_layout Plain Layout
-Webpages for Humans questions our notion of archiving and digital culture.
+
+\emph on
+Webpages for Humans
+\emph default
+ questions our notion of archiving and digital culture.
  Physical objects -> digital representations -> ? What happens to the digital
  representations.
  People forget about the physicality of the digital - web sites and data
@@ -6163,8 +6348,12 @@ Google Books project & reCAPTCHA...
 The webpages we view are visual representations of an underlying structure,
  and underlying code, syntax, and semantics.
  A parser/interpreter takes codes and turns it into a visual form.
- Webpages for Humans manipulates both of these forms simultaneously in replacing
- the machine-readable text, both in the presentation layer 
+ 
+\emph on
+Webpages for Humans
+\emph default
+ manipulates both of these forms simultaneously in replacing the machine-readabl
+e text, both in the presentation layer 
 \series bold
 and
 \series default
