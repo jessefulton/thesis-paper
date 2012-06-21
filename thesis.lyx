@@ -375,9 +375,16 @@ LatexCommand tableofcontents
 status open
 
 \begin_layout Quote
-"I believe that a democratic society is not and cannot be a community, where
+\begin_inset Quotes eld
+\end_inset
+
+I believe that a democratic society is not and cannot be a community, where
  by a community I mean a body of persons united in affirming the same comprehens
-ive or partially comprehensive doctrine."
+ive or partially comprehensive doctrine.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Quote
@@ -1122,9 +1129,10 @@ End users have little to no control over how Google is evaluating reults
  for search queries.
  The items which are selected and the order in which they appear are controlled
  by algorithms, invisible to the user.
- And because they are classified as trade secrets, Google has no reason
- to disclose how they work; what information they are collecting and analyzing;
- or how certain behaviours affect Google (personalized) search rankings.
+ And because they are classified as trade secrets, Google has no responsibility
+ or reason to disclose how they work; what information they are collecting
+ and analyzing; or how certain behaviours affect Google (personalized) search
+ rankings.
  These algorithms are executed in a black box
 \begin_inset Foot
 status collapsed
@@ -1138,10 +1146,18 @@ A black box is a system in which the input and output are transparent and
 
 , making it impossible for outsiders to gain a true understanding of the
  filtering and selection process.
- "Personalization renders search engines practically immune to systematic
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Personalization renders search engines practically immune to systematic
  critical evaluation because it is becoming unclear whether the (dis)appearance
  of a source is a feature (personalization done right) or a bug (censorship
- or manipulation.)"
+ or manipulation.)
+\begin_inset Quotes erd
+\end_inset
+
+
 \begin_inset Foot
 status open
 
@@ -1499,7 +1515,15 @@ http://www.google.com/googlebooks/library.html
  like sign up for an account on a website or post a comment in an Internet
  forum.
  They're used to prevent spam by determining if the user of a site is a
- human, or a computer program (often referred to as a "bot.")
+ human, or a computer program (often referred to as a 
+\begin_inset Quotes eld
+\end_inset
+
+bot.
+\begin_inset Quotes erd
+\end_inset
+
+)
 \begin_inset Foot
 status collapsed
 
@@ -1592,9 +1616,16 @@ Optical Character Recognition
 
 \end_inset
 
- software is used to "read" and convert the scanned pages from images to
- machine-encoded text, creating a machine-searchable and indexable copy
- of the physical book in the process.
+ software is used to 
+\begin_inset Quotes eld
+\end_inset
+
+read
+\begin_inset Quotes erd
+\end_inset
+
+ and convert the scanned pages from images to machine-encoded text, creating
+ a machine-searchable and indexable copy of the physical book in the process.
  However, the OCR algorithms occasionally fail due to scan irregularities,
  low print quality, or similar problems.
  When this happens, the only way to decipher these portions of the digital
@@ -1614,10 +1645,24 @@ status collapsed
 
 \begin_layout Plain Layout
 A CAPTCHA served from the reCAPTCHA service consists of two text-based images:
- a word which could not be deciphered by OCR software (the "unknown" word);
- and a second word which the OCR software could decipher (the "known" word.)
- The user is then prompted to type in both words, with the assumption being
- that if the known word is correctly identified, then the identification
+ a word which could not be deciphered by OCR software (the 
+\begin_inset Quotes eld
+\end_inset
+
+unknown
+\begin_inset Quotes erd
+\end_inset
+
+ word); and a second word which the OCR software could decipher (the 
+\begin_inset Quotes eld
+\end_inset
+
+known
+\begin_inset Quotes erd
+\end_inset
+
+ word.) The user is then prompted to type in both words, with the assumption
+ being that if the known word is correctly identified, then the identification
  of the unknown word is also likely to be correct.
  This human translation for the unknown word is then added to the original
  OCR translation.
@@ -1815,7 +1860,7 @@ The Library of Babel
  An overwhelmingly massive library of information is unusable without being
  able to filter out the useful from the useless, the genius from the insane,
  the insightful from the nonsense.
- To make user of the information, one must possess the ability to find the
+ To make use of the information, one must possess the ability to find the
  desired information as well as the ability to discover new information.
 \end_layout
 
@@ -1872,11 +1917,19 @@ http://www.loc.gov/webarchiving/faq.html#faqs_05
 In their simplest form, search engines store a copy of every page on the
  Internet and return a ranked list of the most relevant pages from its database
  based upon text-based queries.
- "If Herbert Simon was right in 1971 when he declared attention a scarce
- resource consumed by an overabundance of information, we have to recognize
- that ranking is not only very useful but also inevitable...
+ 
+\begin_inset Quotes eld
+\end_inset
+
+If Herbert Simon was right in 1971 when he declared attention a scarce resource
+ consumed by an overabundance of information, we have to recognize that
+ ranking is not only very useful but also inevitable...
  Any system of ranking will favor certain sites over others; the question
- is which ones."
+ is which ones.
+\begin_inset Quotes erd
+\end_inset
+
+
 \begin_inset Foot
 status open
 
@@ -1952,7 +2005,15 @@ However, search engines have become much more complex since their inception.
  One integral innovation to Google's algorithms has been search personalization.
  Google tracks user behaviours on its own sites, as well as on external
  websites through the use of various embedded widgets.
- They use this information to generate "user interest" models.
+ They use this information to generate 
+\begin_inset Quotes eld
+\end_inset
+
+user interest
+\begin_inset Quotes erd
+\end_inset
+
+ models.
  These inferred data models are then used to personalize Google Search,
  prioritizing results which its personalization algorithms deem relevant
  to each individual user.
@@ -1972,9 +2033,18 @@ loss of autonomy...
 \end_inset
 
 
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
 \begin_inset CommandInset citation
 LatexCommand citet
 key "StadlerMayer"
+
+\end_inset
+
+
+\end_layout
 
 \end_inset
 
@@ -2005,9 +2075,9 @@ Everybody's Google
 \emph on
 revealing
 \emph default
- the way the it actually is (or the multiple ways in which it's presented.)
- This project demonstrates that there is a black box, and it is not empty
- - there is a very complex process taking place within it.
+ the way it actually is (or the multiple ways in which it's presented.) This
+ project demonstrates that there is a black box, and it is not empty - there
+ is a very complex process taking place within it.
  While we can see the outcome, the process is hidden.
  Whenever information goes into this black box, 
 \begin_inset Quotes eld
@@ -2019,15 +2089,15 @@ personalized
 
  data comes out.
  Each time Google applies a personalization algorithm (not just in search,
- but also in ads, news feeds, and youtube suggestions), they're making assumptio
+ but also in ads, news feeds, and YouTube suggestions), they're making assumptio
 ns about individuals and using these judgements to direct their digital
  world view.
 \end_layout
 
 \begin_layout Standard
 A number of artists & technologists have been working with Google as a medium
- and also investigating personalization, but not I'm not aware of any who
- have gone quite as in-depth as I have with 
+ and also investigating personalization, but I'm not aware of any who have
+ gone quite as in-depth as I have with 
 \emph on
 Everybody's Google
 \emph default
@@ -2146,7 +2216,7 @@ seed
 
  URLs were chosen because they use one or both of Google Analytics or Google
  AdSense.
- Simply having these tools are present on a web page allows Google to collect
+ Simply having these tools present on a web page allows Google to collect
  information about users.
 \end_layout
 
@@ -2161,7 +2231,7 @@ nts, present relevant news information, and personalize search results.
 \end_layout
 
 \begin_layout Standard
-The specific character interests (defined by their subscribed urls) were
+The specific character interests (defined by their subscribed URLs) were
  intentionally chosen to get a diverse set of search results for a wide
  variety of searches.
  The websites chosen generally have specific political leanings or serve
@@ -2530,7 +2600,7 @@ seed
 \end_inset
 
  URL.
- It would then select specific links on that page (i.e.., only links in the
+ It would then select specific links on that page (i.e., only links in the
  
 \begin_inset Quotes eld
 \end_inset
@@ -2572,7 +2642,7 @@ search
  script would execute a Google search query as the logged in user, and then
  save the search results to a database.
  Whenever these processes completed, they'd fire off a series of events
- which would begin the image manipulation & generation required for the
+ which would begin the image manipulation and generation required for the
  data visualization.
 \end_layout
 
@@ -3079,8 +3149,8 @@ Are you Human?
  By placing physical CAPTCHAs on walls heavily covered by graﬃti tags, Barthol
  is making a connection from the process of deciphering and interpretation
  of digital signs to the signs used in graﬃti culture.
- A graﬃti tag is a sign for tagger as well a a representation of the tagging
- process itself.
+ A graﬃti tag is a sign for graffiti tagger as well a a representation of
+ the tagging process itself.
  Similarly, CAPTCHAs signify not so much the underlying meaning of the word
  depicted, but rather the processes of scanning, distorting, and deciphering.
  While Bartholl's work more clearly speaks to language & signs, as well
@@ -3268,7 +3338,15 @@ Webpages for Humans
  monofilament.
  These prints were generated by replacing the text on webpages with CAPTCHAs,
  transforming a digital document specifically designed for machine readability
- into a physical document which can no longer be "read" by a computer.
+ into a physical document which can no longer be 
+\begin_inset Quotes eld
+\end_inset
+
+read
+\begin_inset Quotes erd
+\end_inset
+
+ by a computer.
 \end_layout
 
 \begin_layout Standard
@@ -3367,8 +3445,8 @@ It has been brought to my attention that web pages are primarily created
  of the underlying code.
  The CAPTCHA-fication process is not simply replacing text with images on
  a web page, it fundamentally changes the underlying markup of the HTML
- pages in a way such that not only is the code itself is unreadable, but
- it's visual representation (or rendering) is as well.
+ pages in a way such that not only is the code itself unreadable, but its
+ visual representation (or rendering) is as well.
  And it is done in such a way that it can no longer be deciphered by OCR
  processes.
 \end_layout
@@ -3742,7 +3820,7 @@ https://github.com/jessefulton/captcha-servlet
 
 \end_inset
 
-, but hosting issues made this a bit of a hassle.
+, but hosting issues made this unrealistic.
  By using Javascript however, it was incredibly easy to embed this functionality
  in web browsers, which greatly simplified the HTML manipulation process
  for the 
@@ -3770,8 +3848,18 @@ https://github.com/jessefulton/webpages-for-humans
 \end_inset
 
  project.
- The server was able to inject the JavaScript classes into any webpage,
- using CasperJS scripts.
+ 
+\begin_inset Note Comment
+status open
+
+\begin_layout Plain Layout
+EXPLAIN THIS MORE CLEARLY
+\end_layout
+
+\end_inset
+
+The server was able to inject the JavaScript classes into any webpage, using
+ CasperJS scripts.
  Writing the library in JavaScript also made it trivial to create a bookmarklet
 \begin_inset Foot
 status collapsed
@@ -3807,8 +3895,8 @@ The JavaScript library was used to generate the cover image and some of
 CAPTCHA-fy!
 \emph default
  booklets.
- A High-res versions of the CAPTCHA-fied cover text was etched into a block
- of linoleum using a laser cutter.
+ A high-resolution version of the CAPTCHA-fied cover text was etched into
+ a block of linoleum using a laser cutter.
  The images for the inner pages where laid out using Adobe InDesign and
  then copied at a low-quality setting on a standard Xerox machine.
 \end_layout
@@ -3821,10 +3909,19 @@ Serendipity Engine
  is very straightforward, but is not available online.
  A printer was dismantled until just the document tray, rollers, and motor
  were still intact.
- An arduino was connected to the printer's DC motor and was used to run
- the motor (and feed out sheets of paper) at standard time intervals, The
- prints were generated by another set of scripts using the node-captchafy
- library
+ An arduino
+\begin_inset Note Comment
+status open
+
+\begin_layout Plain Layout
+capitalize? EXPLAIN MORE CLEARLY
+\end_layout
+
+\end_inset
+
+ was connected to the printer's DC motor and was used to run the motor (and
+ feed out sheets of paper) at standard time intervals, The prints were generated
+ by another set of scripts using the node-captchafy library
 \begin_inset Foot
 status collapsed
 
@@ -4060,7 +4157,7 @@ Serendipity Engine
 \emph on
 Serendipity Engine
 \emph default
- only dispensed paper roughly ever eight minutes.
+ only dispensed paper roughly every eight minutes.
  I did not witness anybody remaining in the hallway area for more than eight
  minutes at a time, so it was in fact extremely serendipitous when a sheet
  fell from the ceiling and 
@@ -4318,7 +4415,7 @@ key "Benjamin"
 
 \end_inset
 
- However, the near-real-time data-transmission made possible by Internet
+ However, the near-real-time data-transmission made possible by the Internet
  collapses our ideas of space and time.
  
 \begin_inset Quotes eld
@@ -4367,9 +4464,33 @@ I have ideas which are compelling to me, and questions I try to grapple
  Although I have primarily produced software for these projects, code is
  not the only form in which I see these ideas manifesting.
  I'm more concerned with processes and systems than I am with objects, but
- social constructs inform us to focus on the isolated object of contemplation
- when inside a gallery.
- This is not the intension with the software I have written, but rather
+ social constructs inform
+\begin_inset Note Comment
+status open
+
+\begin_layout Plain Layout
+\begin_inset Quotes eld
+\end_inset
+
+tell
+\begin_inset Quotes erd
+\end_inset
+
+, 
+\begin_inset Quotes eld
+\end_inset
+
+force
+\begin_inset Quotes erd
+\end_inset
+
+, something more forceful, lack of control
+\end_layout
+
+\end_inset
+
+ us to focus on the isolated object of contemplation when inside a gallery.
+ This is not the intention with the software I have written, but rather
  than fight those constructs, I've experimented with them and created physical
  objects and images for the MFA show.
  The goal was to condense the ideas into forms which could later expand
@@ -4504,6 +4625,16 @@ As dependence on digital interfaces and software grows, these issues will
 \emph on
 exception culturelle
 \emph default
+
+\begin_inset Note Comment
+status open
+
+\begin_layout Plain Layout
+FOOTNOTE!
+\end_layout
+
+\end_inset
+
  clause, it is important to 
 \begin_inset Quotes eld
 \end_inset
@@ -4549,7 +4680,7 @@ Nobody owns the web, yet is inherently a privatized public space.
  Public in the sense that the majority of sites do not have barriers to
  entry (such as subscription-based sites) but private in the sense that
  at some point in the process of visiting a website, a private corporation
- will become a method of data transport - whether it is the site & server
+ will become a method of data transport - whether it is the site and server
  itself, the Internet Service Provider, or the companies maintaining the
  hardware infrastructure underlying it all.
  As long as the web remains private, there is a lack of accountability,
@@ -4607,7 +4738,7 @@ http://www.google.com/ads/preferences/html/about.html
 
  (but there have also been a few missteps
 \begin_inset Foot
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Flex URL
@@ -4626,8 +4757,9 @@ s-and-the-end-of-the-anonymous-internet/2012/01/25/gIQAtZuUQQ_blog.html
 
 \end_inset
 
-.) The great thing about working in software and using the Internet as a
- medium is that it is constantly changing, sometimes from a day-to-day basis.
+).
+ The great thing about working in software and using the Internet as a medium
+ is that it is constantly changing, sometimes from a day-to-day basis.
  What I've done in the past year may be irrelevant next month, at which
  point, I will adapt and learn to think about and address a whole new set
  of issues and ideas.
@@ -6156,9 +6288,16 @@ As digital technologies become increasingly ubiquitous and accessible, digital
  guaranteeing equal access for all, to all, the fact that our Internet experienc
 e is mediated almost exclusively through privatized companies, is inherently
  undemocratic.
- In order to provide "relevant" information to individual users (and increase
- revenues), companies like Google and Amazon filter content and information
- through black box algorithms.
+ In order to provide 
+\begin_inset Quotes eld
+\end_inset
+
+relevant
+\begin_inset Quotes erd
+\end_inset
+
+ information to individual users (and increase revenues), companies like
+ Google and Amazon filter content and information through black box algorithms.
  End users have little to no control over which items or information are
  shown to them, or in what order; and because these algorithms are trade
  secrets, users also cannot have an understanding of the filtering and selection
